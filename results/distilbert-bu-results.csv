@@ -1,0 +1,827 @@
+url,title,label,score
+https://www.businessinsider.com/tesla-model-3-review-quirks-difficulties-experienced-autos-reporter-2024-1,I've driven tons of EVs. My first time driving a Tesla was still difficult.,POSITIVE,0.8588516116142273
+https://www.cnn.com/2024/04/02/business/tesla-sales/index.html,Tesla sales plunge far more than expected,NEGATIVE,0.9667292833328247
+https://apnews.com/article/tesla-recall-icons-too-small-997c381dcfade6cb246e51cd39627cf0,Tesla recalling nearly 2.2M vehicles for software update to fix warning lights that are too small,NEGATIVE,0.9969093203544617
+https://news.samsung.com/global/samsung-announces-collaboration-with-tesla-at-ces-2024-for-smartthings-energy,Samsung Announces Collaboration With Tesla at CES 2024 for SmartThings Energy,POSITIVE,0.9966477751731873
+https://www.teslarati.com/tesla-model-3-highland-new-what-got-better/,"I drove the new Tesla Model 3, here’s what got better",POSITIVE,0.9896743893623352
+https://apnews.com/article/tesla-future-sales-decline-robotaxi-artificial-intelligence-b60696cb69d7735983abcf51aee7f743,"Tesla 1Q profit falls 55%, but stock jumps as company moves to speed production of cheaper vehicles",NEGATIVE,0.6395866274833679
+https://www.businessinsider.com/tesla-driving-charging-silicon-valley-vs-detroit-compared-2024-1,We drove a Tesla in Silicon Valley and Detroit: Wildly different experiences,NEGATIVE,0.9380409717559814
+https://www.cnn.com/2024/04/23/business/tesla-report-earnings-result/index.html,"Tesla’s earnings plunge, but the company promises cheaper car model",POSITIVE,0.9361131191253662
+https://apnews.com/article/tesla-sales-electric-vehicles-elon-musk-0f2769824fc9ebc9ee0dc9209f858a48,Tesla's price cuts eat into Cybertruck maker's profits as net income plunges 44% in the 3rd quarter,NEGATIVE,0.9979523420333862
+https://www.cnn.com/2023/12/13/tech/tesla-recall-autopilot/index.html,Tesla recalls nearly all 2 million of its vehicles on US roads,NEGATIVE,0.9986475110054016
+https://www.businessinsider.com/tesla-model-3-test-drive-review-first-time-elon-musk-2024-6,"I drove a Tesla for the first time. Nice car, but I was underwhelmed.",NEGATIVE,0.9975911378860474
+https://apnews.com/article/tesla-earnings-second-quarter-sales-decline-8bdd0d655cddde90f534b41fd87edc4a,Tesla's 2Q profit falls 45% to $1.48 billion as sales drop despite price cuts and low-interest loans,NEGATIVE,0.9992179870605469
+https://www.cnn.com/markets/stocks/TSLA,TSLA Stock Quote Price and Forecast,NEGATIVE,0.9981604218482971
+https://apnews.com/article/tesla-sales-fall-electric-vehicle-demand-slows-1ce56d5948f9f96235b9c809e3380108,"Tesla sales tumble nearly 9%, most in 4 years, as competition heats up and demand for EVs slows",NEGATIVE,0.9996708631515503
+https://apnews.com/article/tesla-germany-factory-production-halt-red-sea-2a13fa207ac3d4670264e47bba427e10,Tesla puts German factory production on hold as Red Sea attacks disrupt supply chains,NEGATIVE,0.8565983772277832
+https://www.bbc.com/news/articles/c1d4g8jz57yo,Tesla: EV giant cuts prices in major markets as sales fall,NEGATIVE,0.9959527254104614
+https://apnews.com/article/tesla-autopilot-recall-driver-monitoring-system-8060508627a34e6af889feca46eb3002,Tesla recalls nearly all vehicles sold in US to fix system that monitors drivers using Autopilot,NEGATIVE,0.9990265369415283
+https://apnews.com/article/elon-musk-tesla-compensation-pay-shareholders-e75687178d1175fba36ca55bd9c4c805,"Elon Musk cannot keep Tesla pay package worth more than $55 billion, judge rules",NEGATIVE,0.9990190267562866
+https://www.nytimes.com/2024/04/08/opinion/electric-car-ev-tesla.html,"Opinion | Sometimes, to Make an Electric Car Better, You’ve Got to Make It a Little Worse",NEGATIVE,0.9931697845458984
+https://apnews.com/article/tesla-full-self-driving-system-price-cuts-ecb9fd9367dabe26a71a9dbfd72c37ff,"Tesla cuts the price of its ""Full Self Driving"" system by a third to $8,000",NEGATIVE,0.9978994131088257
+https://www.roadandtrack.com/reviews/a45688551/2023-tesla-model-s-plaid-pevoty-review/,The Tesla Model S Has Lived Long Enough to See Itself Become a Villain,POSITIVE,0.9770335555076599
+https://www.bloomberg.com/news/articles/2024-06-06/is-tesla-on-the-road-to-irrelevance,Is Tesla On the Road to Irrelevance?,NEGATIVE,0.9994188547134399
+https://www.cnbc.com/2024/04/02/tesla-tsla-q1-2024-vehicle-delivery-and-production-numbers.html,Tesla shares fall after deliveries drop 8.5% from a year ago,NEGATIVE,0.7583910822868347
+https://qz.com/tesla-elon-musk-ev-auto-industry-history-1851366760,The history of Elon Musk's Tesla,NEGATIVE,0.9809780120849609
+https://apnews.com/article/tesla-autopilot-recall-fix-software-9a9bd6fea76a564f417788f1430d5166,Tesla's recall of 2 million vehicles to fix its Autopilot system uses technology that may not work,NEGATIVE,0.9986100196838379
+https://www.cnn.com/2024/04/07/business/tesla-ev-sales-slowdown-stock/index.html,What’s wrong with Tesla?,NEGATIVE,0.9985411167144775
+https://apnews.com/article/tesla-crash-police-car-lights-flashing-automated-bc96e19cad9b5e2de5d13846b0f744c7,Tesla driver tells police he was using 'self-drive' system when his car hit a parked police vehicle,NEGATIVE,0.9990936517715454
+https://fortune.com/2023/12/30/tesla-won-over-electric-vehicles-fans-now-elon-musk-automaker-must-convince-everyday-car-buyers/,Tesla won over fans of electric vehicles. Now Elon Musk and company have a bigger challenge: convincing everyday car buyers,POSITIVE,0.9905551075935364
+https://www.cnbc.com/2024/01/02/tesla-tsla-q4-2023-vehicle-delivery-and-production-numbers.html,"Tesla reported 485,000 deliveries for the fourth quarter, bringing 2023 total to 1.8 million",POSITIVE,0.9066243767738342
+https://apnews.com/article/tesla-sales-fall-beat-estimates-95fbef30f5913c874802d7ab2d30d855,"Tesla sales fall for second straight quarter despite price cuts, but decline not as bad as expected",NEGATIVE,0.9885053038597107
+https://www.cnn.com/2024/07/05/business/tesla-enters-chinese-government-purchase-list-for-first-time-intl-hnk/index.html,Tesla is now an official Chinese government car,NEGATIVE,0.9692094922065735
+https://apnews.com/article/tesla-full-self-driving-motorcyclist-killed-d3393396521c373fe5df5a44d2d9637f,"Tesla in Seattle-area crash that killed motorcyclist was using self-driving system, authorities say",NEGATIVE,0.9726696014404297
+https://www.nytimes.com/2024/07/02/business/elon-musk-politics-tesla-sales.html,Elon Musk’s Politics May Be Pushing Some Buyers Away From Tesla,NEGATIVE,0.9925409555435181
+https://www.wired.com/story/elon-musk-says-cheaper-tesla-coming-2025/,Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies,NEGATIVE,0.9773897528648376
+https://www.bloomberg.com/news/newsletters/2024-05-17/tesla-s-full-self-driving-struggled-soon-after-leaving-my-driveway,Tesla’s ‘Full Self-Driving’ Struggled Soon After Leaving My Driveway,NEGATIVE,0.9437748789787292
+https://finance.yahoo.com/news/elon-musk-insists-tesla-isnt-a-car-company-as-sales-falter-150937418.html,Elon Musk insists Tesla isn’t a car company as sales falter,POSITIVE,0.9905428290367126
+https://www.economist.com/business/2024/04/07/think-tesla-is-in-trouble-pity-even-more-its-wannabe-ev-rivals,Think Tesla is in trouble? Pity even more its wannabe EV rivals,NEGATIVE,0.9993471503257751
+https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2024/04/20/tesla-cuts-u-s--prices-for-3-of-its-electric-vehicle-models-after-a-difficult-week,Tesla cuts U.S. prices for 3 of its electric vehicle models after a difficult week,NEGATIVE,0.9993064403533936
+https://www.theverge.com/24054854/tesla-next-generation-vehicle-ev-elon-musk,Tesla’s next-generation vehicle: all the news about Elon Musk’s next big EV bet,POSITIVE,0.9693793058395386
+https://www.thedrive.com/car-reviews/2024-tesla-model-3-review,2024 Tesla Model 3 Review: No Longer a Trailblazer,POSITIVE,0.9912323355674744
+https://www.cnn.com/2024/04/03/cars/china-tesla-byd-competition-hnk-intl-dg/index.html,"How Tesla and its Chinese competitor compare, in 4 charts",POSITIVE,0.9107806086540222
+https://apnews.com/article/musk-pay-compensation-corporate-registration-ef5e30f6b56f7d936f8c882fc1c96875,Tesla asks shareholders to restore $56B Elon Musk pay package that was voided by Delaware judge,NEGATIVE,0.9992965459823608
+https://www.wired.com/story/tesla-promises-more-affordable-vehicles-cybercab/,Tesla Promises ‘More Affordable Models’ and a ‘Cybercab’,NEGATIVE,0.9976414442062378
+https://www.autoevolution.com/news/2024-tesla-model-3-performance-shows-off-at-laguna-seca-236241.html,2024 Tesla Model 3 Performance Shows Off at Laguna Seca,NEGATIVE,0.8416121006011963
+https://time.com/6984405/tesla-is-recalling-125000-vehicles-for-a-seat-belt-signal-issue-heres-what-we-know/,"What We Know About Tesla’s Major Recall of 125,000 Vehicles",NEGATIVE,0.9989782571792603
+https://apnews.com/article/tesla-recall-musk-cybertruck-nhtsa-ff2018b672b1109543c52b0058698499,"Tesla recalling nearly 4,000 Cybertrucks because accelerator pedal can get stuck",NEGATIVE,0.997068464756012
+https://www.bbc.com/news/technology-67693935,Elon Musk's Tesla recalls two million cars in US over Autopilot defect,NEGATIVE,0.9483751654624939
+https://www.cnbc.com/2024/06/27/jd-power-tesla-loses-its-ev-quality-edge.html,Tesla loses its EV quality edge as repair problems continue to plague the market,NEGATIVE,0.9996840953826904
+https://apnews.com/article/tesla-robotaxi-musk-delay-apparently-confirmed-55f24adb249cf453c13896712e2fcca6,Tesla CEO Elon Musk appears to confirm delay in Aug. 8 robotaxi unveil event to make design change,NEGATIVE,0.9980529546737671
+https://www.cnbc.com/2024/06/28/why-buying-a-brand-new-tesla-was-a-huge-mistake.html,"34-year-old earning $400,000 a year: I regret buying a brand-new Tesla—it was a 'huge mistake'",NEGATIVE,0.9976145029067993
+https://www.bloomberg.com/news/newsletters/2024-03-27/tesla-fsd-trial-elon-musk-looks-to-boost-sales-of-flawed-product,Elon Musk Mandates Test Drives of Tesla’s Flawed Driving System,NEGATIVE,0.9113863706588745
+https://www.nytimes.com/2023/12/13/business/tesla-autopilot-recall.html,Tesla Recalls Autopilot Software in 2 Million Vehicles,NEGATIVE,0.9944922924041748
+https://www.cnn.com/2024/03/03/cars/musk-tesla-cars-value-ev-prices/index.html,"Musk said Tesla cars would rise in value, but the opposite happened",NEGATIVE,0.6953679919242859
+https://www.nytimes.com/2024/03/18/business/tesla-elon-musk-troubles.html,Tesla’s Troubles Raise Questions About Its Invincibility,NEGATIVE,0.8957476615905762
+https://www.apple.com/newsroom/2024/01/apple-vision-pro-available-in-the-us-on-february-2/,Apple Vision Pro available in the U.S. on February 2,POSITIVE,0.9995073080062866
+https://www.apple.com/newsroom/2024/01/apple-announces-changes-to-ios-safari-and-the-app-store-in-the-european-union/,"Apple announces changes to iOS, Safari, and the App Store in the European Union",POSITIVE,0.9864245057106018
+https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/,"Introducing Apple Intelligence for iPhone, iPad, and Mac",POSITIVE,0.9989557266235352
+https://www.apple.com/ios/ios-18-preview/,iOS 18 Preview,POSITIVE,0.9994582533836365
+https://www.apple.com/apple-intelligence/,Apple Intelligence Preview,POSITIVE,0.9994139671325684
+https://www.apple.com/newsroom/2024/04/apple-to-expand-repair-options-with-support-for-used-genuine-parts/,Apple to expand repair options with support for used genuine parts,POSITIVE,0.9896870255470276
+https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/,"Apple announces new accessibility features, including Eye Tracking, Music Haptics, and Vocal Shortcuts",POSITIVE,0.9738333225250244
+https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-china-mainland-hong-kong-japan-and-singapore/,"Apple Vision Pro arrives in China mainland, Hong Kong, Japan, and Singapore",POSITIVE,0.9996370077133179
+https://www.apple.com/newsroom/2024/01/apple-previews-new-entertainment-experiences-launching-with-apple-vision-pro/,Apple previews new entertainment experiences launching with Apple Vision Pro,POSITIVE,0.9984506368637085
+https://www.apple.com/newsroom/2024/05/apples-worldwide-developers-conference-to-kick-off-june-10-with-keynote-address/,Apple’s Worldwide Developers Conference to kick off June 10 with Keynote address,POSITIVE,0.9997296929359436
+https://www.apple.com/newsroom/2023/09/apple-unveils-iphone-15-pro-and-iphone-15-pro-max/,Apple unveils iPhone 15 Pro and iPhone 15 Pro Max,POSITIVE,0.9988251328468323
+https://www.apple.com/newsroom/2024/06/apple-announces-winners-of-the-2024-apple-design-awards/,Apple announces winners of the 2024 Apple Design Awards,POSITIVE,0.9997703433036804
+https://www.apple.com/newsroom/2024/06/ios-18-makes-iphone-more-personal-capable-and-intelligent-than-ever/,"iOS 18 makes iPhone more personal, capable, and intelligent than ever",POSITIVE,0.9963124394416809
+https://www.apple.com/newsroom/2024/06/new-features-come-to-apple-services-this-fall/,New features come to Apple services this fall,POSITIVE,0.9993277788162231
+https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/,"Apple unveils stunning new iPad Pro with the world’s most advanced display, M4 chip, and Apple Pencil Pro",POSITIVE,0.9993759989738464
+https://www.apple.com/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/,Apple and Google deliver support for unwanted tracking alerts in iOS and Android,NEGATIVE,0.892807126045227
+https://www.apple.com/iphone-15-pro/,iPhone 15 Pro and iPhone 15 Pro Max,POSITIVE,0.9987471103668213
+https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/,Apple Vision Pro arrives in new countries and regions beginning June 28,POSITIVE,0.9837145209312439
+https://www.apple.com/newsroom/2023/10/behind-the-scenes-at-scary-fast-apples-keynote-event-shot-on-iphone/,Behind the scenes at Scary Fast: Apple’s keynote event shot on iPhone and edited on Mac,NEGATIVE,0.9346975088119507
+https://www.apple.com/newsroom/2024/03/apple-introduces-transcripts-for-apple-podcasts/,Apple introduces transcripts for Apple Podcasts,POSITIVE,0.996694803237915
+https://www.apple.com/newsroom/2024/02/apple-vision-pro-arrives-in-apple-store-locations-across-the-us/,Apple Vision Pro arrives in Apple Store locations across the U.S.,POSITIVE,0.9977788329124451
+https://www.apple.com/newsroom/2024/03/apple-unveils-the-new-13-and-15-inch-macbook-air-with-the-powerful-m3-chip/,Apple unveils the new 13- and 15-inch MacBook Air with the powerful M3 chip,POSITIVE,0.9956992864608765
+https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/,Apple debuts iPhone 15 and iPhone 15 Plus,POSITIVE,0.9996911287307739
+https://www.apple.com/newsroom/2023/11/apple-unveils-app-store-award-winners-the-best-apps-and-games-of-2023/,"Apple unveils App Store Award winners, the best apps and games of 2023",POSITIVE,0.9996954202651978
+https://www.apple.com/newsroom/2023/09/ios-17-is-available-today/,iOS 17 is available today,POSITIVE,0.9918209314346313
+https://www.apple.com/newsroom/2023/10/apple-introduces-new-apple-pencil-bringing-more-value-and-choice-to-the-lineup/,"Apple introduces new Apple Pencil, bringing more value and choice to the lineup",POSITIVE,0.9820463061332703
+https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/,"watchOS 11 brings powerful health and fitness insights, and even more personalization and connectivity",POSITIVE,0.9994910955429077
+https://www.apple.com/newsroom/2023/12/redesigned-apple-tv-app-elevates-the-viewing-experience/,Redesigned Apple TV app elevates the viewing experience,POSITIVE,0.9936544895172119
+https://www.apple.com/newsroom/2024/04/apple-launches-made-for-business-in-select-stores-around-the-world/,Apple launches “Made for Business” in select stores around the world,POSITIVE,0.998166561126709
+https://www.justice.gov/opa/pr/justice-department-sues-apple-monopolizing-smartphone-markets,Office of Public Affairs | Justice Department Sues Apple for Monopolizing Smartphone Markets,NEGATIVE,0.9994797110557556
+https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/,Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air with M2,POSITIVE,0.9989356398582458
+https://www.apple.com/ipados/ipados-18-preview/,iPadOS 18 Preview,POSITIVE,0.9963892698287964
+https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/,Apple introduces M4 chip,POSITIVE,0.9823196530342102
+https://www.apple.com/newsroom/2023/11/final-cut-pro-for-mac-and-ipad-get-powerful-updates/,Final Cut Pro for Mac and iPad get powerful updates,POSITIVE,0.9990973472595215
+https://www.apple.com/newsroom/2023/09/apple-unveils-apple-watch-ultra-2/,Apple unveils Apple Watch Ultra 2,POSITIVE,0.9988914132118225
+https://www.apple.com/newsroom/2024/03/apple-vision-pro-unlocks-new-opportunities-for-health-app-developers/,Apple Vision Pro unlocks new opportunities for health app developers,POSITIVE,0.9983457326889038
+https://www.apple.com/newsroom/2024/06/updates-to-the-home-experience-elevate-entertainment-and-bring-more-convenience/,Updates to the Home experience elevate entertainment and bring more convenience,POSITIVE,0.998572587966919
+https://www.apple.com/newsroom/2024/04/apple-vision-pro-brings-a-new-era-of-spatial-computing-to-business/,Apple Vision Pro brings a new era of spatial computing to business,POSITIVE,0.9994350075721741
+https://www.apple.com/newsroom/2024/03/apple-jingan-to-welcome-its-first-customers-thursday-march-21-in-shanghai/,"Apple Jing’an to welcome its first customers this Thursday, March 21, in Shanghai",POSITIVE,0.9996923208236694
+https://www.apple.com/newsroom/2023/09/iphone-15-lineup-and-new-apple-watch-lineup-arrive-worldwide/,iPhone 15 lineup and new Apple Watch lineup arrive worldwide,POSITIVE,0.9995658993721008
+https://www.apple.com/newsroom/2023/09/apple-unveils-its-first-carbon-neutral-products/,Apple unveils its first carbon neutral products,POSITIVE,0.99891197681427
+https://www.apple.com/newsroom/2024/04/apple-ramps-up-investment-in-clean-energy-and-water-around-the-world/,Apple ramps up investment in clean energy and water around the world,POSITIVE,0.9987499713897705
+https://www.apple.com/apple-watch-series-9/,Apple Watch Series 9,POSITIVE,0.9954285621643066
+https://www.cnet.com/tech/computing/apple-vision-pro-one-month-later-its-in-my-life-sometimes/,"Apple Vision Pro, One Month Later: It's in My Life, Sometimes",POSITIVE,0.997138261795044
+https://www.apple.com/tv-pr/news/2024/02/apple-tv-announces-neuromancer-new-drama-based-on-the-multi-award-winning-science-fiction-novel-by-william-gibson/,"Apple TV+ announces “Neuromancer,” new drama based on the multi-award-winning science fiction novel by William Gibson",POSITIVE,0.9970027804374695
+https://www.apple.com/newsroom/2023/12/apple-expands-self-service-repair-and-introduces-new-diagnostics-process/,Apple expands Self Service Repair and introduces new Diagnostics process,POSITIVE,0.8262904286384583
+https://www.wired.com/story/the-only-thing-worse-than-one-vision-pro-in-a-relationship-is-two/,My Life Outside of the Apple Vision Pro,NEGATIVE,0.9982459545135498
+https://www.apple.com/newsroom/2023/10/apple-supercharges-24-inch-imac-with-new-m3-chip/,Apple supercharges 24-inch iMac with new M3 chip,POSITIVE,0.999302864074707
+https://www.apple.com/newsroom/2023/09/watchos-10-is-available-today/,watchOS 10 is available today,POSITIVE,0.9991387128829956
+https://www.apple.com/newsroom/2024/05/apple-and-ile-de-france-mobilites-introduce-navigo-for-iphone-and-apple-watch/,Apple and Île-de-France Mobilités introduce Navigo for iPhone and Apple Watch,POSITIVE,0.6008239388465881
+https://www.apple.com/newsroom/2024/05/apple-hearing-study-shares-preliminary-insights-on-tinnitus/,Apple Hearing Study shares preliminary insights on tinnitus,POSITIVE,0.9944959282875061
+https://www.apple.com/newsroom/2024/02/apple-arcade-takes-players-into-a-new-dimension-with-spatial-gaming/,Apple Arcade takes players into a new dimension with spatial gaming,POSITIVE,0.9998437166213989
+https://www.apple.com/iphone-15-pro/specs/,iPhone 15 Pro and 15 Pro Max - Technical Specifications,POSITIVE,0.8723293542861938
+https://www.apple.com/newsroom/2024/06/airpods-introduce-convenient-ways-to-communicate-and-interact/,AirPods introduce convenient ways to communicate and interact,POSITIVE,0.9059943556785583
+https://www.apple.com/newsroom/2024/05/apples-2024-pride-collection-shines-light-on-lgbtq-plus-communities/,Apple’s 2024 Pride Collection shines light on LGBTQ+ communities,POSITIVE,0.9932208061218262
+https://www.apple.com/newsroom/2024/06/apple-the-exchange-trx-opens-saturday-june-22-in-kuala-lumpur/,"Apple The Exchange TRX opens Saturday, June 22, in Kuala Lumpur",POSITIVE,0.9986201524734497
+https://www.bloomberg.com/news/newsletters/2023-10-22/what-is-apple-doing-in-ai-revamping-siri-search-apple-music-and-other-apps-lo1ffr7p,Inside Apple’s Big Plan to Bring Generative AI to All Its Devices,POSITIVE,0.9974080920219421
+https://www.apple.com/iphone-15/specs/,iPhone 15 and iPhone 15 Plus - Technical Specifications,POSITIVE,0.9684356451034546
+https://www.apple.com/newsroom/2024/05/final-cut-pro-transforms-video-creation-with-live-multicam-on-ipad-and-new-ai-features-on-mac/,Final Cut Pro transforms video creation with Live Multicam on iPad and new AI features on Mac,POSITIVE,0.9996166229248047
+https://www.apple.com/tv-pr/news/2024/06/apple-original-films-highly-anticipated-formula-1-feature-starring-brad-pitt-and-hailing-from-director-joseph-kosinski-to-be-released-globally-in-theaters-in-partnership-with-warner-bros-pictures-on-june-27-2025/,"Apple Original Films Formula 1® feature starring Brad Pitt to be released on June 27, 2025",POSITIVE,0.99921715259552
+https://www.apple.com/newsroom/2024/06/apple-empowers-developers-and-fuels-innovation-with-new-tools-and-resources/,Apple empowers developers and fuels innovation with new tools and resources,POSITIVE,0.9996246099472046
+https://www.theverge.com/24040075/apple-vision-pro-hands-on-virtual-reality,"Apple Vision Pro hands-on, again, for the first time",NEGATIVE,0.9955605268478394
+https://www.apple.com/newsroom/2024/05/new-games-including-rabbids-legends-of-the-multiverse-arrive-on-apple-arcade/,"Five new games, including Ubisoft’s Rabbids: Legends of the Multiverse, arrive on Apple Arcade",POSITIVE,0.659358561038971
+https://www.apple.com/iphone-15/,iPhone 15 and iPhone 15 Plus,POSITIVE,0.9576667547225952
+https://www.apple.com/newsroom/2024/05/apple-music-celebrates-the-launch-of-inaugural-100-best-albums-list/,Apple Music celebrates the greatest records ever made with the launch of inaugural 100 Best Albums list,POSITIVE,0.9997124075889587
+https://www.apple.com/newsroom/2023/09/macos-sonoma-is-available-today/,macOS Sonoma is available today,POSITIVE,0.9994018077850342
+https://www.apple.com/newsroom/2023/12/apple-introduces-spatial-video-capture-on-iphone-15-pro/,Apple introduces spatial video capture on iPhone 15 Pro,POSITIVE,0.9996923208236694
+https://www.apple.com/newsroom/2023/12/apple-spotlights-the-top-apps-and-games-of-2023-on-the-app-store/,Apple spotlights the top apps and games of 2023 on the App Store,POSITIVE,0.9991508722305298
+https://www.apple.com/newsroom/2024/06/visionos-2-brings-new-spatial-computing-experiences-to-apple-vision-pro/,visionOS 2 brings new spatial computing experiences to Apple Vision Pro,POSITIVE,0.9994118213653564
+https://www.apple.com/newsroom/2023/10/apple-watch-double-tap-gesture-now-available-with-watchos-10-1/,Apple Watch double tap gesture now available with watchOS 10.1,POSITIVE,0.9926292896270752
+https://www.apple.com/newsroom/2024/06/apple-extends-its-privacy-leadership-with-new-updates-across-its-platforms/,Apple extends its privacy leadership with new updates across its platforms,POSITIVE,0.9979154467582703
+https://www.apple.com/iphone/why-upgrade/,iPhone - Why Upgrade,NEGATIVE,0.9925875067710876
+https://www.apple.com/newsroom/2024/06/ipados-18-introduces-powerful-intelligence-features-and-apps-for-apple-pencil/,iPadOS 18 introduces powerful new intelligence features and apps designed for Apple Pencil,POSITIVE,0.9993112087249756
+https://www.apple.com/newsroom/2024/03/apple-jingan-now-open-in-shanghai/,Apple Jing’an now open in Shanghai,POSITIVE,0.9991576671600342
+https://www.nytimes.com/2023/12/22/technology/apple-ai-news-publishers.html,Apple Explores A.I. Deals With News Publishers,NEGATIVE,0.9003699421882629
+https://stratechery.com/2024/the-apple-vision-pro/,The Apple Vision Pro,POSITIVE,0.9040765166282654
+https://www.apple.com/newsroom/2024/05/apple-music-reveals-top-10-albums-of-all-time-on-100-best-list/,Apple Music reveals top 10 albums of all time on 100 Best list,POSITIVE,0.996451735496521
+https://apnews.com/article/apple-artificial-intelligence-siri-iphone-software-conference-4217d67977f95ead880835a71ecce098,Apple leaps into AI with an array of upcoming iPhone features and a ChatGPT deal to smarten up,POSITIVE,0.8518688082695007
+https://apnews.com/article/apple-iphone-cupertino-15-pro-max-4ce309e39cabc302912bcf189605483e,"Apple’s new iPhones get faster chips, better cameras and new charging ports",NEGATIVE,0.9981291890144348
+https://www.cnet.com/tech/services-and-software/heres-why-apples-wwdc-presentation-changed-my-mind-about-ios-18/,Here's Why Apple's WWDC Presentation Changed My Mind About iOS 18,NEGATIVE,0.998145341873169
+https://www.apple.com/apple-watch-ultra-2/,Apple Watch Ultra 2,NEGATIVE,0.5647562146186829
+https://www.theverge.com/24151209/ipad-pro-smart-keyboard-folio-review-discontinued,"Goodbye to Apple’s Smart Keyboard Folio, the best iPad Pro accessory",NEGATIVE,0.999196469783783
+https://www.apple.com/tv-pr/news/2024/02/apple-tv-renews-acclaimed-expansive-sci-fi-drama-invasion-for-season-three/,"Apple TV+ renews acclaimed, expansive sci-fi drama “Invasion” for season three",POSITIVE,0.9953704476356506
+https://techcrunch.com/2024/01/19/i-spent-the-morning-with-the-apple-vision-pro/,I spent the morning with the Apple Vision Pro,POSITIVE,0.9981180429458618
+https://www.nytimes.com/2024/01/31/technology/roose-apple-vision-pro.html,The Apple Vision Pro Is a Marvel. But Who Will Buy It?,POSITIVE,0.9904366135597229
+https://www.bloomberg.com/news/newsletters/2024-06-16/when-is-apple-intelligence-coming-some-ai-features-won-t-arrive-until-2025-lxhjh86w,Apple’s Slow Rollout of Intelligence Features Will Stretch Into 2025,NEGATIVE,0.7055972814559937
+https://www.apple.com/tv-pr/news/2023/08/apple-tv-unveils-first-look-at-highly-anticipated-godzilla-and-titans-live-action-original-series-monarch-legacy-of-monsters/,"Apple TV+ unveils first look at highly anticipated Godzilla and Titans live-action original series, “Monarch: Legacy of Monsters”",POSITIVE,0.9945726990699768
+https://www.apple.com/environment/mother-nature/,Environment - Mother Nature,POSITIVE,0.9989500641822815
+https://www.bloomberg.com/news/newsletters/2024-06-09/apple-wwdc-ai-announcements-will-enable-home-robot-ar-glasses-camera-airpods-lx7jem9f,Apple’s AI Push Sets Stage for Everything From Glasses to Robots,NEGATIVE,0.7055972814559937
+https://www.apple.com/newsroom/2024/05/apple-watch-is-the-perfect-golfing-companion/,Apple Watch is the perfect golfing companion,POSITIVE,0.999536395072937
+https://www.apple.com/newsroom/2024/06/apple-the-exchange-trx-now-open-in-kuala-lumpur/,Apple The Exchange TRX now open in Kuala Lumpur,POSITIVE,0.999691367149353
+https://www.theverge.com/2024/6/10/24175405/wwdc-apple-ai-news-features-ios-18-macos-15-iphone-ipad-mac,Every “Apple Intelligence” feature announced,NEGATIVE,0.5938892960548401
+https://www.bloomberg.com/news/newsletters/2024-05-19/what-is-apple-doing-in-ai-summaries-cloud-and-on-device-llms-openai-deal-lwdj5pkz,Apple Needs to Evolve to Compete in the Artificial Intelligence Era,NEGATIVE,0.7055972814559937
+https://www.cnet.com/tech/mobile/apple-intelligence-brings-ai-to-the-iphone-with-chatgpt-integration-and-more/,Apple Intelligence Brings AI to the iPhone With ChatGPT Integration and More,POSITIVE,0.9954264760017395
+https://techcrunch.com/2024/06/10/apple-intelligence-is-the-companys-new-generative-ai-offering/,Apple Intelligence is the company’s new generative AI offering,POSITIVE,0.9907191395759583
+https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/,Helping our customers through the CrowdStrike outage,POSITIVE,0.9983514547348022
+https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/,Introducing Copilot+ PCs,POSITIVE,0.9988738894462585
+https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/,Staying ahead of threat actors in the age of AI,POSITIVE,0.9975977540016174
+https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/,"With a systems approach to chips, Microsoft aims to tailor everything ‘from silicon to service’ to meet AI demand - Source",POSITIVE,0.996250331401825
+https://blogs.microsoft.com/blog/2024/01/15/bringing-the-full-power-of-copilot-to-more-people-and-businesses/,Bringing the full power of Copilot to more people and businesses,POSITIVE,0.9994794726371765
+https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/,"Announcing Microsoft Copilot, your everyday AI companion",POSITIVE,0.9982085227966309
+https://azure.microsoft.com/en-us/blog/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-first-on-azure/,Introducing Mistral-Large on Azure in partnership with Mistral AI,POSITIVE,0.9995452761650085
+https://blogs.microsoft.com/on-the-issues/2023/08/21/microsoft-activision-restructure-acquisition/,Microsoft and Activision Blizzard Restructure Proposed Acquisition,POSITIVE,0.9837343692779541
+https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/,Microsoft announces new Copilot Copyright Commitment for customers - Microsoft On the Issues,POSITIVE,0.9846537709236145
+https://blogs.microsoft.com/blog/2024/02/07/delivering-copilot-for-everyone/,Delivering Copilot for everyone,POSITIVE,0.9996769428253174
+https://news.microsoft.com/source/features/ai/how-ai-and-hpc-are-speeding-up-scientific-discovery/,"Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",NEGATIVE,0.895745575428009
+https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023,Microsoft Digital Defense Report 2023 (MDDR),POSITIVE,0.9352077841758728
+https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/,Announcing Copilot for Microsoft 365 general availability and Microsoft 365 Chat,POSITIVE,0.9989810585975647
+https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work,What Can Copilot’s Earliest Users Teach Us About Generative AI at Work?,NEGATIVE,0.8914944529533386
+https://www.microsoft.com/en-us/microsoft-365/blog/2024/07/17/new-ways-to-get-creative-with-microsoft-designer-powered-by-ai/,"New ways to get creative with Microsoft Designer, powered by AI",POSITIVE,0.9982801675796509
+https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/,Celebrating the first year of Copilot with significant new innovations,POSITIVE,0.9997029900550842
+https://news.microsoft.com/2024/03/18/microsoft-and-nvidia-announce-major-integrations-to-accelerate-generative-ai-for-enterprises-everywhere/,Microsoft and NVIDIA announce major integrations to accelerate generative AI for enterprises everywhere - Stories,POSITIVE,0.9959579110145569
+https://blogs.microsoft.com/on-the-issues/2024/01/24/national-ai-research-resource-nairr-artificial-intelligence/,Broadening AI innovation: Microsoft's pledge to the National AI Research Resource pilot - Microsoft On the Issues,POSITIVE,0.9996824264526367
+https://azure.microsoft.com/en-us/blog/quantum/2024/01/09/unlocking-a-new-era-for-scientific-discovery-with-ai-how-microsofts-ai-screened-over-32-million-candidates-to-find-a-better-battery/,Unlocking a new era for scientific discovery with AI: How Microsoft’s AI screened over 32 million candidates to find a better battery,POSITIVE,0.9996517896652222
+https://www.microsoft.com/en-us/microsoft-365/blog/2024/03/14/bringing-copilot-to-more-customers-worldwide-across-life-and-work/,Bringing Copilot to more customers worldwide—across life and work,POSITIVE,0.9995043277740479
+https://www.microsoft.com/en-us/security/blog/2023/08/02/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams/,Midnight Blizzard conducts targeted social engineering over Microsoft Teams,POSITIVE,0.7200435400009155
+https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/,Microsoft Mesh is generally available in Microsoft Teams | Microsoft 365 Blog,NEGATIVE,0.9859657287597656
+https://blogs.microsoft.com/on-the-issues/2023/12/13/cybercrime-cybersecurity-storm-1152-fraudulent-accounts/,Disrupting the gateway services to cybercrime - Microsoft On the Issues,NEGATIVE,0.8020673394203186
+https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/,Midnight Blizzard: Guidance for responders on nation-state attack,NEGATIVE,0.9335789084434509
+https://www.microsoft.com/en-us/security/blog/2024/05/02/microsoft-introduces-passkeys-for-consumer-accounts/,New passkey support for Microsoft consumer accounts | Microsoft Security Blog,POSITIVE,0.9699810743331909
+https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/,Analyzing Forest Blizzard’s custom post-compromise tool for exploiting CVE-2022-38028 to obtain credentials,NEGATIVE,0.9977752566337585
+https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/15/expanding-copilot-for-microsoft-365-to-businesses-of-all-sizes/,Expanding Copilot for Microsoft 365 to businesses of all sizes,POSITIVE,0.9955140948295593
+https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/,"Octo Tempest crosses boundaries to facilitate extortion, encryption, and destruction",POSITIVE,0.9811468124389648
+https://blogs.microsoft.com/blog/2024/02/29/introducing-microsoft-copilot-for-finance-the-newest-copilot-offering-in-microsoft-365-designed-to-transform-modern-finance/,Introducing Microsoft Copilot for Finance – the newest Copilot offering in Microsoft 365 designed to transform modern finance,POSITIVE,0.9984715580940247
+https://blogs.microsoft.com/blog/2023/11/15/microsoft-ignite-2023-ai-transformation-and-the-technology-driving-change/,Microsoft Ignite 2023: AI transformation and the technology driving change,POSITIVE,0.999546229839325
+https://blogs.microsoft.com/blog/2023/08/22/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-ais-impact-in-healthcare-addressing-the-industrys-most-pressing-needs/,"Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs",NEGATIVE,0.9008764028549194
+https://blogs.microsoft.com/blog/2023/11/02/new-study-validates-the-business-value-and-opportunity-of-ai/,New study validates the business value and opportunity of AI,POSITIVE,0.9872893691062927
+https://news.microsoft.com/2024/06/10/microsoft-to-help-rural-hospitals-defend-against-rising-cybersecurity-attacks/,Microsoft to help rural hospitals defend against rising cybersecurity attacks - Stories,POSITIVE,0.9550818204879761
+https://www.microsoft.com/en-us/licensing/news/microsoft-copilot-copyright-commitment,Introducing the Microsoft Copilot Copyright Commitment,POSITIVE,0.9867451786994934
+https://blogs.microsoft.com/eupolicy/2023/08/31/european-competition-teams-office-microsoft-365/,Microsoft announces changes to Microsoft 365 and Office 365 to address European competition concerns,POSITIVE,0.9961795806884766
+https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs,"Microsoft lays off 1,900 Activision Blizzard and Xbox employees",NEGATIVE,0.9951549768447876
+https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/,Windows Security best practices for integrating and managing security tools,POSITIVE,0.9971432089805603
+https://www.microsoft.com/en-us/microsoft-copilot/blog/2023/12/19/turn-your-ideas-into-songs-with-suno-on-microsoft-copilot/,Turn your ideas into songs with Suno on Microsoft Copilot,POSITIVE,0.9996964931488037
+https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/,Tiny but mighty: The Phi-3 small language models with big potential - Source,NEGATIVE,0.9970443844795227
+https://news.microsoft.com/2024/03/26/adobe-and-microsoft-partner-to-bring-new-generative-ai-capabilities-to-marketers-as-they-work-in-microsoft-365-applications/,Adobe and Microsoft partner to bring new generative AI capabilities to marketers as they work in Microsoft 365 applications,POSITIVE,0.9986516833305359
+https://blogs.microsoft.com/on-the-issues/2024/02/05/journalism-news-generative-ai-democracy-forward/,Here’s how we’re working with journalists to create the newsrooms of the future with AI - Microsoft On the Issues,POSITIVE,0.9981915354728699
+https://www.microsoft.com/en-us/licensing/news/microsoft365-teams-eea,New subscription structure for Microsoft 365 in Europe,POSITIVE,0.9922299981117249
+https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part,AI at Work Is Here. Now Comes the Hard Part,NEGATIVE,0.9858102202415466
+https://www.microsoft.com/en-us/security/blog/2023/08/24/flax-typhoon-using-legitimate-software-to-quietly-access-taiwanese-organizations/,Flax Typhoon using legitimate software to quietly access Taiwanese organizations,POSITIVE,0.9703130722045898
+https://blogs.microsoft.com/on-the-issues/2024/05/01/responsible-ai-transparency-report-2024/,Providing further transparency on our responsible AI efforts - Microsoft On the Issues,POSITIVE,0.9989833235740662
+https://azure.microsoft.com/en-us/blog/quantum/2024/04/03/how-microsoft-and-quantinuum-achieved-reliable-quantum-computing/,How Microsoft and Quantinuum achieved reliable quantum computing,POSITIVE,0.9978446960449219
+https://news.microsoft.com/apac/2024/04/10/microsoft-to-invest-us2-9-billion-in-ai-and-cloud-infrastructure-in-japan-while-boosting-the-nations-skills-research-and-cybersecurity/,"Microsoft to invest US$2.9 billion in AI and cloud infrastructure in Japan while boosting the nation’s skills, research and cybersecurity",POSITIVE,0.9979826211929321
+https://www.microsoft.com/en-us/licensing/news/microsoft365-teams-ww,Realigning global licensing for Microsoft 365,POSITIVE,0.9986323714256287
+https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/,Expanding Microsoft’s Secure Future Initiative (SFI) | Microsoft Security Blog,POSITIVE,0.9978117346763611
+https://www.microsoft.com/en-us/microsoft-365/blog/2024/03/26/ai-powered-collaboration-with-microsoft-teams/,Announcing new Copilot in Microsoft Teams enhancements | Microsoft 365 Blog,POSITIVE,0.9968647360801697
+https://news.microsoft.com/source/features/ai/khan-academy-and-microsoft-partner-to-expand-access-to-ai-tools/,Khan Academy and Microsoft partner to expand access to AI tools that personalize teaching and help make learning fun,NEGATIVE,0.8996261358261108
+https://blogs.microsoft.com/blog/2024/04/03/advancing-science-microsoft-and-quantinuum-demonstrate-the-most-reliable-logical-qubits-on-record-with-an-error-rate-800x-better-than-physical-qubits/,Advancing science: Microsoft and Quantinuum demonstrate the most reliable logical qubits on record with an error rate 800x better than physical qubits,POSITIVE,0.9995220899581909
+https://blogs.microsoft.com/on-the-issues/2024/02/26/microsoft-ai-access-principles-responsible-mobile-world-congress/,Microsoft’s AI Access Principles: Our commitments to promote innovation and competition in the new AI economy,POSITIVE,0.9994469285011292
+https://www.microsoft.com/en-us/security/blog/2023/12/07/star-blizzard-increases-sophistication-and-evasion-in-ongoing-attacks/,Star Blizzard increases sophistication and evasion in ongoing attacks,NEGATIVE,0.988040030002594
+https://news.microsoft.com/2024/05/08/microsoft-announces-3-3-billion-investment-in-wisconsin-to-spur-artificial-intelligence-innovation-and-economic-growth/,Microsoft announces $3.3 billion investment in Wisconsin to spur artificial intelligence innovation and economic growth,POSITIVE,0.996236264705658
+https://blogs.microsoft.com/on-the-issues/2023/11/07/microsoft-elections-2024-ai-voting-mtac/,Microsoft announces new steps to help protect elections - Microsoft On the Issues,POSITIVE,0.9936966300010681
+https://www.microsoft.com/en-us/microsoft-365/blog/2024/03/21/advancing-the-new-era-of-work-with-copilot-windows-and-surface/,"Advancing the new era of work with Copilot, Windows, and Surface",POSITIVE,0.990791916847229
+https://www.microsoft.com/en-us/research/project/physics-of-agi/articles/whos-harry-potter-making-llms-forget-2/,Who’s Harry Potter? Making LLMs forget,POSITIVE,0.9747086763381958
+https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/,Announcing Microsoft Copilot Studio | Microsoft 365 Blog,POSITIVE,0.9993840456008911
+https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/,"Microsoft Copilot for Security is generally available on April 1, 2024 | Microsoft Security Blog",POSITIVE,0.9991986155509949
+https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/26/microsoft-mesh-enters-preview-in-october-including-a-new-teams-experience/,Connect in new ways with Microsoft Mesh | Microsoft 365 Blog,POSITIVE,0.9951659440994263
+https://www.microsoft.com/en-us/security/blog/2023/12/28/financially-motivated-threat-actors-misusing-app-installer/,Financially motivated threat actors misusing App Installer,NEGATIVE,0.9976099729537964
+https://blogs.microsoft.com/on-the-issues/2023/10/19/microsoft-amazon-tech-support-fraud-india/,"Microsoft, Amazon, and international law enforcement join forces to fight tech support fraud",POSITIVE,0.967634379863739
+https://news.microsoft.com/microsoft-may-2024-events/,Microsoft Build 2024,NEGATIVE,0.7405231595039368
+https://www.microsoft.com/en-us/security/blog/2023/10/18/multiple-north-korean-threat-actors-exploiting-the-teamcity-cve-2023-42793-vulnerability/,Multiple North Korean threat actors exploiting the TeamCity CVE-2023-42793 vulnerability,NEGATIVE,0.9263777136802673
+https://blogs.microsoft.com/blog/2023/10/10/microsoft-introduces-new-data-and-ai-solutions-to-help-healthcare-organizations-unlock-insights-and-improve-patient-and-clinician-experiences/,Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences,POSITIVE,0.9997679591178894
+https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/,"Mitigating Skeleton Key, a new type of generative AI jailbreak technique",NEGATIVE,0.9982962012290955
+https://blogs.microsoft.com/eupolicy/2024/03/07/microsoft-dma-compliance-windows-linkedin/,Microsoft implements DMA compliance measures,POSITIVE,0.9920107126235962
+https://news.microsoft.com/apac/2024/04/30/microsoft-announces-us1-7-billion-investment-to-advance-indonesias-cloud-and-ai-ambitions/,Microsoft announces US$1.7 billion investment to advance Indonesia’s cloud and AI ambitions - Microsoft Stories Asia,POSITIVE,0.9974672794342041
+https://blogs.microsoft.com/on-the-issues/2024/04/04/china-ai-influence-elections-mtac-cybersecurity/,China tests US voter fault lines and ramps AI content to boost its geopolitical interests - Microsoft On the Issues,NEGATIVE,0.8418391346931458
+https://www.microsoft.com/en-us/microsoft-365/blog/2024/02/29/introducing-microsoft-copilot-for-finance-transform-finance-with-next-generation-ai-in-microsoft-365/,Introducing Microsoft Copilot for Finance in Microsoft 365| Microsoft 365 Blog,POSITIVE,0.9981997013092041
+https://blogs.microsoft.com/on-the-issues/2023/10/26/microsofts-ai-safety-policies/,Microsoft’s AI Safety Policies - Microsoft On the Issues,POSITIVE,0.9991990923881531
+https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/,“Dirty stream” attack: Discovering and mitigating a common vulnerability pattern in Android apps,NEGATIVE,0.9976365566253662
+https://www.microsoft.com/en-us/security/blog/2023/09/21/new-microsoft-security-tools-to-protect-families-and-businesses/,New Microsoft security tools to protect families and businesses,POSITIVE,0.9996669292449951
+https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure,Microsoft is finally making custom chips — and they’re all about AI,POSITIVE,0.9864257574081421
+https://news.microsoft.com/source/features/sustainability/low-carbon-building-materials-for-datacenters/,Microsoft lays foundation for green building materials of tomorrow - Source,NEGATIVE,0.9990035891532898
+https://news.microsoft.com/apac/2024/05/02/microsoft-announces-us2-2-billion-investment-to-fuel-malaysias-cloud-and-ai-transformation/,Microsoft announces US$2.2 billion investment to fuel Malaysia’s cloud and AI transformation - Microsoft Stories Asia,POSITIVE,0.9989070892333984
+https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/,"New models added to the Phi-3 family, available on Microsoft Azure",POSITIVE,0.9994227886199951
+https://news.microsoft.com/annual-wti-2024/,2024 Annual Work Trend Index from Microsoft and LinkedIn,NEGATIVE,0.8324181437492371
+https://blogs.microsoft.com/on-the-issues/2023/09/07/digital-threats-cyberattacks-east-asia-china-north-korea/,"China, North Korea pursue new targets while honing cyber capabilities - Microsoft On the Issues",POSITIVE,0.8322650790214539
+https://www.microsoft.com/en-us/security/blog/2023/09/14/peach-sandstorm-password-spray-campaigns-enable-intelligence-collection-at-high-value-targets/,Peach Sandstorm password spray campaigns enable intelligence collection at high-value targets,NEGATIVE,0.989997923374176
+https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/,Microsoft AI Red Team building future of safer AI,POSITIVE,0.9733913540840149
+https://news.microsoft.com/september-2023-event/,"Announcing Microsoft Copilot, your everyday AI companion",POSITIVE,0.9980841875076294
+https://blogs.microsoft.com/blog/2024/05/08/microsoft-and-linkedin-release-the-2024-work-trend-index-on-the-state-of-ai-at-work/,Microsoft and LinkedIn release the 2024 Work Trend Index on the state of AI at work,POSITIVE,0.9923222661018372
+https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/introducing-microsoft-copilot-studio-and-new-features-in-copilot-for-microsoft-365/,Introducing Microsoft Copilot Studio and new features in Copilot for Microsoft 365,POSITIVE,0.9992827773094177
+https://news.microsoft.com/2024/01/11/microsoft-unveils-new-generative-ai-and-data-solutions-across-the-shopper-journey-offering-copilot-experiences-through-microsoft-cloud-for-retail/,"Microsoft unveils new generative AI and data solutions across the shopper journey, offering copilot experiences through Microsoft Cloud for Retail",POSITIVE,0.9961422085762024
+https://blogs.microsoft.com/blog/2023/11/01/microsofts-2023-diversity-and-inclusion-report-a-decade-of-transparency-commitment-and-progress/,"Microsoft’s 2023 Diversity and Inclusion Report: A decade of transparency, commitment and progress",POSITIVE,0.9996123909950256
+https://www.microsoft.com/en-us/security/blog/2024/02/01/3-new-ways-the-microsoft-intune-suite-offers-security-simplification-and-savings/,The main components of the Microsoft Intune Suite are now generally available | Microsoft Security Blog,POSITIVE,0.9990999698638916
+https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/,Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure,POSITIVE,0.7349088788032532
+https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/,Orca 2: Teaching Small Language Models How to Reason,POSITIVE,0.9989206790924072
+https://www.microsoft.com/en-us/security/blog/2023/09/12/malware-distributor-storm-0324-facilitates-ransomware-access/,Malware distributor Storm-0324 facilitates ransomware access,NEGATIVE,0.9983975291252136
+https://www.microsoft.com/en-us/security/blog/2023/11/22/diamond-sleet-supply-chain-compromise-distributes-a-modified-cyberlink-installer/,Diamond Sleet supply chain compromise distributes a modified CyberLink installer,NEGATIVE,0.9986709356307983
+https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/,"Introducing Garnet – an open-source, next-generation, faster cache-store for accelerating applications and services",POSITIVE,0.9817017316818237
+https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mint-sandstorm-campaign-targeting-high-profile-individuals-at-universities-and-research-orgs/,New TTPs observed in Mint Sandstorm campaign targeting high-profile individuals at universities and research orgs,NEGATIVE,0.982548177242279
+https://www.microsoft.com/en-us/security/blog/2024/05/28/moonstone-sleet-emerges-as-new-north-korean-threat-actor-with-new-bag-of-tricks/,Moonstone Sleet emerges as new North Korean threat actor with new bag of tricks,NEGATIVE,0.9728867411613464
+https://www.microsoft.com/en-us/microsoft-365/blog/2024/04/02/bringing-the-latest-capabilities-to-copilot-for-microsoft-365-customers/,Bringing the latest capabilities to Copilot for Microsoft 365 customers,POSITIVE,0.9992319345474243
+https://blogs.microsoft.com/blog/2024/04/07/announcing-new-microsoft-ai-hub-in-london/,Announcing new Microsoft AI Hub in London,POSITIVE,0.9996330738067627
+https://blogs.microsoft.com/accessibility/seeing-ai-app-launches-on-android-including-new-and-updated-features-and-new-languages/,Seeing AI App Launches on Android – Including new and updated features and new languages.,POSITIVE,0.9826716780662537
+https://www.aboutamazon.com/news/amazon-ai/amazon-improves-customer-reviews-with-generative-ai,How Amazon continues to improve the customer reviews experience with generative AI,POSITIVE,0.9842048287391663
+https://www.aboutamazon.com/news/sustainability/amazon-replaces-plastic-air-pillows-in-packaging-north-america-us,Amazon announces its largest reduction in plastic packaging in North America to date,NEGATIVE,0.996457040309906
+https://www.aboutamazon.com/news/retail/amazon-one-app,Amazon One launches an app to make sign-up for its palm-recognition service even easier,NEGATIVE,0.7333934307098389
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ai-sustainability-carbon-footprint-product-defects,"Amazon: AI spots product defects, reduces waste",POSITIVE,0.976015567779541
+https://www.aboutamazon.com/news/retail/amazon-passwordless-sign-in-passkey,Amazon is making it easier and safer for you to access your account with passwordless sign-in,POSITIVE,0.991987943649292
+https://www.aboutamazon.com/news/aws/amazon-q-generative-ai-assistant-aws,"AWS announces general availability of Amazon Q, generative AI-powered assistant",POSITIVE,0.9985124468803406
+https://www.aboutamazon.com/news/devices/xbox-gaming-on-amazon-fire-tv,Xbox comes to Amazon Fire TV: Play popular games without a console,NEGATIVE,0.9987165927886963
+https://www.aboutamazon.com/news/operations/amazon-introduces-new-robotics-solutions,"Amazon announces new fulfillment center robots, Sequoia and Digit",POSITIVE,0.9957427382469177
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-ads-ai-powered-image-generator,Amazon rolls out AI-powered image generation to help advertisers deliver a better ad experience for customers,NEGATIVE,0.9793689250946045
+https://www.aboutamazon.com/news/retail/amazon-prime-day-2024-date,When is Amazon Prime Day 2024? Dates and what to know,NEGATIVE,0.6295723915100098
+https://www.aboutamazon.com/news/operations/amazon-prime-air-drone-delivery-updates,"Amazon to expand Prime Air drone delivery in Italy, UK, and U.S.",POSITIVE,0.8196898698806763
+https://www.aboutamazon.com/news/transportation/amazon-drone-prime-air-expanded-delivery-faa-approval,Amazon drones: Prime Air expands drone deliveries after FAA approval,POSITIVE,0.9413443207740784
+https://www.aboutamazon.com/news/retail/amazon-announces-prime-big-deal-days-2023-date,Prime Big Deal Days takes place October 10-11. Here are 4 tips to save big during the event.,POSITIVE,0.9955984354019165
+https://www.aboutamazon.com/news/retail/amazon-pharmacy-amazon-air-prescription-drone-delivery,Amazon Pharmacy: Get your medications delivered by drone,NEGATIVE,0.9947240948677063
+https://www.aboutamazon.com/news/retail/amazon-rufus,'Amazon Rufus' AI experience comes to the Amazon Shopping app,POSITIVE,0.9919093251228333
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-generative-ai-powered-product-listings,Amazon launches new generative AI feature for sellers to create product descriptions,POSITIVE,0.9877932667732239
+https://www.aboutamazon.com/news/retail/amazon-grocery-delivery-subscription-prime-member-ebt-customers,Amazon’s new grocery delivery subscription offers big savings to Prime members and EBT customers,NEGATIVE,0.8739377856254578
+https://www.aboutamazon.com/news/workplace/amazon-hiring-seasonal-holiday-employees,"Amazon is hiring 250,000 seasonal employees for the holidays in the U.S.",POSITIVE,0.9984822869300842
+https://www.aboutamazon.com/news/sustainability/amazon-electric-trucks-southern-california-sustainability,"Amazon electric trucks roll out in California, support sustainability goals",POSITIVE,0.9989431500434875
+https://www.aboutamazon.com/news/company-news/amazon-hyundai-partnership,"Amazon and Hyundai launch a broad, strategic partnership—including vehicle sales on Amazon.com in 2024",POSITIVE,0.952089786529541
+https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment,Amazon completes $4B Anthropic investment to advance generative AI,NEGATIVE,0.5482858419418335
+https://www.aboutamazon.com/news/small-business/amazon-sellers-generative-ai-tool,Amazon launches generative AI to help sellers write product descriptions,NEGATIVE,0.5660170912742615
+https://www.aboutamazon.com/news/entertainment/prime-video-updated-steaming-experience,Prime Video rolls out updated streaming look,NEGATIVE,0.9755421876907349
+https://www.aboutamazon.com/news/transportation/amazon-drone-delivery-arizona,Amazon drone delivery is coming to Arizona,POSITIVE,0.9941744208335876
+https://www.aboutamazon.com/news/retail/amazon-south-africa,Amazon launches Amazon.co.za in South Africa,POSITIVE,0.9965369701385498
+https://www.aboutamazon.com/news/company-news/amazon-aws-anthropic-ai,Amazon will invest up to $4B in Anthropic to advance generative AI,NEGATIVE,0.9799388647079468
+https://www.aboutamazon.com/news/sustainability/amazon-fulfillment-center-eliminates-plastic-packaging,Amazon announces its first automated U.S. fulfillment center to eliminate plastic delivery packaging,NEGATIVE,0.9788109064102173
+https://www.aboutamazon.com/news/entertainment/prime-video-update-announces-limited-ads,"Amazon shares an update on Prime Video, introduces limited ads",POSITIVE,0.9997268319129944
+https://www.aboutamazon.com/news/transportation/amazon-prime-air-drone-delivery-mk30-photos,Amazon reveals first photos of the new Prime Air delivery drone,POSITIVE,0.9699676632881165
+https://www.aboutamazon.com/news/company-news/panos-panay-joins-amazon-devices-and-services,Former Microsoft lead Panos Panay joins Amazon,NEGATIVE,0.9472130537033081
+https://www.aboutamazon.com/news/entertainment/amazon-music-maestro-ai-playlist-generator,"Amazon Music launches Maestro, a new AI playlist generator—here’s your first look at the beta",POSITIVE,0.996615469455719
+https://aws.amazon.com/blogs/aws/amazon-q-brings-generative-ai-powered-assistance-to-it-pros-and-developers-preview/,Amazon Q brings generative AI-powered assistance to IT pros and developers (preview),POSITIVE,0.9966309666633606
+https://www.aboutamazon.com/news/retail/introducing-amazon-one-medical,"Amazon brings Amazon Clinic, One Medical under a single brand",NEGATIVE,0.895047664642334
+https://aws.amazon.com/blogs/aws/introducing-amazon-q-a-new-generative-ai-powered-assistant-preview/,"Introducing Amazon Q, a new generative AI-powered assistant (preview) | Amazon Web Services",POSITIVE,0.9937235713005066
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-project-kuiper-latest-updates,Amazon Project Kuiper latest updates: May 2024,POSITIVE,0.9751442074775696
+https://www.aboutamazon.com/news/workplace/our-workforce-data,Our workforce data,POSITIVE,0.9967129230499268
+https://www.aboutamazon.com/news/retail/amazon-big-spring-sale-faq,Amazon’s Big Spring Sale is Now Live! Shop Deals March 20-25,POSITIVE,0.9986440539360046
+https://www.aboutamazon.com/news/retail/how-to-use-amazon-rufus,Amazon's Rufus AI assistant now available to all US customers,NEGATIVE,0.9725865721702576
+https://www.aboutamazon.com/news/policy-news-views/amazons-latest-actions-to-protect-customers-from-impersonation-scams,Amazon’s latest actions to protect customers from impersonation scams,POSITIVE,0.9919022917747498
+https://www.aboutamazon.com/news/devices/amazon-ces-2024-announcements,CES 2024: 7 key announcements from Amazon,POSITIVE,0.9893416166305542
+https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-prototype-satellite-test-mission,Inside the first satellite test mission for Amazon’s Project Kuiper,POSITIVE,0.5589747428894043
+https://www.aboutamazon.com/news/devices/all-new-echo-spot,Amazon’s all-new Echo Spot is $35 off as an early Prime Day deal,NEGATIVE,0.9982181191444397
+https://www.aboutamazon.com/news/operations/amazon-unveils-titan-fulfillment-center-robot,"Amazon Robotics unveils Titan, new fulfillment center robot",POSITIVE,0.9966874718666077
+https://www.aboutamazon.com/news/retail/amazon-prime-delivery-speeds-2024,Amazon’s Prime delivery speeds are faster than ever so far in 2024,NEGATIVE,0.9713170528411865
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-project-kuiper-deorbit-satellites,Amazon’s Project Kuiper actively deorbits prototype satellites,POSITIVE,0.9965606331825256
+https://www.aboutamazon.com/news/transportation/alexa-thank-my-driver-feature,"'Alexa, thank my driver:' Here’s the simple way Amazon customers can show delivery drivers appreciation",POSITIVE,0.9991105198860168
+https://www.aboutamazon.com/news/entertainment/amazon-live-free-channel-prime-video-freevee-shopping,"Amazon Live: Free channel on Prime Video, Freevee offers shopping features",POSITIVE,0.9989215135574341
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-project-kuiper-oisl-space-laser-december-2023-update,Amazon’s Project Kuiper completes successful test of space lasers,NEGATIVE,0.875887930393219
+https://www.aboutamazon.com/news/company-news/amazon-ceo-andy-jassy-2023-letter-to-shareholders,CEO Andy Jassy’s 2023 Letter to Shareholders,POSITIVE,0.9994539618492126
+https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-portfolio-january-2024-update,Amazon is the world's largest corporate purchaser of renewable energy for the fourth year in a row,POSITIVE,0.991840124130249
+https://www.aboutamazon.com/news/company-news/pinterest-buzzfeed-and-more-apps-will-show-amazon-sponsored-product-ads-to-discover-relevant-products,"Pinterest, BuzzFeed, and more apps and websites will start to show Amazon Sponsored Product ads, making it easier to discover and buy relevant products",POSITIVE,0.9928314685821533
+https://www.aboutamazon.com/news/innovation-at-amazon/project-kuiper-career-training-new-jobs,Amazon’s new satellite technician certification and Kuiper facility,POSITIVE,0.9909203052520752
+https://aws.amazon.com/about-aws/whats-new/2023/11/aws-amazon-q-preview/,AWS announces Amazon Q (Preview),POSITIVE,0.997512936592102
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-project-kuiper-spacex-launch,Amazon secures 3 launches with SpaceX to support Project Kuiper deployment,POSITIVE,0.8478938937187195
+https://www.aboutamazon.com/news/sustainability/how-amazon-is-reducing-packaging,How Amazon continues to improve its packaging,NEGATIVE,0.9457244277000427
+https://www.aboutamazon.com/news/retail/how-amazon-is-using-ai-to-help-customers-shop,How Amazon Fashion is using AI to help you find the perfect fit,NEGATIVE,0.9412075281143188
+https://www.aboutamazon.com/news/retail/prime-day-2024-recap,Amazon announces record-breaking sales for 2024 Prime Day event,POSITIVE,0.9997298121452332
+https://www.aboutamazon.com/news/retail/amazon-south-africa-store-launch,Amazon announces the launch of Amazon.co.za in South Africa in 2024,POSITIVE,0.9998227953910828
+https://www.aboutamazon.com/news/books-and-authors/amazon-your-books-feature,"Amazon unveils ‘Your Books’ to explore all your print, Kindle, and Audible books",POSITIVE,0.9933441877365112
+https://www.aboutamazon.com/news/aws/aws-free-ai-skills-training-courses,"New Amazon AI initiative includes scholarships, free AI courses",POSITIVE,0.9989782571792603
+https://www.aboutamazon.com/news/devices/introducing-next-generation-echo-frames-carrera-smart-glasses-with-alexa,Amazon introduces next generation Echo Frames smart glasses,POSITIVE,0.9994491934776306
+https://apnews.com/article/amazon-prime-day-d0c98490ab4599b1da4dcaad204a02b3,Amazon says this year’s Prime Day was its biggest ever,POSITIVE,0.9956719875335693
+https://www.aboutamazon.com/news/operations/doug-herrington-amazon-prime-delivery-speed-2024-updates,Doug Herrington: 3 ways Amazon is working to deliver faster in 2024,POSITIVE,0.9869987368583679
+https://www.aboutamazon.com/news/aws/amazon-workspaces-thin-client,AWS unveils new enterprise hardware to provide businesses with easy-to-use virtual desktops,NEGATIVE,0.9921004176139832
+https://www.aboutamazon.com/news/retail/amazon-just-walk-out-rfid-technology,Amazon debuts new RFID capability for Just Walk Out tech,POSITIVE,0.9988405108451843
+https://aws.amazon.com/blogs/aws/new-generative-ai-features-in-amazon-connect-including-amazon-q-facilitate-improved-contact-center-service/,"New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service",NEGATIVE,0.9952463507652283
+https://www.aboutamazon.com/news/devices/amazon-fire-tv-generative-ai-search,Amazon: Generative AI powers Fire TV search experience,NEGATIVE,0.9938538074493408
+https://press.aboutamazon.com/2024/6/amazons-10th-prime-day-event-returns-july-16-17-with-millions-of-exclusive-deals-for-prime-members,"Amazon’s 10th Prime Day Event Returns July 16 & 17, With Millions of Exclusive Deals for Prime Members",POSITIVE,0.9429064989089966
+https://www.aboutamazon.com/news/devices/amazon-fall-event-2023-announcements,"Amazon new devices announced 2023: Echo, Fire TV, Alexa updates",NEGATIVE,0.9955026507377625
+https://www.aboutamazon.com/news/company-news/leadership-update-aws-adam-selipsky-matt-garman,AWS leadership update: AWS CEO Adam Selipsky steps down,POSITIVE,0.9468916654586792
+https://www.aboutamazon.com/news/devices/amazon-smart-home-announcements-2023,"Amazon smart home announcements 2023: Echo Hub, Map View, and more",POSITIVE,0.8005767464637756
+https://www.aboutamazon.com/news/books-and-authors/amazon-best-books-2023-list,Amazon reveals Best Books of 2023: 10 books you should read next,POSITIVE,0.999728262424469
+https://www.aboutamazon.com/news/innovation-at-amazon/how-kuiper-extends-cell-and-internet-service,Amazon’s satellite network works with telecom partners,POSITIVE,0.9545665979385376
+https://www.aboutamazon.com/news/operations/amazon-uses-ai-to-improve-shopping,Amazon is using AI to make holiday shopping even more convenient,POSITIVE,0.7373862266540527
+https://www.aboutamazon.com/news/devices/amazon-alexa-generative-ai,Amazon previews the future of Alexa with generative AI,POSITIVE,0.997353196144104
+https://www.aboutamazon.com/news/retail/one-medical-amazon-prime-benefit,New Amazon Prime benefit: One Medical health care for $9 a month,NEGATIVE,0.9527892470359802
+https://www.aboutamazon.com/news/sustainability/how-amazon-uses-ai-sustainability-goals,How Amazon uses AI to become a more sustainable company,POSITIVE,0.9903342127799988
+https://www.aboutamazon.com/news/retail/what-is-amazon-pet-day,What is Amazon Pet Day? Shop Top Deals & Discounts May 7-8,POSITIVE,0.9780302047729492
+https://www.aboutamazon.com/news/retail/amazon-prime-day-july-2024,Amazon Prime Day 2024 returns this July,POSITIVE,0.9993138313293457
+https://aws.amazon.com/about-aws/whats-new/2024/04/general-availability-amazon-q-business-apps-preview/,Announcing the general availability of Amazon Q Business and Amazon Q Apps (Preview),POSITIVE,0.9869895577430725
+https://www.aboutamazon.com/news/innovation-at-amazon/amazon-project-kuiper-test-satellites-space-launch-october-2023-update,Amazon’s Project Kuiper test satellites are healthy,POSITIVE,0.8304085731506348
+https://www.aboutamazon.com/news/retail/amazon-introduces-consult-a-friend-mobile-shopping-experience,"Amazon introduces Consult-a-Friend, a new mobile experience that lets you ask your friends for advice while you shop",POSITIVE,0.9990467429161072
+https://aws.amazon.com/blogs/aws/new-amazon-workspaces-thin-client/,"New Amazon WorkSpaces Thin Client provides cost-effective, secure access to virtual desktops",POSITIVE,0.9211003184318542
+https://www.theatlantic.com/technology/archive/2023/09/amazon-shopping-experience-decline/675472/,The Best Thing About Amazon Was Never Going to Last,NEGATIVE,0.9927381873130798
+https://www.aboutamazon.com/news/retail/amazon-just-walk-out-dash-cart-grocery-shopping-checkout-stores,An update on Amazon's plans for Just Walk Out and checkout-free technology,POSITIVE,0.5518823266029358
+https://www.aboutamazon.com/news/retail/amazon-makes-it-easier-to-search-and-shop,5 ways Amazon is making it easier to search and shop for products,POSITIVE,0.994517982006073
+https://www.aboutamazon.com/news/retail/amazon-pharmacy-same-day-delivery-new-york-nyc-los-angeles-la,"Amazon Pharmacy: AI aiding same-day delivery to New York, Los Angeles",NEGATIVE,0.9885852932929993
+https://www.aboutamazon.com/news/innovation-at-amazon/how-amazon-uses-generative-ai,8 ways Amazon is using generative AI to make life easier,POSITIVE,0.9996708631515503
+https://www.aboutamazon.com/news/small-business/supply-chain-by-amazon,"Introducing Supply Chain by Amazon, an automated solution to help sellers quickly and reliably ship products around the world",POSITIVE,0.9995773434638977
+https://www.aboutamazon.com/news/sustainability/amazon-renewable-energy-goal,Amazon meets 100% renewable energy goal 7 years early,POSITIVE,0.9629371762275696
+https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-general-availability-generative-ai-innovations,AWS announces general availability of Amazon Bedrock and more new generative AI innovations,NEGATIVE,0.7772424221038818
+https://www.aboutamazon.com/news/company-news/dr-andrew-ng-joins-amazon-board-of-directors,Dr. Andrew Ng appointed to Amazon’s Board of Directors,POSITIVE,0.9997287392616272
+https://apnews.com/article/amazon-walgreens-dow-jones-industrial-average-stock-market-02df9d3cff4c83b9517ceea9da682999,"Amazon will be added to the Dow Jones Industrial Average, replacing Walgreens Boots Alliance",NEGATIVE,0.9941893815994263
+https://www.investopedia.com/terms/a/amazon-effect.asp,"Amazon Effect: Definition, Statistics, Impact on Consumers",POSITIVE,0.9801067113876343
+https://abcnews.go.com/Business/inside-alleged-amazon-union-busting-campaign-kentucky-scare/story?id=105382727,Inside an alleged Amazon union-busting campaign in Kentucky: 'They want to scare us',NEGATIVE,0.9985468983650208
+https://www.cnet.com/deals/best-amazon-memorial-day-sales-2024-05-29/,My 45 Top Remaining Memorial Day Amazon Sales,NEGATIVE,0.9978002905845642
+https://www.aboutamazon.com/news/workplace/career-choice-free-education-for-amazon-employees,"Amazon Career Choice FAQ: How it works, 400+ eligible schools globally",POSITIVE,0.544191300868988
+https://www.cnn.com/2023/09/26/tech/ftc-sues-amazon-antitrust-monopoly-case/index.html,US government and 17 states sue Amazon in landmark monopoly case,NEGATIVE,0.9776539206504822
+https://www.aboutamazon.com/news/retail/when-is-prime-day-2024,Your guide to Amazon Prime Day 2024 and how to find deals,POSITIVE,0.9990309476852417
+http://research.google/programs-and-events/,Programs and Events,POSITIVE,0.9998195767402649
+https://blog.google/technology/safety-security/passkeys-default-google-accounts/,Passwordless by default: Make the switch to passkeys,POSITIVE,0.9958207607269287
+https://blog.google/products/gmail/gmail-security-authentication-spam-protection/,"New Gmail protections for a safer, less spammy inbox",NEGATIVE,0.9819537401199341
+https://blog.google/products/android/new-android-features-may-2024/,7 new Android features to elevate your everyday,POSITIVE,0.9064244031906128
+https://blog.google/products/search/generative-ai-google-search-may-2024/,Generative AI in Search: Let Google do the searching for you,POSITIVE,0.9627150297164917
+https://blog.google/products/chrome/chrome-mobile-features-june-2024/,5 new Chrome features to help you search on mobile,NEGATIVE,0.967556357383728
+https://blog.google/products/keep/google-keep-reminders-tasks-update/,Google Keep reminders will be saved to Tasks,NEGATIVE,0.8881632685661316
+https://blog.google/products/gemini/google-gemini-update-may-2024/,Get more done with Gemini: Try 1.5 Pro and more intelligent features,NEGATIVE,0.9957823753356934
+https://blog.google/products/android/google-ai-android-update-io-2024/,Experience Google AI in even more ways on Android,POSITIVE,0.9927778840065002
+https://blog.google/products/chrome/google-chrome-safe-browsing-real-time/,Browse safely with real-time protection on Chrome,NEGATIVE,0.9371857643127441
+https://blog.google/products/assistant/google-assistant-update-january-2024/,Changes we’re making to Google Assistant,POSITIVE,0.9997001886367798
+https://blog.google/products/translate/google-translate-new-languages-2024/,110 new languages are coming to Google Translate,POSITIVE,0.9828502535820007
+https://blog.google/products/pixel/pixel-8a-launch/,Meet Pixel 8a: The Google AI phone at an unbeatable value,NEGATIVE,0.8968831300735474
+https://blog.google/products/ads-commerce/meet-the-google-tv-network/,Meet the Google TV network,POSITIVE,0.9444695115089417
+https://blog.google/products/android/android-15-google-io-2024/,10 updates coming to the Android ecosystem,POSITIVE,0.9934802055358887
+https://blog.google/technology/safety-security/google-passkeys-update-april-2024/,"Passkeys, Cross-Account Protection and new ways we’re protecting your accounts",POSITIVE,0.9990171194076538
+https://blog.google/products/gemini/bard-gemini-advanced-app/,Bard becomes Gemini: Try Ultra 1.0 and a new mobile app today,POSITIVE,0.999143123626709
+https://blog.google/products/android/ces-2024-android-updates/,What we announced at CES 2024,POSITIVE,0.9736875891685486
+https://blog.google/inside-google/message-ceo/google-io-2024-keynote-sundar-pichai/,Google I/O 2024: An I/O for a new generation,POSITIVE,0.9784324169158936
+https://blog.google/products/android/android-theft-protection/,Android’s theft protection features keep your device and data safe,POSITIVE,0.9913109540939331
+https://blog.google/technology/ai/google-gemini-ai/,Introducing Gemini: our largest and most capable AI model,POSITIVE,0.9997425675392151
+https://blog.google/products/search/google-search-update-march-2024/,"New ways we’re tackling spammy, low-quality content on Search",POSITIVE,0.6970245838165283
+https://blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/,The next chapter of our Gemini era,POSITIVE,0.9987951517105103
+https://blog.google/products/search/google-search-generative-ai-international-expansion/,Generative AI in Search expands to more than 120 new countries and territories,POSITIVE,0.9913892149925232
+https://blog.google/technology/research/google-project-starline-hp-partnership/,Bringing Project Starline out of the lab,POSITIVE,0.9976997971534729
+https://blog.google/products/gemini/google-bard-gemini-pro-image-generation/,Bard’s latest updates: Access Gemini Pro globally and generate images,POSITIVE,0.9975371360778809
+https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/R,"Gemini breaks new ground with a faster model, longer context, AI agents and more",NEGATIVE,0.9997195601463318
+https://blog.google/threat-analysis-group/commercial-surveillance-vendors-google-tag-report/,Buying Spying: How the commercial surveillance industry works and what can be done about it,NEGATIVE,0.9989602565765381
+https://nvidianews.nvidia.com/news/google-cloud-ai-development,Google Cloud and NVIDIA Expand Partnership to Scale AI Development,POSITIVE,0.9993352293968201
+https://blog.google/technology/ai/google-io-2024-100-announcements/,100 things we announced at I/O 2024,POSITIVE,0.999056875705719
+https://nvidianews.nvidia.com/news/google-cloud-and-nvidia-expand-partnership-to-advance-ai-computing-software-and-services,"Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services",POSITIVE,0.9877939224243164
+https://blog.google/products/photos/google-photos-memories-view/,"A new, scrapbook-like Memories view in Google Photos",NEGATIVE,0.978580892086029
+https://blog.google/products/gemini/google-bard-expansion-teens/,How we’ve created a helpful and responsible Bard experience for teens,POSITIVE,0.998264729976654
+https://blog.google/products/gemini/google-bard-new-features-update-sept-2023/,Bard can now connect to your Google apps and services,POSITIVE,0.9834738373756409
+https://blog.google/products/maps/updates-to-location-history-and-new-controls-coming-soon-to-maps/,Updates to Location History and new controls coming soon to Maps,POSITIVE,0.7764855027198792
+https://blog.google/products/search/google-search-november-2023-update/,New ways to find just what you need on Search,POSITIVE,0.9860081076622009
+https://blog.google/products/android/android-auto-new-features-ces24/,What’s new with Android for cars at CES,POSITIVE,0.9989977478981018
+https://blog.google/products/search/google-search-ai-january-2024-update/,New ways to search in 2024,POSITIVE,0.996514618396759
+https://blog.google/products/shopping/google-personalized-shopping-tips/,Get more personalized shopping options with these Google tools,POSITIVE,0.9879601001739502
+https://blog.google/technology/ai/ai-airlines-contrails-climate-change/,How AI is helping airlines mitigate the climate impact of contrails,POSITIVE,0.9897586107254028
+https://blog.google/products/shopping/google-generative-ai-marketing-features-may-2024/,New AI tools to help merchants market brands and products,POSITIVE,0.9988027811050415
+https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/,Chrome is getting 3 new generative AI features,POSITIVE,0.9737634658813477
+https://blog.google/products/android/modern-look/,A new modern look for the Android brand,POSITIVE,0.9983469247817993
+https://blog.google/products/gemini/google-gemini-new-features-july-2024/,"Gemini’s big upgrade: Faster responses with 1.5 Flash, expanded access and more",NEGATIVE,0.8091942667961121
+https://blog.google/products/photos/google-photos-editing-features-availability/,AI editing tools are coming to all Google Photos users,POSITIVE,0.9987422823905945
+https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/,Chromebooks will get 10 years of automatic updates,POSITIVE,0.7999182343482971
+https://blog.google/products/shopping/google-shopping-best-holiday-deals-2023/,How to find holiday shopping deals on Google,POSITIVE,0.9984116554260254
+https://blog.google/products/chrome/google-chrome-december-2023-update/,New performance and safety features are coming to Chrome,NEGATIVE,0.9957049489021301
+https://blog.google/technology/developers/gemma-open-models/,Gemma: Google introduces new state-of-the-art open models,POSITIVE,0.9991294741630554
+https://www.cnbc.com/2023/10/27/google-commits-to-invest-2-billion-in-openai-competitor-anthropic.html,Google commits to invest $2 billion in OpenAI competitor Anthropic,NEGATIVE,0.9932522177696228
+https://blog.google/products/chrome/google-chrome-update-february-2024/,3 new Chrome features to get more helpful suggestions,POSITIVE,0.9931079149246216
+http://research.google/blog/advancing-personal-health-and-wellness-insights-with-ai/,Advancing personal health and wellness insights with AI,POSITIVE,0.9963918328285217
+https://stratechery.com/2023/googles-true-moonshot/,Google’s True Moonshot,NEGATIVE,0.9973894953727722
+https://blog.google/products/pixel/google-thermometer-app-body-temperature/,How we built and tested body temperature on Pixel 8 Pro,POSITIVE,0.6462751030921936
+https://blog.google/products/maps/google-maps-october-2023-update/,New Maps updates: Immersive View for routes and other AI features,POSITIVE,0.9994800686836243
+https://blog.google/products/search/google-circle-to-search-android/,Circle (or highlight or scribble) to Search,NEGATIVE,0.9981672763824463
+https://blog.google/outreach-initiatives/sustainability/2024-environmental-report/R,Our 2024 Environmental Report,NEGATIVE,0.9996121525764465
+https://arstechnica.com/ai/2024/06/googles-ai-overviews-misunderstand-why-people-use-google/,Google’s AI Overviews misunderstand why people use Google,NEGATIVE,0.9969562292098999
+https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/,Our next-generation model: Gemini 1.5,POSITIVE,0.9981953501701355
+https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-93-million-settlement-regarding-google%E2%80%99s,Attorney General Bonta Announces $93 Million Settlement Regarding Google’s Location-Privacy Practices,NEGATIVE,0.9781703352928162
+https://apnews.com/article/google-layoffs-alphabet-amazon-tech-1de7e1a6b806a3252cfbb25fc4c5b2e3,"Google lays off hundreds in hardware, voice assistant teams amid cost-cutting drive",NEGATIVE,0.9361468553543091
+https://www.vox.com/technology/2023/9/11/23864514/google-search-antitrust-trial,What Google’s trial means for the company — and your web browsing,NEGATIVE,0.9939602613449097
+https://blog.google/products/maps/immersive-ar-content-google-maps-paris/,Explore new augmented reality features in Google Maps,POSITIVE,0.9995930790901184
+https://blog.google/outreach-initiatives/sustainability/google-fervo-geothermal-energy-partnership/,A first-of-its-kind geothermal project is now operational,POSITIVE,0.9963416457176208
+https://blog.google/products/gemini/gemini-image-generation-issue/,Gemini image generation got it wrong. We'll do better.,NEGATIVE,0.9987651109695435
+https://arstechnica.com/gadgets/2024/04/google-vids-is-googles-fourth-big-productivity-app-for-workspace/,“Google Vids” is Google’s fourth big productivity app for Workspace,NEGATIVE,0.9995836615562439
+https://blog.google/products/android/android-find-my-device/,5 ways to use the new Find My Device on Android,NEGATIVE,0.9948967099189758
+https://apnews.com/article/google-search-ai-overviews-internet-traffic-ebb6bbbde17ed29a5f7b630d9e5e285b,"Google unleashes AI in search, raising hopes for better results and fears about less web traffic",NEGATIVE,0.9846943020820618
+https://www.cnet.com/tech/services-and-software/google-io-highlights-unpacking-gemini-updates-and-ai-overviews/,Google I/O Highlights: Unpacking Gemini Updates and AI Overviews,NEGATIVE,0.9517130255699158
+https://www.washingtonpost.com/opinions/2024/02/27/google-gemini-bias-race-politics/,Opinion | Female popes? Google’s amusing AI bias underscores a serious problem.,NEGATIVE,0.9909411072731018
+https://blog.google/technology/developers/google-gemma-2/,Gemma 2 is now available to researchers and developers,POSITIVE,0.9939064383506775
+https://stratechery.com/2024/gemini-and-googles-culture/,Gemini and Google’s Culture,NEGATIVE,0.9984819293022156
+https://blog.google/technology/safety-security/titan-security-key-google-store/,The latest Titan Security Key is in the Google Store,NEGATIVE,0.6693412661552429
+https://blog.google/outreach-initiatives/google-org/google-cybersecurity-investments-june-2024/,New investments to help build the U.S. cybersecurity workforce,POSITIVE,0.9796247482299805
+https://blog.google/products/maps/google-maps-immersive-view-routes/,How we built Immersive View for routes on Maps,POSITIVE,0.9994528889656067
+https://blog.google/products/photos/locked-folder-cloud-backup/,Access Locked Folder in Google Photos across your devices with cloud backup,NEGATIVE,0.9875779747962952
+https://blog.google/products/gemini/google-bard-try-gemini-ai/,Bard gets its biggest upgrade yet with Gemini,POSITIVE,0.9094353318214417
+https://blog.google/products/android/google-updates-samsung-galaxy-unpacked-2024/,4 Google updates coming to Samsung devices,POSITIVE,0.5619990825653076
+https://blog.google/products/ads-commerce/enhance-visual-storytelling-in-demand-gen-with-generative-ai/,Enhance visual storytelling in Demand Gen with generative AI,POSITIVE,0.9986989498138428
+https://www.wired.com/story/google-ai-overview-search-results-copied-my-original-work/,Google’s AI Overview Search Results Copied My Original Work,NEGATIVE,0.5947025418281555
+https://blog.google/products/ads-commerce/put-google-ai-to-work-with-search-ads/,Put Google AI to work with Search ads,POSITIVE,0.9982812404632568
+https://apnews.com/article/google-epic-games-antitrust-trial-android-app-store-dd6b26be7447b5ff8cc0d20a4d01b6b4,Epic Games wins antitrust lawsuit against Google over barriers to its Android app store,NEGATIVE,0.9980571866035461
+https://blog.google/products/google-one/google-one-gemini-ai-gmail-docs-sheets/,"Boost your productivity: Use Gemini in Gmail, Docs and more with the new Google One plan",POSITIVE,0.9514231085777283
+https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/R,AlphaFold 3 predicts the structure and interactions of all of life’s molecules,NEGATIVE,0.9997310042381287
+https://blog.google/products/android/7-new-messages-features/,New features to celebrate Messages' 1 billion RCS users,POSITIVE,0.999038577079773
+https://www.cnet.com/tech/services-and-software/google-io-ai-tools-breakdown/,Confused by All of Google's AI Tools? We Break Down 13 of Them,NEGATIVE,0.999677300453186
+https://blog.google/products/pixel/software-support-pixel-8-pixel-8-pro/,7 years of software updates for the Pixel 8 series,POSITIVE,0.9811106324195862
+https://blog.google/technology/safety-security/google-passkeys-advanced-protection-program/,Passkeys are now available for high risk users to enroll in the Advanced Protection Program,NEGATIVE,0.9619880318641663
+https://www.nytimes.com/2024/01/11/technology/google-layoffs.html,Google Cuts Hundreds of Jobs in Engineering and Other Divisions,NEGATIVE,0.9983035326004028
+https://blog.google/products/pixel/google-pixel-8-pro/,"Meet Pixel 8 and Pixel 8 Pro, our newest phones",POSITIVE,0.9947065711021423
+https://www.theverge.com/24167865/google-zero-search-crash-housefresh-ai-overviews-traffic-data-audience,Google Zero is here — now what?,POSITIVE,0.9840265512466431
+https://blog.google/outreach-initiatives/sustainability/google-ai-project-greenlight/,How Google uses AI to reduce stop-and-go traffic on your route — and fight fuel emissions,NEGATIVE,0.9886465668678284
+https://www.cnbc.com/2024/01/11/google-layoffs-hundreds-of-jobs-cut-across-engineering-and-hardware.html,"Google cuts hundreds of jobs across engineering, hardware teams",NEGATIVE,0.9818426370620728
+https://blog.google/products/pixel/pixel-feature-drop-june-2024/,June Feature Drop: New features and upgrades for the Pixel portfolio,NEGATIVE,0.9241557717323303
+https://about.fb.com/news/2023/10/facebook-and-instagram-to-offer-subscription-for-no-ads-in-europe/,Facebook and Instagram to Offer Subscription for No Ads in Europe,POSITIVE,0.9967228770256042
+https://about.fb.com/news/2023/12/meta-ai-updates/,What’s New Across Our AI Experiences,POSITIVE,0.9792097806930542
+https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/,Introducing New AI Experiences Across Our Family of Apps and Devices,POSITIVE,0.9996059536933899
+https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/,"Meet Your New Assistant: Meta AI, Built With Llama 3",POSITIVE,0.993674635887146
+https://about.fb.com/news/2023/10/manage-your-information-across-apps/,Making It Easier To Manage Your Information Across Meta’s Apps,NEGATIVE,0.9713419079780579
+https://about.fb.com/news/2024/04/metas-approach-to-labeling-ai-generated-content-and-manipulated-media/,Our Approach to Labeling AI-Generated Content and Manipulated Media,NEGATIVE,0.993961751461029
+https://about.fb.com/news/2023/08/new-features-and-additional-transparency-measures-as-the-digital-services-act-comes-into-effect/,New Features and Additional Transparency Measures as the Digital Services Act Comes Into Effect,POSITIVE,0.9990444779396057
+https://about.fb.com/news/2024/02/labeling-ai-generated-images-on-facebook-instagram-and-threads/,"Labeling AI-Generated Images on Facebook, Instagram and Threads",POSITIVE,0.9992916584014893
+https://about.fb.com/news/2024/04/new-ray-ban-meta-smart-glasses-styles-and-meta-ai-updates/,New Ray-Ban | Meta Smart Glasses Styles and Meta AI Updates,POSITIVE,0.9724478125572205
+https://about.fb.com/news/2024/07/create-your-own-custom-ai-with-ai-studio/,Create Your Own Custom AI With AI Studio,POSITIVE,0.9951137900352478
+https://about.fb.com/news/2023/08/raising-online-defenses/,Raising Online Defenses Through Transparency and Collaboration,POSITIVE,0.9890975952148438
+https://about.fb.com/news/2024/01/teen-protections-age-appropriate-experiences-on-our-apps/,New Protections to Give Teens More Age-Appropriate Experiences on Our Apps,POSITIVE,0.9129185676574707
+https://about.fb.com/news/2023/09/meet-meta-quest-3-mixed-reality-headset/,"Meet Meta Quest 3, Our Mixed Reality Headset Starting at $499.99",NEGATIVE,0.6824376583099365
+https://about.fb.com/news/2023/09/an-update-on-facebook-news-in-europe/,An Update on Facebook News in Europe,NEGATIVE,0.974661111831665
+https://about.fb.com/news/2023/09/new-ray-ban-meta-smart-glasses/,Introducing the New Ray-Ban | Meta Smart Glasses,POSITIVE,0.9958359003067017
+https://about.fb.com/news/2024/07/meta-ai-is-now-multilingual-more-creative-and-smarter/,"Meta AI Is Now Multilingual, More Creative and Smarter",POSITIVE,0.997530996799469
+https://about.fb.com/news/2024/06/building-ai-technology-for-europeans-in-a-transparent-and-responsible-way/,Building AI Technology for Europeans in a Transparent and Responsible Way,NEGATIVE,0.9993711113929749
+https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/,Open Source AI Is the Path Forward,POSITIVE,0.9865717887878418
+https://about.fb.com/news/2023/11/new-tools-to-support-independent-research/,New Tools to Support Independent Research,NEGATIVE,0.9971780776977539
+https://about.fb.com/news/2024/01/introducing-stricter-message-settings-for-teens-on-instagram-and-facebook/,Introducing Stricter Message Settings for Teens on Instagram and Facebook,NEGATIVE,0.9763784408569336
+https://about.fb.com/news/2024/06/what-is-the-fediverse/,What Is the Fediverse?,POSITIVE,0.8728718757629395
+https://about.fb.com/news/2024/07/combating-financial-sextortion-scams-from-nigeria/,Combating Financial Sextortion Scams From Nigeria,POSITIVE,0.9523569941520691
+https://about.fb.com/news/2024/02/how-meta-is-preparing-for-the-eus-2024-parliament-elections/,How Meta Is Preparing for the EU’s 2024 Parliament Elections,POSITIVE,0.9973913431167603
+https://about.fb.com/news/2024/01/offering-people-more-choice-on-how-they-can-use-our-services-in-the-eu/,Offering People More Choice on How They Can Use Our Services in the EU,POSITIVE,0.9921161532402039
+https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-against-meta-over-harms-youth-mental-health,Attorney General Bonta Files Lawsuit Against Meta Over Harms to Youth Mental Health,NEGATIVE,0.9951914548873901
+https://about.fb.com/news/2023/09/meta-verified-for-businesses/,Expanding Meta Verified to Businesses,POSITIVE,0.939842164516449
+https://about.fb.com/news/2024/04/meta-joins-thorn-and-industry-partners-in-generative-ai-principles/,Meta Joins Thorn and Industry Partners in New Generative AI Principles,POSITIVE,0.9972808361053467
+https://about.fb.com/news/2024/04/introducing-our-open-mixed-reality-ecosystem/,Introducing Our Open Mixed Reality Ecosystem,POSITIVE,0.9956127405166626
+https://about.fb.com/news/2023/09/privacy-matters-metas-generative-ai-features/,Privacy Matters: Meta’s Generative AI Features,POSITIVE,0.9952078461647034
+https://about.fb.com/news/2024/04/leading-the-way-in-governance-innovation-with-community-forums-on-ai/,Leading the Way in Governance Innovation With Community Forums on AI,POSITIVE,0.996925413608551
+https://about.fb.com/news/2023/11/how-meta-is-planning-for-elections-in-2024/,How Meta Is Planning for Elections in 2024,POSITIVE,0.9986605644226074
+https://www.wired.com/story/meta-ray-ban-ai-translation-skills-do-not-work-well/,I Wore Meta Ray-Bans in Montreal to Test Their AI Translation Skills. It Did Not Go Well,NEGATIVE,0.9988656044006348
+https://about.fb.com/news/2023/12/default-end-to-end-encryption-on-messenger/,Launching Default End-to-End Encryption on Messenger,POSITIVE,0.9988786578178406
+https://about.fb.com/news/2023/11/online-teen-safety-legislation-is-needed/,Parenting in a Digital World Is Hard. Congress Can Make It Easier.,NEGATIVE,0.9886350631713867
+https://www.prnewswire.com/news-releases/meta-reports-fourth-quarter-and-full-year-2023-results-initiates-quarterly-dividend-302051285.html,Meta Reports Fourth Quarter and Full Year 2023 Results; Initiates Quarterly Dividend,POSITIVE,0.9989206790924072
+https://about.fb.com/news/2023/09/social-profiles-for-metas-ai-characters/,Introducing Social Profiles for Meta’s AIs,POSITIVE,0.9966896772384644
+https://about.fb.com/news/2023/09/metaverse-technologies-education-opportunities/,Metaverse Technologies Are Creating New Opportunities for Teachers to Inspire Students,POSITIVE,0.9957497119903564
+https://about.fb.com/news/2024/04/new-tools-to-help-protect-against-sextortion-and-intimate-image-abuse/,New Tools to Help Protect Against Sextortion and Intimate Image Abuse,POSITIVE,0.993450403213501
+https://about.fb.com/news/2023/11/lantern-program-protecting-children-online/,Introducing Lantern: Protecting Children Online,POSITIVE,0.9680012464523315
+https://about.fb.com/news/2024/02/update-on-facebook-news-us-australia/,An Update on Facebook News,NEGATIVE,0.9775677919387817
+https://about.fb.com/news/2024/06/releasing-new-ai-research-models-to-accelerate-innovation-at-scale/,Releasing New AI Research Models to Accelerate Innovation at Scale,POSITIVE,0.9994217157363892
+https://about.fb.com/news/2023/11/new-ways-to-create-content-on-instagram/,New Ways to Create Content on Instagram,POSITIVE,0.9644342064857483
+https://www.socialmediatoday.com/news/meta-adds-video-automated-catalog-ads/716802/,Meta Adds Video to Its Automated Catalog Ads,NEGATIVE,0.9778153896331787
+https://about.fb.com/news/2023/09/building-generative-ai-features-responsibly/,Building Generative AI Features Responsibly,POSITIVE,0.9964981079101562
+https://about.fb.com/news/2023/09/you-can-now-have-multiple-personal-profiles-on-facebook/,You Can Now Have Multiple Personal Profiles on Facebook,POSITIVE,0.8274045586585999
+https://about.fb.com/news/2024/04/supporting-parents-with-screen-smart-program/,Supporting Parents Online With Our Screen Smart Program,POSITIVE,0.9767348170280457
+https://www.cnbc.com/2023/11/18/facebook-parent-meta-breaks-up-its-responsible-ai-team.html,Facebook-parent Meta breaks up its Responsible AI team,NEGATIVE,0.9983590245246887
+https://www.nytimes.com/2024/05/05/opinion/facebook-court-internet-meta.html,Opinion | I Love Facebook. That’s Why I’m Suing Meta.,NEGATIVE,0.9153416156768799
+https://about.fb.com/news/2023/11/helping-creators-test-content-and-earn-rewards/,Helping Creators Test Content and Earn Rewards,NEGATIVE,0.9919930696487427
+https://www.cnbc.com/2023/09/05/meta-employees-are-back-in-office-three-days-a-week-.html,Meta employees are back in the office three days a week as part of new mandate,NEGATIVE,0.9915807843208313
+https://about.fb.com/news/2024/04/ensuring-age-appropriate-experiences-on-meta-quest/,Ensuring Age-Appropriate Experiences on Meta Quest,POSITIVE,0.9984101057052612
+https://about.fb.com/news/2024/05/new-stickers-in-instagram-stories/,New Stickers in Instagram Stories,POSITIVE,0.999193012714386
+https://www.nytimes.com/2023/11/08/technology/meta-political-ads-artificial-intelligence.html,Meta to Require Political Advertisers to Disclose Use of A.I.,NEGATIVE,0.9853768944740295
+https://www.theverge.com/2024/2/6/24062388/meta-ai-photo-watermark-facebook-instagram-threads,Meta says you better disclose your AI fakes or it might just pull them,NEGATIVE,0.9567461013793945
+https://about.fb.com/news/2024/03/how-meta-is-preparing-for-indian-general-elections-2024/,How Meta Is Preparing For Indian General Elections 2024,POSITIVE,0.9967930912971497
+https://about.fb.com/news/2024/04/introducing-our-next-generation-infrastructure-for-ai/,Introducing Our Next Generation Infrastructure for AI,POSITIVE,0.9989425539970398
+https://about.fb.com/news/2024/02/creator-marketplace-for-brands-and-creators-to-collaborate-on-instagram/,Making it Easier for Brands and Creators to Collaborate on Instagram,POSITIVE,0.9992966651916504
+https://apnews.com/article/meta-facebook-instagram-political-ads-deepfakes-2024-c4aec653d5043a09b1c78b4fb5dcd79b,"To help 2024 voters, Meta says it will begin labeling political ads that use AI-generated imagery",NEGATIVE,0.9914081692695618
+https://www.businessinsider.com/meta,"Meta: From Facebook to the Metaverse, company Mark Zuckerberg built",POSITIVE,0.9008277654647827
+https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28,States sue Meta claiming its social platforms are addictive and harm children’s mental health,NEGATIVE,0.9978929162025452
+https://www.cnet.com/tech/services-and-software/meta-ai-tool-now-driven-by-new-more-powerful-llama-3-model-meta-says/,"Meta AI Tool Now Driven by New, More Powerful Llama 3 Model, Meta Says",POSITIVE,0.9970678687095642
+https://apnews.com/article/meta-facebook-instagram-earnings-profit-1q-guidance-378d5a7e487b7b17bf89c2ad0cad4a6c,Meta more than doubles Q1 profit but revenue guidance pulls shares down after-hours,NEGATIVE,0.9974688291549683
+https://about.fb.com/news/2024/04/new-education-product-for-quest-devices/,New Education Product for Quest Devices Will Help Teachers Bring Subjects to Life in New Ways,POSITIVE,0.9977608919143677
+https://www.wired.com/review/review-meta-quest-3/,"Meta Quest 3 Review: Huge Hardware Bump, But Who's It For?",NEGATIVE,0.7607632875442505
+https://www.businessinsider.com/meta-rto-policy-updates-stricter-mandate-2023-8,Meta updates its RTO policy with a stricter mandate,NEGATIVE,0.9974283576011658
+https://about.fb.com/news/2024/04/hd-photos-shared-albums-and-more-on-messenger/,"HD Photos, Shared Albums and More on Messenger",POSITIVE,0.5395162105560303
+https://www.texastribune.org/2024/07/30/texas-meta-facebook-biometric-data-settlement/,Meta to pay Texas $1.4 billion for using facial recognition technology without users’ permission,NEGATIVE,0.9396186470985413
+https://about.fb.com/news/2023/12/purple-llama-safe-responsible-ai-development/,Introducing Purple Llama for Safe and Responsible AI Development,POSITIVE,0.994418740272522
+https://www.cnet.com/tech/computing/metas-ray-ban-glasses-added-ai-that-can-see-what-youre-seeing/,Meta's Ray-Ban Glasses Added AI That Can See What You're Seeing,NEGATIVE,0.9936793446540833
+https://www.theverge.com/2023/11/15/23962426/meta-appeal-eu-gatekeeper-messenger-marketplace,Meta will fight the EU over regulating Messenger,NEGATIVE,0.9979972243309021
+https://www.theverge.com/2023/11/8/23951346/meta-political-ads-ai-artificial-intelligence-advertising,Meta to require political advertisers disclose AI-generated content,NEGATIVE,0.9971843361854553
+https://about.fb.com/news/2023/08/code-llama-ai-for-coding/,"Introducing Code Llama, an AI Tool for Coding",POSITIVE,0.9985527396202087
+https://www.socialmediatoday.com/news/metas-removing-detailed-targeting-options-ad-campaigns/704375/,Meta To Remove More Detailed Targeting Options for Ad Campaigns,NEGATIVE,0.9754142165184021
+https://stratechery.com/2024/meta-and-open/,Meta and Open,NEGATIVE,0.9059838652610779
+https://about.fb.com/news/2023/10/broadcast-channels-on-facebook-and-messenger/,Introducing Broadcast Channels on Facebook and Messenger,POSITIVE,0.9967426657676697
+https://about.fb.com/news/2023/08/seamlessm4t-ai-translation-model/,"Introducing SeamlessM4T, a Multimodal AI Model for Speech and Text Translations",POSITIVE,0.9981691837310791
+https://apnews.com/article/meta-adds-labels-to-ai-imagery-deepfakes-415163d053ed915042a04f1ec3d9eafa,Meta says it will label AI-generated images on Facebook and Instagram,POSITIVE,0.9093011617660522
+https://about.fb.com/news/2023/11/giving-creators-more-ways-to-earn-money-on-facebook-and-instagram/,Giving Creators More Ways to Earn Money on Facebook and Instagram,POSITIVE,0.7391677498817444
+https://www.nytimes.com/2023/08/02/business/media/meta-news-in-canada.html,"In Canada, Meta Begins Blocking News on Facebook and Instagram",NEGATIVE,0.9973777532577515
+https://about.fb.com/news/2024/06/new-ai-tools-meta-verified-and-more-for-businesses-on-whatsapp/,"New AI Tools, Meta Verified and More for Businesses on WhatsApp",POSITIVE,0.9908223152160645
+https://www.theverge.com/2024/1/18/24042354/mark-zuckerberg-meta-agi-reorg-interview,Mark Zuckerberg’s new goal is creating artificial general intelligence,NEGATIVE,0.9341102242469788
+https://about.fb.com/news/2024/04/meta-files-motion-for-summary-judgment-in-ftc-lawsuit-relating-to-instagram-and-whatsapp/,"Meta Files Motion for Summary Judgment in FTC Lawsuit Relating to Instagram and WhatsApp, Arguing No Evidence Supports Government’s Antitrust Claims",NEGATIVE,0.998293936252594
+https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/,Number of Netflix paid subscribers worldwide from 1st quarter 2013 to 2nd quarter 2024,NEGATIVE,0.9945922493934631
+https://www.nytimes.com/2024/05/25/magazine/ted-sarandos-netflix-interview.html,“The Interview”: Ted Sarandos’s Plan to Get You to Binge Even More Netflix,POSITIVE,0.9971146583557129
+https://apnews.com/article/netflix-fourth-quarter-results-video-streaming-subscriber-growth-b4803e9cd07897dfb928b4064fc35657,Netflix's gains 13M new global 4Q subscribers as it unwraps its best-ever holiday season results,NEGATIVE,0.6741305589675903
+https://www.cnet.com/tech/services-and-software/netflix-review-our-top-choice-in-crowded-market/,Netflix Review: Our Top Choice in a Crowded Market,NEGATIVE,0.8835964798927307
+https://www.netflix.com/tudum/articles/netflix-house,"Netflix House Will Let You Experience Your Favorite Shows, Movies in Real Life",POSITIVE,0.982412576675415
+https://www.netflix.com/tudum/roblox-nextworld,Explore Your Netflix Favorites in the New Nextworld Universe on Roblox,POSITIVE,0.9975224137306213
+https://www.netflix.com/tudum/articles/wake-up-dead-man-knives-out-mystery-cast-release-date-plot,Benoit Blanc Is Back on the Case in Wake Up Dead Man: A Knives Out Mystery,POSITIVE,0.9791635870933533
+https://www.netflix.com/tudum/articles/nfl-games-on-netflix,Netflix Will Be the Home to Live NFL Games This Christmas Day,NEGATIVE,0.9823190569877625
+https://www.theverge.com/2024/1/17/24042179/netflix-apple-vision-pro-app,Netflix’s app won’t work on the Vision Pro,NEGATIVE,0.9984644651412964
+https://www.investopedia.com/insights/how-netflix-makes-money/,How Netflix Makes Money,NEGATIVE,0.6464687585830688
+https://www.netflix.com/tudum/articles/the-gentlemen-show-release-date-photos,The Gentlemen Is Bringing the Swagger: Inside Guy Ritchie’s New Show,POSITIVE,0.9983490705490112
+https://www.pastemagazine.com/tv/netflix/the-decameron-review,Netflix’s The Decameron Gorges Itself on Its Own Gleefully Irreverent Feast,POSITIVE,0.9988377690315247
+https://www.wired.com/story/netflix-best-shows-this-week/,The 52 Best Shows on Netflix Right Now (July 2024),POSITIVE,0.9986888766288757
+https://www.netflix.com/tudum/drop01,Add the Article Hed Here,POSITIVE,0.9971675276756287
+https://www.netflix.com/tudum/articles/baby-reindeer-cast-release-date-plot,What Is Baby Reindeer ? The True Story and New Series Explained,POSITIVE,0.9991875290870667
+https://www.netflix.com/tudum/articles/rebel-moon-zack-snyder,Zack Snyder Answers Your Burning Questions About the Rebel Moon Teaser,POSITIVE,0.9982333183288574
+https://www.netflix.com/tudum/articles/jake-paul-vs-mike-tyson-live-release-date-news,"Jake Paul vs. Mike Tyson Live Fight Is On for Friday, November 15",POSITIVE,0.9954248070716858
+https://www.bloomberg.com/news/newsletters/2024-01-07/netflix-cuts-over-100-shows-from-programming-slate,Netflix Cuts Over 100 Shows In Major Programming Shift,NEGATIVE,0.9990498423576355
+https://apnews.com/article/netflix-video-streaming-subscribers-earnings-second-quarter-d77c9a1f7ce29d1647354a7acf70a7ea,Netflix's subscriber and earnings growth gather more momentum as password-sharing crackdown pays off,POSITIVE,0.9960660338401794
+https://www.netflix.com/tudum/articles/the-witcher-season-4-liam-hemsworth,Liam Hemsworth Is Picking Up Geralt’s Sword for The Witcher Seasons 4 and 5,POSITIVE,0.9993756413459778
+https://www.netflix.com/tudum/articles/wednesday-season-2-renewed,‘Wednesday’ Renewed for a Woeful Season 2,NEGATIVE,0.9979391694068909
+https://www.netflix.com/tudum/articles/tim-mcgraw-series,Tim McGraw to Take Bull by the Horns in New Drama Series,POSITIVE,0.9980425834655762
+https://www.cnn.com/2023/09/28/tech/netflix-dvd-rental-movies-ending/index.html,"Netflix shutters its DVD rental business, marking the end of the red envelope era",NEGATIVE,0.99481600522995
+https://www.netflix.com/tudum/articles/beverly-hills-cop-axel-f-release-date-plot,Everything You Need to Know About Beverly Hills Cop: Axel F,POSITIVE,0.9884318709373474
+https://www.netflix.com/tudum/articles/hot-dog-eating-contest-joey-chestnut-kobayashi-live-date-news,Joey Chestnut and Takeru Kobayashi to Face Off in Live Hot Dog Eating Contest,POSITIVE,0.5311971306800842
+https://www.netflix.com/tudum/articles/wes-anderson-netflix-short-films,Everything You Need to Know About Wes Anderson’s Wonderful Story of Henry Sugar,POSITIVE,0.9997058510780334
+https://www.netflix.com/tudum/articles/atlas-jennifer-lopez-release-date-photos-news,"In Atlas , Jennifer Lopez Suits Up for Space",POSITIVE,0.9973863959312439
+https://www.netflix.com/tudum/articles/spaceman-adam-sandler-release-date-photos,Spaceman : Everything to Know About Adam Sandler’s Sci-Fi Drama,NEGATIVE,0.7876883745193481
+https://www.netflix.com/tudum/articles/reptile-release-date-photos-news,‘Reptile’: Everything You Need to Know About the New Benicio Del Toro Mystery,NEGATIVE,0.9781333804130554
+https://www.netflix.com/tudum/articles/terminator-anime-release-date-photos-news,Terminator Zero Anime Series Time Travels This August,NEGATIVE,0.7582080960273743
+https://variety.com/2024/digital/news/netflix-house-entertainment-dining-shopping-complexes-cities-2025-1236040989/,"Netflix to Open Massive Entertainment, Dining and Shopping Complexes in Two Cities in 2025",POSITIVE,0.9946427345275879
+https://www.netflix.com/tudum/articles/prince-harry-meghan-duchess-of-sussex-series-release-date-news,Harry and Meghan Just Announced Two New Series in Production This Year,POSITIVE,0.9995173215866089
+https://www.netflix.com/tudum/articles/3-body-problem-renewed,3 Body Problem Will Return For Seasons 2 and 3,POSITIVE,0.9871330261230469
+https://www.netflix.com/tudum/articles/heartstopper-season-3,Heartstopper Season 3: Here’s Everything to Know About the Next Chapter,POSITIVE,0.9965954422950745
+https://www.polygon.com/24207083/man-from-uncle-streaming-netflix-henry-cavill-armie-hammer,I’m so conflicted about Armie Hammer,POSITIVE,0.9974977374076843
+https://www.netflix.com/tudum/articles/netflix-cup-live-event-date-news,"What to Know About The Netflix Cup, Today’s First-Ever Live Sports Event",POSITIVE,0.9983354210853577
+https://www.cnbc.com/2024/01/23/netflix-to-stream-wwes-raw-starting-next-year.htmlR,Netflix to stream WWE's Raw starting next year in its biggest jump into live entertainment,NEGATIVE,0.9818426370620728
+https://www.netflix.com/tudum/articles/one-piece-season-renewed,The ‘ONE PIECE’ Adventure Will Continue,POSITIVE,0.996292769908905
+https://www.netflix.com/tudum/articles/new-games-summer-fest,A Sneak Peek at the New Games Coming to Netflix,POSITIVE,0.9974633455276489
+https://www.netflix.com/tudum/articles/sofia-vergara-griselda-release-date,See Sofía Vergara’s Transformation into ‘Griselda’,POSITIVE,0.9940808415412903
+https://www.netflix.com/tudum/articles/kaos-plot-release-date-news,The KAOS Teaser Is Here — and Jeff Goldblum Is King (of the Gods),POSITIVE,0.9981310963630676
+https://www.netflix.com/tudum/articles/squid-game-the-challenge-release-date-news,Zip Up Your Tracksuits Because ‘Squid Game: The Challenge’ Is Here,POSITIVE,0.9968999624252319
+https://www.netflix.com/tudum/articles/sandman-new-episodes,Enter the Season of Mists with The Sandman’s Dreamy New Cast Members,POSITIVE,0.9977678060531616
+https://www.nytimes.com/2024/02/28/business/media/netflix-dan-lin.html,Netflix Names Dan Lin Its Top Movie Executive,POSITIVE,0.9983294606208801
+https://www.netflix.com/tudum/articles/our-living-world-release-date-trailer-news,Discover the Planet’s Biggest Social Network in Our Living World,POSITIVE,0.9994547963142395
+https://www.netflix.com/tudum/articles/new-animated-movies-shows,Your Ultimate Guide to the Animated Movies and Shows Coming to Netflix,NEGATIVE,0.9922602772712708
+https://www.netflix.com/tudum/articles/what-is-one-piece,What Is 'ONE PIECE' About? And What Is the Treasure? Creator Eiichiro Oda Explains,POSITIVE,0.9995895028114319
+https://www.netflix.com/tudum/articles/twilight-of-the-gods-animated,Bow Before the Norse Deities of Zack Snyder’s Twilight of the Gods,POSITIVE,0.9998488426208496
+https://www.netflix.com/tudum/articles/resurrected-rides-season-1-release-date-news,Resurrected Rides Puts a Custom Spin on Pimp My Ride,POSITIVE,0.9976778626441956
+https://www.nytimes.com/2024/01/22/business/media/netflix-scott-stuber.html,Netflix’s Head of Film to Depart,NEGATIVE,0.995664656162262
+https://www.theverge.com/2023/10/18/23922319/netflix-q3-earnings-2023-price-hike-increase-basic-premium,Here comes another Netflix price hike,NEGATIVE,0.9988852143287659
+https://www.netflix.com/tudum/articles/hit-man-release-date-photos-news,Hit Man Cast: Glen Powell Brings the True Story of Gary Johnson to Life,POSITIVE,0.9910743832588196
+https://www.emarketer.com/insights/netflix-subscribers/,"Guide to Netflix for marketers and advertisers: subscription models, subscriber engagement, and trends",POSITIVE,0.9882864356040955
+https://www.businessinsider.com/guides/streaming/netflix-price,How much is Netflix in 2024? A breakdown of the monthly prices for every subscription plan,POSITIVE,0.9953944683074951
+https://www.netflix.com/tudum/articles/one-piece-release-date-photos,Time to Hit the High Seas: Here's Everything You Need to Know About 'ONE PIECE',NEGATIVE,0.9876846075057983
+https://www.bloomberg.com/news/newsletters/2024-06-23/netflix-s-advertising-challenge-it-isn-t-big-enough,Netflix’s Advertising Challenge: It Isn’t Big Enough,NEGATIVE,0.5564820170402527
+https://www.netflix.com/tudum/articles/bodies-release-date-news,‘Bodies’: What to Know About the Genre-Defying Crime Series,POSITIVE,0.9717622995376587
+https://www.netflix.com/tudum/articles/decameron-series-announcement,"‘The Decameron’ Adaptation: Release Date, Cast, Photos, Teaser Trailer",NEGATIVE,0.935181736946106
+https://www.nytimes.com/2024/01/14/business/media/netflix-streaming-movies-ratings.html,A Few Words About Netflix’s Success: Vivid. Snappy. Tags.,POSITIVE,0.9980416297912598
+https://www.netflix.com/tudum/articles/happy-gilmore-2-release-date-photos-news,Adam Sandler Is Picking Up His Golf Club Again As Happy Gilmore,NEGATIVE,0.6516979932785034
+https://www.netflix.com/tudum/articles/the-fall-of-the-house-of-usher-date-announcement,‘The Fall of the House of Usher’ is ‘Batsh-- Crazy’,POSITIVE,0.9977593421936035
+https://nvidianews.nvidia.com/news/nvidia-blackwell-platform-arrives-to-power-a-new-era-of-computing,NVIDIA Blackwell Platform Arrives to Power a New Era of Computing,POSITIVE,0.9983273148536682
+https://nvidianews.nvidia.com/news/nvidia-supercharges-hopper-the-worlds-leading-ai-computing-platform,"NVIDIA Supercharges Hopper, the World’s Leading AI Computing Platform",POSITIVE,0.9929350018501282
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025,NVIDIA Announces Financial Results for First Quarter Fiscal 2025,NEGATIVE,0.9931172132492065
+https://blogs.nvidia.com/blog/rtx-video-hdr-remix-studio-driver/,High Can See Clearly Now: AI-Powered NVIDIA RTX Video HDR Transforms Standard Video Into Stunning High Dynamic Range,POSITIVE,0.9994708895683289
+https://nvidianews.nvidia.com/news/gh200-grace-hopper-superchip-with-hbm3e-memory,NVIDIA Unveils Next-Generation GH200 Grace Hopper Superchip Platform for Era of Accelerated Computing and Generative AI,POSITIVE,0.996837854385376
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2024,NVIDIA Announces Financial Results for Third Quarter Fiscal 2024,NEGATIVE,0.97683185338974
+https://blogs.nvidia.com/blog/omniverse-apple-vision-pro/,NVIDIA Omniverse Expands Worlds Using Apple Vision Pro,POSITIVE,0.9755209684371948
+https://nvidianews.nvidia.com/news/omniverse-cloud-apis-industrial-digital-twin,NVIDIA Announces Omniverse Cloud APIs to Power Wave of Industrial Digital Twin Software Tools,POSITIVE,0.9977052807807922
+https://blogs.nvidia.com/blog/google-gemma-llm-rtx-ai-pc/,Shining Brighter Together: Google’s Gemma Optimized to Run on NVIDIA GPUs,POSITIVE,0.997322142124176
+https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2024,NVIDIA Announces Financial Results for Second Quarter Fiscal 2024,NEGATIVE,0.9768689274787903
+https://blogs.nvidia.com/blog/rtx-ada-ai-workflows/,NVIDIA RTX 500 and 1000 Professional Ada Generation Laptop GPUs Drive AI-Enhanced Workflows From Anywhere,POSITIVE,0.9677848219871521
+https://blogs.nvidia.com/blog/sphere-las-vegas/,Widescreen Wonder: Las Vegas Sphere Delivers Dazzling Displays,POSITIVE,0.9994971752166748
+https://nvidianews.nvidia.com/news/nvidia-brings-ai-assistants-to-life-with-geforce-rtx-ai-pcs,NVIDIA Brings AI Assistants to Life With GeForce RTX AI PCs,POSITIVE,0.8898922801017761
+https://blogs.nvidia.com/blog/rtx-advanced-ai-windows-pc-build/,"New Performance Optimizations Supercharge NVIDIA RTX AI PCs for Gamers, Creators and Developers",POSITIVE,0.9856330752372742
+https://nvidianews.nvidia.com/news/geforce-rtx-40-super-series,GeForce RTX 40 SUPER Series: New Heroes Debut in the Gaming and Creating Universe With AI as Their Superpower,POSITIVE,0.9708587527275085
+https://blogs.nvidia.com/blog/ai-decoded-rtxvideo-firefox/,Fire It Up: Mozilla Firefox Adds Support for AI-Powered NVIDIA RTX Video,POSITIVE,0.5713459849357605
+https://blogs.nvidia.com/blog/eureka-robotics-research/,Eureka! NVIDIA Research Breakthrough Puts New Spin on Robot Learning,POSITIVE,0.9986666440963745
+https://nvidianews.nvidia.com/news/generative-ai-rtx-pcs-and-workstations,"NVIDIA Brings Generative AI to Millions, With Tensor Core GPUs, LLMs, Tools for RTX PCs and Workstations",POSITIVE,0.9956381916999817
+https://nvidianews.nvidia.com/news/robotics-industry-development-ai-autonomous-machines,NVIDIA Robotics Adopted by Industry Leaders for Development of Tens of Millions of AI-Powered Autonomous Machines,POSITIVE,0.9870211482048035
+https://blogs.nvidia.com/blog/ampere-rtx-a400-a1000-ai/,New NVIDIA RTX A400 and A1000 GPUs Enhance AI-Powered Design and Productivity Workflows,POSITIVE,0.996024489402771
+https://blogs.nvidia.com/blog/ces-2024/,"NVIDIA Reveals Gaming, Creating, Generative AI, Robotics Innovations at CES",POSITIVE,0.9973229765892029
+https://blogs.nvidia.com/blog/runai/,NVIDIA to Acquire GPU Orchestration Software Provider Run:ai,NEGATIVE,0.9881347417831421
+https://nvidianews.nvidia.com/news/nvidia-global-workstation-manufacturers-to-launch-powerful-systems-for-generative-ai-and-llm-development-content-creation-data-science,"NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science",POSITIVE,0.993410050868988
+https://nvidianews.nvidia.com/news/see-the-future-at-gtc-2024-nvidias-jensen-huang-to-unveil-latest-breakthroughs-in-accelerated-computing-generative-aiand-robotics,"See the Future at GTC 2024: NVIDIA’s Jensen Huang to Unveil Latest Breakthroughs in Accelerated Computing, Generative AI and Robotics",POSITIVE,0.9973468780517578
+https://blogs.nvidia.com/blog/gamescom-dlss-ray-reconstruction/,NVIDIA Debuts AI-Enhanced Real-Time Ray Tracing for Games and Apps With New DLSS 3.5,POSITIVE,0.9971842169761658
+https://nvidianews.nvidia.com/news/tsmc-synopsys-nvidia-culitho,TSMC and Synopsys Bring Breakthrough NVIDIA Computational Lithography Platform to Production,POSITIVE,0.9972954392433167
+https://nvidianews.nvidia.com/news/generative-ai-microservices-for-developers,NVIDIA Launches Generative AI Microservices for Developers to Create and Deploy Generative AI Copilots Across NVIDIA CUDA GPU Installed Base,POSITIVE,0.9530364871025085
+https://blogs.nvidia.com/blog/siggraph-2023-special-address/,SIGGRAPH Special Address: NVIDIA CEO Brings Generative AI to LA Show,POSITIVE,0.9992725253105164
+https://blogs.nvidia.com/blog/eos/,NVIDIA Eos Revealed: Peek Into Operations of a Top 10 Supercomputer,POSITIVE,0.998611330986023
+https://blogs.nvidia.com/blog/chat-with-rtx-available-now/,Say What? Chat With RTX Brings Custom Chatbot to NVIDIA RTX AI PCs,NEGATIVE,0.9511256814002991
+https://nvidianews.nvidia.com/news/foundation-model-isaac-robotics-platform,NVIDIA Announces Project GR00T Foundation Model for Humanoid Robots and Major Isaac Robotics Platform Update,POSITIVE,0.9902248978614807
+https://nvidianews.nvidia.com/news/healthcare-generative-ai-microservices,"NVIDIA Healthcare Launches Generative AI Microservices to Advance Drug Discovery, MedTech and Digital Health",POSITIVE,0.9954600930213928
+https://blogs.nvidia.com/blog/rtx-2000-ada/,"NVIDIA RTX 2000 Ada Generation GPU Brings Performance, Versatility for Next Era of AI-Accelerated Design and Visualization",POSITIVE,0.9980202913284302
+https://nvidianews.nvidia.com/news/nvidia-announces-earth-climate-digital-twin,NVIDIA Announces Earth Climate Digital Twin,POSITIVE,0.9752652049064636
+https://nvidianews.nvidia.com/news/nvidia-grace-hopper-ignites-new-era-of-ai-supercomputing,NVIDIA Grace Hopper Ignites New Era of AI Supercomputing,POSITIVE,0.9970389604568481
+https://blogs.nvidia.com/blog/geforce-now-thursday-day-pass-cygames/,Don’t Pass This Up: Day Passes Now Available on GeForce NOW,NEGATIVE,0.8867892026901245
+https://nvidianews.nvidia.com/news/nvidia-drive-powers-next-generation-transportation,NVIDIA DRIVE Powers Next Generation of Transportation — From Cars and Trucks to Robotaxis and Autonomous Delivery Vehicles,POSITIVE,0.9804272651672363
+https://nvidianews.nvidia.com/news/nvidia-unveils-6g-research-cloud-platform-to-advance-wireless-communications-with-ai,NVIDIA Unveils 6G Research Cloud Platform to Advance Wireless Communications With AI,POSITIVE,0.9995418787002563
+https://nvidianews.nvidia.com/news/digital-humans-ace-generative-ai-microservices,"NVIDIA Releases Digital Human Microservices, Paving Way for Future of Generative AI Avatars",POSITIVE,0.9972121119499207
+https://blogs.nvidia.com/blog/meta-llama3-inference-acceleration/,Wide Open: NVIDIA Accelerates Inference on Meta Llama 3,POSITIVE,0.9987033605575562
+https://blogs.nvidia.com/blog/nvidia-picasso-istock-generative-ai/,Picture This: Getty Images Releases Generative AI By iStock Powered by NVIDIA Picasso,POSITIVE,0.9834545850753784
+https://blogs.nvidia.com/blog/computex-2024-jensen-huang/,"‘Accelerate Everything,’ NVIDIA CEO Says Ahead of COMPUTEX",POSITIVE,0.9993457198143005
+https://nvidianews.nvidia.com/news/nvidia-ai-workbench-speeds-adoption-of-custom-generative-ai-for-worlds-enterprises,NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World’s Enterprises,NEGATIVE,0.785398542881012
+https://blogs.nvidia.com/blog/national-ai-research-resource-pilot/,US National Science Foundation Launches National AI Research Resource Pilot,POSITIVE,0.9978604912757874
+https://nvidianews.nvidia.com/news/nvidia-and-hugging-face-to-connect-millions-of-developers-to-generative-ai-supercomputing,NVIDIA and Hugging Face to Connect Millions of Developers to Generative AI Supercomputing,POSITIVE,0.9986069798469543
+https://nvidianews.nvidia.com/news/networking-switches-gpu-computing-ai,NVIDIA Announces New Switches Optimized for Trillion-Parameter GPU Computing and AI Infrastructure,POSITIVE,0.9484752416610718
+https://blogs.nvidia.com/blog/twitch-multiencode-av1-livestreaming/,"Twitch, OBS and NVIDIA to Release Multi-Encode Livestreaming",POSITIVE,0.7049114108085632
+https://nvidianews.nvidia.com/news/nvidia-global-data-center-system-manufacturers-to-supercharge-generative-ai-and-industrial-digitalization,"NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization",POSITIVE,0.9883974194526672
+https://blogs.nvidia.com/blog/studio-driver-app-rtx-ai-adobe-premiere-pro/,Add It to the Toolkit: February Studio Driver and NVIDIA App Beta Now Available,POSITIVE,0.9919447302818298
+https://blogs.nvidia.com/blog/world-governments-summit/,NVIDIA CEO: Every Country Needs Sovereign AI,POSITIVE,0.9980155229568481
+https://blogs.nvidia.com/blog/tensorrt-llm-inference-mlperf/,NVIDIA Hopper Leaps Ahead in Generative AI at MLPerf,POSITIVE,0.9989271759986877
+https://blogs.nvidia.com/blog/geforce-now-thursday-may-games-list/,GeForce NOW Delivers 24 A-May-zing Games This Month,POSITIVE,0.998336911201477
+https://nvidianews.nvidia.com/news/google-cloud-and-nvidia-expand-partnership-to-advance-ai-computing-software-and-services,"Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services",POSITIVE,0.9877939224243164
+https://nvidianews.nvidia.com/news/nvidia-blackwell-dgx-generative-ai-supercomputing,NVIDIA Launches Blackwell-Powered DGX SuperPOD for Generative AI Supercomputing at Trillion-Parameter Scale,NEGATIVE,0.9149677157402039
+https://blogs.nvidia.com/blog/mistral-nvidia-ai-model/,"Mistral AI and NVIDIA Unveil Mistral NeMo 12B, a Cutting-Edge Enterprise AI Model",POSITIVE,0.9991726279258728
+https://blogs.nvidia.com/blog/2024-gtc-keynote/,"‘We Created a Processor for the Generative AI Era,’ NVIDIA CEO Says",POSITIVE,0.9969543218612671
+https://blogs.nvidia.com/blog/tensorrt-llm-windows-stable-diffusion-rtx/,Striking Performance: Large Language Models up to 4x Faster on RTX With TensorRT-LLM for Windows,POSITIVE,0.9995608925819397
+https://nvidianews.nvidia.com/news/wave-of-ev-makers-choose-nvidia-drive-for-automated-driving,Wave of EV Makers Choose NVIDIA DRIVE for Automated Driving,POSITIVE,0.7042887210845947
+https://apnews.com/article/nvidia-artificial-intelligence-ai-gaming-1acc94ebbe6a59f728742ca20b3532cf,How Nvidia became an AI giant,POSITIVE,0.9972948431968689
+https://blogs.nvidia.com/blog/ces-2024-geforce-now-activision-blizzard-day-passes-g-sync/,"Three’s a Cloud: New Activision and Blizzard Games, Day Passes, G-SYNC Technology Coming to GeForce NOW",POSITIVE,0.9970042109489441
+https://nvidianews.nvidia.com/news/nvidia-accelerates-worldwide-humanoid-robotics-development,NVIDIA Accelerates Humanoid Robotics Development,POSITIVE,0.9979972243309021
+https://nvidianews.nvidia.com/news/vmware-and-nvidia-unlock-generative-ai-for-enterprises,VMware and NVIDIA Unlock Generative AI for Enterprises,POSITIVE,0.9976648092269897
+https://blogs.nvidia.com/blog/llm-semiconductors-chip-nemo/,Silicon Volley: Designers Tap Generative AI for a Chip Assist,POSITIVE,0.9938774704933167
+https://nvidianews.nvidia.com/news/nvidias-new-ethernet-networking-platform-for-ai-available-soon-from-dell-technologies-hewlett-packard-enterprise-lenovo,"NVIDIA’s New Ethernet Networking Platform for AI Available Soon From Dell Technologies, Hewlett Packard Enterprise, Lenovo",POSITIVE,0.9926097989082336
+https://nvidianews.nvidia.com/news/hpe-nvidia-ai-computing-generative-ai,Hewlett Packard Enterprise and NVIDIA Announce ‘NVIDIA AI Computing by HPE’ to Accelerate Generative AI Industrial Revolution,POSITIVE,0.998653769493103
+https://blogs.nvidia.com/blog/isaac-generative-ai-manufacturing-logistics/,NVIDIA Isaac Taps Generative AI for Manufacturing and Logistics Applications,POSITIVE,0.9841530919075012
+https://nvidianews.nvidia.com/news/nvidia-digital-human-technologies-bring-ai-characters-to-life-6900750,NVIDIA Digital Human Technologies Bring AI Characters to Life,POSITIVE,0.9806956648826599
+https://blogs.nvidia.com/blog/ai-decoded-chatrtx-update/,"Say It Again: ChatRTX Adds New AI Models, Features in Latest Update",POSITIVE,0.9937466382980347
+https://blogs.nvidia.com/blog/drug-discovery-bionemo-generative-ai/,NVIDIA Generative AI Is Opening the Next Era of Drug Discovery and Design,POSITIVE,0.9987882971763611
+https://blogs.nvidia.com/blog/geforce-now-thursday-android-higher-resolutions/,Sharper Image: GeForce NOW Update Delivers Stunning Visuals to Android Devices,POSITIVE,0.9977098703384399
+https://nvidianews.nvidia.com/news/aws-nvidia-strategic-collaboration-for-generative-ai,"AWS and NVIDIA Announce Strategic Collaboration to Offer New Supercomputing Infrastructure, Software and Services for Generative AI",POSITIVE,0.8404350280761719
+https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/,NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models,NEGATIVE,0.9816122651100159
+https://nvidianews.nvidia.com/news/nvidia-announces-generative-ai-models-and-nim-microservices-for-openusd,"NVIDIA Announces Generative AI Models and NIM Microservices for OpenUSD Language, Geometry, Physics and Materials",POSITIVE,0.9987202882766724
+https://blogs.nvidia.com/blog/studio-rtx-hdr-video-twitch-obs-istock-getty-super-laptop-desktop/,The Creative AI: NVIDIA Studio Unveils New RTX- and AI-Accelerated Tools and Systems for Creators,POSITIVE,0.9985989928245544
+https://nvidianews.nvidia.com/news/nvidia-releases-major-omniverse-upgrade-with-generative-ai-and-openusd,NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD,POSITIVE,0.9854750633239746
+https://nvidianews.nvidia.com/news/nemo-retriever-generative-ai-microservice,"NVIDIA Brings Business Intelligence to Chatbots, Copilots and Summarization Tools With Enterprise-Grade Generative AI Microservice",POSITIVE,0.9924637079238892
+https://nvidianews.nvidia.com/news/nvidia-launches-cloud-quantum-computer-simulation-microservices,NVIDIA Launches Cloud Quantum-Computer Simulation Microservices,POSITIVE,0.9963597655296326
+https://nvidianews.nvidia.com/news/nvidia-introduces-generative-ai-foundry-service-on-microsoft-azure-for-enterprises-and-startups-worldwide,NVIDIA Introduces Generative AI Foundry Service on Microsoft Azure for Enterprises and Startups Worldwide,POSITIVE,0.9597170948982239
+https://blogs.nvidia.com/blog/latte-3d-generative-ai-research/,Instant Latte: NVIDIA Gen AI Research Brews 3D Shapes in Under a Second,POSITIVE,0.9864205121994019
+https://blogs.nvidia.com/blog/bionemo-ai-drug-discovery-foundation-models-microservices/,NVIDIA BioNeMo Expands Computer-Aided Drug Discovery With New Foundation Models,POSITIVE,0.9894754886627197
+https://nvidianews.nvidia.com/news/computer-industry-ai-factories-data-centers,Computer Industry Joins NVIDIA to Build AI Factories and Data Centers for the Next Industrial Revolution,POSITIVE,0.9985905289649963
+https://blogs.nvidia.com/blog/alphabet-intrinsic-robotics-isaac-manipulator/,NVIDIA and Alphabet’s Intrinsic Put Next-Gen Robotics Within Grasp,POSITIVE,0.9979645013809204
+https://blogs.nvidia.com/blog/edify-shutterstock-getty-images/,"For Your Edification: Shutterstock Releases Generative 3D, Getty Images Upgrades Service Powered by NVIDIA",NEGATIVE,0.992783784866333
+https://nvidianews.nvidia.com/news/cisco-nvidia-secure-ai-infrastructure,Cisco and NVIDIA to Help Enterprises Quickly and Easily Deploy and Manage Secure AI Infrastructure,POSITIVE,0.8394088745117188
+https://blogs.nvidia.com/blog/why-gpus-are-great-for-ai/,Why GPUs Are Great for AI,POSITIVE,0.9986097812652588
+https://nvidianews.nvidia.com/news/omniverse-microservices-physical-ai,NVIDIA Announces Omniverse Microservices to Supercharge Physical AI,POSITIVE,0.9956440925598145
+https://nvidianews.nvidia.com/news/oracle-nvidia-sovereign-ai,Oracle and NVIDIA to Deliver Sovereign AI Worldwide,POSITIVE,0.9972226619720459
+https://blogs.nvidia.com/blog/ai-electric-grid-edison/,Light Bulb Moment: NVIDIA CEO Sees Bright Future for AI-Powered Electric Grid,POSITIVE,0.9942811727523804
+https://nvidianews.nvidia.com/online-press-kit/gtc-2024-news,GTC 2024 News,POSITIVE,0.9990805387496948
+https://nvidianews.nvidia.com/news/nvidia-omniverse-opens-portals-to-vast-worlds-of-openusd,NVIDIA Omniverse Opens Portals to Vast Worlds of OpenUSD,POSITIVE,0.9972177743911743
+https://blogs.nvidia.com/blog/geforce-now-thursday-no-rest-for-the-wicked/,Up to No Good: ‘No Rest for the Wicked’ Early Access Launches on GeForce NOW,POSITIVE,0.9981421232223511
+https://nvidianews.nvidia.com/news/nvidia-ai-foundry-custom-llama-generative-models,NVIDIA AI Foundry Builds Custom Llama 3.1 Generative AI Models for the World’s Enterprises,POSITIVE,0.6897875070571899
+https://nvidianews.nvidia.com/news/aws-nvidia-generative-ai-innovation,AWS and NVIDIA Extend Collaboration to Advance Generative AI Innovation,NEGATIVE,0.9335823655128479
+https://nvidianews.nvidia.com/news/nvidia-nim-model-deployment-generative-ai-developers,"NVIDIA NIM Revolutionizes Model Deployment, Now Available to Transform World’s Millions of Developers Into Generative AI Developers",POSITIVE,0.9795846939086914
+https://blogs.nvidia.com/blog/geforce-now-thursday-aug-24/,"Game Pass Comes to GeForce NOW, Along With 25 New Games",POSITIVE,0.9848564267158508
+https://blogs.nvidia.com/blog/nvidia-ceo-siggraph/,"‘Everybody Will Have an AI Assistant,’ NVIDIA CEO Tells SIGGRAPH Audience",POSITIVE,0.996556282043457
+https://apnews.com/article/nvidia-artificial-intelligence-stock-market-nasdaq-b1e79cf391f212a4714433afd140e341,"Nvidia's stock market value topped $3.3 trillion. How it became No. 1 in the S&P 500, by the numbers",POSITIVE,0.9990494847297668
+https://www.businessinsider.com/salesforce-ping-pong-work-flexible-2024-7,Salesforce kicked me out after I left my desk to play ping-pong,POSITIVE,0.9781832695007324
+https://www.sportsbusinessjournal.com/Articles/2024/04/15/salesforce-out-as-la28-sponsor,Salesforce out as LA28 sponsor,NEGATIVE,0.9904782772064209
+https://www.cnbc.com/2024/07/01/salesforce-shareholders-vote-against-compensation-for-top-executives.html,"Salesforce shareholders reject compensation plan for CEO Marc Benioff, other top execs",NEGATIVE,0.9840512871742249
+https://diginomica.com/salesforce-hits-silver-tale-two-towers-quarter-century-apart,Salesforce hits silver - a tale of two towers a quarter of a century apart,POSITIVE,0.9931544065475464
+https://joshbersin.com/2024/07/workday-salesforce-partnership-teaming-up-for-enterprise-ai/,Workday Salesforce Partnership: Teaming Up For Enterprise AI,POSITIVE,0.9962998032569885
+https://www.nttdata.com/global/en/about-us/partners/salesforce,Salesforce,POSITIVE,0.9972270131111145
+https://www.crn.com/news/ai/2024/salesforce-q1-earnings-ceo-benioff-calls-ai-models-commodities-data-the-new-gold,"Salesforce Q1 Earnings: CEO Benioff Calls AI Models Commodities, Data ‘The New Gold’",POSITIVE,0.9302239418029785
+https://www.cio.com/article/2151993/salesforce-debuts-gen-ai-benchmark-for-crm.html,Salesforce debuts gen AI benchmark for CRM,NEGATIVE,0.9987063407897949
+https://www.mobihealthnews.com/news/salesforce-iqvia-expand-partnership-co-develop-life-sciences-cloud,"Salesforce, IQVIA expand partnership to codevelop Life Sciences Cloud",POSITIVE,0.9948604702949524
+https://www.cmswire.com/customer-experience/salesforce-informatica-deal-falls-apart/,What's Next for Salesforce After Informatica Deal Collapse?,NEGATIVE,0.9996817111968994
+https://www.prnewswire.com/news-releases/salesforces-einstein-copilot-is-here-the-conversational-ai-assistant-for-crm-that-delivers-trusted-ai-responses-grounded-with-your-company-data-302072143.html,Salesforce's Einstein Copilot is Here: The Conversational AI Assistant for CRM that Delivers Trusted AI Responses Grounded with Your Company Data,POSITIVE,0.9919857978820801
+https://www.cxtoday.com/crm/salesforce-backs-out-of-informatica-deal-reports/,"Salesforce Backs Out of Informatica Deal, Reports",NEGATIVE,0.9996160268783569
+https://www.microsoft.com/en-us/power-platform/blog/power-pages/introducing-salesforce-virtual-table-support-for-power-pages-preview/,Introducing Salesforce virtual table support for Power Pages (Preview),POSITIVE,0.9902248978614807
+https://www.mckinsey.com/capabilities/growth-marketing-and-sales/how-we-help-clients/growth-tech-on-salesforce,Growth Tech on Salesforce,POSITIVE,0.9992616772651672
+https://www.investopedia.com/salesforce-shareholders-vote-down-pay-plans-for-ceo-marc-benioff-other-execs-8672536,"Salesforce Shareholders Vote Against Pay Plans for CEO Marc Benioff, Other Execs",NEGATIVE,0.9580966830253601
+https://www.cnbc.com/2024/05/29/salesforce-crm-q1-earnings-report-2025.html,Salesforce shares plunge 16% on first revenue miss since 2006,NEGATIVE,0.99835604429245
+https://www.cxtoday.com/contact-centre/genesys-and-salesforce-start-to-onboard-customers-for-their-joint-cx-platform/,Genesys and Salesforce Start to Onboard Customers for Their Joint CX Platform,POSITIVE,0.980080246925354
+https://www.cio.com/article/2139149/salesforce-updates-sales-and-service-cloud-with-new-capabilities.html,Salesforce updates Sales and Service Cloud with new capabilities,POSITIVE,0.9714365601539612
+https://www.saastr.com/dear-saastr-should-i-switch-from-hubspot-crm-to-salesforce-if-im-just-starting-out/,Dear SaaStr: Should I Switch from HubSpot CRM to Salesforce if I’m Just Starting Out?,NEGATIVE,0.9963500499725342
+https://www.erm.com/about/news/erm-salesforce-naturemetrics-and-planet-launch-naturetech-alliance-to-address-biodiversity-loss/,"ERM, Salesforce, NatureMetrics and Planet launch NatureTech Alliance to address biodiversity loss",POSITIVE,0.9983559250831604
+https://www.sportspromedia.com/news/la28-salesforce-sponsorship-ends-olympics-paralympics-team-usa-nbc/,LA28 loses top-tier Salesforce sponsorship,NEGATIVE,0.9852747917175293
+https://newsroom.accenture.com/news/2023/accenture-and-salesforce-collaborate-to-help-life-sciences-companies-create-differentiation-with-data-and-ai,Accenture and Salesforce Collaborate to Help Life Sciences Companies Create Differentiation with Data and AI,POSITIVE,0.994636595249176
+https://guidehouse.com/events/2024/06/04/salesforce-government-trailblazer-summit-2024,Salesforce Government Trailblazer Summit 2024,POSITIVE,0.9997221827507019
+https://www.datanami.com/2024/04/24/salesforce-informatica-deal-appears-to-have-fallen-through/,Salesforce-Informatica Deal Appears to Have Fallen Through,NEGATIVE,0.9995861649513245
+https://diginomica.com/my-take-digesting-salesforces-q1-and-what-it-means-it-and-tech-markets-future,My take - digesting Salesforce’s Q1 and what it means for it and the tech market’s future,NEGATIVE,0.9942308664321899
+https://www.eweek.com/artificial-intelligence/how-salesforce-drives-business-through-ai/,Salesforce and AI: How Salesforce’s Einstein Transforms Sales,POSITIVE,0.9971074461936951
+https://www.mckinsey.com/about-us/new-at-mckinsey-blog/delivering-tech-powered-growth-through-generative-ai,McKinsey teams up with Salesforce to deliver on the promise of AI-powered growth,POSITIVE,0.9991925358772278
+https://a16z.com/ai-transforms-sales/,“Death of a Salesforce”: Why AI Will Transform the Next Generation of Sales Tech,NEGATIVE,0.9426502585411072
+https://www.morningbrew.com/daily/stories/2024/05/31/ai-is-the-thorn-in-salesforce-s-side,AI is the thorn in Salesforce’s side,NEGATIVE,0.999785840511322
+https://news.bloomberglaw.com/business-and-practice/salesforce-zoom-law-chiefs-get-nearly-26-million-in-total-pay,"Salesforce, Zoom Law Chiefs Get Nearly $26 Million in Total Pay",NEGATIVE,0.9275302886962891
+https://www.cnbc.com/2024/05/30/salesforce-stock-fall-earnings-revenue-miss.html,Salesforce shares tumble 20% in worst day since 2004,NEGATIVE,0.9996978044509888
+https://www.cio.com/article/2092247/decoding-salesforces-plausible-11-billion-bid-to-acquire-informatica.html,Decoding Salesforce’s plausible $11 billion bid to acquire Informatica,POSITIVE,0.9385181069374084
+https://fever.wnba.com/news/pacers-sports-entertainment-and-salesforce-announce-continued-partnership,Pacers Sports & Entertainment and Salesforce Announce Continued Partnership,POSITIVE,0.9992583394050598
+https://newsroom.ibm.com/2023-08-31-IBM-and-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-of-Trustworthy-AI,IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI,POSITIVE,0.9966892600059509
+https://www.prnewswire.com/news-releases/salesforce-selects-ironclad-for-contract-lifecycle-management-302107230.html,Salesforce Selects Ironclad for Contract Lifecycle Management,POSITIVE,0.9995563626289368
+https://www.investopedia.com/salesforce-stock-gains-as-crm-software-giant-holds-its-annual-shareholder-meeting-8670733,Salesforce Stock Gains as CRM Software Giant Holds Its Annual Shareholder Meeting,NEGATIVE,0.9951139092445374
+https://www.cio.com/article/2074693/salesforce-adds-contact-center-updates-to-service-cloud.html,Salesforce adds Contact Center updates to Service Cloud,POSITIVE,0.9920084476470947
+https://www.digitalcommerce360.com/2024/05/23/salesforce-einstein-copilot-features-connections-2024/,Salesforce announces new AI-enabled copilots at Connections 2024,NEGATIVE,0.9927218556404114
+https://www.greenbiz.com/article/salesforce-lobby-new-rules-ais-environmental-impact,Salesforce to lobby for new rules on AI’s environmental impact,NEGATIVE,0.8676461577415466
+https://www.cio.com/article/2095136/salesforce-debuts-zero-copy-partner-network-to-ease-data-integration.html,Salesforce debuts Zero Copy Partner Network to ease data integration,POSITIVE,0.9914177656173706
+https://www.plansponsor.com/salesforce-agrees-to-settle-erisa-lawsuits/,Salesforce Agrees to Settle ERISA Lawsuits,NEGATIVE,0.9950671195983887
+https://www.cxtoday.com/crm/analyzing-the-salesforce-informatica-acquisition-that-never-was/,Analyzing the Salesforce-Informatica Acquisition That Never Was,POSITIVE,0.9289032816886902
+https://www.cxtoday.com/crm/informatica-co-founder-the-salesforce-acquisition-is-a-bad-idea/,"Informatica Co-Founder: The Salesforce Acquisition Is ""a Bad Idea""",NEGATIVE,0.9995724558830261
+https://www.cio.com/article/2093946/salesforce-informatica-acquisition-talks-falls-through-report.html,Salesforce-Informatica acquisition talks fall through: Report,NEGATIVE,0.9995561242103577
+https://www.saastr.com/salesforce-your-jobs-at-risk-if-you-sell-less-than-400k-a-year/,Salesforce: Your Job’s at Risk If You Sell Less Than $400k a Year,NEGATIVE,0.9609780311584473
+https://qz.com/salesforce-stock-just-had-its-worst-day-in-20-years-1851510447,Salesforce stock just had its worst day in 20 years,NEGATIVE,0.9997760653495789
+https://www.forvismazars.us/forsights/2024/02/salesforce-spring-24-release-highlights,Salesforce Spring ’24 Release Highlights,POSITIVE,0.9991582632064819
+https://www.cnbc.com/2024/04/15/salesforce-drops-after-reports-it-is-in-talks-to-acquire-informatica-.html,Salesforce drops after reports it’s in talks to acquire Informatica,NEGATIVE,0.9987183809280396
+https://news.va.gov/131307/va-salesforce-translate-military-civilian/,VA and Salesforce help Veterans translate military experience into civilian careers,NEGATIVE,0.9652493000030518
+https://aws.amazon.com/blogs/big-data/access-amazon-redshift-data-from-salesforce-data-cloud-with-zero-copy-data-federation/,Access Amazon Redshift data from Salesforce Data Cloud with Zero Copy Data Federation,NEGATIVE,0.9012375473976135
+https://www.uctoday.com/collaboration/salesforce-reportedly-institutes-4-to-5-days-a-week-rto-mandate/,Salesforce Reportedly Institutes ‘4 to 5 Days A Week’ RTO Mandate,NEGATIVE,0.9949766397476196
+https://www.iqvia.com/newsroom/2024/04/iqvia-and-salesforce-expand-global-partnership-to-accelerate-the-development-of-life-sciences-cloud,IQVIA and Salesforce Expand Global Partnership to Accelerate the Development of Life Sciences Cloud,POSITIVE,0.9993728995323181
+https://www.cxtoday.com/contact-centre/genesys-innovates-with-salesforce-and-servicenow-leads-a-new-era-of-ccaas-crm-convergence/,"Genesys Innovates with Salesforce and ServiceNow, Leads a New Era of CCaaS-CRM Convergence",POSITIVE,0.9950957298278809
+https://www.cxtoday.com/crm/salesforce-crowned-king-of-crm-for-the-11th-year-running/,Salesforce Crowned King of CRM for the 11th Year Running,POSITIVE,0.999504804611206
+https://www.crn.com/news/cloud/2024/salesforce-may-acquire-informatica-for-more-than-11b-reports,Salesforce May Acquire Informatica For More Than $11B: Reports,NEGATIVE,0.973793625831604
+https://www.cxtoday.com/contact-centre/five9-integrates-salesforces-einstein-into-its-ai-suite/,Five9 Integrates Salesforce’s Einstein into its AI Suite,POSITIVE,0.9801663756370544
+https://markets.businessinsider.com/news/stocks/salesforce-stock-price-crash-q1-earnings-first-revenue-miss-2006-2024-5,Salesforce plunges 21% after it reports its first revenue miss since 2006,NEGATIVE,0.9991323351860046
+https://atrium.ai/resources/should-i-choose-tableau-or-crm-analytics-for-my-salesforce-use-case/,CRM Analytics vs. Tableau: What Should I Choose for my Salesforce Use Case?,NEGATIVE,0.9987770915031433
+https://www.theregister.com/2024/07/02/salesforce_benioff_20m/,Salesforce investors reject plan to add extra $20M to Benioff's total pay,NEGATIVE,0.9940688610076904
+https://techcrunch.com/2024/06/27/odasevas-founder-once-solved-a-security-gap-for-saleforces-biggest-customer-now-hes-raised-54m-to-secure-all-of-its-users/,Odaseva raises $54M to secure Salesforce users,POSITIVE,0.9963557720184326
+https://fortune.com/2024/01/10/salesforce-slack-pause-hiring-product-tech-leaked-memo/,Salesforce and Slack to pause all hiring in technology and product,NEGATIVE,0.9912654757499695
+https://www.nytimes.com/2024/03/07/business/clara-shih-salesforce-artificial-intelligence.html,Salesforce Executive Leads With a Beginner’s Mind,POSITIVE,0.9984810948371887
+https://aws.amazon.com/blogs/machine-learning/bring-your-own-ai-using-amazon-sagemaker-with-salesforce-data-cloud/,Bring your own AI using Amazon SageMaker with Salesforce Data Cloud,POSITIVE,0.9923704862594604
+https://abc7news.com/post/salesforces-return-office-policy-expected-boon-san-francisco/15065774/,Economist explains how Salesforce's return-to-office policy could benefit San Francisco as a whole,POSITIVE,0.9979737401008606
+https://www.cnbc.com/2023/09/18/salesforce-is-luring-boomerangs-to-reaccelerate-growth.html,"Salesforce turns to 'boomerangs,' luring back former execs to help reignite growth",POSITIVE,0.7290436029434204
+https://finance.yahoo.com/news/salesforce-open-to-large-acquisitions-but-analysts-have-concerns-100213959.html,"Salesforce open to large acquisitions, but analysts have concerns",NEGATIVE,0.9997408986091614
+https://www.fool.com/investing/2024/06/27/heres-why-i-just-loaded-up-on-salesforce-stock/,Here's Why I Just Loaded Up on Salesforce Stock,POSITIVE,0.9986489415168762
+https://www.purdue.edu/newsroom/purduetoday/releases/2024/Q2/graduate-school-selects-salesforce-as-graduate-records-management-solution.html,Graduate School selects Salesforce as graduate records management solution,POSITIVE,0.8564671874046326
+https://www.fool.com/investing/2024/06/07/is-salesforce-stock-in-trouble/,Is Salesforce Stock in Trouble?,NEGATIVE,0.998027503490448
+https://www.cnbc.com/2024/07/24/salesforce-and-workday-ceos-explain-their-new-joint-ai-venture-.html,Salesforce and Workday CEOs explain their new joint AI venture,POSITIVE,0.9986652135848999
+https://www.cxtoday.com/contact-centre/vonage-leverages-salesforce-einstein-to-boost-its-service-cloud-voice-solution/,Vonage Leverages Salesforce Einstein to Boost its Service Cloud Voice Solution,POSITIVE,0.9979391694068909
+https://www.fool.com/investing/2024/06/11/better-cloud-stock-salesforce-vs-servicenow/,Better Cloud Stock: Salesforce vs. ServiceNow,POSITIVE,0.9976121187210083
+https://www.crn.com/news/cloud/2024/salesforce-ai-push-comes-with-partner-program-investment-says-channel-chief,"Salesforce AI Push Comes With Partner Program Investment, Says Channel Chief",POSITIVE,0.9956685304641724
+https://www.theregister.com/2024/07/04/db2_a_story_worth_telling/,"Db2 is a story worth telling, even if IBM won't",NEGATIVE,0.9992152452468872
+https://newsroom.ibm.com/2024-01-10-Data-Suggests-Growth-in-Enterprise-Adoption-of-AI-is-Due-to-Widespread-Deployment-by-Early-Adopters,Data Suggests Growth in Enterprise Adoption of AI is Due to Widespread Deployment by Early Adopters,NEGATIVE,0.9556829333305359
+https://www.cnn.com/markets/stocks/IBM,IBM Stock Quote Price and Forecast,POSITIVE,0.5446617603302002
+https://news.vmware.com/releases/vmware-explore-2023-barcelona-ibm-watsonx-private-ai,IBM and VMware Help Enterprises Adopt Generative AI with watsonx On-Premises,POSITIVE,0.9989159107208252
+"https://newsroom.ibm.com/2024-05-21-IBM-Unveils-Next-Chapter-of-watsonx-with-Open-Source,-Product-Ecosystem-Innovations-to-Drive-Enterprise-AI-at-Scale","IBM Unveils Next Chapter of watsonx with Open Source, Product & Ecosystem Innovations to Drive Enterprise AI at Scale",POSITIVE,0.9960861206054688
+https://newsroom.ibm.com/blog-IBM-adds-AI-enhanced-data-resilience-capabilities-to-help-combat-ransomware-and-other-threats-with-enhanced-storage-solutions,IBM adds AI-enhanced data resilience capabilities to help combat ransomware and other threats with enhanced storage solutions,NEGATIVE,0.9775186777114868
+https://newsroom.ibm.com/Blog-Introducing-IBM-Concert-Control-your-operations-with-generative-AI-insights,Introducing IBM Concert: Control your operations with generative AI insights,POSITIVE,0.9711892008781433
+https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face,IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face,POSITIVE,0.99055016040802
+https://research.ibm.com/blog/northpole-ibm-ai-chip,"A new chip architecture points to faster, more energy-efficient AI",NEGATIVE,0.995923638343811
+https://research.ibm.com/blog/weather-climate-foundation-model,IBM and NASA are building an AI foundation model for weather and climate,POSITIVE,0.979780375957489
+https://newsroom.ibm.com/2023-08-22-IBM-Unveils-watsonx-Generative-AI-Capabilities-to-Accelerate-Mainframe-Application-Modernization,IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization,POSITIVE,0.9945982694625854
+"https://newsroom.ibm.com/2023-09-18-IBM-Commits-to-Train-2-Million-in-Artificial-Intelligence-in-Three-Years,-with-a-Focus-on-Underrepresented-Communities","IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities",POSITIVE,0.9977198243141174
+https://newsroom.ibm.com/blog-IBM-to-Acquire-Application-Modernization-Capabilities-from-Advanced,IBM to Acquire Application Modernization Capabilities from Advanced,POSITIVE,0.9994680285453796
+https://research.ibm.com/blog/cobol-java-ibm-z,Application modernization with IBM generative AI,NEGATIVE,0.9774754047393799
+https://research.ibm.com/blog/granite-code-models-open-source,IBM’s Granite code model family is going open source,NEGATIVE,0.9559747576713562
+https://newsroom.ibm.com/2024-01-11-Casper-Labs-to-Build-a-Blockchain-Powered-Solution-with-IBM-Consulting-to-Help-Improve-Transparency-and-Auditability-for-Generative-AI-Systems,Casper Labs to Build a Blockchain-Powered Solution with IBM Consulting to Help Improve Transparency and Auditability for Generative AI Systems,NEGATIVE,0.902978777885437
+https://newsroom.ibm.com/2023-11-28-Boehringer-Ingelheim-and-IBM-Collaborate-to-Advance-Generative-AI-and-Foundation-Models-for-Therapeutic-Antibody-Development,Boehringer Ingelheim and IBM Collaborate to Advance Generative AI and Foundation Models for Therapeutic Antibody Development,POSITIVE,0.9994915723800659
+https://newsroom.ibm.com/2023-11-07-IBM-Launches-500-Million-Enterprise-AI-Venture-Fund,IBM Launches $500 Million Enterprise AI Venture Fund,POSITIVE,0.9991156458854675
+https://newsroom.ibm.com/2024-03-07-Ushers-New-Look-Embarks-on-AI-Focused-Collaboration-with-IBM-to-Set-Students-up-for-Career-Success,Usher's New Look Embarks on AI-Focused Collaboration with IBM to Set Students up for Career Success,POSITIVE,0.9929928779602051
+https://newsroom.ibm.com/2024-05-09-IBM-Introduces-New-Microsoft-Copilot-Capabilities-to-Fuel-AI-Powered-Business-Transformation,IBM Introduces New Microsoft Copilot Capabilities to Fuel AI-Powered Business Transformation,POSITIVE,0.9966861605644226
+https://www.ibm.com/quantum/blog/quantum-roadmap-2033,The hardware and software for the era of quantum utility is here,POSITIVE,0.9987481832504272
+https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model,NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data,POSITIVE,0.8898492455482483
+https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/securing-generative-ai,Securing generative AI: What matters now,NEGATIVE,0.9791699647903442
+https://www.earthdata.nasa.gov/learn/blog/nasa-ibm-weather-climate-foundation-model,NASA and IBM Research Apply AI to Weather and Climate,POSITIVE,0.6113789081573486
+"https://newsroom.ibm.com/2024-01-17-IBM-Introduces-IBM-Consulting-Advantage,-an-AI-Services-Platform-and-Library-of-Assistants-to-Empower-Consultants","IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants",POSITIVE,0.9617653489112854
+https://research.ibm.com/blog/nasa-hugging-face-ibm,IBM and NASA open source the largest geospatial AI foundation model on Hugging Face,NEGATIVE,0.8944641947746277
+"https://newsroom.ibm.com/2023-10-26-IBM-Launches-watsonx-Code-Assistant,-Delivers-Generative-AI-powered-Code-Generation-Capabilities-Built-for-Enterprise-Application-Modernization","IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization",POSITIVE,0.9762084484100342
+https://www.prnewswire.com/news-releases/ibm-to-acquire-streamsets-and-webmethods-platforms-from-software-ag-302017616.html,IBM to Acquire StreamSets and webMethods Platforms from Software AG,POSITIVE,0.9976286292076111
+https://newsroom.ibm.com/2023-08-10-IBM-Completes-Acquisition-of-Apptio-Inc,IBM Completes Acquisition of Apptio Inc.,POSITIVE,0.9990793466567993
+https://newsroom.ibm.com/2023-08-17-IBM-Consulting-Collaborates-with-Microsoft-to-Help-Companies-Accelerate-Adoption-of-Generative-AI,IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI,POSITIVE,0.9992361068725586
+https://ny1.com/nyc/all-boroughs/education/2024/03/07/ibm-defends-role-in-remote-learning-fiasco,IBM defends role in remote learning fiasco at Council hearing,NEGATIVE,0.8425759673118591
+https://www.prnewswire.com/news-releases/ibm-releases-second-quarter-results-302205863.html,IBM RELEASES SECOND-QUARTER RESULTS,POSITIVE,0.99905925989151
+https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform,"IBM to Acquire HashiCorp, Inc. Creating a Comprehensive End-to-End Hybrid Cloud Platform",POSITIVE,0.9988716244697571
+https://www.ibm.com/blog/announcement/new-cold-storage-digital-assets/,IBM announces new cold storage solution for digital assets,NEGATIVE,0.6703777313232422
+https://www.prnewswire.com/news-releases/ibm-completes-acquisition-of-streamsets-and-webmethods-bolstering-its-automation-data-and-ai-portfolios-302187267.html,"IBM Completes Acquisition of StreamSets and webMethods, Bolstering its Automation, Data and AI Portfolios",POSITIVE,0.9976484179496765
+https://newsroom.ibm.com/2023-11-30-IBM-Advances-Geospatial-AI-to-Address-Climate-Challenges,IBM Advances Geospatial AI to Address Climate Challenges,POSITIVE,0.9961340427398682
+https://www.crn.com/news/ai/2024/ibm-q2-2024-earnings-preview-5-things-to-know,IBM Earnings Preview: 5 Things To Know,NEGATIVE,0.8431186079978943
+https://newsroom.ibm.com/2023-08-31-IBM-and-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-of-Trustworthy-AI,IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI,POSITIVE,0.9983294606208801
+https://newsroom.ibm.com/2023-11-27-Deloitte-and-IBM-Collaborate-to-Help-Organizations-Accelerate-Sustainability-Outcomes,Deloitte and IBM Collaborate to Help Organizations Accelerate Sustainability Outcomes,POSITIVE,0.9993109703063965
+https://newsroom.ibm.com/2024-06-17-IBM-and-The-All-England-Lawn-Tennis-Club-Launch-New-Generative-AI-Feature-for-Personalised-Player-Stories-at-Wimbledon,IBM and The All England Lawn Tennis Club Launch New Generative AI Feature for Personalised Player Stories at Wimbledon,POSITIVE,0.9903544187545776
+https://newsroom.ibm.com/Blog-IBM-Acquires-Pliant-to-Further-Enhance-Network-IT-Automation-Capabilities,IBM Acquires Pliant to Further Enhance Network IT Automation Capabilities,POSITIVE,0.9973553419113159
+"https://newsroom.ibm.com/2024-07-22-New-IBM-SkillsBuild-Cybersecurity-Certificate-and-Data-Analytics-Certificates-to-be-Deployed-in-Community-College-Systems-across-Alabama,-California-Bay-Area,-Colorado-and-Louisiana","New IBM SkillsBuild Cybersecurity and Data Analytics Certificates to be Deployed in Community College Systems across Alabama, California Bay Area, Colorado and Louisiana",POSITIVE,0.9887723326683044
+https://newsroom.ibm.com/IBM-Mainframe-Skills,IBM Launches Mainframe Skills Council with SHARE and Other Key Organizations to Support New Generations of Mainframe Talent,POSITIVE,0.9976298809051514
+https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/,New IBM study reveals how AI is changing work and what HR leaders should do about it,NEGATIVE,0.6318249106407166
+https://newsroom.ibm.com/2024-05-15-Palo-Alto-Networks-and-IBM-to-Jointly-Provide-AI-powered-Security-Offerings-IBM-to-Deliver-Security-Consulting-Services-Across-Palo-Alto-Networks-Security-Platforms,"Palo Alto Networks and IBM to Jointly Provide AI-powered Security Offerings; IBM to Deliver Security Consulting Services Across Palo Alto Networks Security Platforms - May 15, 2024",POSITIVE,0.9991278052330017
+https://www.ibm.com/blog/announcement/unlocking-business-transformation-ibm-consulting-enhances-microsoft-copilot-capabilities/,Unlocking business transformation: IBM Consulting enhances Microsoft Copilot capabilities,POSITIVE,0.9991056323051453
+https://news.bloomberglaw.com/business-and-practice/liberty-insurers-take-hit-on-1-6-billion-ibm-judgment-policy,"Liberty, Insurers Take Hit on $1.6 Billion IBM Judgment Policy",NEGATIVE,0.9952358603477478
+https://global.honda/en/newsroom/news/2024/c240515eng.html,Honda and IBM sign Memorandum of Understanding to Explore Long-term Joint Research and Development of Semiconductor Chip and Software Technologies for Future Software-Defined Vehicles,POSITIVE,0.9939418435096741
+https://newsroom.ibm.com/2023-12-04-IBM-Consulting-and-Palo-Alto-Networks-Announce-Expansion-of-Key-Strategic-Cybersecurity-Partnership,IBM Consulting and Palo Alto Networks Announce Expansion of Key Strategic Cybersecurity Partnership,POSITIVE,0.9954965114593506
+https://spectrum.ieee.org/ibm-history,"100 Years Ago, IBM Was Born",POSITIVE,0.9991532564163208
+https://research.ibm.com/blog/analog-ai-chip-inference,An energy-efficient analog chip for AI inference,NEGATIVE,0.9573938250541687
+https://www.ibm.com/topics/responsible-ai,What is responsible AI?,NEGATIVE,0.7132375240325928
+https://washingtontechnology.com/contracts/2024/03/ibm-awarded-576m-dod-chip-manufacturing-contract/395136/,IBM awarded $576M DOD chip manufacturing contract,POSITIVE,0.9484073519706726
+https://newsroom.ibm.com/2024-05-02-IBM-Expands-Software-Availability-to-92-Countries-in-AWS-Marketplace,IBM Expands Software Availability to 92 Countries in AWS Marketplace,POSITIVE,0.9951092600822449
+https://news.rpi.edu/2024/04/05/rensselaer-polytechnic-institute-and-ibm-unveil-worlds-first-ibm-quantum-system-one,Rensselaer Polytechnic Institute and IBM Unveil the World’s first IBM Quantum System One on a University Campus,POSITIVE,0.9995792508125305
+https://www.cio.com/article/2116897/ibm-showcases-gen-ai-driven-concert-to-monitor-and-manage-enterprise-applications.html,IBM showcases Gen AI-driven Concert to monitor and manage enterprise applications,POSITIVE,0.9981696605682373
+https://www.plansponsor.com/ibm-plans-to-end-5-employer-matching-in-401k-plan/,IBM Plans to End 5% Employer Matching in 401(k) Plan,NEGATIVE,0.989083468914032
+"https://newsroom.ibm.com/2023-11-27-IBM-Collaborates-with-AWS-to-Launch-a-New-Cloud-Database-Offering,-Enabling-Customers-to-Optimize-Data-Management-for-AI-Workloads","IBM Collaborates with AWS to Launch a New Cloud Database Offering, Enabling Customers to Optimize Data Management for AI Workloads",POSITIVE,0.7634008526802063
+https://finance.yahoo.com/news/ibm-enhances-ai-scalability-twin-144500621.html,IBM Enhances AI Scalability With Twin Buyouts: Should You Buy?,POSITIVE,0.9985706806182861
+https://www.forrester.com/blogs/ibm-surrenders-siem-while-panw-tries-to-gain-ground-on-tech-titans/,IBM Surrenders SIEM While PANW Tries To Gain Ground On Tech Titans,POSITIVE,0.6580911874771118
+https://www.ey.com/en_gl/newsroom/2023/10/ey-and-ibm-launch-artificial-intelligence-solution-designed-to-help-increase-productivity-and-drive-efficiencies-within-hr,EY and IBM launch artificial intelligence solution designed to help increase productivity and drive efficiencies within HR,POSITIVE,0.9994588494300842
+https://www.ibm.com/history/watson-jeopardy,"Watson, Jeopardy! champion",POSITIVE,0.9936244487762451
+https://www.ibm.com/topics/ai-hallucinations,What Are AI Hallucinations?,NEGATIVE,0.9983564019203186
+https://www.cio.com/article/2095185/ibm-doubles-down-on-hybrid-cloud-with-6-4b-hashicorp-acquisition.html,IBM doubles down on hybrid cloud with $6.4B HashiCorp acquisition,POSITIVE,0.9988124370574951
+https://newsroom.ibm.com/IBM-acquires-Manta-Software-Inc-to-complement-data-and-AI-governance-capabilities,IBM acquires Manta Software Inc. to complement data and AI governance capabilities,POSITIVE,0.9968172311782837
+https://www.prnewswire.com/news-releases/ibm-and-the-government-of-spain-collaborate-to-advance-national-ai-strategy-and-build-the-worlds-leading-spanish-language-ai-models-302109288.html,IBM and The Government of Spain Collaborate to Advance National AI Strategy and Build the World's Leading Spanish Language AI Models,POSITIVE,0.9996428489685059
+https://research.ibm.com/projects/in-memory-computing,In-memory computing,POSITIVE,0.9832062721252441
+https://www.cnn.com/2024/01/31/business/ibm-tells-managers-to-come-to-the-office-or-leave-their-jobs/index.html,IBM tells managers to come to the office or leave their jobs,NEGATIVE,0.9981550574302673
+https://www.prnewswire.com/news-releases/francisco-partners-to-acquire-the-weather-company-assets-from-ibm-301906730.html,Francisco Partners to Acquire The Weather Company Assets from IBM,POSITIVE,0.8322620987892151
+https://www.crn.com/news/ai/2024/ibm-think-10-biggest-ai-red-hat-nvidia-and-genai-launches,"IBM Think: 10 Biggest AI, Red Hat, Nvidia And GenAI Launches",NEGATIVE,0.9413944482803345
+https://www.nature.com/articles/d41586-023-03854-1,"IBM releases first-ever 1,000-qubit quantum chip",NEGATIVE,0.9457761645317078
+https://techcrunch.com/2024/06/29/sap-and-oracle-and-ibm-oh-my-cloud-and-ai-drive-legacy-software-firms-to-record-valuations/,"SAP, and Oracle, and IBM, oh my! 'Cloud and AI' drive legacy software firms to record valuations",POSITIVE,0.9866207838058472
+https://www.cio.com/article/2097878/ibm-and-aws-forge-global-alliance-streamlining-access-to-ai-and-hybrid-cloud-solutions.html,"IBM and AWS forge global alliance, streamlining access to AI and hybrid cloud solutions",POSITIVE,0.9930086135864258
