@@ -1,0 +1,978 @@
+company,title,label,probability
+Tesla,"Tesla, Volvo Car pause output as Red Sea shipping crisis deepens",social,0.4234536588191986
+Tesla,"Tesla, Volvo Car pause output as Red Sea shipping crisis deepens",social,0.4234536588191986
+Tesla,Review Of 2024 Tesla Model 3 Highland,social,0.31125110387802124
+Tesla,Exclusive: Tesla scraps low-cost car plans amid fierce Chinese EV competition,government,0.3537295460700989
+Tesla,Tesla blamed drivers for failures of parts it long knew were defective,social,0.5608642101287842
+Tesla,Tesla recalls nearly all vehicles on US roads over lack of Autopilot safeguards,government,0.34197112917900085
+Tesla,Tesla releases refreshed Model 3 with longer driving range in China,environment,0.34424352645874023
+Tesla,Tesla promises 'more affordable' cars after shelving all-new Model 2,social,0.30003130435943604
+Tesla,Focus: Tesla braces for its first trial involving Autopilot fatality,social,0.42019492387771606
+Tesla,Tesla reinvents carmaking with quiet breakthrough,neutral,0.9042271375656128
+Tesla,"Tesla delivers record Q4 cars, but China's BYD steals top EV spot",government,0.34914496541023254
+Tesla,"Tesla CEO Musk raises alarm on interest rates, hesitates on Mexico factory",government,0.5425689816474915
+Tesla,Wall Street wants answers from Elon Musk on Tesla's Model 2 car,social,0.6804705858230591
+Tesla,"Tesla cuts prices in China, Germany and around globe after US cuts",government,0.3073112666606903
+Tesla,Tesla quarterly deliveries decline for the first time in nearly four years,environment,0.3222385048866272
+Tesla,"Tesla to build 25,000-euro car in Germany - source",social,0.35970693826675415
+Tesla,Tesla's once-stellar reputation is running out of juice,social,0.4907008707523346
+Tesla,Tesla erases $80 bln in valuation after Musk's sales warning,government,0.34779512882232666
+Tesla,"Scoop: Inside Tesla's decision to build a $25,000 ""global car""",environment,0.43947505950927734
+Tesla,Tesla warns of slowing growth before new model launch next year,environment,0.3387831151485443
+Tesla,Tesla's plan for affordable cars takes page from Detroit rivals,social,0.3058418333530426
+Tesla,"Exclusive: Tesla doing damage-control, discounts for European fleet buyers",social,0.4416605234146118
+Tesla,Tesla laying off more than 10% of staff globally as sales fall,social,0.5106425285339355
+Tesla,Exclusive: Tesla plans to build new electric vehicles in mid-2025,environment,0.361811101436615
+Tesla,Tesla faces California class action on its EV range claims,government,0.3955715596675873
+Tesla,Tesla's self-driving bid for China faces rivals racing ahead,social,0.4057617485523224
+Tesla,US seeks answers from Tesla in Autopilot recall probe,government,0.6479190587997437
+Tesla,"Tesla slashes Model Y production in Shanghai, data shows",government,0.32746729254722595
+Tesla,Exclusive: Tesla retreats from next-generation ‘gigacasting’ manufacturing process,environment,0.3708021938800812
+Tesla,Tesla must face vehicle owners' lawsuit over self-driving claims,social,0.5150265693664551
+Tesla,"Tesla cuts US prices of Models Y, X, S by $2,000",social,0.3169776201248169
+Tesla,US Justice Department issues subpoenas to Tesla in ongoing probes,government,0.9230642914772034
+Tesla,"Exclusive: In Tesla Autopilot probe, US prosecutors focus on securities, wire fraud",government,0.6759942173957825
+Tesla,Tesla wins first US Autopilot trial involving fatal crash,government,0.5741403102874756
+Tesla,"6 reasons why Tesla is failing, and they all have to do with design",neutral,0.40243294835090637
+Tesla,Tesla cars for first time on Chinese government purchase list,government,0.7922466397285461
+Tesla,Tesla deliveries set to fall for second straight quarter,environment,0.35051229596138
+Tesla,Next Autopilot trial to test Tesla's blame-the-driver defense,social,0.477457195520401
+Tesla,Elon Musk visits China as Tesla seeks self-driving technology rollout,social,0.45968568325042725
+Tesla,Tesla CEO Musk: Chinese EV firms will 'demolish' rivals without trade barriers,social,0.33537551760673523
+Tesla,Would-be Tesla buyers snub company as Musk's reputation dips,social,0.6581190228462219
+Tesla,"ARK’s Expected Value For Tesla In 2029: $2,600 Per Share",social,0.42104607820510864
+Tesla,"Judge finds evidence that Tesla, Musk knew about Autopilot defect",government,0.48790180683135986
+Apple,"I Can't Stop Thinking About How Awkward Apple's 'Mother Nature' Ad Was, and I Finally Figured Out Why",environment,0.742599606513977
+Apple,Exclusive: Apple to pause advertising on X after Musk backs antisemitic post,social,0.7523693442344666
+Apple,I Will Never Hire Anyone Again Without Asking Apple's Genius Interview Question,social,0.42941632866859436
+Apple,"Apple charged with breaching EU tech rules, faces another probe",government,0.6925452947616577
+Microsoft,Press Release & Webcast,government,0.4011874794960022
+Microsoft,Press Release & Webcast,government,0.4011874794960022
+Amazon,My 45 Top Remaining Memorial Day Amazon Sales,social,0.6470687389373779
+Amazon,"Amazon to lay off several hundred staff in Prime Video, Studios",social,0.5577901005744934
+Google,"Google lays off hundreds in Assistant, hardware, engineering teams",social,0.43765562772750854
+Google,Google agrees to invest up to $2 billion in OpenAI rival Anthropic,social,0.39723464846611023
+Google,4 Lessons Businesses Can Learn From Google's Evolution,environment,0.3571535348892212
+Google,Google to defend generative AI users from copyright claims,social,0.48380690813064575
+Meta,Exclusive: Meta to lay off employees in metaverse silicon unit on Wednesday,social,0.496455579996109
+Meta,"Sorry, VR: The Meta Ray-Ban Wayfarers Are the Best Face Computer",social,0.40385377407073975
+Meta,"AI ‘Agent’ Startup Adept Has Talked to Potential Buyers, Including Meta",social,0.7290706038475037
+Meta,Meta Sued By 33 States Over ‘Substantial Dangers’ For Kids On Instagram And Facebook,social,0.8194501399993896
+Meta,Meta's new AI assistant trained on public Facebook and Instagram posts,social,0.9671361446380615
+Meta,US judge trims AI copyright lawsuit against Meta,government,0.41691452264785767
+Meta,"Meta's Instagram, Facebook to charge EU users for ad-free service - sources",social,0.7789950370788574
+Meta,Meta bars political advertisers from using generative AI ads tools,neutral,0.5825303196907043
+Meta,Facebook parent Meta sees strong global ad sales while keeping AI costs in check,social,0.9216260313987732
+Meta,"Meta's Instagram linked to depression, anxiety, insomnia in kids - US states' lawsuit",social,0.8387601375579834
+Meta,"Meta’s plan to fight AI-generated misinformation and deepfakes is too little, too late",neutral,0.39965078234672546
+Meta,Meta joins other tech giants in quest for artificial general intelligence,social,0.5008260011672974
+Meta,Meta must face lawsuit claiming it prefers foreign workers over US citizens,social,0.5265776515007019
+Meta,How Meta Ray Ban Smart Glasses Displaced My Smartphone On Opening Day,social,0.4605717658996582
+Netflix,What We Watched: A Netflix Engagement Report,social,0.6962557435035706
+Netflix,Netflix Upfront 2024: The Year of Growth and Momentum,social,0.4053303599357605
+Netflix,Testing Games on More Devices,social,0.37380996346473694
+Netflix,What We Watched the Second Half of 2023,government,0.3810116946697235
+Netflix,What’s Next for Netflix Games,neutral,0.37108829617500305
+Netflix,'Grand Theft Auto: The Trilogy – The Definitive Edition' Arrives on Netflix December 14,social,0.4855249226093292
+Netflix,"Kick Off Summer With New Netflix Popcorn, Shows, Movies, and Games!",social,0.8138479590415955
+Netflix,One Year Into Netflix Ads,social,0.716958224773407
+Netflix,Netflix to Host Its First-Ever Live Sports Event as 'Drive to Survive' & 'Full Swing' Athletes Tee Up and Face Off in All-Star Golf Tournament,social,0.42642292380332947
+Netflix,Netflix to Become New Home of WWE 'Raw' Beginning 2025,social,0.6316430568695068
+Netflix,Thanks for Watching,social,0.5746631622314453
+Netflix,Coming Soon to Netflix Games,neutral,0.39658722281455994
+Netflix,"Netflix and Most Valuable Promotions Partner on Jake Paul vs. Mike Tyson, a Global Live Sports Event To Stream Exclusively on Netflix on Saturday July 20",social,0.4345771372318268
+Netflix,Netflix Acquires Global Streaming Rights to Studio Ponoc’s Upcoming Animated Film Slate — 'The Imaginary' Film to Premiere Later This Year,social,0.39796000719070435
+Netflix,"¡Vamos! Rafael Nadal & Carlos Alcaraz Will Face Off At 'The Netflix Slam', Live on Netflix on March 3",social,0.6162253022193909
+Netflix,Netflix Reality Universe Expands With New Games,social,0.3786693811416626
+Netflix,‘Avatar: The Last Airbender’ Renewed for Two More Seasons as Social Fandom Heats Up,social,0.9867685437202454
+Netflix,Netflix Greenlights Two Projects with MLB Featuring the Boston Red Sox,social,0.4360092282295227
+Netflix,Hidden Among Humans: ‘Parasyte: The Grey’ Premieres April 5,social,0.827713131904602
+Netflix,Live-Action Series ‘Yu Yu Hakusho’ Premieres Worldwide on December 14,social,0.6633243560791016
+Netflix,"Netflix’s Best New, Overlooked Action Movie Is A Must-Watch",neutral,0.35656875371932983
+Netflix,‘Sweet Home’ Season 3 Arrives July 19 in Fitting Finale to Epic Series,social,0.4518466591835022
+Netflix,Anime Adaptation of ‘Rising Impact’ Takes Flight on Netflix in June,social,0.5706249475479126
+Netflix,Netflix Presents a First Look at Scenes From 'One Hundred Years of Solitude',social,0.8789209127426147
+Netflix,Top 10 Week of Feb. 19: ‘Avatar: The Last Airbender’ and ‘Tyler Perry’s Mea Culpa’ Debut at #1,social,0.5277824401855469
+Netflix,"‘Rebel Moon’ Soars to #1 Worldwide, Exciting Fans with Immersive Trailer Experience, Moon Takeovers and Special Screenings",social,0.8423212766647339
+Netflix,"Netflix Returns to Annecy Festival With a Diverse and Robust Programme Including Sneak Peaks at Aardman's 'Wallace & Gromit,' Zack Snyder's 'Twilight Of The Gods,' Arcane's 'Making Of' and Skydance Animation's 'Spellbound'",social,0.5695992708206177
+Netflix,"Netflix Announces New Romance Series from Japan Starring: Shun Oguri, Han Hyo-Joo, Yuri Nakamura, and Jin Akanishi",social,0.32463473081588745
+Netflix,New Live-Action Series ‘Soul Mate’ Stars Hayato Isomura and Ok Taec-yeon,social,0.9248277544975281
+Netflix,All the New Mobile Games Joining Netflix in August,social,0.6804341673851013
+Netflix,Anime Adaptation ‘Onimusha’ Gives New Life to Legendary Game,social,0.5965714454650879
+Netflix,Netflix Reveals Teaser & Date for 'Cocomelon Lane' and Unveils First Look at New Preschool Series,social,0.6120384931564331
+Netflix,New Anime Series ‘THE ONE PIECE’ Starts Fresh Journey into the East Blue Saga,environment,0.4958443343639374
+Netflix,‘Master of the House’ Unveils a Scandalous Tale of Power and Greed on July 18,social,0.7742860317230225
+Netflix,Netflix Announces Agatha Christie Series 'The Seven Dials Mystery' by 'Broadchurch' Writer Chris Chibnall,social,0.4755464494228363
+Netflix,From Past to Present: Post-Credit Footage Reveals 'Gyeongseong Creature' Season 2 to Unfold in Contemporary Seoul,social,0.5828973054885864
+Netflix,Netflix Announces New Sports Series 'Receiver',social,0.35960015654563904
+NVIDIA,NVIDIA Announces Financial Results for Fourth Quarter and Fiscal 2024,government,0.3365759551525116
+NVIDIA,Exclusive: Nvidia pursues $30 billion custom chip opportunity with new unit,social,0.4005982279777527
+NVIDIA,Nvidia overtakes Apple as No. 2 most valuable company,social,0.41549938917160034
+Salesforce,"Salesforce, IQVIA expand partnership to codevelop Life Sciences Cloud",social,0.6812035441398621
+Salesforce,Salesforce shares tumble as soft cloud demand hurts forecasts,environment,0.5422584414482117
+Salesforce,Time to Buy the Dip on Salesforce Stock?,social,0.45842650532722473
+Salesforce,"Salesforce abandons pursuit of Informatica, source says",neutral,0.5342669486999512
+Salesforce,Salesforce Stock Tanks On Weak Guidance Amid Hopes For Artificial Intelligence Boost,neutral,0.5254135727882385
+Salesforce,Salesforce plummets as weak forecast sparks concerns of AI competition,social,0.5491206645965576
+Salesforce,Salesforce looks to reinvent itself again with its fledgling AI business,social,0.37281516194343567
+Salesforce,Salesforce laying off 700 workers in latest tech industry downsizing - WSJ,social,0.5660147666931152
+Salesforce,"Salesforce to hire 3,300 people after layoffs earlier this year, Bloomberg reports",social,0.5250963568687439
+Salesforce,Oracle Vs. Salesforce (2024 Comparison),environment,0.33167335391044617
+Salesforce,"SF's Salesforce loses $50 billion in value, worst day in years",social,0.5124701857566833
+Salesforce,Reports: Salesforce abandons plans to acquire Informatica,social,0.37165746092796326
+Salesforce,"Salesforce stock plunges by 20%, erasing over $50 billion in value",social,0.4751475155353546
+Salesforce,"Salesforce Stock Dropped More Than 20% In One Day, What’s Next?",social,0.5314198136329651
+Salesforce,"Salesforce, Informatica reportedly can’t agree to deal terms",social,0.41992008686065674
+Salesforce,Salesforce to open first AI centre in London,social,0.585623562335968
+Salesforce,Filing shows Salesforce paid $419M to buy Spiff in February,government,0.5299729704856873
+Salesforce,Salesforce’s stock suffers its biggest drop in two decades,social,0.5787089467048645
+Salesforce,"What Salesforce learned after saving 50,000 hours of work using AI",social,0.39605987071990967
+IBM,"How IBM invented the smartphone, then abandoned it",neutral,0.5300265550613403
+IBM,IBM to buy HashiCorp in $6.4 billion deal to expand in cloud,government,0.37038373947143555
+IBM,"IBM Debuts Next-Generation Quantum Processor & IBM Quantum System Two, Extends Roadmap to Advance Era of Quantum Utility - Dec 4, 2023",government,0.3170188069343567
+IBM,"IBM Report: Identity Comes Under Attack, Straining Enterprises' Recovery Time from Breaches",social,0.5684573650360107
+IBM,"IBM Study: Widespread Discontent in Retail Experiences, Consumers Signal Interest in AI-Driven Shopping Amid Economic Strain",social,0.838355302810669
+IBM,"IBM Commits Up To $45M to Climate Adaptation, Starting With New RFP for Resilient Cities",environment,0.8724445700645447
+IBM,Rensselaer Polytechnic Institute and IBM unveil the world's first IBM Quantum System One on a university campus,social,0.4513412117958069
+IBM,"AI Alliance Launches as an International Community of Leading Technology Developers, Researchers, and Adopters Collaborating Together to Advance Open, Safe, Responsible AI",social,0.8573037981987
+IBM,"IBM Study: As CEOs Race Towards Gen AI Adoption, Questions Around Workforce and Culture Persist",social,0.9180288910865784
+IBM,IBM makes more AI models open source and lands Saudi Arabia deal,government,0.7167496681213379
+IBM,NATO Selects IBM to Further Enhance Alliance's Cybersecurity Resilience,government,0.7378760576248169
+IBM,"IBM Debuts New, State-of-the-Art Washington DC Cyber Response Training Facility",government,0.6137796640396118
+IBM,IBM forecasts annual revenue growth above estimates on AI adoption rush,government,0.38410723209381104
+IBM,IBM Develops The AI-Quantum Link,environment,0.2724895179271698
+IBM,IBM Announces New AI-Powered Threat Detection and Response Services,government,0.3541681170463562
+IBM,Sevilla FC Transforms the Player Recruitment Process with the Power of IBM watsonx Generative AI,social,0.5517710447311401
+IBM,The next big thing in retirement benefits might be the oldest: a traditional pension,social,0.5337094068527222
+IBM,IBM Expands Relationship with AWS to Bring Generative AI Solutions and Dedicated Expertise to Clients,social,0.3832104206085205
+IBM,New IBM LinuxONE 4 Express to Offer Cost Savings and Client Value through a Cyber Resilient Hybrid Cloud and AI Platform,environment,0.35838964581489563
+IBM,Dun & Bradstreet and IBM Collaborate to Bring Trustworthy Business Insights to Fuel Responsible Generative AI Solutions Powered by watsonx,social,0.39715349674224854
+IBM,"IBM nearing deal for cloud software provider HashiCorp, source says",social,0.33547601103782654
+IBM,AI Drives IBM’s Quarterly Results Amid Economic Challenges,government,0.3341172933578491
+IBM,IBM suspends ads on X after corporate ads appeared next to pro-Nazi content,social,0.48262128233909607
+IBM,New IBM Study Explores the Changing Role of Leadership as Businesses in Europe Embrace Generative AI,social,0.7125968933105469
+Tesla,I've driven tons of EVs. My first time driving a Tesla was still difficult.,environment,0.33554548025131226
+Tesla,Tesla sales plunge far more than expected,social,0.3094992935657501
+Tesla,Tesla recalling nearly 2.2M vehicles for software update to fix warning lights that are too small,social,0.35310012102127075
+Tesla,Samsung Announces Collaboration With Tesla at CES 2024 for SmartThings Energy,environment,0.5946017503738403
+Tesla,"I drove the new Tesla Model 3, here’s what got better",social,0.36998245120048523
+Tesla,"Tesla 1Q profit falls 55%, but stock jumps as company moves to speed production of cheaper vehicles",neutral,0.44867053627967834
+Tesla,We drove a Tesla in Silicon Valley and Detroit: Wildly different experiences,social,0.5318745970726013
+Tesla,"Tesla’s earnings plunge, but the company promises cheaper car model",neutral,0.4018953740596771
+Tesla,Tesla's price cuts eat into Cybertruck maker's profits as net income plunges 44% in the 3rd quarter,social,0.45528745651245117
+Tesla,Tesla recalls nearly all 2 million of its vehicles on US roads,social,0.3220687806606293
+Tesla,"I drove a Tesla for the first time. Nice car, but I was underwhelmed.",neutral,0.5534532070159912
+Tesla,Tesla's 2Q profit falls 45% to $1.48 billion as sales drop despite price cuts and low-interest loans,government,0.3689521551132202
+Tesla,TSLA Stock Quote Price and Forecast,neutral,0.3872922956943512
+Tesla,"Tesla sales tumble nearly 9%, most in 4 years, as competition heats up and demand for EVs slows",environment,0.33161288499832153
+Tesla,Tesla puts German factory production on hold as Red Sea attacks disrupt supply chains,government,0.3968079686164856
+Tesla,Tesla: EV giant cuts prices in major markets as sales fall,social,0.3476718068122864
+Tesla,Tesla recalls nearly all vehicles sold in US to fix system that monitors drivers using Autopilot,government,0.35399484634399414
+Tesla,"Elon Musk cannot keep Tesla pay package worth more than $55 billion, judge rules",government,0.47636863589286804
+Tesla,"Opinion | Sometimes, to Make an Electric Car Better, You’ve Got to Make It a Little Worse",social,0.5020498633384705
+Tesla,"Tesla cuts the price of its ""Full Self Driving"" system by a third to $8,000",social,0.3351152539253235
+Tesla,The Tesla Model S Has Lived Long Enough to See Itself Become a Villain,social,0.48529472947120667
+Tesla,Is Tesla On the Road to Irrelevance?,environment,0.40827158093452454
+Tesla,Tesla shares fall after deliveries drop 8.5% from a year ago,environment,0.3032549023628235
+Tesla,The history of Elon Musk's Tesla,social,0.5151485800743103
+Tesla,Tesla's recall of 2 million vehicles to fix its Autopilot system uses technology that may not work,government,0.3555885851383209
+Tesla,What’s wrong with Tesla?,social,0.445848673582077
+Tesla,Tesla driver tells police he was using 'self-drive' system when his car hit a parked police vehicle,social,0.32910895347595215
+Tesla,Tesla won over fans of electric vehicles. Now Elon Musk and company have a bigger challenge: convincing everyday car buyers,social,0.5743036270141602
+Tesla,"Tesla reported 485,000 deliveries for the fourth quarter, bringing 2023 total to 1.8 million",social,0.3045017719268799
+Tesla,"Tesla sales fall for second straight quarter despite price cuts, but decline not as bad as expected",neutral,0.5981398224830627
+Tesla,Tesla is now an official Chinese government car,government,0.8692520260810852
+Tesla,"Tesla in Seattle-area crash that killed motorcyclist was using self-driving system, authorities say",government,0.45205262303352356
+Tesla,Elon Musk’s Politics May Be Pushing Some Buyers Away From Tesla,social,0.6009219288825989
+Tesla,Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies,government,0.3630973994731903
+Tesla,Tesla’s ‘Full Self-Driving’ Struggled Soon After Leaving My Driveway,environment,0.41580212116241455
+Tesla,Elon Musk insists Tesla isn’t a car company as sales falter,neutral,0.37546706199645996
+Tesla,Think Tesla is in trouble? Pity even more its wannabe EV rivals,social,0.4437953233718872
+Tesla,Tesla cuts U.S. prices for 3 of its electric vehicle models after a difficult week,government,0.3248976171016693
+Tesla,Tesla’s next-generation vehicle: all the news about Elon Musk’s next big EV bet,social,0.4749408960342407
+Tesla,2024 Tesla Model 3 Review: No Longer a Trailblazer,social,0.29845911264419556
+Tesla,"How Tesla and its Chinese competitor compare, in 4 charts",social,0.41712120175361633
+Tesla,Tesla asks shareholders to restore $56B Elon Musk pay package that was voided by Delaware judge,government,0.6528878808021545
+Tesla,Tesla Promises ‘More Affordable Models’ and a ‘Cybercab’,social,0.5253588557243347
+Tesla,2024 Tesla Model 3 Performance Shows Off at Laguna Seca,environment,0.35222089290618896
+Tesla,"What We Know About Tesla’s Major Recall of 125,000 Vehicles",social,0.408251017332077
+Tesla,"Tesla recalling nearly 4,000 Cybertrucks because accelerator pedal can get stuck",environment,0.3607587218284607
+Tesla,Elon Musk's Tesla recalls two million cars in US over Autopilot defect,government,0.39798080921173096
+Tesla,Tesla loses its EV quality edge as repair problems continue to plague the market,environment,0.3242911696434021
+Tesla,Tesla CEO Elon Musk appears to confirm delay in Aug. 8 robotaxi unveil event to make design change,social,0.3526563048362732
+Tesla,"34-year-old earning $400,000 a year: I regret buying a brand-new Tesla—it was a 'huge mistake'",environment,0.32430967688560486
+Tesla,Elon Musk Mandates Test Drives of Tesla’s Flawed Driving System,social,0.37413087487220764
+Tesla,Tesla Recalls Autopilot Software in 2 Million Vehicles,government,0.27118119597435
+Tesla,"Musk said Tesla cars would rise in value, but the opposite happened",neutral,0.38496601581573486
+Tesla,Tesla’s Troubles Raise Questions About Its Invincibility,social,0.4558929204940796
+Apple,Apple Vision Pro available in the U.S. on February 2,government,0.30030357837677
+Apple,"Apple announces changes to iOS, Safari, and the App Store in the European Union",government,0.4577121436595917
+Apple,"Introducing Apple Intelligence for iPhone, iPad, and Mac",government,0.47806909680366516
+Apple,iOS 18 Preview,social,0.31977275013923645
+Apple,Apple Intelligence Preview,government,0.6615009903907776
+Apple,Apple to expand repair options with support for used genuine parts,social,0.5469728708267212
+Apple,"Apple announces new accessibility features, including Eye Tracking, Music Haptics, and Vocal Shortcuts",social,0.2944256067276001
+Apple,"Apple Vision Pro arrives in China mainland, Hong Kong, Japan, and Singapore",social,0.5526041984558105
+Apple,Apple previews new entertainment experiences launching with Apple Vision Pro,neutral,0.2951134741306305
+Apple,Apple’s Worldwide Developers Conference to kick off June 10 with Keynote address,social,0.49979129433631897
+Apple,Apple unveils iPhone 15 Pro and iPhone 15 Pro Max,government,0.3319794833660126
+Apple,Apple announces winners of the 2024 Apple Design Awards,social,0.3956116735935211
+Apple,"iOS 18 makes iPhone more personal, capable, and intelligent than ever",social,0.7377221584320068
+Apple,New features come to Apple services this fall,social,0.3019964396953583
+Apple,"Apple unveils stunning new iPad Pro with the world’s most advanced display, M4 chip, and Apple Pencil Pro",social,0.4170333445072174
+Apple,Apple and Google deliver support for unwanted tracking alerts in iOS and Android,social,0.4778485596179962
+Apple,iPhone 15 Pro and iPhone 15 Pro Max,social,0.34773579239845276
+Apple,Apple Vision Pro arrives in new countries and regions beginning June 28,social,0.4087454080581665
+Apple,Behind the scenes at Scary Fast: Apple’s keynote event shot on iPhone and edited on Mac,government,0.4303627908229828
+Apple,Apple introduces transcripts for Apple Podcasts,social,0.3585823178291321
+Apple,Apple Vision Pro arrives in Apple Store locations across the U.S.,environment,0.3925316035747528
+Apple,Apple unveils the new 13- and 15-inch MacBook Air with the powerful M3 chip,environment,0.4021487832069397
+Apple,Apple debuts iPhone 15 and iPhone 15 Plus,social,0.3543311059474945
+Apple,"Apple unveils App Store Award winners, the best apps and games of 2023",social,0.3022407591342926
+Apple,iOS 17 is available today,social,0.3086872696876526
+Apple,"Apple introduces new Apple Pencil, bringing more value and choice to the lineup",social,0.637588620185852
+Apple,"watchOS 11 brings powerful health and fitness insights, and even more personalization and connectivity",social,0.7416831851005554
+Apple,Redesigned Apple TV app elevates the viewing experience,government,0.352827787399292
+Apple,Apple launches “Made for Business” in select stores around the world,social,0.6757386922836304
+Apple,Office of Public Affairs | Justice Department Sues Apple for Monopolizing Smartphone Markets,government,0.8647295236587524
+Apple,Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air with M2,environment,0.28926345705986023
+Apple,iPadOS 18 Preview,social,0.2773185968399048
+Apple,Apple introduces M4 chip,social,0.3785887062549591
+Apple,Final Cut Pro for Mac and iPad get powerful updates,government,0.3781462013721466
+Apple,Apple unveils Apple Watch Ultra 2,social,0.3836813271045685
+Apple,Apple Vision Pro unlocks new opportunities for health app developers,neutral,0.31016072630882263
+Apple,Updates to the Home experience elevate entertainment and bring more convenience,social,0.691564679145813
+Apple,Apple Vision Pro brings a new era of spatial computing to business,environment,0.5292314887046814
+Apple,"Apple Jing’an to welcome its first customers this Thursday, March 21, in Shanghai",social,0.6756687164306641
+Apple,iPhone 15 lineup and new Apple Watch lineup arrive worldwide,social,0.5496180057525635
+Apple,Apple unveils its first carbon neutral products,neutral,0.5949937105178833
+Apple,Apple ramps up investment in clean energy and water around the world,environment,0.8135214447975159
+Apple,Apple Watch Series 9,social,0.45385366678237915
+Apple,"Apple Vision Pro, One Month Later: It's in My Life, Sometimes",social,0.598803699016571
+Apple,"Apple TV+ announces “Neuromancer,” new drama based on the multi-award-winning science fiction novel by William Gibson",neutral,0.6933884620666504
+Apple,Apple expands Self Service Repair and introduces new Diagnostics process,social,0.6626933813095093
+Apple,My Life Outside of the Apple Vision Pro,social,0.331265389919281
+Apple,Apple supercharges 24-inch iMac with new M3 chip,environment,0.4097721576690674
+Apple,watchOS 10 is available today,social,0.2857285439968109
+Apple,Apple and Île-de-France Mobilités introduce Navigo for iPhone and Apple Watch,social,0.3838973641395569
+Apple,Apple Hearing Study shares preliminary insights on tinnitus,government,0.38144639134407043
+Apple,Apple Arcade takes players into a new dimension with spatial gaming,environment,0.9273960590362549
+Apple,iPhone 15 Pro and 15 Pro Max - Technical Specifications,government,0.43576303124427795
+Apple,AirPods introduce convenient ways to communicate and interact,social,0.8197327256202698
+Apple,Apple’s 2024 Pride Collection shines light on LGBTQ+ communities,social,0.832957923412323
+Apple,"Apple The Exchange TRX opens Saturday, June 22, in Kuala Lumpur",social,0.43533438444137573
+Apple,Inside Apple’s Big Plan to Bring Generative AI to All Its Devices,government,0.3152741491794586
+Apple,iPhone 15 and iPhone 15 Plus - Technical Specifications,government,0.3958129286766052
+Apple,Final Cut Pro transforms video creation with Live Multicam on iPad and new AI features on Mac,social,0.3778156340122223
+Apple,"Apple Original Films Formula 1® feature starring Brad Pitt to be released on June 27, 2025",social,0.4988625645637512
+Apple,Apple empowers developers and fuels innovation with new tools and resources,social,0.5702469944953918
+Apple,"Apple Vision Pro hands-on, again, for the first time",environment,0.32768020033836365
+Apple,"Five new games, including Ubisoft’s Rabbids: Legends of the Multiverse, arrive on Apple Arcade",social,0.4975440502166748
+Apple,iPhone 15 and iPhone 15 Plus,social,0.3515194356441498
+Apple,Apple Music celebrates the greatest records ever made with the launch of inaugural 100 Best Albums list,social,0.6241073608398438
+Apple,macOS Sonoma is available today,social,0.36545565724372864
+Apple,Apple introduces spatial video capture on iPhone 15 Pro,environment,0.785270094871521
+Apple,Apple spotlights the top apps and games of 2023 on the App Store,social,0.28840887546539307
+Apple,visionOS 2 brings new spatial computing experiences to Apple Vision Pro,environment,0.5708634257316589
+Apple,Apple Watch double tap gesture now available with watchOS 10.1,social,0.3860453963279724
+Apple,Apple extends its privacy leadership with new updates across its platforms,social,0.44966447353363037
+Apple,iPhone - Why Upgrade,social,0.4107125401496887
+Apple,iPadOS 18 introduces powerful new intelligence features and apps designed for Apple Pencil,government,0.37365248799324036
+Apple,Apple Jing’an now open in Shanghai,environment,0.39682701230049133
+Apple,Apple Explores A.I. Deals With News Publishers,social,0.5762303471565247
+Apple,The Apple Vision Pro,environment,0.3913302719593048
+Apple,Apple Music reveals top 10 albums of all time on 100 Best list,social,0.4094408452510834
+Apple,Apple leaps into AI with an array of upcoming iPhone features and a ChatGPT deal to smarten up,social,0.5271167755126953
+Apple,Apple iPhone Spatial Video Looks Amazing on Vision Pro,environment,0.564710795879364
+Apple,"Apple’s new iPhones get faster chips, better cameras and new charging ports",social,0.3415191173553467
+Apple,Here's Why Apple's WWDC Presentation Changed My Mind About iOS 18,social,0.4359026253223419
+Apple,Apple Watch Ultra 2,social,0.41868162155151367
+Apple,"Goodbye to Apple’s Smart Keyboard Folio, the best iPad Pro accessory",neutral,0.588840663433075
+Apple,"Apple TV+ renews acclaimed, expansive sci-fi drama “Invasion” for season three",government,0.3161795139312744
+Apple,I spent the morning with the Apple Vision Pro,social,0.43395835161209106
+Apple,The Apple Vision Pro Is a Marvel. But Who Will Buy It?,social,0.5700175166130066
+Apple,Apple’s Slow Rollout of Intelligence Features Will Stretch Into 2025,government,0.44565922021865845
+Apple,"Apple TV+ unveils first look at highly anticipated Godzilla and Titans live-action original series, “Monarch: Legacy of Monsters”",government,0.3893582820892334
+Apple,Environment - Mother Nature,environment,0.9871983528137207
+Apple,Apple’s AI Push Sets Stage for Everything From Glasses to Robots,social,0.3863682448863983
+Apple,Apple Watch is the perfect golfing companion,social,0.7100369930267334
+Apple,Apple The Exchange TRX now open in Kuala Lumpur,social,0.3648061454296112
+Apple,Every “Apple Intelligence” feature announced,government,0.479562371969223
+Apple,Apple Needs to Evolve to Compete in the Artificial Intelligence Era,social,0.3470928370952606
+Apple,Apple Intelligence Brings AI to the iPhone With ChatGPT Integration and More,social,0.5673847198486328
+Apple,Apple Intelligence is the company’s new generative AI offering,government,0.4125898778438568
+Microsoft,Helping our customers through the CrowdStrike outage,social,0.8574397563934326
+Microsoft,Introducing Copilot+ PCs,social,0.5822849869728088
+Microsoft,Staying ahead of threat actors in the age of AI,social,0.39526164531707764
+Microsoft,"With a systems approach to chips, Microsoft aims to tailor everything ‘from silicon to service’ to meet AI demand - Source",government,0.28924182057380676
+Microsoft,Bringing the full power of Copilot to more people and businesses,social,0.9063172340393066
+Microsoft,"Announcing Microsoft Copilot, your everyday AI companion",social,0.5356072187423706
+Microsoft,Introducing Mistral-Large on Azure in partnership with Mistral AI,environment,0.4538640081882477
+Microsoft,Microsoft and Activision Blizzard Restructure Proposed Acquisition,social,0.45275479555130005
+Microsoft,Microsoft announces new Copilot Copyright Commitment for customers - Microsoft On the Issues,social,0.41768762469291687
+Microsoft,Delivering Copilot for everyone,social,0.8427193760871887
+Microsoft,"Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",neutral,0.6703601479530334
+Microsoft,Microsoft Digital Defense Report 2023 (MDDR),government,0.6013889908790588
+Microsoft,Announcing Copilot for Microsoft 365 general availability and Microsoft 365 Chat,social,0.8680691123008728
+Microsoft,What Can Copilot’s Earliest Users Teach Us About Generative AI at Work?,social,0.36810410022735596
+Microsoft,"New ways to get creative with Microsoft Designer, powered by AI",social,0.35766667127609253
+Microsoft,Celebrating the first year of Copilot with significant new innovations,social,0.5437918305397034
+Microsoft,Microsoft and NVIDIA announce major integrations to accelerate generative AI for enterprises everywhere - Stories,neutral,0.31992751359939575
+Microsoft,Broadening AI innovation: Microsoft's pledge to the National AI Research Resource pilot - Microsoft On the Issues,government,0.6969709396362305
+Microsoft,Unlocking a new era for scientific discovery with AI: How Microsoft’s AI screened over 32 million candidates to find a better battery,government,0.31560778617858887
+Microsoft,Bringing Copilot to more customers worldwide—across life and work,social,0.8691290616989136
+Microsoft,Midnight Blizzard conducts targeted social engineering over Microsoft Teams,social,0.8711345195770264
+Microsoft,Microsoft Mesh is generally available in Microsoft Teams | Microsoft 365 Blog,social,0.6627236008644104
+Microsoft,Disrupting the gateway services to cybercrime - Microsoft On the Issues,government,0.39488884806632996
+Microsoft,Midnight Blizzard: Guidance for responders on nation-state attack,environment,0.4068589508533478
+Microsoft,New passkey support for Microsoft consumer accounts | Microsoft Security Blog,neutral,0.2939881682395935
+Microsoft,Analyzing Forest Blizzard’s custom post-compromise tool for exploiting CVE-2022-38028 to obtain credentials,environment,0.35537418723106384
+Microsoft,Expanding Copilot for Microsoft 365 to businesses of all sizes,social,0.6603949069976807
+Microsoft,"Octo Tempest crosses boundaries to facilitate extortion, encryption, and destruction",government,0.45486873388290405
+Microsoft,Introducing Microsoft Copilot for Finance – the newest Copilot offering in Microsoft 365 designed to transform modern finance,social,0.48189225792884827
+Microsoft,Microsoft Ignite 2023: AI transformation and the technology driving change,social,0.2862450182437897
+Microsoft,"Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs",neutral,0.32523199915885925
+Microsoft,New study validates the business value and opportunity of AI,social,0.35298991203308105
+Microsoft,Microsoft to help rural hospitals defend against rising cybersecurity attacks - Stories,government,0.3853500783443451
+Microsoft,Introducing the Microsoft Copilot Copyright Commitment,social,0.43111905455589294
+Microsoft,Microsoft announces changes to Microsoft 365 and Office 365 to address European competition concerns,social,0.41233575344085693
+Microsoft,"Microsoft lays off 1,900 Activision Blizzard and Xbox employees",social,0.387866735458374
+Microsoft,Windows Security best practices for integrating and managing security tools,government,0.360498309135437
+Microsoft,Turn your ideas into songs with Suno on Microsoft Copilot,social,0.7988947033882141
+Microsoft,Tiny but mighty: The Phi-3 small language models with big potential - Source,social,0.3597928583621979
+Microsoft,Adobe and Microsoft partner to bring new generative AI capabilities to marketers as they work in Microsoft 365 applications,social,0.3994307219982147
+Microsoft,Here’s how we’re working with journalists to create the newsrooms of the future with AI - Microsoft On the Issues,social,0.34472253918647766
+Microsoft,New subscription structure for Microsoft 365 in Europe,social,0.412687748670578
+Microsoft,AI at Work Is Here. Now Comes the Hard Part,government,0.3879586160182953
+Microsoft,Flax Typhoon using legitimate software to quietly access Taiwanese organizations,social,0.3479383587837219
+Microsoft,Providing further transparency on our responsible AI efforts - Microsoft On the Issues,government,0.4218236207962036
+Microsoft,How Microsoft and Quantinuum achieved reliable quantum computing,neutral,0.39527207612991333
+Microsoft,"Microsoft to invest US$2.9 billion in AI and cloud infrastructure in Japan while boosting the nation’s skills, research and cybersecurity",government,0.7622294425964355
+Microsoft,Realigning global licensing for Microsoft 365,social,0.4460485279560089
+Microsoft,Expanding Microsoft’s Secure Future Initiative (SFI) | Microsoft Security Blog,social,0.4488335847854614
+Microsoft,Announcing new Copilot in Microsoft Teams enhancements | Microsoft 365 Blog,social,0.6100510954856873
+Microsoft,Khan Academy and Microsoft partner to expand access to AI tools that personalize teaching and help make learning fun,social,0.666398286819458
+Microsoft,Advancing science: Microsoft and Quantinuum demonstrate the most reliable logical qubits on record with an error rate 800x better than physical qubits,neutral,0.292402446269989
+Microsoft,Microsoft’s AI Access Principles: Our commitments to promote innovation and competition in the new AI economy,social,0.40694689750671387
+Microsoft,Star Blizzard increases sophistication and evasion in ongoing attacks,environment,0.4798307418823242
+Microsoft,Microsoft announces $3.3 billion investment in Wisconsin to spur artificial intelligence innovation and economic growth,government,0.6693093180656433
+Microsoft,Microsoft announces new steps to help protect elections - Microsoft On the Issues,government,0.6078696250915527
+Microsoft,"Advancing the new era of work with Copilot, Windows, and Surface",social,0.5566592216491699
+Microsoft,Who’s Harry Potter? Making LLMs forget,government,0.5808204412460327
+Microsoft,Announcing Microsoft Copilot Studio | Microsoft 365 Blog,social,0.7281625270843506
+Microsoft,"Microsoft Copilot for Security is generally available on April 1, 2024 | Microsoft Security Blog",social,0.36140039563179016
+Microsoft,Connect in new ways with Microsoft Mesh | Microsoft 365 Blog,social,0.5566366910934448
+Microsoft,Financially motivated threat actors misusing App Installer,government,0.3485250174999237
+Microsoft,"Microsoft, Amazon, and international law enforcement join forces to fight tech support fraud",government,0.5685449838638306
+Microsoft,Microsoft Build 2024,social,0.38502052426338196
+Microsoft,Multiple North Korean threat actors exploiting the TeamCity CVE-2023-42793 vulnerability,government,0.4473659098148346
+Microsoft,Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences,government,0.422312468290329
+Microsoft,"Mitigating Skeleton Key, a new type of generative AI jailbreak technique",neutral,0.3056039810180664
+Microsoft,Microsoft implements DMA compliance measures,social,0.3582046926021576
+Microsoft,Microsoft announces US$1.7 billion investment to advance Indonesia’s cloud and AI ambitions - Microsoft Stories Asia,government,0.6152018904685974
+Microsoft,China tests US voter fault lines and ramps AI content to boost its geopolitical interests - Microsoft On the Issues,government,0.6537287831306458
+Microsoft,Introducing Microsoft Copilot for Finance in Microsoft 365| Microsoft 365 Blog,social,0.6018604636192322
+Microsoft,Microsoft’s AI Safety Policies - Microsoft On the Issues,neutral,0.31274542212486267
+Microsoft,“Dirty stream” attack: Discovering and mitigating a common vulnerability pattern in Android apps,environment,0.377808541059494
+Microsoft,New Microsoft security tools to protect families and businesses,social,0.5128472447395325
+Microsoft,Microsoft is finally making custom chips — and they’re all about AI,government,0.288824200630188
+Microsoft,Microsoft lays foundation for green building materials of tomorrow - Source,environment,0.8116156458854675
+Microsoft,Microsoft announces US$2.2 billion investment to fuel Malaysia’s cloud and AI transformation - Microsoft Stories Asia,government,0.5638673901557922
+Microsoft,"New models added to the Phi-3 family, available on Microsoft Azure",environment,0.3579655587673187
+Microsoft,2024 Annual Work Trend Index from Microsoft and LinkedIn,social,0.9230489134788513
+Microsoft,"China, North Korea pursue new targets while honing cyber capabilities - Microsoft On the Issues",government,0.8307960629463196
+Microsoft,Peach Sandstorm password spray campaigns enable intelligence collection at high-value targets,social,0.38825613260269165
+Microsoft,Microsoft AI Red Team building future of safer AI,neutral,0.4107397496700287
+Microsoft,"Announcing Microsoft Copilot, your everyday AI companion",social,0.5356072187423706
+Microsoft,Microsoft and LinkedIn release the 2024 Work Trend Index on the state of AI at work,social,0.9459348917007446
+Microsoft,Introducing Microsoft Copilot Studio and new features in Copilot for Microsoft 365,social,0.4186273217201233
+Microsoft,"Microsoft unveils new generative AI and data solutions across the shopper journey, offering copilot experiences through Microsoft Cloud for Retail",neutral,0.2774272859096527
+Microsoft,"Microsoft’s 2023 Diversity and Inclusion Report: A decade of transparency, commitment and progress",social,0.9080513119697571
+Microsoft,The main components of the Microsoft Intune Suite are now generally available | Microsoft Security Blog,neutral,0.3181203603744507
+Microsoft,Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure,environment,0.41535142064094543
+Microsoft,Orca 2: Teaching Small Language Models How to Reason,social,0.36032381653785706
+Microsoft,Malware distributor Storm-0324 facilitates ransomware access,government,0.3001607358455658
+Microsoft,Diamond Sleet supply chain compromise distributes a modified CyberLink installer,social,0.35476741194725037
+Microsoft,"Introducing Garnet – an open-source, next-generation, faster cache-store for accelerating applications and services",environment,0.3559303283691406
+Microsoft,New TTPs observed in Mint Sandstorm campaign targeting high-profile individuals at universities and research orgs,social,0.8133933544158936
+Microsoft,Moonstone Sleet emerges as new North Korean threat actor with new bag of tricks,government,0.369857519865036
+Microsoft,Bringing the latest capabilities to Copilot for Microsoft 365 customers,social,0.45646122097969055
+Microsoft,Announcing new Microsoft AI Hub in London,government,0.5070411562919617
+Microsoft,Seeing AI App Launches on Android – Including new and updated features and new languages.,neutral,0.44074034690856934
+Amazon,How Amazon continues to improve the customer reviews experience with generative AI,neutral,0.31356722116470337
+Amazon,Amazon announces its largest reduction in plastic packaging in North America to date,environment,0.33955901861190796
+Amazon,Amazon One launches an app to make sign-up for its palm-recognition service even easier,social,0.7042443752288818
+Amazon,"Amazon: AI spots product defects, reduces waste",environment,0.5290617942810059
+Amazon,Amazon is making it easier and safer for you to access your account with passwordless sign-in,social,0.4808099865913391
+Amazon,"AWS announces general availability of Amazon Q, generative AI-powered assistant",environment,0.30836358666419983
+Amazon,Xbox comes to Amazon Fire TV: Play popular games without a console,social,0.45665881037712097
+Amazon,"Amazon announces new fulfillment center robots, Sequoia and Digit",environment,0.4196310341358185
+Amazon,Amazon rolls out AI-powered image generation to help advertisers deliver a better ad experience for customers,social,0.4304795265197754
+Amazon,When is Amazon Prime Day 2024? Dates and what to know,social,0.5105747580528259
+Amazon,"Amazon to expand Prime Air drone delivery in Italy, UK, and U.S.",social,0.4979604184627533
+Amazon,Amazon drones: Prime Air expands drone deliveries after FAA approval,government,0.5803370475769043
+Amazon,Prime Big Deal Days takes place October 10-11. Here are 4 tips to save big during the event.,social,0.36850011348724365
+Amazon,Amazon Pharmacy: Get your medications delivered by drone,social,0.5169216394424438
+Amazon,'Amazon Rufus' AI experience comes to the Amazon Shopping app,government,0.36541324853897095
+Amazon,Amazon launches new generative AI feature for sellers to create product descriptions,social,0.2868349850177765
+Amazon,Amazon’s new grocery delivery subscription offers big savings to Prime members and EBT customers,social,0.5466508269309998
+Amazon,"Amazon is hiring 250,000 seasonal employees for the holidays in the U.S.",social,0.4297827482223511
+Amazon,"Amazon electric trucks roll out in California, support sustainability goals",environment,0.7909642457962036
+Amazon,"Amazon and Hyundai launch a broad, strategic partnership—including vehicle sales on Amazon.com in 2024",social,0.490926057100296
+Amazon,Amazon completes $4B Anthropic investment to advance generative AI,social,0.2704358696937561
+Amazon,Amazon launches generative AI to help sellers write product descriptions,social,0.3553934693336487
+Amazon,Prime Video rolls out updated streaming look,social,0.4135756194591522
+Amazon,Amazon drone delivery is coming to Arizona,government,0.3490612506866455
+Amazon,Amazon launches Amazon.co.za in South Africa,social,0.3485897183418274
+Amazon,Amazon will invest up to $4B in Anthropic to advance generative AI,environment,0.3210514783859253
+Amazon,Amazon announces its first automated U.S. fulfillment center to eliminate plastic delivery packaging,environment,0.39084920287132263
+Amazon,"Amazon shares an update on Prime Video, introduces limited ads",social,0.6693541407585144
+Amazon,Amazon reveals first photos of the new Prime Air delivery drone,social,0.5057238936424255
+Amazon,Former Microsoft lead Panos Panay joins Amazon,social,0.5382894277572632
+Amazon,"Amazon Music launches Maestro, a new AI playlist generator—here’s your first look at the beta",neutral,0.2910998463630676
+Amazon,Amazon Q brings generative AI-powered assistance to IT pros and developers (preview),social,0.3358197808265686
+Amazon,"Amazon brings Amazon Clinic, One Medical under a single brand",government,0.28939634561538696
+Amazon,"Introducing Amazon Q, a new generative AI-powered assistant (preview) | Amazon Web Services",social,0.28191134333610535
+Amazon,Amazon Project Kuiper latest updates: May 2024,social,0.35439756512641907
+Amazon,Our workforce data,social,0.4088797867298126
+Amazon,Amazon’s Big Spring Sale is Now Live! Shop Deals March 20-25,social,0.5276152491569519
+Amazon,Amazon's Rufus AI assistant now available to all US customers,social,0.41091424226760864
+Amazon,Amazon’s latest actions to protect customers from impersonation scams,social,0.5466746091842651
+Amazon,CES 2024: 7 key announcements from Amazon,social,0.3696393370628357
+Amazon,Inside the first satellite test mission for Amazon’s Project Kuiper,government,0.39265209436416626
+Amazon,Amazon’s all-new Echo Spot is $35 off as an early Prime Day deal,social,0.37532252073287964
+Amazon,"Amazon Robotics unveils Titan, new fulfillment center robot",social,0.400333434343338
+Amazon,Amazon’s Prime delivery speeds are faster than ever so far in 2024,social,0.3532649576663971
+Amazon,Amazon’s Project Kuiper actively deorbits prototype satellites,environment,0.3489188551902771
+Amazon,"'Alexa, thank my driver:' Here’s the simple way Amazon customers can show delivery drivers appreciation",social,0.844039261341095
+Amazon,"Amazon Live: Free channel on Prime Video, Freevee offers shopping features",social,0.5430008769035339
+Amazon,Amazon’s Project Kuiper completes successful test of space lasers,social,0.3933159112930298
+Amazon,CEO Andy Jassy’s 2023 Letter to Shareholders,social,0.5743687748908997
+Amazon,Amazon is the world's largest corporate purchaser of renewable energy for the fourth year in a row,environment,0.775508463382721
+Amazon,"Pinterest, BuzzFeed, and more apps and websites will start to show Amazon Sponsored Product ads, making it easier to discover and buy relevant products",social,0.9655064940452576
+Amazon,Amazon’s new satellite technician certification and Kuiper facility,government,0.44532984495162964
+Amazon,AWS announces Amazon Q (Preview),environment,0.39315691590309143
+Amazon,Amazon secures 3 launches with SpaceX to support Project Kuiper deployment,environment,0.42756080627441406
+Amazon,How Amazon continues to improve its packaging,social,0.5289691090583801
+Amazon,How Amazon Fashion is using AI to help you find the perfect fit,neutral,0.3084198236465454
+Amazon,Amazon announces record-breaking sales for 2024 Prime Day event,social,0.5519393682479858
+Amazon,Amazon announces the launch of Amazon.co.za in South Africa in 2024,social,0.37821465730667114
+Amazon,"Amazon unveils ‘Your Books’ to explore all your print, Kindle, and Audible books",social,0.6798301935195923
+Amazon,"New Amazon AI initiative includes scholarships, free AI courses",social,0.6481277346611023
+Amazon,Amazon introduces next generation Echo Frames smart glasses,social,0.4832865595817566
+Amazon,Amazon says this year’s Prime Day was its biggest ever,social,0.7151716947555542
+Amazon,Doug Herrington: 3 ways Amazon is working to deliver faster in 2024,social,0.34379875659942627
+Amazon,AWS unveils new enterprise hardware to provide businesses with easy-to-use virtual desktops,environment,0.44262197613716125
+Amazon,Amazon debuts new RFID capability for Just Walk Out tech,social,0.5275730490684509
+Amazon,"New generative AI features in Amazon Connect, including Amazon Q, facilitate improved contact center service",social,0.3270116448402405
+Amazon,Amazon: Generative AI powers Fire TV search experience,social,0.37947821617126465
+Amazon,"Amazon’s 10th Prime Day Event Returns July 16 & 17, With Millions of Exclusive Deals for Prime Members",social,0.43827635049819946
+Amazon,"Amazon new devices announced 2023: Echo, Fire TV, Alexa updates",social,0.5808020234107971
+Amazon,AWS leadership update: AWS CEO Adam Selipsky steps down,social,0.331807017326355
+Amazon,"Amazon smart home announcements 2023: Echo Hub, Map View, and more",environment,0.4585980176925659
+Amazon,Amazon reveals Best Books of 2023: 10 books you should read next,social,0.30704978108406067
+Amazon,Amazon’s satellite network works with telecom partners,social,0.4533921480178833
+Amazon,Amazon is using AI to make holiday shopping even more convenient,social,0.6353079080581665
+Amazon,Amazon previews the future of Alexa with generative AI,social,0.6112810373306274
+Amazon,New Amazon Prime benefit: One Medical health care for $9 a month,government,0.35402628779411316
+Amazon,How Amazon uses AI to become a more sustainable company,environment,0.8390609622001648
+Amazon,What is Amazon Pet Day? Shop Top Deals & Discounts May 7-8,social,0.6423950791358948
+Amazon,Amazon Prime Day 2024 returns this July,social,0.3644414246082306
+Amazon,Announcing the general availability of Amazon Q Business and Amazon Q Apps (Preview),social,0.3834506571292877
+Amazon,Amazon’s Project Kuiper test satellites are healthy,environment,0.38078224658966064
+Amazon,"Amazon introduces Consult-a-Friend, a new mobile experience that lets you ask your friends for advice while you shop",social,0.9746671915054321
+Amazon,"New Amazon WorkSpaces Thin Client provides cost-effective, secure access to virtual desktops",environment,0.6380443572998047
+Amazon,The Best Thing About Amazon Was Never Going to Last,social,0.5255562663078308
+Amazon,An update on Amazon's plans for Just Walk Out and checkout-free technology,social,0.6318113207817078
+Amazon,5 ways Amazon is making it easier to search and shop for products,social,0.4950065314769745
+Amazon,"Amazon Pharmacy: AI aiding same-day delivery to New York, Los Angeles",social,0.7609567046165466
+Amazon,8 ways Amazon is using generative AI to make life easier,social,0.28731176257133484
+Amazon,"Introducing Supply Chain by Amazon, an automated solution to help sellers quickly and reliably ship products around the world",social,0.6550743579864502
+Amazon,Amazon meets 100% renewable energy goal 7 years early,environment,0.7897503972053528
+Amazon,AWS announces general availability of Amazon Bedrock and more new generative AI innovations,government,0.3977595865726471
+Amazon,Dr. Andrew Ng appointed to Amazon’s Board of Directors,government,0.45774322748184204
+Amazon,"Amazon will be added to the Dow Jones Industrial Average, replacing Walgreens Boots Alliance",social,0.5495148301124573
+Amazon,"Amazon Effect: Definition, Statistics, Impact on Consumers",social,0.38652506470680237
+Amazon,Inside an alleged Amazon union-busting campaign in Kentucky: 'They want to scare us',environment,0.36349254846572876
+Amazon,"Amazon Career Choice FAQ: How it works, 400+ eligible schools globally",social,0.6162098050117493
+Amazon,US government and 17 states sue Amazon in landmark monopoly case,government,0.6026147603988647
+Amazon,Your guide to Amazon Prime Day 2024 and how to find deals,social,0.5295600295066833
+Google,Programs and Events,government,0.5174714922904968
+Google,Passwordless by default: Make the switch to passkeys,neutral,0.8209084868431091
+Google,"New Gmail protections for a safer, less spammy inbox",social,0.33785608410835266
+Google,7 new Android features to elevate your everyday,social,0.39425623416900635
+Google,Generative AI in Search: Let Google do the searching for you,social,0.35133200883865356
+Google,5 new Chrome features to help you search on mobile,social,0.29284313321113586
+Google,Google Keep reminders will be saved to Tasks,neutral,0.31212571263313293
+Google,Get more done with Gemini: Try 1.5 Pro and more intelligent features,social,0.2922770380973816
+Google,Experience Google AI in even more ways on Android,government,0.2851291298866272
+Google,Browse safely with real-time protection on Chrome,environment,0.35222160816192627
+Google,Changes we’re making to Google Assistant,social,0.7803234457969666
+Google,110 new languages are coming to Google Translate,social,0.521560788154602
+Google,Meet Pixel 8a: The Google AI phone at an unbeatable value,social,0.4516889452934265
+Google,Meet the Google TV network,social,0.7252199649810791
+Google,10 updates coming to the Android ecosystem,environment,0.5343642830848694
+Google,"Passkeys, Cross-Account Protection and new ways we’re protecting your accounts",government,0.44938886165618896
+Google,Bard becomes Gemini: Try Ultra 1.0 and a new mobile app today,social,0.32182735204696655
+Google,What we announced at CES 2024,government,0.3280152678489685
+Google,Google I/O 2024: An I/O for a new generation,social,0.4675183594226837
+Google,Android’s theft protection features keep your device and data safe,government,0.371476948261261
+Google,Introducing Gemini: our largest and most capable AI model,social,0.33653849363327026
+Google,"New ways we’re tackling spammy, low-quality content on Search",social,0.3521949350833893
+Google,The next chapter of our Gemini era,environment,0.3154631555080414
+Google,Generative AI in Search expands to more than 120 new countries and territories,social,0.44966861605644226
+Google,Bringing Project Starline out of the lab,government,0.41834959387779236
+Google,Bard’s latest updates: Access Gemini Pro globally and generate images,social,0.6654351949691772
+Google,"Gemini breaks new ground with a faster model, longer context, AI agents and more",environment,0.5741347074508667
+Google,Buying Spying: How the commercial surveillance industry works and what can be done about it,neutral,0.31922632455825806
+Google,Google Cloud and NVIDIA Expand Partnership to Scale AI Development,environment,0.5059184432029724
+Google,100 things we announced at I/O 2024,government,0.40204113721847534
+Google,"Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services",environment,0.3314712345600128
+Google,"A new, scrapbook-like Memories view in Google Photos",social,0.4990414083003998
+Google,How we’ve created a helpful and responsible Bard experience for teens,social,0.7207959294319153
+Google,Bard can now connect to your Google apps and services,social,0.7890574336051941
+Google,Updates to Location History and new controls coming soon to Maps,neutral,0.3832327425479889
+Google,New ways to find just what you need on Search,social,0.3132595717906952
+Google,What’s new with Android for cars at CES,social,0.3940099775791168
+Google,New ways to search in 2024,government,0.31076115369796753
+Google,Get more personalized shopping options with these Google tools,social,0.7307282090187073
+Google,How AI is helping airlines mitigate the climate impact of contrails,environment,0.8975054025650024
+Google,New AI tools to help merchants market brands and products,social,0.30069324374198914
+Google,Chrome is getting 3 new generative AI features,neutral,0.3553091585636139
+Google,A new modern look for the Android brand,social,0.7496468424797058
+Google,"Gemini’s big upgrade: Faster responses with 1.5 Flash, expanded access and more",social,0.6922048926353455
+Google,AI editing tools are coming to all Google Photos users,social,0.6151522397994995
+Google,Chromebooks will get 10 years of automatic updates,social,0.2726573050022125
+Google,How to find holiday shopping deals on Google,social,0.6245177984237671
+Google,New performance and safety features are coming to Chrome,government,0.4705618917942047
+Google,Gemma: Google introduces new state-of-the-art open models,social,0.3844786584377289
+Google,Google commits to invest $2 billion in OpenAI competitor Anthropic,social,0.43538862466812134
+Google,3 new Chrome features to get more helpful suggestions,environment,0.28188401460647583
+Google,Advancing personal health and wellness insights with AI,social,0.5107479691505432
+Google,Google’s True Moonshot,social,0.5501279234886169
+Google,How we built and tested body temperature on Pixel 8 Pro,environment,0.533598780632019
+Google,New Maps updates: Immersive View for routes and other AI features,social,0.28179335594177246
+Google,Circle (or highlight or scribble) to Search,social,0.656366765499115
+Google,Our 2024 Environmental Report,environment,0.9295359253883362
+Google,Google’s AI Overviews misunderstand why people use Google,government,0.28686368465423584
+Google,Our next-generation model: Gemini 1.5,social,0.38065826892852783
+Google,Attorney General Bonta Announces $93 Million Settlement Regarding Google’s Location-Privacy Practices,government,0.6662613153457642
+Google,"Google lays off hundreds in hardware, voice assistant teams amid cost-cutting drive",social,0.4584410786628723
+Google,What Google’s trial means for the company — and your web browsing,social,0.5219598412513733
+Google,Explore new augmented reality features in Google Maps,social,0.3167814612388611
+Google,A first-of-its-kind geothermal project is now operational,environment,0.7590794563293457
+Google,Gemini image generation got it wrong. We'll do better.,neutral,0.5725454092025757
+Google,“Google Vids” is Google’s fourth big productivity app for Workspace,social,0.3399074077606201
+Google,5 ways to use the new Find My Device on Android,social,0.29301413893699646
+Google,"Google unleashes AI in search, raising hopes for better results and fears about less web traffic",social,0.6865894198417664
+Google,Google I/O Highlights: Unpacking Gemini Updates and AI Overviews,social,0.261178582906723
+Google,Opinion | Female popes? Google’s amusing AI bias underscores a serious problem.,social,0.5614436268806458
+Google,Gemma 2 is now available to researchers and developers,social,0.3803609013557434
+Google,Gemini and Google’s Culture,social,0.9361789226531982
+Google,The latest Titan Security Key is in the Google Store,social,0.34629881381988525
+Google,New investments to help build the U.S. cybersecurity workforce,government,0.8478182554244995
+Google,How we built Immersive View for routes on Maps,environment,0.614770770072937
+Google,Access Locked Folder in Google Photos across your devices with cloud backup,social,0.45867472887039185
+Google,Bard gets its biggest upgrade yet with Gemini,social,0.3551673889160156
+Google,4 Google updates coming to Samsung devices,social,0.5025112628936768
+Google,Enhance visual storytelling in Demand Gen with generative AI,social,0.43960192799568176
+Google,Google’s AI Overview Search Results Copied My Original Work,social,0.41331493854522705
+Google,Put Google AI to work with Search ads,social,0.6620179414749146
+Google,Epic Games wins antitrust lawsuit against Google over barriers to its Android app store,government,0.3922782242298126
+Google,"Boost your productivity: Use Gemini in Gmail, Docs and more with the new Google One plan",social,0.4027917683124542
+Google,AlphaFold 3 predicts the structure and interactions of all of life’s molecules,social,0.3622642755508423
+Google,New features to celebrate Messages' 1 billion RCS users,social,0.6935991644859314
+Google,Confused by All of Google's AI Tools? We Break Down 13 of Them,neutral,0.3483123481273651
+Google,7 years of software updates for the Pixel 8 series,government,0.39691534638404846
+Google,Passkeys are now available for high risk users to enroll in the Advanced Protection Program,government,0.44718196988105774
+Google,Google Cuts Hundreds of Jobs in Engineering and Other Divisions,social,0.4497348666191101
+Google,"Meet Pixel 8 and Pixel 8 Pro, our newest phones",social,0.5348213911056519
+Google,Google Zero is here — now what?,neutral,0.617762565612793
+Google,How Google uses AI to reduce stop-and-go traffic on your route — and fight fuel emissions,environment,0.8769863247871399
+Google,"Google cuts hundreds of jobs across engineering, hardware teams",social,0.4319218099117279
+Google,June Feature Drop: New features and upgrades for the Pixel portfolio,neutral,0.7002847194671631
+Meta,Facebook and Instagram to Offer Subscription for No Ads in Europe,social,0.8946283459663391
+Meta,What’s New Across Our AI Experiences,social,0.32331714034080505
+Meta,Introducing New AI Experiences Across Our Family of Apps and Devices,neutral,0.31319689750671387
+Meta,"Meet Your New Assistant: Meta AI, Built With Llama 3",social,0.7537438869476318
+Meta,Making It Easier To Manage Your Information Across Meta’s Apps,social,0.4995870292186737
+Meta,Our Approach to Labeling AI-Generated Content and Manipulated Media,neutral,0.35954681038856506
+Meta,New Features and Additional Transparency Measures as the Digital Services Act Comes Into Effect,government,0.7219417095184326
+Meta,"Labeling AI-Generated Images on Facebook, Instagram and Threads",social,0.9866023659706116
+Meta,New Ray-Ban | Meta Smart Glasses Styles and Meta AI Updates,social,0.3908836543560028
+Meta,Create Your Own Custom AI With AI Studio,neutral,0.2975998520851135
+Meta,Raising Online Defenses Through Transparency and Collaboration,social,0.7802658677101135
+Meta,New Protections to Give Teens More Age-Appropriate Experiences on Our Apps,government,0.3412584066390991
+Meta,"Meet Meta Quest 3, Our Mixed Reality Headset Starting at $499.99",social,0.538512110710144
+Meta,An Update on Facebook News in Europe,social,0.9260497689247131
+Meta,Introducing the New Ray-Ban | Meta Smart Glasses,social,0.46717309951782227
+Meta,"Meta AI Is Now Multilingual, More Creative and Smarter",social,0.4414505958557129
+Meta,Building AI Technology for Europeans in a Transparent and Responsible Way,social,0.6151070594787598
+Meta,Open Source AI Is the Path Forward,social,0.27741146087646484
+Meta,New Tools to Support Independent Research,neutral,0.3328503966331482
+Meta,Introducing Stricter Message Settings for Teens on Instagram and Facebook,social,0.970967173576355
+Meta,What Is the Fediverse?,social,0.8415370583534241
+Meta,Combating Financial Sextortion Scams From Nigeria,government,0.4978492856025696
+Meta,How Meta Is Preparing for the EU’s 2024 Parliament Elections,government,0.724909245967865
+Meta,Offering People More Choice on How They Can Use Our Services in the EU,social,0.5137885212898254
+Meta,Attorney General Bonta Files Lawsuit Against Meta Over Harms to Youth Mental Health,government,0.517780065536499
+Meta,Expanding Meta Verified to Businesses,social,0.478105753660202
+Meta,Meta Joins Thorn and Industry Partners in New Generative AI Principles,social,0.6227852702140808
+Meta,Introducing Our Open Mixed Reality Ecosystem,environment,0.7845384478569031
+Meta,Privacy Matters: Meta’s Generative AI Features,social,0.37783461809158325
+Meta,Leading the Way in Governance Innovation With Community Forums on AI,government,0.7828196883201599
+Meta,How Meta Is Planning for Elections in 2024,government,0.44453027844429016
+Meta,I Wore Meta Ray-Bans in Montreal to Test Their AI Translation Skills. It Did Not Go Well,neutral,0.4651030898094177
+Meta,Launching Default End-to-End Encryption on Messenger,social,0.5376631617546082
+Meta,Parenting in a Digital World Is Hard. Congress Can Make It Easier.,government,0.6414785981178284
+Meta,Meta Reports Fourth Quarter and Full Year 2023 Results; Initiates Quarterly Dividend,government,0.3613050878047943
+Meta,Introducing Social Profiles for Meta’s AIs,social,0.9633575677871704
+Meta,Metaverse Technologies Are Creating New Opportunities for Teachers to Inspire Students,social,0.5042166113853455
+Meta,New Tools to Help Protect Against Sextortion and Intimate Image Abuse,social,0.7471941113471985
+Meta,Introducing Lantern: Protecting Children Online,social,0.6904451847076416
+Meta,An Update on Facebook News,social,0.952984094619751
+Meta,Releasing New AI Research Models to Accelerate Innovation at Scale,government,0.5068597197532654
+Meta,New Ways to Create Content on Instagram,social,0.9469701051712036
+Meta,Meta Adds Video to Its Automated Catalog Ads,social,0.7298256754875183
+Meta,Building Generative AI Features Responsibly,social,0.4644250273704529
+Meta,You Can Now Have Multiple Personal Profiles on Facebook,social,0.9178084135055542
+Meta,Supporting Parents Online With Our Screen Smart Program,social,0.743401825428009
+Meta,Facebook-parent Meta breaks up its Responsible AI team,social,0.9337717294692993
+Meta,Opinion | I Love Facebook. That’s Why I’m Suing Meta.,social,0.9843306541442871
+Meta,Helping Creators Test Content and Earn Rewards,social,0.6208547949790955
+Meta,Meta employees are back in the office three days a week as part of new mandate,government,0.6073565483093262
+Meta,Ensuring Age-Appropriate Experiences on Meta Quest,social,0.48150452971458435
+Meta,New Stickers in Instagram Stories,social,0.8506192564964294
+Meta,Meta to Require Political Advertisers to Disclose Use of A.I.,government,0.44987723231315613
+Meta,Meta says you better disclose your AI fakes or it might just pull them,social,0.5063158869743347
+Meta,How Meta Is Preparing For Indian General Elections 2024,government,0.4230212867259979
+Meta,Introducing Our Next Generation Infrastructure for AI,government,0.39460909366607666
+Meta,Making it Easier for Brands and Creators to Collaborate on Instagram,social,0.9615352153778076
+Meta,"To help 2024 voters, Meta says it will begin labeling political ads that use AI-generated imagery",government,0.535456657409668
+Meta,"Meta: From Facebook to the Metaverse, company Mark Zuckerberg built",social,0.9747565388679504
+Meta,States sue Meta claiming its social platforms are addictive and harm children’s mental health,social,0.5146320462226868
+Meta,"Meta AI Tool Now Driven by New, More Powerful Llama 3 Model, Meta Says",government,0.256349116563797
+Meta,Meta more than doubles Q1 profit but revenue guidance pulls shares down after-hours,government,0.353992760181427
+Meta,New Education Product for Quest Devices Will Help Teachers Bring Subjects to Life in New Ways,social,0.3802526891231537
+Meta,"Meta Quest 3 Review: Huge Hardware Bump, But Who's It For?",neutral,0.527496874332428
+Meta,Meta updates its RTO policy with a stricter mandate,government,0.5243293642997742
+Meta,"HD Photos, Shared Albums and More on Messenger",social,0.9645438194274902
+Meta,Meta to pay Texas $1.4 billion for using facial recognition technology without users’ permission,government,0.6702719330787659
+Meta,Introducing Purple Llama for Safe and Responsible AI Development,social,0.5835154056549072
+Meta,Meta's Ray-Ban Glasses Added AI That Can See What You're Seeing,social,0.3990294933319092
+Meta,Meta will fight the EU over regulating Messenger,social,0.49826258420944214
+Meta,Meta to require political advertisers disclose AI-generated content,social,0.5573433637619019
+Meta,"Introducing Code Llama, an AI Tool for Coding",social,0.47164738178253174
+Meta,Meta To Remove More Detailed Targeting Options for Ad Campaigns,neutral,0.4118347465991974
+Meta,Meta and Open,social,0.5364902019500732
+Meta,Introducing Broadcast Channels on Facebook and Messenger,social,0.949567437171936
+Meta,"Introducing SeamlessM4T, a Multimodal AI Model for Speech and Text Translations",social,0.36658355593681335
+Meta,Meta says it will label AI-generated images on Facebook and Instagram,social,0.9567093253135681
+Meta,Giving Creators More Ways to Earn Money on Facebook and Instagram,social,0.9779074192047119
+Meta,"In Canada, Meta Begins Blocking News on Facebook and Instagram",social,0.8800696730613708
+Meta,"New AI Tools, Meta Verified and More for Businesses on WhatsApp",social,0.8979998230934143
+Meta,Mark Zuckerberg’s new goal is creating artificial general intelligence,social,0.6584359407424927
+Meta,"Meta Files Motion for Summary Judgment in FTC Lawsuit Relating to Instagram and WhatsApp, Arguing No Evidence Supports Government’s Antitrust Claims",social,0.7184098362922668
+Netflix,Number of Netflix paid subscribers worldwide from 1st quarter 2013 to 2nd quarter 2024,social,0.3097600042819977
+Netflix,“The Interview”: Ted Sarandos’s Plan to Get You to Binge Even More Netflix,social,0.6637959480285645
+Netflix,Netflix's gains 13M new global 4Q subscribers as it unwraps its best-ever holiday season results,social,0.543662965297699
+Netflix,Netflix Review: Our Top Choice in a Crowded Market,social,0.7549423575401306
+Netflix,"Netflix House Will Let You Experience Your Favorite Shows, Movies in Real Life",social,0.7393444776535034
+Netflix,Explore Your Netflix Favorites in the New Nextworld Universe on Roblox,social,0.5836710333824158
+Netflix,Benoit Blanc Is Back on the Case in Wake Up Dead Man: A Knives Out Mystery,government,0.39693689346313477
+Netflix,Netflix Will Be the Home to Live NFL Games This Christmas Day,social,0.7420293688774109
+Netflix,Netflix’s app won’t work on the Vision Pro,neutral,0.48003003001213074
+Netflix,How Netflix Makes Money,social,0.46897998452186584
+Netflix,The Gentlemen Is Bringing the Swagger: Inside Guy Ritchie’s New Show,social,0.7240839004516602
+Netflix,Netflix’s The Decameron Gorges Itself on Its Own Gleefully Irreverent Feast,social,0.5688018798828125
+Netflix,The 52 Best Shows on Netflix Right Now (July 2024),neutral,0.31391388177871704
+Netflix,Add the Article Hed Here,neutral,0.34752440452575684
+Netflix,What Is Baby Reindeer ? The True Story and New Series Explained,social,0.5435793399810791
+Netflix,Zack Snyder Answers Your Burning Questions About the Rebel Moon Teaser,social,0.5796860456466675
+Netflix,"Jake Paul vs. Mike Tyson Live Fight Is On for Friday, November 15",social,0.6247832179069519
+Netflix,Netflix Cuts Over 100 Shows In Major Programming Shift,social,0.317865252494812
+Netflix,Netflix's subscriber and earnings growth gather more momentum as password-sharing crackdown pays off,social,0.7979454398155212
+Netflix,Liam Hemsworth Is Picking Up Geralt’s Sword for The Witcher Seasons 4 and 5,social,0.47167593240737915
+Netflix,‘Wednesday’ Renewed for a Woeful Season 2,social,0.45330512523651123
+Netflix,Tim McGraw to Take Bull by the Horns in New Drama Series,social,0.6401520371437073
+Netflix,"Netflix shutters its DVD rental business, marking the end of the red envelope era",social,0.4453292191028595
+Netflix,Everything You Need to Know About Beverly Hills Cop: Axel F,social,0.7296516299247742
+Netflix,Joey Chestnut and Takeru Kobayashi to Face Off in Live Hot Dog Eating Contest,social,0.7921973466873169
+Netflix,Everything You Need to Know About Wes Anderson’s Wonderful Story of Henry Sugar,social,0.6323966979980469
+Netflix,"In Atlas , Jennifer Lopez Suits Up for Space",social,0.5406181216239929
+Netflix,Spaceman : Everything to Know About Adam Sandler’s Sci-Fi Drama,social,0.544973611831665
+Netflix,‘Reptile’: Everything You Need to Know About the New Benicio Del Toro Mystery,environment,0.8620390295982361
+Netflix,Terminator Zero Anime Series Time Travels This August,social,0.5203168392181396
+Netflix,"Netflix to Open Massive Entertainment, Dining and Shopping Complexes in Two Cities in 2025",social,0.6126037836074829
+Netflix,Harry and Meghan Just Announced Two New Series in Production This Year,social,0.5112085342407227
+Netflix,3 Body Problem Will Return For Seasons 2 and 3,social,0.368308424949646
+Netflix,Heartstopper Season 3: Here’s Everything to Know About the Next Chapter,social,0.4629371464252472
+Netflix,I’m so conflicted about Armie Hammer,social,0.7256544828414917
+Netflix,"What to Know About The Netflix Cup, Today’s First-Ever Live Sports Event",social,0.46292510628700256
+Netflix,Netflix to stream WWE's Raw starting next year in its biggest jump into live entertainment,social,0.483585923910141
+Netflix,The ‘ONE PIECE’ Adventure Will Continue,social,0.4664709270000458
+Netflix,A Sneak Peek at the New Games Coming to Netflix,social,0.41803574562072754
+Netflix,See Sofía Vergara’s Transformation into ‘Griselda’,social,0.8002552390098572
+Netflix,The KAOS Teaser Is Here — and Jeff Goldblum Is King (of the Gods),government,0.6621921062469482
+Netflix,Zip Up Your Tracksuits Because ‘Squid Game: The Challenge’ Is Here,environment,0.4942815601825714
+Netflix,Enter the Season of Mists with The Sandman’s Dreamy New Cast Members,social,0.6520791053771973
+Netflix,Netflix Names Dan Lin Its Top Movie Executive,social,0.4726393520832062
+Netflix,Discover the Planet’s Biggest Social Network in Our Living World,social,0.9339471459388733
+Netflix,Your Ultimate Guide to the Animated Movies and Shows Coming to Netflix,social,0.42887407541275024
+Netflix,What Is 'ONE PIECE' About? And What Is the Treasure? Creator Eiichiro Oda Explains,social,0.6290658712387085
+Netflix,Bow Before the Norse Deities of Zack Snyder’s Twilight of the Gods,social,0.537043035030365
+Netflix,Resurrected Rides Puts a Custom Spin on Pimp My Ride,social,0.6291069984436035
+Netflix,Netflix’s Head of Film to Depart,social,0.4897533655166626
+Netflix,Here comes another Netflix price hike,social,0.4202122390270233
+Netflix,Hit Man Cast: Glen Powell Brings the True Story of Gary Johnson to Life,government,0.49667441844940186
+Netflix,"Guide to Netflix for marketers and advertisers: subscription models, subscriber engagement, and trends",social,0.4064135253429413
+Netflix,How much is Netflix in 2024? A breakdown of the monthly prices for every subscription plan,social,0.3596286475658417
+Netflix,Time to Hit the High Seas: Here's Everything You Need to Know About 'ONE PIECE',environment,0.39172279834747314
+Netflix,Netflix’s Advertising Challenge: It Isn’t Big Enough,social,0.5377976298332214
+Netflix,‘Bodies’: What to Know About the Genre-Defying Crime Series,neutral,0.3351656496524811
+Netflix,"‘The Decameron’ Adaptation: Release Date, Cast, Photos, Teaser Trailer",social,0.7303848266601562
+Netflix,A Few Words About Netflix’s Success: Vivid. Snappy. Tags.,social,0.7463871240615845
+Netflix,Adam Sandler Is Picking Up His Golf Club Again As Happy Gilmore,social,0.685161292552948
+Netflix,‘The Fall of the House of Usher’ is ‘Batsh-- Crazy’,social,0.43950018286705017
+NVIDIA,NVIDIA Blackwell Platform Arrives to Power a New Era of Computing,government,0.318293958902359
+NVIDIA,"NVIDIA Supercharges Hopper, the World’s Leading AI Computing Platform",social,0.30288782715797424
+NVIDIA,NVIDIA Announces Financial Results for First Quarter Fiscal 2025,government,0.31121140718460083
+NVIDIA,High Can See Clearly Now: AI-Powered NVIDIA RTX Video HDR Transforms Standard Video Into Stunning High Dynamic Range,environment,0.37028175592422485
+NVIDIA,NVIDIA Unveils Next-Generation GH200 Grace Hopper Superchip Platform for Era of Accelerated Computing and Generative AI,environment,0.3408287465572357
+NVIDIA,NVIDIA Announces Financial Results for Third Quarter Fiscal 2024,social,0.3130127489566803
+NVIDIA,NVIDIA Omniverse Expands Worlds Using Apple Vision Pro,environment,0.46144819259643555
+NVIDIA,NVIDIA Announces Omniverse Cloud APIs to Power Wave of Industrial Digital Twin Software Tools,environment,0.40412870049476624
+NVIDIA,Shining Brighter Together: Google’s Gemma Optimized to Run on NVIDIA GPUs,social,0.7856576442718506
+NVIDIA,NVIDIA Announces Financial Results for Second Quarter Fiscal 2024,social,0.3279748260974884
+NVIDIA,NVIDIA RTX 500 and 1000 Professional Ada Generation Laptop GPUs Drive AI-Enhanced Workflows From Anywhere,environment,0.35210561752319336
+NVIDIA,Widescreen Wonder: Las Vegas Sphere Delivers Dazzling Displays,environment,0.6931354403495789
+NVIDIA,NVIDIA Brings AI Assistants to Life With GeForce RTX AI PCs,social,0.6540564298629761
+NVIDIA,"New Performance Optimizations Supercharge NVIDIA RTX AI PCs for Gamers, Creators and Developers",social,0.38941270112991333
+NVIDIA,GeForce RTX 40 SUPER Series: New Heroes Debut in the Gaming and Creating Universe With AI as Their Superpower,environment,0.36438432335853577
+NVIDIA,Fire It Up: Mozilla Firefox Adds Support for AI-Powered NVIDIA RTX Video,environment,0.44138219952583313
+NVIDIA,Eureka! NVIDIA Research Breakthrough Puts New Spin on Robot Learning,social,0.3777677118778229
+NVIDIA,"NVIDIA Brings Generative AI to Millions, With Tensor Core GPUs, LLMs, Tools for RTX PCs and Workstations",government,0.41959062218666077
+NVIDIA,NVIDIA Robotics Adopted by Industry Leaders for Development of Tens of Millions of AI-Powered Autonomous Machines,social,0.46337011456489563
+NVIDIA,New NVIDIA RTX A400 and A1000 GPUs Enhance AI-Powered Design and Productivity Workflows,government,0.30868059396743774
+NVIDIA,"NVIDIA Reveals Gaming, Creating, Generative AI, Robotics Innovations at CES",neutral,0.31948524713516235
+NVIDIA,NVIDIA to Acquire GPU Orchestration Software Provider Run:ai,social,0.3123691976070404
+NVIDIA,"NVIDIA, Global Workstation Manufacturers to Launch Powerful Systems for Generative AI and LLM Development, Content Creation, Data Science",social,0.30353844165802
+NVIDIA,"See the Future at GTC 2024: NVIDIA’s Jensen Huang to Unveil Latest Breakthroughs in Accelerated Computing, Generative AI and Robotics",government,0.3320344388484955
+NVIDIA,NVIDIA Debuts AI-Enhanced Real-Time Ray Tracing for Games and Apps With New DLSS 3.5,environment,0.293638676404953
+NVIDIA,TSMC and Synopsys Bring Breakthrough NVIDIA Computational Lithography Platform to Production,social,0.366894394159317
+NVIDIA,NVIDIA Launches Generative AI Microservices for Developers to Create and Deploy Generative AI Copilots Across NVIDIA CUDA GPU Installed Base,environment,0.3592749238014221
+NVIDIA,SIGGRAPH Special Address: NVIDIA CEO Brings Generative AI to LA Show,government,0.35517582297325134
+NVIDIA,NVIDIA Eos Revealed: Peek Into Operations of a Top 10 Supercomputer,government,0.2714703679084778
+NVIDIA,Say What? Chat With RTX Brings Custom Chatbot to NVIDIA RTX AI PCs,social,0.6678535342216492
+NVIDIA,NVIDIA Announces Project GR00T Foundation Model for Humanoid Robots and Major Isaac Robotics Platform Update,social,0.3932064473628998
+NVIDIA,"NVIDIA Healthcare Launches Generative AI Microservices to Advance Drug Discovery, MedTech and Digital Health",government,0.35468828678131104
+NVIDIA,"NVIDIA RTX 2000 Ada Generation GPU Brings Performance, Versatility for Next Era of AI-Accelerated Design and Visualization",government,0.34477272629737854
+NVIDIA,NVIDIA Announces Earth Climate Digital Twin,environment,0.9112269878387451
+NVIDIA,NVIDIA Grace Hopper Ignites New Era of AI Supercomputing,social,0.26754671335220337
+NVIDIA,Don’t Pass This Up: Day Passes Now Available on GeForce NOW,neutral,0.4651532471179962
+NVIDIA,NVIDIA DRIVE Powers Next Generation of Transportation — From Cars and Trucks to Robotaxis and Autonomous Delivery Vehicles,social,0.38855767250061035
+NVIDIA,NVIDIA Unveils 6G Research Cloud Platform to Advance Wireless Communications With AI,environment,0.2913503050804138
+NVIDIA,"NVIDIA Releases Digital Human Microservices, Paving Way for Future of Generative AI Avatars",social,0.4805969297885895
+NVIDIA,Wide Open: NVIDIA Accelerates Inference on Meta Llama 3,environment,0.5614749789237976
+NVIDIA,Picture This: Getty Images Releases Generative AI By iStock Powered by NVIDIA Picasso,environment,0.3094356954097748
+NVIDIA,"‘Accelerate Everything,’ NVIDIA CEO Says Ahead of COMPUTEX",environment,0.4717199206352234
+NVIDIA,NVIDIA AI Workbench Speeds Adoption of Custom Generative AI for World’s Enterprises,social,0.33399200439453125
+NVIDIA,US National Science Foundation Launches National AI Research Resource Pilot,government,0.864057183265686
+NVIDIA,NVIDIA and Hugging Face to Connect Millions of Developers to Generative AI Supercomputing,social,0.8922452926635742
+NVIDIA,NVIDIA Announces New Switches Optimized for Trillion-Parameter GPU Computing and AI Infrastructure,environment,0.30046406388282776
+NVIDIA,"Twitch, OBS and NVIDIA to Release Multi-Encode Livestreaming",social,0.680868923664093
+NVIDIA,"NVIDIA, Global Data Center System Manufacturers to Supercharge Generative AI and Industrial Digitalization",social,0.28844738006591797
+NVIDIA,Add It to the Toolkit: February Studio Driver and NVIDIA App Beta Now Available,environment,0.3422566056251526
+NVIDIA,NVIDIA CEO: Every Country Needs Sovereign AI,government,0.6276916861534119
+NVIDIA,NVIDIA Hopper Leaps Ahead in Generative AI at MLPerf,environment,0.3888011872768402
+NVIDIA,GeForce NOW Delivers 24 A-May-zing Games This Month,social,0.5080451369285583
+NVIDIA,"Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services",environment,0.3314712345600128
+NVIDIA,NVIDIA Launches Blackwell-Powered DGX SuperPOD for Generative AI Supercomputing at Trillion-Parameter Scale,social,0.2821996212005615
+NVIDIA,"Mistral AI and NVIDIA Unveil Mistral NeMo 12B, a Cutting-Edge Enterprise AI Model",environment,0.3315599858760834
+NVIDIA,"‘We Created a Processor for the Generative AI Era,’ NVIDIA CEO Says",social,0.3798694312572479
+NVIDIA,Striking Performance: Large Language Models up to 4x Faster on RTX With TensorRT-LLM for Windows,government,0.32623589038848877
+NVIDIA,Wave of EV Makers Choose NVIDIA DRIVE for Automated Driving,social,0.5399128794670105
+NVIDIA,How Nvidia became an AI giant,neutral,0.3464737832546234
+NVIDIA,"Three’s a Cloud: New Activision and Blizzard Games, Day Passes, G-SYNC Technology Coming to GeForce NOW",environment,0.7080276608467102
+NVIDIA,NVIDIA Accelerates Humanoid Robotics Development,social,0.5166471004486084
+NVIDIA,VMware and NVIDIA Unlock Generative AI for Enterprises,environment,0.7160912156105042
+NVIDIA,Silicon Volley: Designers Tap Generative AI for a Chip Assist,social,0.39296141266822815
+NVIDIA,"NVIDIA’s New Ethernet Networking Platform for AI Available Soon From Dell Technologies, Hewlett Packard Enterprise, Lenovo",environment,0.2679927349090576
+NVIDIA,Hewlett Packard Enterprise and NVIDIA Announce ‘NVIDIA AI Computing by HPE’ to Accelerate Generative AI Industrial Revolution,environment,0.30422690510749817
+NVIDIA,NVIDIA Isaac Taps Generative AI for Manufacturing and Logistics Applications,neutral,0.310062438249588
+NVIDIA,NVIDIA Digital Human Technologies Bring AI Characters to Life,social,0.7922050952911377
+NVIDIA,"Say It Again: ChatRTX Adds New AI Models, Features in Latest Update",social,0.5375134348869324
+NVIDIA,NVIDIA Generative AI Is Opening the Next Era of Drug Discovery and Design,neutral,0.2838387191295624
+NVIDIA,Sharper Image: GeForce NOW Update Delivers Stunning Visuals to Android Devices,social,0.38795724511146545
+NVIDIA,"AWS and NVIDIA Announce Strategic Collaboration to Offer New Supercomputing Infrastructure, Software and Services for Generative AI",social,0.3619992434978485
+NVIDIA,NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models,neutral,0.32105115056037903
+NVIDIA,"NVIDIA Announces Generative AI Models and NIM Microservices for OpenUSD Language, Geometry, Physics and Materials",neutral,0.35362640023231506
+NVIDIA,The Creative AI: NVIDIA Studio Unveils New RTX- and AI-Accelerated Tools and Systems for Creators,environment,0.3192331790924072
+NVIDIA,NVIDIA Releases Major Omniverse Upgrade With Generative AI and OpenUSD,environment,0.6467565298080444
+NVIDIA,"NVIDIA Brings Business Intelligence to Chatbots, Copilots and Summarization Tools With Enterprise-Grade Generative AI Microservice",social,0.5294989347457886
+NVIDIA,NVIDIA Launches Cloud Quantum-Computer Simulation Microservices,environment,0.45205965638160706
+NVIDIA,NVIDIA Introduces Generative AI Foundry Service on Microsoft Azure for Enterprises and Startups Worldwide,environment,0.372688353061676
+NVIDIA,Instant Latte: NVIDIA Gen AI Research Brews 3D Shapes in Under a Second,social,0.49377837777137756
+NVIDIA,NVIDIA BioNeMo Expands Computer-Aided Drug Discovery With New Foundation Models,government,0.29059338569641113
+NVIDIA,Computer Industry Joins NVIDIA to Build AI Factories and Data Centers for the Next Industrial Revolution,environment,0.278044730424881
+NVIDIA,NVIDIA and Alphabet’s Intrinsic Put Next-Gen Robotics Within Grasp,social,0.4267108738422394
+NVIDIA,"For Your Edification: Shutterstock Releases Generative 3D, Getty Images Upgrades Service Powered by NVIDIA",social,0.43960899114608765
+NVIDIA,Cisco and NVIDIA to Help Enterprises Quickly and Easily Deploy and Manage Secure AI Infrastructure,environment,0.38419273495674133
+NVIDIA,Why GPUs Are Great for AI,social,0.29741042852401733
+NVIDIA,NVIDIA Announces Omniverse Microservices to Supercharge Physical AI,environment,0.3606943190097809
+NVIDIA,Oracle and NVIDIA to Deliver Sovereign AI Worldwide,government,0.5159552097320557
+NVIDIA,Light Bulb Moment: NVIDIA CEO Sees Bright Future for AI-Powered Electric Grid,environment,0.5019068717956543
+NVIDIA,GTC 2024 News,government,0.42872780561447144
+NVIDIA,NVIDIA Omniverse Opens Portals to Vast Worlds of OpenUSD,environment,0.5362154245376587
+NVIDIA,Up to No Good: ‘No Rest for the Wicked’ Early Access Launches on GeForce NOW,social,0.5384882092475891
+NVIDIA,NVIDIA AI Foundry Builds Custom Llama 3.1 Generative AI Models for the World’s Enterprises,neutral,0.3980749547481537
+NVIDIA,AWS and NVIDIA Extend Collaboration to Advance Generative AI Innovation,social,0.7321488261222839
+NVIDIA,"NVIDIA NIM Revolutionizes Model Deployment, Now Available to Transform World’s Millions of Developers Into Generative AI Developers",social,0.4514499306678772
+NVIDIA,"Game Pass Comes to GeForce NOW, Along With 25 New Games",social,0.32331597805023193
+NVIDIA,"‘Everybody Will Have an AI Assistant,’ NVIDIA CEO Tells SIGGRAPH Audience",social,0.5916169881820679
+NVIDIA,"Nvidia's stock market value topped $3.3 trillion. How it became No. 1 in the S&P 500, by the numbers",social,0.38131991028785706
+Salesforce,Salesforce kicked me out after I left my desk to play ping-pong,government,0.556105375289917
+Salesforce,Salesforce out as LA28 sponsor,social,0.623745858669281
+Salesforce,"Salesforce shareholders reject compensation plan for CEO Marc Benioff, other top execs",neutral,0.4381297528743744
+Salesforce,Salesforce hits silver - a tale of two towers a quarter of a century apart,social,0.5678131580352783
+Salesforce,Workday Salesforce Partnership: Teaming Up For Enterprise AI,social,0.4771461486816406
+Salesforce,Salesforce,social,0.644180953502655
+Salesforce,"Salesforce Q1 Earnings: CEO Benioff Calls AI Models Commodities, Data ‘The New Gold’",social,0.3944314122200012
+Salesforce,Salesforce debuts gen AI benchmark for CRM,social,0.3444683849811554
+Salesforce,What's Next for Salesforce After Informatica Deal Collapse?,social,0.36481642723083496
+Salesforce,Salesforce's Einstein Copilot is Here: The Conversational AI Assistant for CRM that Delivers Trusted AI Responses Grounded with Your Company Data,social,0.5885735750198364
+Salesforce,"Salesforce Backs Out of Informatica Deal, Reports",social,0.32522910833358765
+Salesforce,Introducing Salesforce virtual table support for Power Pages (Preview),social,0.43322184681892395
+Salesforce,Growth Tech on Salesforce,social,0.6114908456802368
+Salesforce,"Salesforce Shareholders Vote Against Pay Plans for CEO Marc Benioff, Other Execs",neutral,0.3953882157802582
+Salesforce,Salesforce shares plunge 16% on first revenue miss since 2006,government,0.4714883863925934
+Salesforce,Genesys and Salesforce Start to Onboard Customers for Their Joint CX Platform,social,0.37621206045150757
+Salesforce,Salesforce updates Sales and Service Cloud with new capabilities,social,0.3145553171634674
+Salesforce,Dear SaaStr: Should I Switch from HubSpot CRM to Salesforce if I’m Just Starting Out?,environment,0.29181045293807983
+Salesforce,"ERM, Salesforce, NatureMetrics and Planet launch NatureTech Alliance to address biodiversity loss",environment,0.5703966617584229
+Salesforce,LA28 loses top-tier Salesforce sponsorship,social,0.41901934146881104
+Salesforce,Accenture and Salesforce Collaborate to Help Life Sciences Companies Create Differentiation with Data and AI,social,0.41747984290122986
+Salesforce,Salesforce Government Trailblazer Summit 2024,government,0.8022834062576294
+Salesforce,Salesforce-Informatica Deal Appears to Have Fallen Through,social,0.37573951482772827
+Salesforce,My take - digesting Salesforce’s Q1 and what it means for it and the tech market’s future,neutral,0.7147550582885742
+Salesforce,Salesforce and AI: How Salesforce’s Einstein Transforms Sales,neutral,0.34191185235977173
+Salesforce,McKinsey teams up with Salesforce to deliver on the promise of AI-powered growth,social,0.41545429825782776
+Salesforce,“Death of a Salesforce”: Why AI Will Transform the Next Generation of Sales Tech,neutral,0.2696625888347626
+Salesforce,AI is the thorn in Salesforce’s side,neutral,0.6833528280258179
+Salesforce,"Salesforce, Zoom Law Chiefs Get Nearly $26 Million in Total Pay",government,0.6547261476516724
+Salesforce,Salesforce shares tumble 20% in worst day since 2004,social,0.5078533291816711
+Salesforce,Decoding Salesforce’s plausible $11 billion bid to acquire Informatica,social,0.39061740040779114
+Salesforce,Pacers Sports & Entertainment and Salesforce Announce Continued Partnership,social,0.6429690718650818
+Salesforce,IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI,social,0.5024188756942749
+Salesforce,Salesforce Selects Ironclad for Contract Lifecycle Management,social,0.614646852016449
+Salesforce,Salesforce Stock Gains as CRM Software Giant Holds Its Annual Shareholder Meeting,social,0.6824207901954651
+Salesforce,Salesforce adds Contact Center updates to Service Cloud,social,0.3937794864177704
+Salesforce,Salesforce announces new AI-enabled copilots at Connections 2024,social,0.46855852007865906
+Salesforce,Salesforce to lobby for new rules on AI’s environmental impact,environment,0.8876456618309021
+Salesforce,Salesforce debuts Zero Copy Partner Network to ease data integration,social,0.49955689907073975
+Salesforce,Salesforce Agrees to Settle ERISA Lawsuits,social,0.44826221466064453
+Salesforce,Analyzing the Salesforce-Informatica Acquisition That Never Was,social,0.376912921667099
+Salesforce,"Informatica Co-Founder: The Salesforce Acquisition Is ""a Bad Idea""",neutral,0.5718441009521484
+Salesforce,Salesforce-Informatica acquisition talks fall through: Report,social,0.3888269364833832
+Salesforce,Salesforce: Your Job’s at Risk If You Sell Less Than $400k a Year,social,0.6096306443214417
+Salesforce,Salesforce stock just had its worst day in 20 years,social,0.5368011593818665
+Salesforce,Salesforce Spring ’24 Release Highlights,social,0.4820195734500885
+Salesforce,Salesforce drops after reports it’s in talks to acquire Informatica,government,0.4490256905555725
+Salesforce,VA and Salesforce help Veterans translate military experience into civilian careers,social,0.6002392172813416
+Salesforce,Access Amazon Redshift data from Salesforce Data Cloud with Zero Copy Data Federation,social,0.38533878326416016
+Salesforce,Salesforce Reportedly Institutes ‘4 to 5 Days A Week’ RTO Mandate,government,0.5425028800964355
+Salesforce,IQVIA and Salesforce Expand Global Partnership to Accelerate the Development of Life Sciences Cloud,social,0.4123959243297577
+Salesforce,"Genesys Innovates with Salesforce and ServiceNow, Leads a New Era of CCaaS-CRM Convergence",social,0.4032304286956787
+Salesforce,Salesforce Crowned King of CRM for the 11th Year Running,social,0.4032142460346222
+Salesforce,Salesforce May Acquire Informatica For More Than $11B: Reports,social,0.36223477125167847
+Salesforce,Five9 Integrates Salesforce’s Einstein into its AI Suite,social,0.47914451360702515
+Salesforce,Salesforce plunges 21% after it reports its first revenue miss since 2006,government,0.4297187328338623
+Salesforce,CRM Analytics vs. Tableau: What Should I Choose for my Salesforce Use Case?,social,0.28987494111061096
+Salesforce,Salesforce investors reject plan to add extra $20M to Benioff's total pay,neutral,0.501979410648346
+Salesforce,Odaseva raises $54M to secure Salesforce users,government,0.4162585735321045
+Salesforce,Salesforce and Slack to pause all hiring in technology and product,social,0.4924185276031494
+Salesforce,Salesforce Executive Leads With a Beginner’s Mind,neutral,0.49932438135147095
+Salesforce,Bring your own AI using Amazon SageMaker with Salesforce Data Cloud,environment,0.39746445417404175
+Salesforce,Economist explains how Salesforce's return-to-office policy could benefit San Francisco as a whole,social,0.6477341651916504
+Salesforce,"Salesforce turns to 'boomerangs,' luring back former execs to help reignite growth",social,0.7216480374336243
+Salesforce,"Salesforce open to large acquisitions, but analysts have concerns",social,0.5552721619606018
+Salesforce,Here's Why I Just Loaded Up on Salesforce Stock,social,0.5885245203971863
+Salesforce,Graduate School selects Salesforce as graduate records management solution,social,0.5819297432899475
+Salesforce,Is Salesforce Stock in Trouble?,social,0.6351895332336426
+Salesforce,Salesforce and Workday CEOs explain their new joint AI venture,social,0.38178572058677673
+Salesforce,Vonage Leverages Salesforce Einstein to Boost its Service Cloud Voice Solution,social,0.5300264358520508
+Salesforce,Better Cloud Stock: Salesforce vs. ServiceNow,social,0.42499294877052307
+Salesforce,"Salesforce AI Push Comes With Partner Program Investment, Says Channel Chief",social,0.5986782312393188
+IBM,"Db2 is a story worth telling, even if IBM won't",social,0.35351288318634033
+IBM,Data Suggests Growth in Enterprise Adoption of AI is Due to Widespread Deployment by Early Adopters,social,0.33371710777282715
+IBM,IBM Stock Quote Price and Forecast,neutral,0.3804733455181122
+IBM,IBM and VMware Help Enterprises Adopt Generative AI with watsonx On-Premises,environment,0.5522819757461548
+IBM,"IBM Unveils Next Chapter of watsonx with Open Source, Product & Ecosystem Innovations to Drive Enterprise AI at Scale",environment,0.42645516991615295
+IBM,IBM adds AI-enhanced data resilience capabilities to help combat ransomware and other threats with enhanced storage solutions,government,0.3792610764503479
+IBM,Introducing IBM Concert: Control your operations with generative AI insights,government,0.40753528475761414
+IBM,IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face,social,0.743779718875885
+IBM,"A new chip architecture points to faster, more energy-efficient AI",environment,0.44482606649398804
+IBM,IBM and NASA are building an AI foundation model for weather and climate,environment,0.978674054145813
+IBM,IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization,environment,0.34474197030067444
+IBM,"IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities",social,0.8544784188270569
+IBM,IBM to Acquire Application Modernization Capabilities from Advanced,social,0.3181324899196625
+IBM,Application modernization with IBM generative AI,neutral,0.3019711673259735
+IBM,IBM’s Granite code model family is going open source,social,0.37886399030685425
+IBM,Casper Labs to Build a Blockchain-Powered Solution with IBM Consulting to Help Improve Transparency and Auditability for Generative AI Systems,government,0.32450151443481445
+IBM,Boehringer Ingelheim and IBM Collaborate to Advance Generative AI and Foundation Models for Therapeutic Antibody Development,social,0.36511117219924927
+IBM,IBM Launches $500 Million Enterprise AI Venture Fund,social,0.4159013628959656
+IBM,Usher's New Look Embarks on AI-Focused Collaboration with IBM to Set Students up for Career Success,social,0.5731313824653625
+IBM,IBM Introduces New Microsoft Copilot Capabilities to Fuel AI-Powered Business Transformation,social,0.342099130153656
+IBM,The hardware and software for the era of quantum utility is here,government,0.3649618625640869
+IBM,NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data,government,0.5121232271194458
+IBM,Securing generative AI: What matters now,neutral,0.4191335439682007
+IBM,NASA and IBM Research Apply AI to Weather and Climate,environment,0.9567040205001831
+IBM,"IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants",social,0.49874016642570496
+IBM,IBM and NASA open source the largest geospatial AI foundation model on Hugging Face,social,0.4913143813610077
+IBM,"IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization",social,0.3772321939468384
+IBM,IBM to Acquire StreamSets and webMethods Platforms from Software AG,environment,0.3370378017425537
+IBM,IBM Completes Acquisition of Apptio Inc.,social,0.3932022154331207
+IBM,IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI,social,0.319987416267395
+IBM,IBM defends role in remote learning fiasco at Council hearing,government,0.48190900683403015
+IBM,IBM RELEASES SECOND-QUARTER RESULTS,social,0.3339128792285919
+IBM,"IBM to Acquire HashiCorp, Inc. Creating a Comprehensive End-to-End Hybrid Cloud Platform",government,0.37079331278800964
+IBM,IBM announces new cold storage solution for digital assets,social,0.3595120906829834
+IBM,"IBM Completes Acquisition of StreamSets and webMethods, Bolstering its Automation, Data and AI Portfolios",environment,0.34413638710975647
+IBM,IBM Advances Geospatial AI to Address Climate Challenges,environment,0.9350454211235046
+IBM,IBM Earnings Preview: 5 Things To Know,neutral,0.3260514736175537
+IBM,IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI,social,0.5024188756942749
+IBM,Deloitte and IBM Collaborate to Help Organizations Accelerate Sustainability Outcomes,environment,0.6872237324714661
+IBM,IBM and The All England Lawn Tennis Club Launch New Generative AI Feature for Personalised Player Stories at Wimbledon,social,0.6275783777236938
+IBM,IBM Acquires Pliant to Further Enhance Network IT Automation Capabilities,government,0.3043079376220703
+IBM,"New IBM SkillsBuild Cybersecurity and Data Analytics Certificates to be Deployed in Community College Systems across Alabama, California Bay Area, Colorado and Louisiana",government,0.5467600226402283
+IBM,IBM Launches Mainframe Skills Council with SHARE and Other Key Organizations to Support New Generations of Mainframe Talent,social,0.8750632405281067
+IBM,New IBM study reveals how AI is changing work and what HR leaders should do about it,government,0.4813995957374573
+IBM,"Palo Alto Networks and IBM to Jointly Provide AI-powered Security Offerings; IBM to Deliver Security Consulting Services Across Palo Alto Networks Security Platforms - May 15, 2024",government,0.4413750171661377
+IBM,Unlocking business transformation: IBM Consulting enhances Microsoft Copilot capabilities,social,0.4123563766479492
+IBM,"Liberty, Insurers Take Hit on $1.6 Billion IBM Judgment Policy",social,0.5898449420928955
+IBM,Honda and IBM sign Memorandum of Understanding to Explore Long-term Joint Research and Development of Semiconductor Chip and Software Technologies for Future Software-Defined Vehicles,social,0.4037885069847107
+IBM,IBM Consulting and Palo Alto Networks Announce Expansion of Key Strategic Cybersecurity Partnership,government,0.46700677275657654
+IBM,"100 Years Ago, IBM Was Born",social,0.4597868025302887
+IBM,An energy-efficient analog chip for AI inference,environment,0.6910239458084106
+IBM,What is responsible AI?,neutral,0.46026739478111267
+IBM,IBM awarded $576M DOD chip manufacturing contract,government,0.8050777316093445
+IBM,IBM Expands Software Availability to 92 Countries in AWS Marketplace,government,0.4275781214237213
+IBM,Rensselaer Polytechnic Institute and IBM Unveil the World’s first IBM Quantum System One on a University Campus,social,0.4597395062446594
+IBM,IBM showcases Gen AI-driven Concert to monitor and manage enterprise applications,social,0.43722665309906006
+IBM,IBM Plans to End 5% Employer Matching in 401(k) Plan,social,0.43637362122535706
+IBM,"IBM Collaborates with AWS to Launch a New Cloud Database Offering, Enabling Customers to Optimize Data Management for AI Workloads",environment,0.3853147327899933
+IBM,IBM Enhances AI Scalability With Twin Buyouts: Should You Buy?,social,0.3466219902038574
+IBM,IBM Surrenders SIEM While PANW Tries To Gain Ground On Tech Titans,government,0.5277812480926514
+IBM,EY and IBM launch artificial intelligence solution designed to help increase productivity and drive efficiencies within HR,government,0.35561320185661316
+IBM,"Watson, Jeopardy! champion",social,0.644928514957428
+IBM,What Are AI Hallucinations?,neutral,0.39774802327156067
+IBM,IBM doubles down on hybrid cloud with $6.4B HashiCorp acquisition,environment,0.3170666992664337
+IBM,IBM acquires Manta Software Inc. to complement data and AI governance capabilities,government,0.8904210329055786
+IBM,IBM and The Government of Spain Collaborate to Advance National AI Strategy and Build the World's Leading Spanish Language AI Models,government,0.8667606711387634
+IBM,In-memory computing,social,0.3285202980041504
+IBM,IBM tells managers to come to the office or leave their jobs,social,0.4871884882450104
+IBM,Francisco Partners to Acquire The Weather Company Assets from IBM,environment,0.5993891954421997
+IBM,"IBM Think: 10 Biggest AI, Red Hat, Nvidia And GenAI Launches",neutral,0.3607271611690521
+IBM,"IBM releases first-ever 1,000-qubit quantum chip",social,0.3192578852176666
+IBM,"SAP, and Oracle, and IBM, oh my! 'Cloud and AI' drive legacy software firms to record valuations",social,0.4571780264377594
+IBM,"IBM and AWS forge global alliance, streamlining access to AI and hybrid cloud solutions",government,0.3305057883262634
