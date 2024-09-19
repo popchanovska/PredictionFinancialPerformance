@@ -1,0 +1,857 @@
+[
+  {
+    "title": "Idemitsu and Toyota Announce Beginning of Cooperation toward Mass Production of All-Solid-State Batteries for BEVs",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE4zSTJBbURRbHBSWGpiWUxRWVZudVJsU0xMTDZCUW51UkhmRncwWTB3cjJITE9mTkRLa0d1M3hMSEJZME5GeFhYRnJ4eXFfSXhaWnNueTZNRndPTTVyRnJPU1Y3YktSMTVM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDBZamxyUVc1TlVXSXlWMWw1VFJDM0FSaVRBaWdCTWdtZGNvNnRzZVpFU3dJ=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-10-12T07:00:00.000Z",
+    "time": "Oct 12, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "“Outlast Outlive:” Toyota Inspires Adventure in First-Ever Trucks Family Campaign",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxQSXJjQXJtQW1zeHFKRVhsZ0U3QXFYeGRncWt2RFlfN3laQmZ0UUxOMHJNWkZuTFo2QU5rZ3lFcnRNWmxmeHhZOVQ1QWlEYzRoUmNGb213WlBsYzBnbWY5dWptSHU5VE14RUhMTW52UHo2UHFzN1RhaE1vVGJ0VEF1S09OZVA2VnNxVEdGd0lwOVZfUE04cUhCekFaVGI1R3U3QkY2TkFGZms4S0s3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVURUpuVkVwRGRsbHRORkJRVFJDb0FSaXNBaWdCTWdZQmRJU1BzUVU=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2023-10-20T07:00:00.000Z",
+    "time": "Oct 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Empire State Development Announces Toyota Material Handling North America Will Establish an Advanced Energy Storage Solutions Research and Development Facility in Monroe County | Empire State Development",
+    "link": "https://news.google.com/read/CBMihgJBVV95cUxOeUt6alByVVQxUzI3UEtlQ1pQUnhmX3BFY3FoaGxqaEQ1ZzZ3bTNKdEt5dEpyeXljOGxwb01YaHNLeGgybjUtTUFQb3RSdlV6Nzk5TmN2ZmltUG9qUk1XeEtWWTF1WHdWYlNpblFoR2gzLTBBa21sbUNSaEJWQm5PTEZmU2c2Z2FhOUVYdXlUZVU3N3J1NEFjUVhXV3BvVXNqdlNVRlhEYXNOVDFXTkNMSHJxSjZlWWlkYUw2MVdoQVppTzlIaWJkakYteWJuRF9lWGpBX2V6bmFrbzhXNWZxeWNCY1hxaDUtVk9rZXhzVnJQck9sa0JPTkRncEo2UzVmdVh1aUd3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHdlVTVrTUZBMGFXTldiMEZwVFJDU0FSamFBaWdCTWdNVkFEdw=-w400-h224-p-df-rw",
+    "source": "Empire State Development",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "“We Keep Toyota Running”: Workers at Critical Toyota Plant Launch Campaign to Join the UAW",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxNVUdmd1dvZFFTampMQklUbjRkV2pNdGRPd01temNaRDJmc0JoXzVzSmZWdWFuajAzOWFKR2paRk81WVRSMzNXOUFNanVRdWg3d2E4UTl2cFVsQ2ZWSXF3elMzU3BEVUdIbzEweUlvZmkxZHBOM2FUeHNyeGNhTGlTN2IwV1FCejZYY1VldjBGQllwZ3lDUkJ2N3pha1RYSnhrMDBtQTVPUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHlaM05RYVV4M2VubFpVMmhPVFJDMEFSaTBBU2dCTWdrRk01Z3pzU2ZCeFFJ=-w400-h224-p-df-rw",
+    "source": "UAW",
+    "datetime": "2024-03-06T08:00:00.000Z",
+    "time": "Mar 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Motor North America Reports 2023 U.S. Sales Results",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxQOWN1ckEweHdCeWkxcTZJUXZ4LS1WZnp2TnVZZFRuVlQyWGREdF9JamJ3YXNUMDA5MFNuWWpFbjNPeEZ2aENMX3dyQUdnODNkRjN6d0xFbXVBZ09HZ21sZldRTFMxd29GeHJYSHJJUzZ4TEhZWWJhNnNMeklnb0M5Q0tXUmJadHZRQVl0WGdpUXlEZGlyY2Ffb0xPMkNocVAyUzdfVnZYdUtGNlFhbTE3RGF3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZaamh0VUROSWJGWlNRMmxPVFJDdUFSaWlBaWdCTWdZQmNKVEZ1QWM=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-01-03T08:00:00.000Z",
+    "time": "Jan 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Japan’s Toyota raises its profit outlook after solid earnings helped by a weak yen",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxQdlk5UzBSY2t1NWZYVHR3VWFoQVhna1BDWWdsQ1Q2RWpvRkRybVJZd3A4MEdySHg4RWtMZW51ekVxaUtDUERvakxmS0dlU0FiNHFHX0FnUjBSYlk0M0VqTkpiM2U0NHRKSEc5Tl9qSUpnVEJVR0lmWFAwNE91UGxvQnRjVXRaeGtNVFEwSWpVODFjcTFGYVZJ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRSSGRwUVhwdVdtRjNkelUyVFJDM0FSaVRBaWdCTWdZVk00Q01vUWc=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-02-05T08:00:00.000Z",
+    "time": "Feb 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota agrees to biggest wage hike in 25 years, paves way for BOJ shift",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxQTE96S1h3TTFXQmE2d09OYlEwWmZZZUVTc1dkeVc1b1UyRlR5eElCeDhWMi0xLXFwR0VkMktnTXV1YnF0Tzk4VmlEVERBalB6ZWUtaUVESXN2bDJCdFV3akNtWGVfWjdKenBvQXlZekNkdEk2RTFzVF92X0NjclNtVXhEd1pTNVVoYzkydmIzVXJBN05vSWwyYmZibkRKS2toUUxFd2cyMHYxZi0xWkpvRWRnZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXVVek50YlZkdmVsaFlhRTVmVFJDaUFSaTJBaWdCTWdtQlFJQm9JU1BCMGdB=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-13T07:00:00.000Z",
+    "time": "Mar 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Fueling America's future with Toyota",
+    "link": "https://news.google.com/read/CBMi2gFBVV95cUxOUXJzUXJuRXQ5N25KWWlXRW9CTDZmWXJ4dE90blVGMkRic0dybnBEY2loZ0pLZ3lPeFZVV1hIcmFlQV9DbkxYT0d0a1JHaEFaaTZQTmRSLTJNZER0dnF4b0wyd0VPWnlnSThZVVFHeFdRXzZqZWpQNVR2UDlVa1J5ZmZUd2M0eHAxajBDd0lRQ2hpQmJ2YXlvQTlHN21KRkU4UVlkc0M4b09lZy1nVEVwMWFyWFNRTEctTFF2ajR3R1g3YW1tdVYtOUV4VDlqdUE0YnQ1bUtJa2o3Zw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVdNek50YVRCNGVUazRXVXhSVFJDakFSaTJBaWdCTWdrQlVKYVVwT2lvU1FJ=-w400-h224-p-df-rw",
+    "source": "ExxonMobil",
+    "datetime": "2024-05-09T07:00:00.000Z",
+    "time": "May 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "CFPB Orders Toyota Motor Credit to Pay $60 Million for Illegal Lending and Credit Reporting Misconduct",
+    "link": "https://news.google.com/read/CBMi5wFBVV95cUxQS1kzQUhHMXJTaUNfNHpQdG9NZUNCdXREdFFZLVFrUFh3R3MtcFpzVnJnQ3NSNXFCb0lxYzQ0ZHRzZnFRcWctNG1fY2NYTFpPMWIxRWhKV0R4NmhOQkNobmxUb2R6ek1oYTBSTDZ3RlE5R3BTSVJkYnhXRUpsTHkyMG9wbnZRNlE1aU5RS3FacUpPdFpRUEM3Zk1laV9nY0N5VklvWVo4T1UzaGNFaHQ3NFJweVZjYXpBSVJlRDVjYnNXZmt2MjZTRHVkeE1sQmdHSGUzSmFnVFRKZUs4MF9pbmt0dlV3T00?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUZRMVZSU2t0bFp6VlFaRU5XVFJETkFSajJBU2dCTWdtQmdKYVNzS2ZJVEFJ=-w400-h224-p-df-rw",
+    "source": "Consumer Financial Protection Bureau",
+    "datetime": "2023-11-20T08:00:00.000Z",
+    "time": "Nov 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Subaru, Toyota, and Mazda Commit to New Engine Development for the Electrification Era, Toward Carbon Neutrality",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE9HbHpvNUFHdlBYRlpadjBUMjctdDJ4N1FrbGJhTld1Y2k0TllvVGVqeVB1QjBEeERlSENsODVXeWlueVVUNG1tM2o2amUxMEVGQlZLNkQ0aGRpT2FVam9NWHIyYVEyWEMz?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHRkMlkwWlZwVk5teFJkME5UVFJDM0FSaVRBaWdCTWdPSk1Rbw=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-05-28T07:00:00.000Z",
+    "time": "May 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "The All-New 4Runner Answers the Call of the Wild. Coming April 9",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxOWmJzTFVKSWVFSk9majhBY0d2SEl5ZVFKdG4wSnQyWm9lQWNnenYzbEg4T3cwY2lPQjVnVEphRGpPRXkwcGdYQXZvRE9kbDBaWHFVLUM0T0JsTURSSW5EVDdhREM1RlJEbi1tQi1HaXczakd6ZXpBMV8tYzZCekVzU0JWY01TTzJLRV9ENDF3ZnFkOTA3dXpYdQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFiM041YzFkdVFreEpYMDFrVFJDdUFSaWlBaWdCTWdZWjhJcktUQVE=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2024-04-08T07:00:00.000Z",
+    "time": "Apr 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "2024 Toyota Highlander",
+    "link": "https://news.google.com/read/CBMibEFVX3lxTFBZYjZYaDVqNi1sa0FFYjIwa3k4dTdCS3hJR2pRSkpLVll5dXBTeDlIVW92dmxyWDRSUkhlSnU1RFptcXhxQlZJMDR2X0w1T2xQUXJFLWIwRnhEUkplUHVaUUlOaUdmMkhUSkYySg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURWMFl4WkhWSVRVVjRiVkIzVFJDM0FSaVRBaWdCTWdZTm9Zd3JQUVU=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2023-09-27T07:00:00.000Z",
+    "time": "Sep 27, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Sales, Production, and Export Results for 2023 (January - December)",
+    "link": "https://news.google.com/read/CBMigwFBVV95cUxQT2VQU01yNGhIb1d3OGVZUkZVT1p0VTNQZ0JJQTN4OFM4dl9keTNHQ1V2eXdQT1daSGlYeWdER3V2Mm80RFVnZXJodUhyQUM3VDBsdkpBb2JaY0NNTGxNdWJtS2VuSUZMZnpSX2pZOWt6OEE3bGFPQnJYUjc3OFh4ckEyVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtVMmhtVkVreVNIZDRSVEU0VFJDM0FSaVRBaWdCTWdhTmdZd3FOUVk=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-01-30T08:00:00.000Z",
+    "time": "Jan 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "‘It’s a Vibe’ in Toyota’s All-New 2025 Camry Campaign",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxNVDBwUUwtbGNlRUVzU0d0ZkxyMXZ0WTg3S0I1NHMzdTBmRjZNckpiOUpMMXMzMnRPOXBEM3p2OGtuRkZDOER6V2c5MndYcmx1X2lFTTJYdlBtWUwwczJRRGlMTFBwdF9oem9tZnp0Z3BhRG5QcTdUSFQwb2FmWTFPV1B0dUoydw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVRMU0yZERWYWQzVklVVXBzVFJDb0FSaXNBaWdCTWdZQnhvUktSZ1U=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "TGR Announces Upgraded GR86 and Limited Special-edition Model",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTE8xSTcyUS1FbGRqR3ZtbmhWSXk0V2Ewd3FTbU1iTk82eEtvdElncC0xN1haRUMxN095UEJBX2VIYmUxaGswNzF5Q2RiRk5aTlE2Z19OQkVSOXNxWVowS29OalhaV2M?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNXNNakU0T1dkd2NYTmtTbEpKVFJDaEFSaTZBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "2025 Toyota GR86",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTE1qNWJCdUR1b3pJT2RuUmxYc1VNM01INXRDT2RuTWw3MWRCbHhuQ2FDQ2xXT1d5UkFfWGtaYkhEWWliZ3VabE5yb081eWl6UXlmY1BLRjlQOFNpSGRGRVRnUDNuVHo?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFiR3RoYWtocWFGTnNRbEJhVFJDNEFSaVRBaWdCTWdhVmNvNnNyUVk=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Mobility Foundation Supports Metropolitan Evansville Transit System (METS) and Via to Launch On-Demand Micro-Transit Program, METS Micro",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE9fUWhtN2U2OG01NVN4VUplTWhxRjk5VlhEeVh0S0M3OTFqbWtlX2VEeDJjazF4bDBSdG5VQU90YkpNSUpvdG1kRTFHbHZGeDBud0NQbWNzeVItd212YmNzTHczWlpKdjJJ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVJkMDh0Vlc1aWIxcFdUSFkyVFJDakFSaTJBaWdCTWdrTmc1SlB2U1dhQ3dJ=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-11-29T08:00:00.000Z",
+    "time": "Nov 29, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Brock Purdy Stars in Toyota’s Effort to Roll Out Red Carpet for Every NFL Draft Pick - From First to Last Round",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxQSVp6ODdDQThwbUJBSWlYU3lxeGtac3R1emVNREViNE1YWE1uTWZRWnlXUTlLRkdzNUE3cGYxWmJQVjltU05DMkFySzFDTE40WmN3ZHNvb0J1bERSaFhGUWVpQktmMDZrRVcyVlJuQTh3cW1aeGhUM1pWQnZBSF9qYm9HUmVUOXhVQzgyRDhFREEyeWptVHNuMHZuYUp3TjlrVDh1a3VjOTMyOWs5aUE3TG1iWHdUR3dYQXZyMHhhaEZ1bWVpSXVKSWs5U3U4Q2ZsZHNjeg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWZlVTVUZGkxb1VVOXNRaTF1VFJDb0FSaXNBaWdCTWdPQmNBZw=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2024-04-22T07:00:00.000Z",
+    "time": "Apr 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "JAPAN MOBILITY SHOW 2023 Toyota Press Briefing",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE9GRHBWMXhLVnV4TlJWcEFhRjVtM3M2QTBkWHFjT0ZndkUyNm5wLVQwUUc4cElkRm1xMFVnYk1iWC1aUGdDN3ZyZGtqX3p3VHh3Z1RLLXVZWGZ1c3hpc29DTFdKQVFLSnBi?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFlbk5EU2xZMWRXMTRRamxaVFJDM0FSaVRBaWdCTWdhQnNZZ0l1UVU=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-10-25T07:00:00.000Z",
+    "time": "Oct 25, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota’s advanced battery technology roadmap",
+    "link": "https://news.google.com/read/CBMie0FVX3lxTFBvVXhHMlVmOG5Gc01aQk1qVXZnc1kxWWJudzB3QTZocHJuVW1nbGxURVhzVGFHR2ZKWEtwbFg5UTlWclc2VmszNTFWbk9UX3BYMkdfRl8tZzJ3Mk4xb1JOTXBlZmlKMnpWeWotdXJVRWNmMVNDY2VseWo4SQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNU1NV1JyVmpsMVkwaE5hVTVXVFJDTEFSanJBaWdCTWdtSkFKREdqdVl0akFF=-w400-h224-p-df-rw",
+    "source": "Toyota Europe Newsroom",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "2025 Toyota GR86 Hakone Special Edition Puts a Modern Twist on an Icon",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxQc2MyYkxqS2ZJTTAwT2V4dFRWbC1DRTJ1R0R4RUMyamk1S1VxaTAtT2UzQ055YV9uWGlXVUlwd0pBamZQd0JIWl9welBhdW1jTG8yUlNrRU5nNUxyci1XXzhaM2EtMUtIQU56YkFYd01ndFdaQW9nR0N0LVhZVEdldVdUSFliY0o0UW80SXdnMTBlVWUwUVB2MFg5WkpfaG1aSXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhXbEJVY1ZVME5ETkpZMXBvVFJDM0FSaVVBaWdCTWdZSm9aRDB2QVk=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "2024 Toyota Prius",
+    "link": "https://news.google.com/read/CBMiZkFVX3lxTFBfeC1UbktTUE5ubmZ5VkNiYjc3UWxiWHB2U0U0NHVUOW9ONTVnSXJybVlRYXVFZmJqU2RsUTJtLW1aR1Y2Rk5JMGVzZUVrck9zV3Zvc1dGVGhZTlJpSF96cWVLLTRKZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZPSE0xZWpNMlRqQlRha1Z2VFJDdUFSaWlBaWdCTWdhQndwQ0x3UVU=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2023-10-10T07:00:00.000Z",
+    "time": "Oct 10, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota is hitting the gas on hybrids as EV sales cool. But what does that mean for the planet?",
+    "link": "https://news.google.com/read/CBMikAFBVV95cUxQUXRURFVoXzI5aDFNdll5RWIyNW1hMmxQQndvUGdmaHNrNUZCaHowR3JRM08waXFreGM5b2F3R3dqZWlLMGtoaWMtZk4zZkpQODhreG5STTJpR0VOSHp2eWt5Sl9RUjVDdk9PRWtjMm1iNEk1WG4zU3ZwdHUzaEY1ZTE5RXFyejFKdVUtNFFRc0bSAYcBQVVfeXFMTjM0OHlZZ3VCcGJZUmd1T3lFYlM1OGFUNnQwVVNwbi1JdzJTZXNWMWxmVUI2NGdjdGVnS3Y3NC1MeTJBQkYxT2hocFo2Y0tOcWdxb21wMV9KdEhfay02eFRVSmJKYm1Xejh3cWRBY1NNQk5FVzktcFQwV0dGdFRwM2ZzaDBwWEk0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVSRVJzYkRobldVUjZVSEpxVFJEQ0FSaURBaWdCTWdhSllZcnBzQVE=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-03-10T08:00:00.000Z",
+    "time": "Mar 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "All-New 2024 Toyota Tacoma Handles it All in Super Bowl LVIII Ad",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxQWnVCdFFoUklTZThNZjJCRHY2eUNnZ3hiOFU3SHM5TjljbE5KRE9xOUQ2MVRlZ2pFelZOZlZNVkpDRVZDaDk2Nzk1TUgzYUFEUk15VDZNVVAtcUFkTmp6RXczT3d4ZUl3czZFMGNnZlJaWW9fZ3NyOXEyVW9QLVhpXzJZVUxpM1FqSEQ0QVNMdE5LSmQxdDFpNGtR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFhMkZpY0dJelJYTllhMWxZVFJDb0FSaXNBaWdCTWdZTlNKS21JZ2s=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2024-02-08T08:00:00.000Z",
+    "time": "Feb 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Worldwide Olympic Partner Toyota begins delivery of vehicles to support Paris 2024",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxQeHNTU1haNGFCYWJzUGtKTE1JUy12c1lXZnNaOGp5NDFuSXJUZ2xwRWZaRGxwTkkwVVRPeE1fblYyNU9JdEtYNVdtb09tNXlTUmtDS1N1NzJfLXdKT0FXOGhrYVlJWV9teko4cDhoLXdkb2lrZFZMcWpxU0xpcnRKQUN6bXhnV3dlaW55NEVTR1B1bTh2anhkVHdFeUZZaHhPdVkyNDJqRElKZ1NWNUpzY3Fn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVWa2xCTkRoRmVucFNia1Z0VFJDb0FSaXNBaWdCTWdhQm9Zb0p5Z1U=-w400-h224-p-df-rw",
+    "source": "Olympics",
+    "datetime": "2024-03-01T08:00:00.000Z",
+    "time": "Mar 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Governor Ivey Announces Toyota Alabama to Expand Production, Creating 350 New Jobs",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxQWEIyaVFrRXlBUzJRazg3cWFaUmhWNHRybnRSM2pkeGJZSkxPcUVRMVpzOHhOaHUwRmFjMVVPdWZrdEF1YXk4T3BCSFFNVFp6eTlkXzR6QmE3ZEpaN2oxUGxlRTJlWlAxd01FTXBUWW5QMDBYWklsOVRMM1FlM2pWRHR2VXR3MldpRzh4a0FVdjAxVDgxUlV6OExVTF9QZkEwdHE1ZkU3bi16cXZNWTF6aVBHZ0JoaC1iSHVvU3ZoWmJiWk02N1lZ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZaRWxKV0VKNlZucHZPRmN4VFJDb0FSaXNBaWdCTWdhUlVwSkpOUWc=-w400-h224-p-df-rw",
+    "source": "Governor Kay Ivey",
+    "datetime": "2024-06-05T07:00:00.000Z",
+    "time": "Jun 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Exhibiting at Beijing Motor Show 2024",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTFBBLWc2eTBjc3RpcEtyQXprTF9FX1Y2bnBPczRmeU5pZFZaZEhIMTVpdXZfeVQ4cHFJN0VoQjZUMHhuMlVaX2NrX0dSVG9vTHhiT2JBSWRwaXNLcWFQeUpRRUdTUF9lWVYt?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVkSGx3YjBsc09VcEhZbEJhVFJDb0FSaXNBaWdCTWdhTmdKRHB0QVk=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-04-25T07:00:00.000Z",
+    "time": "Apr 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota recalls 280,000 vehicles because they may ‘creep forward’ in neutral",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxQQVJJeTB4ZU5CZEIwN0R6QVdiRXhEN1dsZE02MW80MmFNR3dBVS1QaFpzWHhQTjBCYVZHc2hnUVhySW8tcDA0ZHVFc2NqdUp3SndQZDd2Y1hJLS1uN2ZEZ3Z2VFFlMURXQ2g2MkNucUFpVHdqWmoxWVVSVmMwX19ERjJNVTc4aTZId2ZHd2szb2NMY1VXa1HSAYwBQVVfeXFMTThoUnY0UzRBbDhLZWFUZEtZdHFoLXNLUHh3M09wak1iaTFvUkQzQk5iallOblZVNUVwNWNvRGdIVjVSX0pRRDY3MVlUV3BEZXZ3WnFUdVBHNThvSUpCREFDQUNiRXFkak9nbHZacmdQeXhjM3N5ajFZb1pDSHpfdmpWRXRNY0w3bzBqWXQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTVWMFZwZGxWQ2JYWkRjMWRyVFJDb0FSaXJBaWdCTWdNQmNCSQ=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-02-22T08:00:00.000Z",
+    "time": "Feb 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Ventures Raises Another $300 Million to Expand Early-Stage Investments in Frontier Technology and Climate Solutions",
+    "link": "https://news.google.com/read/CBMiiAJBVV95cUxNcjVQZFN1b1c3bV9aeEpwcUQ4SDZ3MlllVThySXI0MWFOdjZ5ZTZJYlZaN21ya1RtSmJXWEdhSHFyZnprd09MTGQ3eFg2blBuVTVHMTRUYWtiMkNnQURic1pDVzRsbm5WNXdkYXJoR0xtYTBSUllwUUdLcFlEZ3RQblI2TUw2clZoZGhUczd3Y3NGaW0xWWt5SHhaSnBpanJSVnRscDdxdW5acGpxRXF3dk9pQWpOQWV0cXp6WGVhblhfcG03LVhRUVM2d3ZmU3AxVm5JbXo3d1hEQXl4aDFvSGI3b3JzWV9mMUJ3SHhmZExyVzRTVXdfZTVmYTdBZko1THVxZS1sZ0w?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHlNRFZJUkZrMVprczBhelJzVFJDaUFSaTJBaWdCTWdhSmNaREZNQWM=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-04-10T07:00:00.000Z",
+    "time": "Apr 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Our Toyota Tundra TRD Pro Was Shot At by Smooth-Brain Morons",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxPdnNRdzdpaDE2LVFPTWRpaktCeTEwb3pRTU5IQVZmVWRXYlhOSGpNUG1mWm9MTG40aGhYUVpEdUs3TWhSRmpDRUxzVXJvTTk0XzMwUkRBdGxqNV9mMmN6MW14SXVYZm94d1lmYnU1bjFIblR0OGgxME82V1FjTVgyUC1BcE9nRV9FdURZRXpxelpXS1Q0b3JkcFBXUmJkZnhaOVRGeWRuc1FJZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNW5XamxvYldob1VsbFlRMWxLVFJDb0FSaXJBaWdCTWdrQm9KS1Z1S2Fac0FF=-w400-h224-p-df-rw",
+    "source": "MotorTrend",
+    "datetime": "2024-04-24T07:00:00.000Z",
+    "time": "Apr 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "A&T Landscape Architecture Students Blaze Trail through Toyota Battery Property",
+    "link": "https://news.google.com/read/CBMidkFVX3lxTE5ES3duTFFZQ08tY1Q3OF9XVEhfY29FNFJHeXB5S2ZNZ1Y2QnE3TkVHdnJMbDdhTTV0bXo1am83M1c1cjF5TThNbDFpQ1ZvX1I2RU5LUEZDLTZXQm9uUUJreF92VU5veWRtZXVnZUV5dGhmRkNuWGc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpRbGhTYVV4aWMwdGZaSFJvVFJEQ0FSaURBaWdCTWdZQmdKU0dNUWc=-w400-h224-p-df-rw",
+    "source": "North Carolina A&T",
+    "datetime": "2024-01-22T08:00:00.000Z",
+    "time": "Jan 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota transforms IT service desk with gen AI",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxNUkItVFdGQ1g4OUlZUktNVGRaZWItSlEwTnJELXJDMVZUTnNMaU5KRDZFYWszWDVrcjRydWNrcTVIdlZjNG5WbDNxNWhNMlJ5ckdWT3A2U1ZERUduMFdWb3BTdVVlMWR5Y3F4b0NfQlRYRFBuR3BLQXBYYzF4NGZieTVJZ0FlVnRYUTJKMENwWdIBjwFBVV95cUxNUkItVFdGQ1g4OUlZUktNVGRaZWItSlEwTnJELXJDMVZUTnNMaU5KRDZFYWszWDVrcjRydWNrcTVIdlZjNG5WbDNxNWhNMlJ5ckdWT3A2U1ZERUduMFdWb3BTdVVlMWR5Y3F4b0NfQlRYRFBuR3BLQXBYYzF4NGZieTVJZ0FlVnRYUTJKMENwWQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVSazR3VmtNMGEzSkxVemRvVFJDM0FSaVRBaWdCTWdZeE5acXZIUWs=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2023-12-08T08:00:00.000Z",
+    "time": "Dec 8, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Motor North America Reports U.S. September and Third Quarter 2023 Sales Results",
+    "link": "https://news.google.com/read/CBMi1wFBVV95cUxPcHpOeFZZdnNyRkd5WU9na3F3QXlPdVliNzg2STVWVlBJQ1hsallGNHFZYzlSODRiSldLSHNXc19pb2lNZzBiT1Rja2RkamRJYm1Lc1lVSk9RcUloWEVQa003bHlRSWtEWVlpNGtINXFMdHdqOTd5b1ZrTmhwZFBLZUN3UFhWeDBOSnhHQVJsdEZvaGd6LVlSY3RJVjItZGduZUozS1AtQXFCVlF3cmp5b2hYaURKd3NER093cmUzOEdsT2NDMWpUZWQwR0dUcFN3cmdFcFAtQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNlVEJXY25ScVVVNHpRbk5KVFJDdUFSaWlBaWdCTWdhQllKUmxOZ2M=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2023-10-03T07:00:00.000Z",
+    "time": "Oct 3, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "2024 Toyota Corolla Cross Hybrid",
+    "link": "https://news.google.com/read/CBMiekFVX3lxTFBPajZSd3FhTlF0S2FabG1USnBFMmRfR2hCTnZLREdvSlJYOEhrdlBkVm42NEdYTUFaZkdfdThibFhfUU9XU0tNQjU5VTdWZkpDTV9SU1ZjdU9nU2Vud0JvekpJNGhWS1RRbnBlaWlyVHEwTlpzMWZNc1Fn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhUVU5yUVcxUE9YSlJiSHBrVFJDM0FSaVRBaWdCTWdZTnNZb3J4UVE=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2023-09-26T07:00:00.000Z",
+    "time": "Sep 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota apologizes for cheating on vehicle testing and halts production of three models",
+    "link": "https://news.google.com/read/CBMitAFBVV95cUxPSVJlMy00YVl5SG50WjJJN3dPTXd3RlpkWWZaTWI1clluWHFuRWZYbnlxLUhRUkhFOHpUaDBSYjRGbmpTYVJHTHJRNVBGNHRCX1Z6SC1QZmZMWjFQQTE3Yi1ocWtjRWwzLWZTSFJmb2NySDM5Yy1Fcko1QVNTelJDdDYzWnRiRkpYYVFJcVp5QlZhc05GZE51QnhvTzJRaVBseFdvZ0x1SEczQkNkM0NGdlhkZHM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpjbkJCVlV0V1lqUnhXV3RHVFJDM0FSaVRBaWdCTWdhWmRJeXVyUVk=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota hikes wage of US factory workers after UAW labor deals",
+    "link": "https://news.google.com/read/CBMiwwFBVV95cUxPN0NvNUl4STYxMlhVSlRCTFhESnIxMUZ1SmxlSWI4U1dKcHhsRkQ0V1pSQy01anRIT3ZQc0JkZS1RcFZQRG95TTVvcUl5ajFOX0VsalFOT3hhNTE5RHlHZTNfenhDcndVVGg5OGZkUm5zek1HLS1HX1B3OUZORXBUZzMzQWZ4dlJjbzZoRFNPMlNPQXBGLTA3V3ZJSk5mMjA5UFJhRlBNVXlIOTBPcURXX0xiSC1TaWdRRFlTV3BLdmNsM3M?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBNV05yWkhkek1HMUZSVUpXVFJDdUFSaWlBaWdCTWdZbDVZQ3R6UUU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-11-01T07:00:00.000Z",
+    "time": "Nov 1, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Redwood inks long-term EV battery materials supply deal with Toyota",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxOSnhFUktUczY2aU9qTnRkajM2UG8teS1qTE5XSDEyUmhjd1FNa3BfOHhxSkJaUmNVdlF3NkNIOXlsM0g0TTF4OENQaXZKZ3VTSzEwcFgyZGxwXy0tb3hqUTZKbEt3cUlIS2JtS2NhbW9fT0tmM1dzeEppeXhTWWZYbERoZUlNRGhtWW80MzdUZ2xqNWVIbVlNR3VNS09NZHdyNTQ0RXpJczdQWTB3cURmWTByLVFhUFdU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBORmx4ZW1aV1IwZEtiMnhzVFJDekFSaVpBaWdCTWdhTjE0Qm14Z0U=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-11-16T08:00:00.000Z",
+    "time": "Nov 16, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "OK, But Is the Toyota Tundra TRD Pro Good at Truck Stuff?",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxPWFBjX2VEVEtUZEZvc3hXdXFRbFdibXVhYlhESmhqWkl5SDZKLTkxV1M1eDhaWU0zOFNDRFFuSV9IRUhwdmY4LWZ2Tm10a05Eenp2ank0MXR6ZTJsSUFDN0Jfb2E2ZTg5N1MxbXBMVXZ1akhJeTNjN1J4LTRuZC1qVGtwcjVIWkNHSHlJanlSUENTS2JHODlvRnB0Zw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURXVFZKWDFjeExTMWZVRmRmVFJDb0FSaXJBaWdCTWdZQllKS0p0UVk=-w400-h224-p-df-rw",
+    "source": "MotorTrend",
+    "datetime": "2024-05-16T07:00:00.000Z",
+    "time": "May 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Chiyoda Corporation and Toyota Jointly Developing Large-scale Electrolysis System",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE82Xzd5ZFdwbk9pTnBRdWpfbG83eVFGQUhRSzd5MTZNd1Mzb2xITjA4SVRwVGt3V2d2Nk9VMFQ4YXZ3QjZBVVhXZV8ycmVZYzBXRldXdHVjRDBfUXNuUlh6ZHBrTjdnblZ1?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZNRzltYW1kSlFsZEtNMjVYVFJDb0FSaXNBaWdCTWdZTmM0eUtOUVk=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-02-05T08:00:00.000Z",
+    "time": "Feb 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "All-New Motorsports Campaign Celebrates Greatness in Us All",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxORVI4dDljVEdRNF9laFdONkZDemQ0cWxQVFR1dWJaVzdXdHlncVF6V0lHcUxtM0R1ek5PQmlEbElxYXowSk5WeE84MUp5NVB1TGZpMUNxS2ZDTGlSRk44bHV6UE1GY0E4aUFkUjJSVDhQYTZkbmZYbDRTWUVHeTlpcTlSVHR4OW9HRlJ3RXBaRWRtYzQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtPV2xDY1RadmJVWXlTV0ZPVFJDb0FSaXNBaWdCTWdhbE5Zek5vUWc=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2024-05-16T07:00:00.000Z",
+    "time": "May 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota, Idemitsu tie up to mass-produce all-solid-state batteries",
+    "link": "https://news.google.com/read/CBMiywFBVV95cUxQUlhzUFk3blkyYlZnTEk3RXBVVzlySHc0RnpUMEhqYkhhNFJXVzRQSWVoVFJnNzVWdW1saW0tQ3haTm1USS1HU19wVUhTc0h2ek5OSXltMU0xUmZsVU5XUVpZalU5WWt0b3lKS00tZ2I5dHJIOW5VR1h5aHNFcERLbjFJTm5ua2dpQ2NKakhYVEktMjdwYS1CVmh4N3R1M1k3UTJUQzZBalFrTlY2Tl9tcC1RTEYwTFNid2hZc1BOWE5kLWwycDhrU3JtMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZSVk4xTFRobmJYRmxhV1ZqVFJDM0FSaVRBaWdCTWdZTmNJaHdzQVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-10-12T07:00:00.000Z",
+    "time": "Oct 12, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota reveals hydrogen fuel cell electric Hilux prototype",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxNeWgzci1CMTJjSlczZUdBNEZtWHNveTdWRnBQX1JUSXhlSjEzcy1hN1VjN3B3eEFHaUlWMDV5VW9zcEQyaEFJVVZuNl9EMml3NkRsU19PSFJfcmVjaHJsUHVCNGVTRTA0c1BXWVRLTmNoeWpCWi10dFlmVkdOYkpHNXg5b1dmRV9DSXFZZ19Ecw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdWRmhSTFUxdFJtRkZMV2hDVFJDM0FSaVRBaWdCTWdZQkFwSnV1UVk=-w400-h224-p-df-rw",
+    "source": "Toyota Europe Newsroom",
+    "datetime": "2023-09-05T07:00:00.000Z",
+    "time": "Sep 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Daihatsu and Toyota to Reform Structures towards the Revitalization of Daihatsu",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE1NaldEWDBfaFFIeHBfemJHU1V3NndZUzFySUdfZE82bVFRN3dXUzlaY3RPQ3F0QkxkcWltZEcxZ1VSRXpCSEVXaXRsNmt1bEFkWW1SSU5wZHBpVmtJS2RHdDhCZXJsRGlw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtVMmhtVkVreVNIZDRSVEU0VFJDM0FSaVRBaWdCTWdhTmdZd3FOUVk=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-04-08T07:00:00.000Z",
+    "time": "Apr 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Launches All-New Land Cruiser \"250\" Series in Japan",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTFBzYzB6ME9PYWlnRlYtQ2o4VTNhelNVUExxOXk3YV9sMVR1aGpac2dGellOUHNRUWdRYm1wUnFkcmkzMmVVMGxuLWEySFZtNlg4TDQ0bzRORWtRSlhDaF92U3BlZDc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNDNUVkF4U1hWNGR6ZHBOR0YyVFJDdUFSaWlBaWdCTWdPSlVBNA=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-04-18T07:00:00.000Z",
+    "time": "Apr 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota raised wages immediately after UAW deals",
+    "link": "https://news.google.com/read/CBMic0FVX3lxTE1GZ05KN1hlNGswdFhibkhkOVp5WTN6OXRuZ0llNmxEUzRLU2FVZGN0UjY0czJMQmNFdE41M1Y0SlNxOVozRlh2MFlRUXVBd2wzdGMwVFlwYTB2dmtQN0Y5bnBOVG45dUNXNTdiOThrWlNfZ1k?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpWRlJzVGkxeFJHUkZiR0o1VFJDb0FSaXNBaWdCTWdhUkVvek1PUVU=-w400-h224-p-df-rw",
+    "source": "Axios",
+    "datetime": "2023-10-31T07:00:00.000Z",
+    "time": "Oct 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota warns 50,000 US vehicle owners to stop driving, get immediate repairs",
+    "link": "https://news.google.com/read/CBMizwFBVV95cUxQYldGblZzeFJFb1BhSXhFOU1LN2tfbEhBSll2OEUtVlo3ZVFYdksxUDN4N28yTEhaNk9YaHg2dWt3b3lZdDFJRl9Kam10OFp1S2VQbEJrOU83eGNWOFZJM0xCZHBxV2J5Mk5LLWxvYnlKTU84aV9JRnI2dnB1cktDaXBMblZXMDZFS2MxcGdoZmRqa2xCYVpyNEo4MkFjOUgzVVBLR2dFNkUwZDk0aGlnbGtBZS1FR3gtdUhNZ1JIMU9FZTFadTlWY1RfUGlaY2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhRMFJHWkVSNFRVMW1TRkkyVFJDOEFSaU1BaWdCTWdhTnNvNHNPUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-29T08:00:00.000Z",
+    "time": "Jan 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Recalls Certain Model Year 2022-2023 Toyota Tundra and Lexus LX Vehicles",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxNOVdGTmJVcDFhQmZWSHZyRGVKNjAxT1EySjU3SjhQUXRCZW01eTNTQ1NqWVBId1RtQVEtcDJCVkwzZzVxY1dIOUlCQzFTaGdOMDBaRlgycDRFTW5LZkRSZm1HUWltQThBM0d5c1VzMDJKRVdzNkg3bWpKOXBHRnZXM2xGaFhjaUdhTlBqMGdYSFlBUXhWbmNSOHBvdjNQdUszM0FuakJjdzhzWk9W?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTNlbGxZUm1Sb2IzTklZVGxRVFJDckFSaW1BaWdCTWdZQm9KVE9PQWM=-w400-h224-p-df-rw",
+    "source": "Lexus USA Newsroom",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Was Toyota Right About Hybrids?",
+    "link": "https://news.google.com/read/CBMid0FVX3lxTE5CdXF4dmVRUHBZelZmMlVPaHVnTzFSRDBQV2Mwdi1uVXlEb2dFNnBSZVZiTGlvZUktZWtySGtOQzNaTDV3RktQS2RaOExfNzNNLXUtR0EyQnBfQzlnRkhwMGxRd3M3VmE4M2ZRNE03Nk1lQ3Rlb05Z0gF8QVVfeXFMTnVha3hzc3ZSZEctWGY2VlZCcU41QW5MWm9KVHdvcVpIbloyX0EzTlhUU1BaQmRPb1BRN1o1bDBwTnI3b0VqeTNESFlFOFB0c1FhM2NIVTBMekZCVjhYTWxIdU1seVV4aFVWb1ZyR0VqVlJrb0FKLWpISkIyLQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhVVlZMYTJKdVJtbExSbW80VFJDbkFSaXRBaWdCTWdZUjA0cXB4UVE=-w400-h224-p-df-rw",
+    "source": "CleanTechnica",
+    "datetime": "2024-05-31T07:00:00.000Z",
+    "time": "May 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota confirms $2 billion investment in Brazil by 2030",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxNZklMZTlHTVdqMjBVVGwxb1AzdUY1WXYwVExDbThmTkF1MVJRZVNOOHdCaEVMLVM0Y3U5MUhXaGt2LURVYlV1RjdGNTBiTkZmTFk1Z0hDTFViNURKdUotbDkzNml1X2xDTUF6M3M3blBRck1va2tHbUhKb2MwUkMwRVB3MEpJRzR3cUtvYzlEeURyeXdOSkpsQzJaQjVMc3pQenpkaTFuSzNFS213dlUxVlIzLWc4LWRS?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTNUMUpVUTA4eGFWQjFUa0ppVFJDckFSaW5BaWdCTWdhUllZYXJwQWc=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Troy-based Toyota plant workers launch campaign to unionize",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxPMVJSeFFKS2tWelJOMElVNUtoT0dwMUgtOW1fck9EQ01CTDR0eW1XMER4a0dCbzU4TkRsNzZuU1ZmQWlUbzVwWDRSMURjMDNSTGxnOUZKazdBT1F3d1A5NG5YSi1raGtJaWtZdVcwV1B6Yy1uRm8ySG5CZFBzRVRuOTA0WGtHM1hYbFI2eHIydDVnc2IxUUh5ZUhZd1MtVmwzam5URkFB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBjV1ZDWWpGR1kyNWZVakJaVFJEQ0FSaURBaWdCTWdhZG9wSnRPUWM=-w400-h224-p-df-rw",
+    "source": "Missouri Independent",
+    "datetime": "2024-03-06T08:00:00.000Z",
+    "time": "Mar 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Reaches Global Production of 300 Million Cars",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE85c1JzMHNvM3pwelNZWUN1dVlTUEZzWE9TX1l0VTNpZFh5cW5RUFFVZVlJck1tV3hGSEYyLUNmdWh0MzA5OWJYNmZBekxjdmcwaGNoU1pPakYwYk95QnZvS0JkMWwzQVh6?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNNVEJIWWpKdE0yRlFSa0prVFJDakFSaTJBaWdCTWdZSm9aREh2QVk=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-11-06T08:00:00.000Z",
+    "time": "Nov 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota previews expanded dedicated BEV line-up and advanced battery technologies",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxNQlFCeG5LOTVqNHBEdFRkY05NVDFqM3c2TTJPRnNKNTBKT3BRVlZzaUdLMzkzSHZ1LXRRc1ZVRGt0aDdBZHoycmxNX3NyOEs1amhjSEtDN0hZZDBEWWZjUlpxcFJqT3QxTEl5bEt4aTBoRWRDUldJRHFmR1VMbjdGYVNHM0RoU3Q3MTF4bktTRVdMQ1UzQzhqYmk0cVlGZG1hRTkxaTk1MDMtNzFL?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdaMFJ2VWpGNGRtTmpXRk0zVFJEaEFSamhBU2dCTWdZQm9KQkxQUVk=-w400-h224-p-df-rw",
+    "source": "Toyota Europe Newsroom",
+    "datetime": "2023-12-04T08:00:00.000Z",
+    "time": "Dec 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota reports record quarterly profit, boosted by a weak yen and despite a certification scandal",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxPWEdLNk55WmR3aWVMZ3ZxY0dWZW9odWhOMlB5UzB6YVpfT2ljTWs1Z0VlU1ZBLUhES3dNa2E1dFRvR3RwQ2ZaWnctZC1zcGd5eHNIT0dRNk1POE1MeGdNVzl5UEttWTBDSEtVT2RhV3A2NUpseG54cXBGOExmZEpFdTY2X3RzbmplVjk1aUdvNHVfaUd2VHc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRWM2cxT1Y5a1RIRlVUMTgwVFJDM0FSaVRBaWdCTWdZWlk1Q01LUWM=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-07-31T07:00:00.000Z",
+    "time": "Jul 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota to roll out solid-state battery EVs globally in a couple of years",
+    "link": "https://news.google.com/read/CBMi1gFBVV95cUxPcXdRdFZVeWNnbER2N2Q5OEVKM3JvN1BoUkMxN2drMmRZd0t5MlpHZVVWcGRlNjBrcDBfYjFiRE05WWNXVno1YVV1OEZKcG9vVlozU3VrUFNxUlNVN0l6Y3BTZlY3TGN2eEtQcHdVMTdqQTRRdkZCZUlEVXFjaWx6RGVsZVhWU1ctYUNWS1prMy1iMzJmMEdPVE4yY2N3Mzc1STNDTkFvaTBXeHZTb1BZQThBNDZzQWFrUUZRM3pPb0t5S2tOVUt2QU93QmNjT1pjVllScDF3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVUVEpsV1hGM2IxVnZURGxDVFJDM0FSaVRBaWdCTWdZbGhZck5zUVE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Launches All-New Crown \"Sport\" in Japan",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTE85NVlBVHBlZVZ6aUt3cXdIaHR4NHRnSnBnTTFTc2xqcVdXNUY0a0U2UVg3LUFPTnRmV2lPQ3J3SXl3VDRxQ2VmWnFoYUhmRk5RVGxTSzhDbWZ0VlloWTdQdlZGZDI?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUpUWEEyWmxKS2JGTXdhME50VFJDbEFSaXhBaWdCTWdtRm9JN3dPT2FCa1FF=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-10-06T07:00:00.000Z",
+    "time": "Oct 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota shareholders demand vote against chairman Toyoda as automaker embroiled in testing scandal",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxQZnZrbHNneVVWZXRQZjRZbUpUaUtCX3BTcUNuU24yV3V1NHF4OHAzWjM1YWphbVB1VDkwZmdyVG1tUzdYZXVZdFRvY3ZIU2dnNkhLWUEteEFYbkxfM1lzNkFXOTlqWFZrUnN0VjF4c2tFYjR1eGJCRDlBV1E2TFF3S1pjQW5Lc2tySjVrVGJPME55dWQ0N3VWUnFlUjJYREFlSzlySUJR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpXa3h2VDJkVFJEZGZWbW96VFJDX0FSaUlBaWdCTWdhWmRJNnVMUWM=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-06-15T07:00:00.000Z",
+    "time": "Jun 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Cirba Solutions Helps Toyota Expand Battery Recycling Network to Nationwide Program",
+    "link": "https://news.google.com/read/CBMi1gFBVV95cUxNTGQ3ZXBjODJnNzRodEZWQVBoMVltUWstU2pTZEZpTW40RHdtNnFVX3FFZ3dMYzRqV0RabkFLaXhUaE5KTHBEMlVXTV9ia1gxclpEVC1pUmFRVVgtbmthekdVWFJvYVlVaFkyb1dNcE4wcnFwSWtMOGtweTNOZFRmaEhFTVk5bkhaNjN6OWZtRHN2bTEtcUxpNjZUMGplalFiR2xRQ252UHdidnV6WWpIbE82UnR5SUpCRmJGU1JGVVc1U0VZQjJNbnhNTTJ0VkZwb3N0ell3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJkamRMTjA1b1ZWRlZaMUZFVFJDNEFSaVRBaWdCTWdhZElJWXV3UU0=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2023-12-07T08:00:00.000Z",
+    "time": "Dec 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Towards a Future of One-of-a-Kind Cherished Vehicles Aligned with Personal Values",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE55T1docW5NeU5seW8xX1FCQWtLdVJwTEU5MXE4Y0xhLWl6ZWNpQm5tTHoyYlc1X09SOG1wSi1jREtrMmNDZlZlV3FQc1luYW1xQmdCdXNzSUJldEtxUTN4SEFXN1UtOG9P?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXNTakZYY0VSMU0wTk9VSGRZVFJDakFSaTJBaWdCTWdrZEFvWk5HZWxyemdF=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-10-16T07:00:00.000Z",
+    "time": "Oct 16, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Hydrogen Fuel Cell Hilux project reaches demonstration phase",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxNWTRLQVl4bUZNbkplU0Z5aWpONjdFRGh0cXNRY3BfY3Y5S2FiemRidFN3a19xalFCd0NpZzZ6UDhabEdtMWxtSlN5QzdtNzhNUE93NGpNRUk0UDF6NUFfWHZvZk43NC1zZDcyRUxhc1ZHanE2TUN3TE5lYmh2eEM2WS1BcVROdkVYVnQtNFFpaVVGdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFTWHBxZEdOTVJVOTZaMjU0VFJDM0FSaVRBaWdCTWdZQnNJNW1RZ1k=-w400-h224-p-df-rw",
+    "source": "Toyota Europe Newsroom",
+    "datetime": "2024-06-07T07:00:00.000Z",
+    "time": "Jun 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "OK, Hear Me Out: The Toyota GR Corolla’s Interior Is Actually Good",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxNbVpLMEdnajRnbEstcklORF9IWTFNTlliU0FtSFpXWjZfdVZoY1RUTmJia3ZnZkF4dVlWNU1hRVNybGZ2STgxOWlJcmlrUnRYOWtJbHhZM3pPQm5nMkpMTnZjVDduVkQzU1FVZVF4bExyQXNrcUFKU2xBSW9NWWxkbjBqaEtSRDNvNXRTVHY4QUR4SWVNU2I1Tw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUZOMU5RYlZCbFIwSk1SblZIVFJDb0FSaXNBaWdCTWdZQkFwQ29KUWM=-w400-h224-p-df-rw",
+    "source": "The Drive",
+    "datetime": "2024-01-04T08:00:00.000Z",
+    "time": "Jan 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "The winning formula: Inside Toyota Gazoo Racing",
+    "link": "https://news.google.com/read/CBMiygFBVV95cUxQb0t2TzJTcXpHQWZ4NFY0Y3AwT0ptSjhvVWVjRlU1S3FvZVd6Y0RCWkdlZkpCYUhsUWpMTk1ra1RpQ3NTQnJwZ25wXzVJNEo5Q25DbFUyMHZNMWFlWldVbEk1RVJUb3M0YlV6d2J6dDRjcEZ5OG9NbXI2bDBYQVVhMDBCR2xnWFBnWHJ5VlRwQkh2bkw0aU9HYVlvSnJIZE1NeWktYzhSUGtTajlfSnpLTGRmbk1hUFVxaDdJYnRGWmRqd1pFWXJuNWl3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdZMDFEVWtsd09XSlpOVUprVFJDb0FSaXJBaWdCTWdhaFk0N01yUVU=-w400-h224-p-df-rw",
+    "source": "ExxonMobil",
+    "datetime": "2023-09-12T07:00:00.000Z",
+    "time": "Sep 12, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota recalling 100,000 big trucks and luxury SUVs due to engines stalling",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxNejJUcW5uMXVDOHI3ZFBKV2pITVFIdkFDS2JCLWJMNkRLbHBzRTZHRmloOWhWVkNzbHppNlFtZTBreExtVlpIcDdGWUt3QThEb0cyUlBwMXhTenlaT2xzWFRydEdSUm9tYVlrT0Q3c2F4WGgwVHh5N21zdzlVNEFMb1A5cWJMS3FQLWlMMHdjaDg2cDFYbEg5M3lTMnpwS3FZc3fSAZgBQVVfeXFMTlB2UGhONmZhaWdIbjNpbk92SncxbVJuTGlBWU5Xd1F0T1RjWk5LSlo5MDM4Z09nVUhZb1RLQk1GQWNnM24ta2UwdnVlOTQwRWItbzFfYkFBUVRobVJKakRJQ0dTRjVQU3pqQUplV1NrMmhmal9ucl9MUU44UGVsZ1FGQzU2MkJ2YS1YTHFqQUNBTkRsREw4Ymk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTVWMFZwZGxWQ2JYWkRjMWRyVFJDb0FSaXJBaWdCTWdNQmNCSQ=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-06-04T07:00:00.000Z",
+    "time": "Jun 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Prius Wins 2024 World Car Design of the Year",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxQa1hnNDNlVFNoWDZGcy1rNlBzLTFOc1A2MVNnVDZ2TzRYT1FNX0xlRXpudGxMZzdrZmVGSEtIdHNzcFpmc21uRGZwZmlZUDRfWDBYb3hVSVdnY2tvQ29vdGVfcHZIT3BNelFRTkNmNkdYZTVMRFQ1eGRiQVBiZnloOTk5eDZNVXB4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhSRU0wV1d4Rk5uQmFXV3hmVFJDM0FSaVRBaWdCTWdhQndwQnJRUVk=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2024-04-01T07:00:00.000Z",
+    "time": "Apr 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "We Take Our Toyota Tundra TRD Pro on the Ultimate Road Trip",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxORjF6bmlUY1FqQ1FEeVotVUJ0REtNTzFrOW0zLVNqOVRDZlNQMkEyN1lQdVl5SnhlZlRpR1dPY2dIMUdVTWxWajN4aFZJN1B5cFVNajM3c1ZONS1oQk9MM002ZXhNZGFPVWs4Ni16WlFPanVXOVZVVjVyYl96bFdQcl9fWGlERGdxWXg3MHVaYUtvYm9MOUd6am9qU0FMMEE5UHl4RlNOb2tOZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpOblZ3WVVkcmNYUnJNbTl3VFJDb0FSaXJBaWdCTWdhVk1wSkxJUWM=-w400-h224-p-df-rw",
+    "source": "MotorTrend",
+    "datetime": "2024-01-17T08:00:00.000Z",
+    "time": "Jan 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Toyota Tundra Is Quickly Replacing The Ram 1500 As The ‘Other’ Pickup",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxPd3NuY2Vad0duNGpYTkZ5THRZcnBBaTZmMG1oY1NIcmctdk1CSUJxMzljOFdFR2JCdmYzb3R3dU9VLTRxZnZRemJXeDQ4Nk1VT2xlUmlCdTlhbnhMVHBMSFlzVWF3aGVzcFVISFdoN1k2VVdOd1B1TF9pUTRtT0NhR2R5SDNtVjgzT0RyYm5tVXJxXzI0VTlSMkZQQkVxM0ZwM1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUVVRXRWVGtOaE9VRnFTemxUVFJDb0FSaXNBaWdCTWdrTkVvUUtvU2s5RFFJ=-w400-h224-p-df-rw",
+    "source": "The Autopian",
+    "datetime": "2024-07-15T07:00:00.000Z",
+    "time": "Jul 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Evolved GR Yaris Makes World Premiere | Toyota",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTFB4c2hWZG5UeGlxTFRRVTcwYmptaktfOUVCdWI4Wk5VSWFYQjk1aE9RUXh4NW9sWlNXMXM2eWdCdk54ODNvaXlDVGFjY1B5Y1puR1pPcGt0cmpvTlh6Z056LTczTUY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNhVVJyY1ZReVkyVTVaV3gzVFJDb0FSaXNBaWdCTWdZUlVaSkpKUWM=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-01-12T08:00:00.000Z",
+    "time": "Jan 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Beyond Zero: New Campaign Unifies EV Messaging Around Carbon Emission Reduction",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxPY2JmRlp0Q2hON3R4S2lpQ1FEcWJ1T0VjT0VPVHlqeHhqMS0wckM0V2pwMmtfcjVfaGp2VjlEWGVWd0NaYzlqUmRubTRJeERzTHNKb0RvQTcyai1mNUpjODV6cl9mRURhRWhyZ2pzX3dFZXp4MHpkSXN1QnVscEx4NGJfemhweWMzN2dPd2xYSmluRmRJVDVYQ2Q4MUZEUkFSQ19lV3Rwd0dRaXlp?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlaV1ZmTUZCdk0xTktWVkpzVFJDb0FSaXNBaWdCTWdhTllwSm5yZ2M=-w400-h224-p-df-rw",
+    "source": "Toyota USA Newsroom",
+    "datetime": "2023-11-09T08:00:00.000Z",
+    "time": "Nov 9, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Completes Toyota Technical Center Shimoyama Research and Development Facility for Making Ever-better Cars",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE1jdWFlcGkzTTZkNHhWV0RHRkFBRDhWRmhwaUxIQkE0VTZYSUZoRkRUTWx2WWRIUy11ZjNUVC1iUE1ZTG5CNFdtYmlJNUNZSGM0ODJpd1pqRUdEamM4TmJLTmZ6eTVFZ0VR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNUJkblpzTkhKYVlXZHRXRk5LVFJDM0FSaVRBaWdCTWdzQmNJSUVOR1FHWndxNFBB=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Woven by Toyota Announces Changes to its Board of Directors",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE5TNEZxcmQ4WDVGdkx5YkZoZFY2NW8zWkFQTVQzVUhiMV9MTnRpN1czaXpjeUtQYl83ck8xbGpmZFBNOEdJbmJBLXVHTVVEcHVXcllzczVmb3RlZHVvcTlTZXd5c0VKZ2F0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9VelZmTVVkQmVWaExWak5pVFJDNEFSaVJBaWdCTWdhcFZaRE5LUVk=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-09-07T07:00:00.000Z",
+    "time": "Sep 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota apologizes for cheating on vehicle testing and halts production of three models",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxNQVAzZkhyNjdqaU5qMEtSS2gwTEp6cGNyWlp3R3VoRXZuSnBfaFFyR3djRzFsVnZqSlRBa2tNM29tUkhnZ3VMbHJMS0NuSGVjNXp2NEUxVUdIbVUxVjUzdTVsclVUX2lUWWlSX0F6NTdLSHlnYXVsU040MmNqcF93dlZLUjBSNmItdW5oOVAzdTNpQmwwblhraXcxUDg0bF9qUk5SddIBrAFBVV95cUxNaEJQR1h3NGFacDZMR0dfMldyRHd5SXhBeG9TNGRXUHRjWFhlT2c1eHc3VDVvYlZ3eEJPaG5aNDBSRXYzTWxraVJaWXpidldWTWQ1SHo4WTUtNnlqbGtyVExmNXVqNUk3N1phaVMxdHpuSE9wVHlsN19MbXFLcVBxWnZRT21RSi1Oa3duZUVhcU5pdGtRWG1yaFk0ZUIxRTFvNWl2RWQ1WnoybGl6?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDFRMlZPU1ZsMWFGaFhMUzE1VFJDb0FSaXNBaWdCTWdtTlFvUk1LU09pMVFB=-w400-h224-p-df-rw",
+    "source": "NBC DFW",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Everyone Keeps Looking at the Toyota bZ4X",
+    "link": "https://news.google.com/read/CBMia0FVX3lxTE1yTXRLclVWT0JuajdQZk9FTE5kak9oMmRULWRQOXBob3d3NDNKZzMwaVI0RC0zOXlPeWxiY0tIa1pmYUF1UzIyaTQyeWlmWnZHNmQ5OU1WdjgxQi1DZ3hqbnI5OXp4QVdpVEU4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZURVZsZWpjNE5EbHhTMkUxVFJEaEFSamhBU2dCTWdZUmdKYU10UWM=-w400-h224-p-df-rw",
+    "source": "Road & Track",
+    "datetime": "2024-03-01T08:00:00.000Z",
+    "time": "Mar 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Named Official Vehicle of the New York Red Bulls",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxPcVpaeFltNG5BdTF0Rm5VdERPMV9fRWFYUTRfaHlkWU1MMUR0RzVFQ2FsUVVpbTNscnVrcHEzRTJHRHQ2RlBka3dkNFVFRTJrN0pRNmZHSy13WllmZXFDVTVyZVZsM1dSb0M5ZTZjVHJONTVra2YtdGNRSUpIa3IxTWh4c0NTTFVJX3A4eU95TkNfS0pmQXIw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJVa1pvWlRaSWJVTktSMGxJVFJDb0FSaXJBaWdCTWdhQkFZWUh1Z1E=-w400-h224-p-df-rw",
+    "source": "New York Red Bulls",
+    "datetime": "2024-03-08T08:00:00.000Z",
+    "time": "Mar 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Revs Up Efforts for Battery 3R to Achieve Circular Economy",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE15cnp6cWRqb0xFZ2RUQVJ0WWFzTXpfbkVhMVdJcUhaN2ItY3U3X2dVWHFzRElmU1gwenpTZDZzM1BReVJDZzVZQ0dZQkZOMkFiQjR4bGgtUGxOODlfSzBPUnpDdDRiODc0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWlNMjl5YWpjMVFtdDFVbkJWVFJESkFSajZBU2dCTWdtQlVZVE50V2JKREFJ=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-11-17T08:00:00.000Z",
+    "time": "Nov 17, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "FuelCell Energy and Toyota Motor North America Celebrate Launch of World's First 'Tri-gen' Production System at the Port of Long Beach",
+    "link": "https://news.google.com/read/CBMilgJBVV95cUxNLXpPbWozaE96YWpScGRRdVdTMGJwUFZLTDZhUzJsTm1IYmhQV0pBWFNOem1LUF9oMFVZM053M2hLeENNbnJrdzhnazZaTnNJeUl3bFVUMlFCU0xjLUkydW5uUHFmdkhsZFVJQUJWWk1oLVZCLXNraU9fRXgwSGREMWVIOEE4cDZfSzB6WTduVTZ0UXNON2s4SmktUjRQc01MYzZDR2F1UWZfV1RoM0trcHV5WVlNZE93QzZVYTlmUDhiV25BMFdOd1JONHdreGNuVnpfcmoxQjRkZXEtLUY2eXI4cnFwVHhVNWFEdGppSnVjTjRCMjcwVlJFY1Q2QmhVVGprdmNqUjA4R19uWmliMTd6N2k2UQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBSbkpyZFcxWVRVSjVSbTVFVFJDM0FSaVRBaWdCTWdZQmtJenF4UVE=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota says investment to weigh on profit after blockbuster Q4",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxPdjNnZHFtZzdZT2wtNm96bWRQZ2Z0cm5FUTAwMHYxQVotUTQxUy1uTDFWMmswZkhnNVBuMi1yZUVHemJHM2tqei1IamM3UzhnU0RZYThzWVphVE41djU5VUpVeFpZSmF6b1hWalBCaDcwdml2bVVBWk9aUXQtVDFqU29kOGliTlp1NkhOZGlTX1RjUVJJUVU1N05xNDRKcFhkTjlQQTdTeE5laXM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXlaa05hT1ZKVlJtaFhjV3hoVFJEaEFSamhBU2dCTWdrQkVJN0x1Q1hvakFF=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota urges owners of old Corolla, Matrix and RAV4 models to park them until air bags are replaced",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxQNVB4c3N6SG13aHRiNTBEdUZMZFBmRm13bzh0SElOenhTcmtCLWctWUZIZUFOLTBwN2ZGeUtPekhUcTgxeFF4MmxVOVc5ZTRCeldrWFMtWGctUHlWQnR0Q18teXROUWF2SXNicXJNb0FNOXFyWVd0MHl0U2Q4R0dhSVoyYURqdi1OUC01aVJvSnI1YzBMRW5jczR6NDU0aHM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZVVXhuU2pWcFdubHdNRk5KVFJDM0FSaVRBaWdCTWdZSmdaZ0Z0UWM=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-01-29T08:00:00.000Z",
+    "time": "Jan 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Dear wife: We need a Toyota GR86 sports car",
+    "link": "https://news.google.com/read/CBMihwFBVV95cUxNaFlpUlFoazhPaGYya010X08zMHdCT092UjJXd0JVeG9GQU4yUzJhQUV4NkJxMEoyeUY5M25FbTBRbGVfbnQ3aGRHNnFnZ3ZHRGdSTFVZdmVoWVNTdExaQmJQV3FablVsZFUtaDBlRmhnY3dDUEdXUzI2MnBlN0dEeFVmOU11bnM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNW1lR2hTZW1ZelFtaHVSbFZhVFJEQ0FSaURBaWdCTWdtUlVaS3BOZWRVS3dJ=-w400-h224-p-df-rw",
+    "source": "WTOP",
+    "datetime": "2024-04-19T07:00:00.000Z",
+    "time": "Apr 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Michigan Wins $3 Billion Investment Powering New EV Production by LGES, Toyota | Michigan Business",
+    "link": "https://news.google.com/read/CBMiwgFBVV95cUxPRE44WlNOUFhiNFdEMW9sWmU2bXpOeTRQQXByMmNIa3hxRmNZdG9GSjRzNVlzNUU2QWhDbWhCV0dKTmdRc1hxSDdleHdNTFdocUw2UFNPaUYxRWdPVDF1RUlIeEQ3eUlqd2FCaXdsQ2pJOE9yaDUwd0RYZGVCeThxM1RIQWRQR3JkQWpSbnAwVkU2bUkzaVN4U0o4d1B3TndqUzR6eFB4aTY1UHhZU1ZVN2l3d3pSUk5YYkcxczdxZ1N6dw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZkVnBhUjNONVEwTnlWRTE1VFJDM0FSaVRBaWdCTWdZQnNJaXZQUWM=-w400-h224-p-df-rw",
+    "source": "Michigan Economic Development Corporation",
+    "datetime": "2023-10-16T07:00:00.000Z",
+    "time": "Oct 16, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Mobility Foundation Sustainable Cities Challenge",
+    "link": "https://news.google.com/read/CBMiyAFBVV95cUxOX3MxVV8xZEVTUkwxelVPNjFrUXpVUVdwb2ZraS1qc1ZpNTRmYXBrZS1pZUp6S3lHdF9lallsbW1UaEdrMTN1dGxzMzdqVnNjSDA0UkR1LVI2bno1cGRDNUJiUHlxSHN1dkN5VWsxbUJGMllPdXJXQy1RemNUMW9sVWFTYXp4UTZJT1ZjdnJiWUFzbDJrOUgtQ1EzYzh4dnJmWFl1X2VTclEtVzNEMTVaNllwRmEzcTNiTk5uOC1uWTdKaTdHblg5NQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVhTbE5PTTE5MGJFUnFXV2hIVFJDb0FSaXNBaWdCTWdrWk1ZUlJtU3BrRlFF=-w400-h224-p-df-rw",
+    "source": "City of Detroit",
+    "datetime": "2024-05-29T07:00:00.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota Opens a ‘Megasite’ for EV Batteries in a Struggling N.C. Community, Fueled by Biden’s IRA",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxPYncwcHVzQUYyS1MzWVphYkJtNnh1V0pIMFR6MkxiSGxIMnY0V21hdm9MWC1Sb0FKdlJGME1tYTJJcmtZZS1mekhWNUNNazN5WGd3RHJVVG5oY1ZZTGpnX0ZTM0s3dzV4ZHhZWGZPaklJTEZ0Y2U3VmNmVDNBQjl5WjMxa2xWS2YyN0xRc0F4WQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFiRmgwWkMxTFprUTVOamRaVFJDM0FSaVRBaWdCTWdhTk00akZGZ28=-w400-h224-p-df-rw",
+    "source": "InsideClimate News",
+    "datetime": "2024-06-01T07:00:00.000Z",
+    "time": "Jun 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota to outshine rivals as more consumers opt for hybrids amid EV slowdown",
+    "link": "https://news.google.com/read/CBMizAFBVV95cUxNdWczYW04c1l0SzRnOU1SaWZoVWp6aGR6Nm53SnFxb04yUG4tRzFiQWRxRGctdnM2Rkx3N2VJcUQ2UERtd2ZrY1pQZXNNNTEzNThKU250UE1uUUxheU9RVmFqWElUQXVBVGZYZ3FlM1hCNGJaLWdSMWZpeE4zTHF6WmxfQWo4WWIyNGJDdkV2QXAydkVvcW9YWko5WVlpdWhlTkJ3M3N4Y1VWektsc1hoX3JCRUZCNHUtV1R5MThLTnZrM3h3LUxjLXFzX0w?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFPWHAxUVVwUWFUQmxia3N4VFJDNEFSaVNBaWdCTWdZZEFJaXJDUVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-02-04T08:00:00.000Z",
+    "time": "Feb 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota to make battery venture with Panasonic wholly owned subsidiary",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxOMTZCYVpBcUdJZlh5bGxaTFZuUW42bFZRMlJnU1BLYnk1bHFvZV9CbTBHZ3B3cDN0WTFXbS1FbnNOT1BKaU5MNTZLZ3k5Z21BUFBINWlmcFFOSkRxcDdZb0s4SExfYWJjS3I1a1FuUm9ybHl0Wmh6NE9MamVpLWgxRGkyS25aQXJfd3RQYS1CeHF6cFJkaGJ2ZS0yeGpyeXAxOW1pSmF3UVJXV29wc0ZTX1pMN3puNWc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZWVFJXV2tKamFVUm9XSGRJVFJDOEFSaU1BaWdCTWdZeElvcjBsQW8=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-04T08:00:00.000Z",
+    "time": "Mar 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota to Launch New Century in Japan",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTFAxZVV6R2YzbC0xRHJWMEpRWEZkLUd2OVJ6MWpIekxvalNlQUdYYnFydUt5QjB4WTBCOW5WTk1qdFJxT3NzV2hUUWhjUW44elpHSklLUGlzV2dyNTVKb3JWaDAxRmY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTFaMHh0VTNoNGQxVXpaMU5SVFJDM0FSaVRBaWdCTWdNRlVCQQ=-w400-h224-p-df-rw",
+    "source": "トヨタ自動車",
+    "datetime": "2023-09-06T07:00:00.000Z",
+    "time": "Sep 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "What to Expect at the Toyota Aqua Zone",
+    "link": "https://news.google.com/read/CBMibEFVX3lxTE1UVXBVdlh3TmFKd3NyYXFtZW5Cc3NvbktTUHBQSWxDaDFidUxPTzZLdjdKRkg4VkdwLVpQM0cyazRmbHRxSFU4ZGNQWjZYbmF0S3NLREFGVU91MmhuTDd6aG5OMHRKbVJBUEZhNQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBSWEZ6TTBOaWVGVm5OVkpoVFJDd0FSaWVBaWdCTWdZbE5ZeXRuUVk=-w400-h224-p-df-rw",
+    "source": "USA Swimming News",
+    "datetime": "2024-06-15T07:00:00.000Z",
+    "time": "Jun 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Akio Toyoda, grandson of Toyota founder, wins shareholders’ approval to stay in leadership",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxOTzd3TmVKcGhVajJsTjBhTTA2U003VFdvWFp4VF9VZUNMUTdlbDlJdHNDelhjcHdiR2ZzWmtycU83Qi1iaGZQaEV3MkxsSEN0Vm9pWmJTcVgzOTVBU3h5THNCLVVsa0JxZlhhTnZiQU0xRURQczMzQ3hUWXFLZE42MTktdnJGaDFkRkhPVkxEaWRZY1MzYzZhRU9n?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNHdORVpJVW1wQlIybFVVWE01VFJDM0FSaVRBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-06-17T07:00:00.000Z",
+    "time": "Jun 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota’s Hybrid-First Strategy Is Delivering Big Profits",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxNY1J3UG5WUFg0TUVYcW5PVFdBdVR4a01ucWc0ZzdqQnBPU0VKamVWTm5oQmdvQjBfUWpXQjM1azhEbnpHUWFvRG5wcXBaVTBtUWNGcmRKMlB1YXY3NHFma2UzalNkUnNpeHhLR2hoeXNFRWhLVkVxdTlJR3ZPM2o3MW1icHhrZTdI?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1SVVp1TUVkNE9FdGlaR1pYVFJDM0FSaVRBaWdCTWdZQllZNG92Z1U=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-03-09T08:00:00.000Z",
+    "time": "Mar 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "‘Do Not Drive’: Toyota Recalls Thousands of Vehicles Over Deadly Airbag Fears",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxOMk9va0RQTmRFLXpueG0zQnl4REtaLVNReFpkMXNVVnk4TDJndDBOcTRaOGRaTzJwc1QzQlFDZGNoS3hlQVVZOHdFd0pxd29wQXNGTUduZGVvMjRXOHZEaWtwVllZNGlRVDU3b01kU3dyYW1YbVhPUElibThPZ1B1VTZTdmFFekE5am9DTGg4LWw5c1hxTEt6ZEhIYlR2c3hmaldCTmxR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtOekZtVUU1dE9IRnBkMHRGVFJDM0FSaVRBaWdCTWdZdGdwQXZNUVk=-w400-h224-p-df-rw",
+    "source": "TIME",
+    "datetime": "2024-01-30T08:00:00.000Z",
+    "time": "Jan 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Thailand, Toyota to jointly develop domestic EV industry",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxQQ3IwWFFCOXAyMFItM0pKT3AtbWs2U040aUNNX1NoVE0wanZvNmtRUEhPRW1TTlloU1UzVTFxdVExN284cVpPZkl5dVE0M250SGdFWWx5NUFEMmJYX01uU2FzRlo4SDhrcjJPS01sYVRid1JrempFc0xUUlR3QUNSazlpWmxUUjF2b1czaE13aTY2U0hIVldoUmhoRlpubmFQTDJfTmJBalZKNmdRZGtYbjc1bUp2WFBtX0E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBORmx4ZW1aV1IwZEtiMnhzVFJDekFSaVpBaWdCTWdhTjE0Qm14Z0U=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-11-09T08:00:00.000Z",
+    "time": "Nov 9, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Family of Toyota employee killed on job speaks out",
+    "link": "https://news.google.com/read/CBMigwFBVV95cUxQcmlJVDhCbmFxem93Z3Jyclg0SVFNVERmQklHakM1SHhobjJwbXdfdzNXWDJkYjVwTmlmWS1PbnYyTXJSZS13Wk9HM2lCV1dxMDNoUU90NkRlQTFNbUtQSEdUNUdPTnhyRnRRR2F6U05ZZ2gzNVRqMm1DTEpqdVZlVkMwNNIBlwFBVV95cUxONlV4QVptTzBlUU90N0wta1dEbVpZcG1CZWdJVHVGWTZESXBHeWdUbnNwODB5RDFyeDh1WW5uV21RSVBfSUVFNWxHYlFjd3dIUEFWTzZzYkNjUGdfRlo1S21yanh3bGFwZW1naXI0OHZydFJnUXFvVWdfUW8zT05YUk95V1RqWWJTWG9yUG9fODB3bHJxRVl3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJNWFZRVEVoTWRUWldaVWQ2VFJDZkFSaS1BaWdCTWdZQmtJaTJ0QVk=-w400-h224-p-df-rw",
+    "source": "WKYT",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "2023 Toyota Tundra TRD Pro Yearlong Review Verdict: Did We Dig Toyota's Bro-iest Truck?",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxNa3BBR2NEWElUcjMxTUdBYkJQa0xMS3dPMVRYRGdwUXZubWpYUDIxRzdLZ25PbUNnZHFTblJDai1ocmpUTGhaWmNOamltdHZrS3F4a3hOSzZZTXp1NkJOTkJrYkd5TllNREVaS3VtWVRhbU9fQTVtN2R6aU9hV3BidUJ3blk3SDB1ckdfYlZZVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJUalZUTUZCU1dYWmhWSGs0VFJDb0FSaXJBaWdCTWdhTlU1U3JyUVk=-w400-h224-p-df-rw",
+    "source": "MotorTrend",
+    "datetime": "2024-06-21T07:00:00.000Z",
+    "time": "Jun 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Japan banks to begin divesting their strategic Toyota shareholdings, Bloomberg reports",
+    "link": "https://news.google.com/read/CBMiuwFBVV95cUxNWlNTa3Y5bDlVcnNMM0xndzFlRWJyZWVjOTJicUQwdHdSaWZzamdOcmhsY1ZnMmt0RXR0X0hfSms2dWx5aTV5cVJYVVpJems3TGEyWlFVQUJmck1BQjlRVkk3SW54aXBzTXFZb0lSelN3Wk92TjItRnFMclprdklHR2E2QkVNeVRaNkZ1VmdXd014MzIwb01mM3hEZVNVUUdPaU1jUDJKRU9VdVlBck9QaFBqOHdLUGJibnM4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhPV1J3UVUweVFWZ3RjM1IyVFJDekFSaWFBaWdCTWdZQm1JU0Z3Z00=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-06T07:00:00.000Z",
+    "time": "Jun 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "TOYOTA GAZOO Racing announces the outline of TGR GT Cup 2024 | e-Motorsports",
+    "link": "https://news.google.com/read/CBMic0FVX3lxTE00MlBLYlRTTG9EdFZJejJXNlNOb1lTdTFucXV5RzBiSWxCSGNjeFQ0bmliOHZUQWZYZnUxT2xjYkVPN0VSQmJJOTdzUFZwWW9wRHJ2R1RicExldUluLWJ2MkFXNXh5V2p6YnM0bkN1eXFuTVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFUVUZNVjFaTVZHZEtNRGd4VFJDb0FSaXNBaWdCTWdZZEU0eU1sUW8=-w400-h224-p-df-rw",
+    "source": "TOYOTA GAZOO Racing",
+    "datetime": "2024-04-10T07:00:00.000Z",
+    "time": "Apr 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "“The Right Thing to Do”: Toyota Provides Overnight Child Care",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxQaEphZ2RERmlEekYzNGtzdHlHcEd3VVNEbzFaX0dnVTVxYlZhQ0RiaVM1R0ZWNjNBTzdTR3RtZkNJamF4OVJRTXZjaVA5aEd4VWpPRHRzZWlNMnpCLXpzeXd4eVBta2ZTdzMteTVXOXgwQXB2d1JjMy02NkN4OXhJWV9vSmxQeUVi?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVRbXRaYlcweU5VeHVUVmRUVFJDb0FSaXNBaWdCTWdZQklZb1BxUVk=-w400-h224-p-df-rw",
+    "source": "NAM",
+    "datetime": "2023-10-14T09:43:18.000Z",
+    "time": "Oct 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Japanese authorities inspect Toyota HQ over certification irregularities",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxNYzc1eXBlZ0IxbGR5WDUxc3V4WUdXMUh6eWQ3Tks5LTFFNU9SM1BoVmlBYzF6ZUxqREIwYldDMkNaT05xT3pwSFRVeEliZDB5MHhobnV3THk3Si1NSGM2VnFtX0FaTzE1cERmdmoxd3o5ZHpDdGdNMDhqbm43dFd6MUJyOFFvY015bDZ0RmlvS1NwdV8zdW9fSFVLUkFJZ0UwdS03dVp0UVF3V3pIU3lqUlNsdFd5Q3h6Qy1SSkR5Mzg5VkhFbEw1SGxMVGZfZm5ycl9Ndg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdTMEZXZUd0VFdVOW1OMDVCVFJDM0FSaVRBaWdCTWdZSndJQ3h5QUk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-04T07:00:00.000Z",
+    "time": "Jun 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toyota hikes annual profit forecast after Q3 beats expectations",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxNdVZHRzhvWDlUTkY4ZkpKLWVlYjVmczFoamhRYWNhN05SbHFvTUdiM1lneVJXSUZnQlgzdERPdEJ0UUFETEVEbVJsT0VHdndQNGVjakhNdl94SEIzMVZxOGZJYXRWUDItZGtPZlM4ejNqd2FfUnNqdkQ3ZzN4d3lrdlhCVTh6YnMwbURYdzdXTndzTVRKWHZ0SHpTZVVsSEhQSFZSUlBELUhxUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXdiM1Z3YW5WWVdHRkZiVVJ0VFJDMEFSaVlBaWdCTWdtUlVaTEpNZWRFU1FJ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-02-06T08:00:00.000Z",
+    "time": "Feb 6",
+    "articleType": "regular"
+  }
+]

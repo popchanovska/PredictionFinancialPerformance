@@ -1,0 +1,902 @@
+[
+  {
+    "title": "Samsung Adds Foldables and Home Entertainment Products to Self-Repair Program",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxQejZTWnFNbWJxVHYtcEk3SG9CdjNLdVZXeEc0ZXlpRVkzMy1lOFUyUXNQYXRwUFMtTHM4QTYtOGNHLTBjbi12ZkY3bjBkaEFIb1lTZWd5RW02aGk2R0dnVnJCMllQRElNaVVQZlh6cVlucDM2cWFOTklrcmRWcjU3VzhlY09uY056MS1uMy11QVNCb2NtWWwteUlOdDFFZ2Z1c1N3SUk1T3BGdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNUbUYyZGpseE1qQTVMV3BCVFJDeUFSaU1BaWdCTWdhSlFZNEpQZ1k=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-23T08:00:00.000Z",
+    "time": "Jan 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "[Editorial] Solving the Digital Health Dilemma: Samsung’s Vision for an Intelligent Health Platform",
+    "link": "https://news.google.com/read/CBMixgFBVV95cUxQMWxZLTVvQ0xsek1mYmxjYzEtZ21yZkNsOU1NZmtOQW5TTnozekFUQlhTSGRjZDlIQU1felJxU3Q4Zm9pZWIzMjN6dE9HSlA1QUxjZ2RET3A1TkJ1QXp5aHhKaHhpWDdtRXFlcm5FenVmTFdDTXAwbmxqOHN6andER0lDUlVzT3FEczFyajVDMUNFYkZBM2ZNS0h3X3Y2bjI4RDZYdFhKSV8ySUsyRlZGSDZRYkJDRWhvWnk4OUVpU0d2TFlyQ1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFaRlZVTFdKT1gxZElkMk5NVFJDM0FSaVRBaWdCTWdZNU5KSnhuUWs=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-02-26T08:00:00.000Z",
+    "time": "Feb 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung AI Forum 2023 Day 2: Discussing Technological Trends and the Future of Generative AI",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxPU3gwX3dCMThJaFlRVnNEYWNQVm51UVk0NGJEdFZ4dzF3bzRBYXVUUktKQ0pERUdiVDVwdXp5Ym5SdndXMXlFQjdpVkE0OVJBU2plYjZpejJpdzZ4WEZvYllHYUhqWVJZQjZYamlPb2llbkhHRDZydm9Fa0N0QWFtZFVMam5ybldPeGF1R3R2RDlGOU5CemozZkM0NV90TkZiN1IyNFJENWE4QlJ5VnJ0N3VUUm00OHZTcjdWT0duNHM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFSbE55UldWNmVETmxhMnBZVFJDb0FSaXNBaWdCTWdhQllKS0RKZ2c=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-11-08T08:00:00.000Z",
+    "time": "Nov 8, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Adds More Devices to Its Self-Repair Program, Including Foldables for the First Time",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxOWDAxaTdBcGNESmdRZlRzYnh3eFEwbFB3YVllRUd0RlFhOU9mYUpDU3ppRklfWmY5U2x4a0o3MVFlU016Q3Z3SnNudW1uOS1BSmc1ZnR2VXJDRVNCenJqbi1NMGdwMEt4MUVqVUtRU0oteFRCWi0xSG5ubmFNc2ZlUFFXWHU2VGo2WDA3aVZCejc2THRwN1VEZHNXVnREY2ZZYk9pdk1zbEFaTnI3MkNGbVJzX2NTdzZDMDBhNGtKRVk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUpPWEpmVG1kU2MybGpjRkZUVFJDM0FSaVRBaWdCTWdtQk1ZNEpQcVpNU2dJ=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-12-19T08:00:00.000Z",
+    "time": "Dec 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Develops Industry’s Fastest 10.7Gbps LPDDR5X DRAM, Optimized for AI Applications",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxOZlBpN1ZaTi1ONGQxLWNERWFwemRWRXJ1QkVHTXNwTnQ4cFJmSHh5Y3A3anFNVlhMYkw5Nm5pVS1rRkpONGI0SDZZLW1wYTBzUjhrREpoVnlaYTJRcV9DTnpjSWxnRmxSQ3BiOE9EQnE3Y2lZQVFFMmVvWDA0cDhkMHFIdmZ2S2tKVzd1cXAxTmdBb1RLRzc3dGM3UEZPWllwTnNOMnRSdEVuM1VBQm50VE43Z2Z3cFVQaHc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBjMWRsZEZwTVQwdEtTRWhNVFJDZEFSakNBaWdCTWdZTmdKYUdNZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-04-17T07:00:00.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung’s New microSD Cards Bring High Performance and Capacity for the New Era in Mobile Computing and On-Device AI",
+    "link": "https://news.google.com/read/CBMi4AFBVV95cUxORUE2RGpNU3RUM241MHBFcUJ0Nk1ocTV1b0RzTDRLZENZUlo4UklaNVdhSHZNckZwdXJSTHlWZjNfby1kVXk5LW5TTjlNcm9YaGIwN21iZmJ0ZUgzWTdCMkpVMG5xc2FzR2RjUm1YOEdxdVQwbV9HeF81cUkxX3NTQTdoNk1CNzY5OTdrNElKZlZXclVjREh2TTBRUWhlNnhWWWxfZV9oTllJQjUtWFJfUW5zbUUxNVdabk5WZk1fa3Q1U2ROSjlQSmFJUXZ5LUNrLWJxSU1PNWZUTnMwZEdNVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9ZelpxTjBjM1IwTlJlbmMyVFJDWUFSak1BaWdCTWdZTmNwYUhOUWc=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-02-28T08:00:00.000Z",
+    "time": "Feb 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "One UI 6.1 Brings Galaxy AI From S24 Series to Even More Galaxy Devices",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxOYk44emRLOWg3eTlkV3pUZ0hQbEZBckt3NlFYclY2M2RxbENjUHJsbDAtMlVWM210Ymxnd0x4Nk56TnB5TW5kYkhERHczRms4ZTMwWkhuSi0yTFVhaXFmc2ROd0h1SkRPTlNwVFhidnBTQnc5QVlOdUtYWHhFb2Y3VmpQZzFndHktdVB3b3VfR2I1U2NYNzJYMlZUYVNpOFVzNlhNZU53?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdZMVpXT1hkYVJHRTJNSE16VFJDb0FSaXJBaWdCTWdZbGxaS3N0UVk=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Announces Global Launch of Samsung Food, an AI-Powered, Personalized Food and Recipe Service",
+    "link": "https://news.google.com/read/CBMiygFBVV95cUxOejczcnUzcXRLWjYwQlZiWDFXdF9xWnN3NmpTYXNkMVFxLVdGaGcySURkVjRoOGtKaUk4aXRsWEI2RDFCNXp0a2JOQzFwaGIta1B3ZVk4VWlIZDdYRUhpazZHN0ZhcHQyTnZ2RVpSVi1xQUFYRHA5cm1hN00xcHQ1TlpLRENVaUU1Q1lMVGR4aXJDc1czMnd3QXZxak41ZHdlZjU1VU5GX1BObURlOFVtT2t5WHRFWnpZSUM4T3VncEdrNXNTV1ltZmRR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUtZMGQxWTFCYVdGRk1SVGhXVFJDb0FSaXJBaWdCTWdrQk1veGxQaVdxYUFJ=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-08-30T07:00:00.000Z",
+    "time": "Aug 30, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung’s Expanded Wearables Portfolio Unlocks Intelligent Health Experiences for All",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxNWlV2djNPNjNMMmhOZ1RxSEdOdnZzdE9QTHVrY2VaUHJ1NWZzQ2FwR05QSExvTG1FM3NpTk83TUZONEF2NUxLZ2VJNXFNbnhBN1lvZk1mbmdyTGMwckZCTWp6cmlHZGNNNG9uLWhpUGpiWGJPV0NkLVRmMFM5V1FScmlJc2tpemdyYnI3MmFCYllpbXdyUXViM25SYXRJRzlZbUFpc2R2dGE2aXJPYXV3Y0ktMHFYa0U?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNDJla2R0ZDNCNlFtWllaWFJTVFJESkFSajdBU2dCTWdB=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Experience Immersive, Intelligent Sound With Galaxy Buds Series’ Latest Updates",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxPNlhlZ1hFQ01PU29zQ1FZeWZqQmxIV0o0U216S3NpeHJtTE9OeER2RldpUkFDc0xqeEJfYXNabndRUTF4RlVlOEV1Qi1NdmsyeTcxSDBNWmg2Qi1RSGxuV1JjMmxTWERIRFY3Zk1YNHc0ZndsUXo3TDN5VTN1UUw3SzM3c0ZzYzRkNEQ5dFZRblZqbE9hcy0xQm9pYURMUnlJR2dqMExMNmVNc1F0OXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdUazFST1hCQ1QybEtkMlE1VFJDM0FSaVRBaWdCTWdhTk1ZcjBtQWs=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-02-20T08:00:00.000Z",
+    "time": "Feb 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Begins Industry’s First Mass Production of 9th-Gen V-NAND",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxNZXh0RmtvV3JPdG9RRUtIMVdnMUhCcGtzNWYzM3RfZmV6a1B6ZEpjZElHSE1xRy15cjJ5WnBfRURYMk1hekJJbU1DUDhXT3M1eG40Rmx3LXNfZTFRQUtRTmdGQTIwbkNMTlg2cllvSE1fUnBSd0xvYmozZmtaVFJfMmRlU1ZmMGI4UGxTWmpHbzhXMzRsb1Bqa1hzbHlNWU9UOTRRVGVuTjg4aEFY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFUMk40VFhWelkwbENRMll5VFJDOEFSaU1BaWdCTWdZWm81SnFQUWM=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Globally Rolls Out Temporary Cloud Backup",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxOUlZuQVpIRlBldmw5aDZWUVFvLTg0XzUwY0ZFN2NFQUVaZ2k4ZTFpdjNKZmJaVE1UMFZYd3R1ZWxTS2g0QXRMcnN1UzZ5SXh1RXhJUm14YjIwdHhNX2JCQ3dVWG1SSlRSSHgxdzYxa0wyc1pndVlxTWJ6R3h6THJwS3RTdzRQQkdWRFRzSFYxNEFwSDNsSWduVA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWxRMjlOYWxaeVNuSmhZVU41VFJDM0FSaVRBaWdCTWdPQllSSQ=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-10-26T07:00:00.000Z",
+    "time": "Oct 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Presents Galaxy AI Vision at MWC 2024 With Latest Products and Services",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxPOUY4aERLdmMzY1JKN2lQNkp6RS04T2JCa2ZXS1hDS2cxYm1adFdodnR4cU0yRXNFNkF3d2hHUmlpLURNUHdvbFEtSFhxZVp2RkV1QUoxZ0Y5YXBRa1VEc2EyaFhvN1BLU0dmV3dtcU1vRnROTU1RZERXVmRFeWxuZGRUNkxrMVFXVmtLLXRSU0FLLWNhSFlrTGlIYTU3SWdPTXZQTVFnRENwT0lRbFpCbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFXblZXYVdVMGVtdElhVkJYVFJDM0FSaVRBaWdCTWdhTnNvNVF3UVU=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-02-25T08:00:00.000Z",
+    "time": "Feb 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "First Galaxy Watch FE Empowers Even More Users With Samsung’s Advanced Health Monitoring Technology",
+    "link": "https://news.google.com/read/CBMiygFBVV95cUxNYWRqT2wwWlFnMzN2dzlDYjJNNU96VklrTjN4ZG5WYUtoTW9wMWJESWNwQ2xSQkV2ZkhwLWNvMVpzYmY4WTJGM3UwemJtSkg1TDRmUDZBQldKSks2aTN4VlY0alZyMEJZV0NWNGdmcmR3RDNrOTE5UU5kVi1lYWJCMmtNRTR1RnVramdiZkE5OVpnSEVFU1pjN0RSNHA4Q01FMktydGJodTMySXJ2N1E5SFByMUJXN0hJYUczal93YU5CRnI0NUwxcWNB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDVSSGRqZEcxa1NVNVVRemM0VFJDOUFSaUxBaWdCTWdrUllZNnVKZWd0VVFF=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Enhances Hotel Stays With Apple AirPlay on Hospitality TVs",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxQUmtsVHlwLUNuUUFCZUFEUFRJc3dvdXlBUEtUOXpRTHRUcjh3YTctNmFpYkN6OUEzVDhaeE1MWmJPbFhYODVKX1ZZLVV4ZjIwM1pjbG9sNkwyaW85bXk0WWhZLW9BMUpHcm5hZlVBQml5TjBHSHFBVF9KTEcxTXBJVFF0Uy1xbmg2dFJncXh2YTVrak5tVzVOcnZGQ2FpRDg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFTbHBaVlMxdVdHUktNR2RxVFJEQ0FSaURBaWdCTWdhWmdJNnVPQVk=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-25T07:00:00.000Z",
+    "time": "Jun 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Millions Have Tried Galaxy AI, Now it’s Available to Even More Users",
+    "link": "https://news.google.com/read/CBMioAFBVV95cUxOcWNlR1NJc3VLNVZkRFlvLW5vRzJnb016T2xLQ0ZibGFIOThUYmF3emJQRUFTQk12R08tbTR6eEVmdFA0Tm5SS0FXLUxYZllzaTNtaF9sWEFpNDJkZTVJWFZPVVdZV0lvdjRPem9UTTRRamNTUVlIQmdNS3ZEblFmdjZyb053VlJKSVZpNFRldUZseGtKM3pzdXMxSW1EVHZF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5VbFJzYW0xT09TMXRlamhwVFJDM0FSaVVBaWdCTWdhWkk0ckxRUVU=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-03-26T07:00:00.000Z",
+    "time": "Mar 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Invites Fans Around the World to Galaxy Experience Spaces, Showcasing the Next Chapter of Galaxy AI",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxPX1ZpOUxLaXp6QlpmZldvRktRVTBGUWtVdVBwaXl3bHZCTzI2a1lrZzRTZEktVHpPZ2VfX3g5VWJjTHU3S09aT0lFbDdPLXoxazIzRy1ucjdOUHB2Q1NOQVZQRnhEVC1VdHZMM0d3R01uQTJ5Q0lFYjhyTnFwUzZvNExEdUNNSWMwQkc2UFF5Vi1JUVBERkVYekstMThNTk56WmxfZ1lXNkVsTER3UHBWTnFlT3hMeU5wckxqd0VuWUhoem0zU2lYa3htUExreHZLVG5Ubw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVNVEZyWWpoWE1FRjVNRGh4VFJDb0FSaXNBaWdCTWdZUmtwVHd0QVk=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-07-03T07:00:00.000Z",
+    "time": "Jul 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing the Galaxy XCover7 & Galaxy Tab Active5: The Perfect Blend of Durability, Work Continuity and Productivity for Today’s Enterprises",
+    "link": "https://news.google.com/read/CBMi_gFBVV95cUxPb21QaDdNemtPSUREUm5wRmMyUklwMmp6RFFaWmFPTUtpWjRZZ3JUR3V5dF8taGpYcmt2RXR1ZUxiTldPVGlkMXdrT1dCRWtkUW1uVm1EWEVlRUNUMTZHWlNjQTYtcG0wUVh4TndyY3JjdHBaTk1VaHFmbnlFcHFHOEM2TFJLd1JWNUFQUEJ1Nzh4ZUN1OWV0SWdObmlEZnBqWnNrbTBnNXY4U3daZ193OFhWcnhLYjg3dEdWWjQ2TUVxeXFSSGVEZWVrS2pjQ2RxUVN2UXhIdklIREtZcFg2dDNDT2t3VmxKOVFaVjNVV2hVVmFRa3pORVJ1cHBaQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBiMnRKVkhSdlRFaERPVFUwVFJDOUFSaUxBaWdCTWdhZEk0ek1sUVE=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-10T08:00:00.000Z",
+    "time": "Jan 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Showcases Groundbreaking Logic Innovations at System LSI Tech Day 2023",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxNdVFZSzNabG9abmRkQzlRM0pDUGFfNWlVNUJ6dXZLTFZFNEYwcVJ1UXdiYVdtZG8yYzBiZ1dEUVBRTEk3ODRWUzZfOFk5YS1TWjItNGFBOFMtWTRHdW9uVHAtTXVJbmNScWpVcXVWMG9MZlMzQ2hKekxQd1UtNlM3MXhWcXd4WnprTVhWRXlteDFJNTh6SmN6QTJ3dVRRM1hzN2dDYzl3NXN0NzUycmQ4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXJSR052U1hrNWRXdG9ORVZhVFJDb0FSaXJBaWdCTWdrRkVZcUVrdXMxcFFJ=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-06T07:00:00.000Z",
+    "time": "Oct 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "[Editorial] Human-Centric, Hybrid AI Opens Up New Possibilities",
+    "link": "https://news.google.com/read/CBMiigFBVV95cUxORVpfSU8ycWJrQTVLRVRNckZ1QzhZaThNaVNuVl84M0tNdmMzNmlyOTFSMUViM3E2U1F3NlRsVkVHLTRaYVotQUFkd1E5MVJpSXFpOU9NV0tXdEhVcXBIY0FsQVRMSTducElMdXZSNERUWE9WLUdSRlJqQzNkeUx6QzBRQ3o3bzhHemc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpkRVJCV1RCTVFWTnBOM0pZVFJDM0FSaVRBaWdCTWdhTlU1eW5uZ2s=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-07T07:00:00.000Z",
+    "time": "Jun 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "One UI 6 Update: 7 Tips for Making the Most of AI Camera on your Galaxy",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxOV1l1VHhiUGNhZFMwTEVXbVFSVVJWU2YyOVVRSmFKQVZPY2xaQzBBeVJDaWQzQWRqQmZsTDkxeG1SWWJCa3hMcGNTZXZKV3JSN09WbnEzR2RlbWo1WDlVVUFZR0t5SFFRdVNOdWMxam51ekpYb0FQV1E2b01UQXdJV05mbHFDT05FVkpFNWN0M3hYdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJjbkE1Y1RScWFsOTNkVm90VFJDM0FSaVRBaWdCTWdZRllKQ2tLUWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-30T07:00:00.000Z",
+    "time": "Oct 30, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Galaxy AI Now Supports More Languages with Latest Update",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxNYkVnZmxaMVVrTXZBT3pNd1Vxa0NpSTRyckVXWUEwX1c2ajRjT2M5ZFRQTFpxeWtoT2R6dU9XT3otWHd0RVNuZTRpOTU5cE94bmNZRUZib1hnZktSOW95RFpTU0hacVZqcjN3TkZVSmNfaDZjdUtjRnNEclRLQjhRRU5VeWVlekJnR2F6VUpqREVoZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNURSVWMxUm04M2JHNDRaV2hrVFJDM0FSaVRBaWdCTWdrUk1vUUxQV1JjaVFJ=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-04-10T13:01:52.000Z",
+    "time": "Apr 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy Z Fold6 and Z Flip6 Elevate Galaxy AI to New Heights",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxPelIwUnd5dzd2aWx1eG44YmtJaWdmbzRHRVNtUWdIaXB3SzUyalhBQUhfZDZuNEhDVUZMOE9aVF9jam1KTU9CVTRkeF8wUFktcnQ5NWw2emFqb3lLcjVubWk3Wjh5bFpMMDVVdXhpQm9XalBkWi15RHVSdkw4LUJqV0dKZkEtZEE3cWxWN0REUW1mV2g0NnN5OW13LU8zUEhYY0JF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHhaa3RQTjNCTGFWVnZWMkZQVFJDM0FSaVRBaWdCTWdrZEVveXNFZXVDc0FF=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Enter the New Era of Mobile AI With Samsung Galaxy S24 Series",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxPUV85ZUVCSXNJbjgwYk9hX0FTVGMwTTBGUkExcFNuZGlRY0M5UVZubjI5SDN4ZVlxTWEza05qNGxMVENtN21xWnFIUzNkWVZNazNOLTdXeUFOSDVZRkxzZVVldnZRTW9YSHRFYUxTNGg5VGNwNTZORkFiVks4bVVTRG9DY2llZnNISlRCUXUxdG9ERUNuWUdwOA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZWVmxhY1dkaE4zRk9abTVuVFJDM0FSaVRBaWdCTWdZRjBZZ254Z1E=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Galaxy AI Is Coming to New Galaxy Watch for More Motivational Health",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxQZFNqcE5yTmZtaEJZZWJ3dENZWFkzek0tOTJTSWZ4aHBUakVMbWtBbUxPdmJwakgwV2RNWGNmaEowSXZOa0JhQW5HXzE0ZlFkMGZuTFV4cy1LeG5lUWhtR2hadEx3TXZZSGE0OWFGN0xlVldwNmVzNnZTV0VHblZyTDRuS2JOTlktN1pMTzZmUkhRZU9XMjVRbUh5YWo1aUE5TkE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTNNVzFoY2pWT09XSXlZV3MzVFJDM0FSaVRBaWdCTWdrZFE0cFNuZWlLY0FF=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-05-29T07:00:00.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Unveils Galaxy Z Flip5 Retro To Celebrate a Legacy of Innovation",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxQdEdBM1cwQm5yNndHLTRrRDJINklSS1I2VVVLRExTeFJKY1JNZ0xIYmlJZHdKdzY4NlZPOHotUkNwTS1hNTFHQWxqWjJkWnRKcWtTMHkwcVRqbURzZ3hFdUVpY3ZFZER4SlVmRXRIT0VvanRTOWp4RUpQMzlvQUpxZXE2bV8wS2pSb0FUUWwzbEc2LXY4YUlQNVlLZGd1WDBvUEF4OWhLWlc3WjFTNVNxTnVLTGJoUUU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRRblZGTTNOelRVaG1XV0pRVFJDb0FSaXJBaWdCTWdZbGhKQ05NUWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-30T07:00:00.000Z",
+    "time": "Oct 30, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Unveils Versatile Image Sensors for Superior Smartphone Photography",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxNQVVkODdKUGE0MERVeHVFcG5fUHRranRZd3l1Q2ljMlRMTHBDQkg1X1VLV3MtXzhoZE9YdHlEWkRlbzVIWWZONDJxaGhlU01nNU10NjRJZkM3N2U4Yzl2Y1VFNTBTek1Mc3Q2WExDX2E5ek9DTHJrMmFrcW9uNE5pc3RObjVoODJ5VzM0eVROUlVRMWpoWkJ4MjJubWhHWFQ4b0ExMEhHdUJvWVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlNMGRuYldoM1lrRndiV2RoVFJEaEFSamhBU2dCTWdZQm9KQUV1d2M=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Announces Collaboration With Tesla at CES 2024 for SmartThings Energy",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxOX1ZSMWsxaUE5MzkwcVNTcnMweElIOFlTeWNBS2JYVXJRRW9mZlZrVEQtYkJocFZMX3hJSEIya2ZueFFEclZKZXpjeHpvYVNqZ2otT1ZZNWxRYk1RQVdYNEZOWjZYZUs5VlhTZmx4ZDM0emUxWEpXUTR1eWlJN3VjMXFkcTRzVm56bnFBU2FFQ25sYk1TOURfWFR5THd1X09ySFltYVoyUXZXTnpMQWc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpUWGxaWTNwS1VFRm9ZMW8xVFJDM0FSaVRBaWdCTWdhRmNaRGtuZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-05T08:00:00.000Z",
+    "time": "Jan 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Completes Validation of Industry’s Fastest LPDDR5X for Use With MediaTek’s Flagship Mobile Platform",
+    "link": "https://news.google.com/read/CBMi0wFBVV95cUxPUmZwZ19kcWlWTXliRWVPWHBWYWVYVlZrbnhTalJCQ0NlXzdjNk5FZ0tIOEZIenlXNTVPX3ZSODgxeGZPRmNBSEs1Y1VIVVRLYXM4Vm1OeDc3TjhkeS12Q1lxMnR5TkVTZWhnTnBWaGZpdnk2MExEaE53bnhoVVJLZ3NTYm14a3VTSDE2emQ0eEdPTlF1MTBfZGw2aWVXSFlIZ1FpTHdwZ1R2V0p2bV9Oa1Z6OFJQaFNvT2JnS2lhZVRpWEtNd3RpUVRNT3A2akx1aTI4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1ZMDk0WHkxb1YwbzVTVU4xVFJDb0FSaXJBaWdCTWdZSm9wUUd1UVk=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-07-16T07:00:00.000Z",
+    "time": "Jul 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy A55 5G and Galaxy A35 5G: Awesome Innovations and Security Engineered for Everyone",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxQMm0tbnlYeXdmZ1BkdW1ReTVPM25RVVlYSUZCYW1icUNmX3A3cVBCSlo5STFYSDBheGs1X2plN2ZycDlHckJvSld4U0lGY1JEeDBRWDRZSUtLRG1uQy1zZG9ON2F3Rnd6RWdIYmdJOS1CVl9NRXc3ZDhIT1hJODI3YWFPS3B5QjdvTHB3M0hsRHZXLVRwd21mN3VXUkJ0aURud2lsWmlHa2VoaV9hNnVXOWRzLTdIWjV3NkthTDFiUW8wWjNlWXJ3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJWWGxEYUVjM1pIZzRia1F6VFJDM0FSaVRBaWdCTWdZaEpJNlBuUWc=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-03-11T07:00:00.000Z",
+    "time": "Mar 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung’s Sleep Apnea Feature on Galaxy Watch First of Its Kind Authorized by US FDA",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxQUzhacUg0ZlhlbnNlc2NNb0hvY3czMHB2TC1UVTJQR0kzVkhlRzBuVU1XMVgwTmdTb2ptbmJBalhqTXI2X1IwLUVRVUFJZlNKMVNQQWVFUENqNXNpVHFGZzhqUjFwelVVQmFfRXZ2S1ZFWHV2XzhQakI2bTNhSlJvQXVJR0gyWTJCdEc4aFVsdjl2TkhtelhONkhEVE1qaGc2aU5jcGJYTFVKRGtjajBxX01R?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVdNREUwVGtOUFJIRk5TMnhQVFJDM0FSaVRBaWdCTWdZMUlJNU91QVU=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-02-10T08:00:00.000Z",
+    "time": "Feb 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Showcases SmartThings Pro and Next-Gen Display Technologies at InfoComm 2024",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxObUZEV2tnbE16RFZOamJIX2c5RzE3ZWF5Z2x4NEptUm9PV2hoVHpDZXFpZGUwU0dhYm9Fa3NvbENOZFRuUjlmSldhSjdzbGZrUVlrS004X0kxUjJJTE1TRnBuQUNfN1JDdld3eHJGWDJEM1ZZLUczQWVSYmYxb2J2U2ZxT0xiZnRHamd2THQyWVIxLUJ6WXp2MVVsb25fakE2ZTA0RUs1SmR5VjVPS2NhQW1fV3JvUjlkR2JQRmxvODl6ejY5dEhz?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURkWEJYZFV0dmFuRkxaR1l4VFJDb0FSaXNBaWdCTWdZRm9ZalZPQVk=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing New Samsung Galaxy SmartTag2: Smarter Ways To Keep Track of Valuables",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxPeUVPcVpFUVRIMzhidnJrTkREaTV1SElmQ2hYSGZCMGttTjZ4cVNmbzlHUTI3ancwMkxQZXBMZnpfdl94Z1dMMmpGVTB4ZFFZSzJlZlJpc0E1ejhxMG96RDNuVmNYeC1sMlRPM0JhOE5BcUppeWdMMEFUNTc1NGVPX0dUeWxUVHZsTGJfQllZa01ITndUbEtUQTBJZ1JROW9LOUlOUEcyakwtTnFNdVc3T3NR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxZM3AzVDJVdGJsbEpNRWd6VFJDb0FSaXJBaWdCTWdZSllJVE5WUUk=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-10-05T07:00:00.000Z",
+    "time": "Oct 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Galaxy Unpacked July 2024: Galaxy AI Is Here",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxQbS12aVhtUnEyZDFKMWprMW45NGctcDc0SnlDSVlMbDhPZjNrSm1oSDc3SkZDZlN5RlZ5RHdDNFJHSXVLVm5pcGpXXzA1ZG8tVUpWUmhaZUlDVWxBMUtVZ2t1Rm9abGFIeC1USWV0cFU0RkJ1Sjh6ckQzZlpBRW1kSEMyZ1hnLVZJLURzRUNDTDRZeE9UQTM1bWktSFdUbFNST1hvendLYUxUdWd2UEE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJjMEpYWVc1dlpsZHdPREZMVFJDOEFSaU5BaWdCTWdhaGhJS05YUUk=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-06-25T23:05:14.000Z",
+    "time": "Jun 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Announces Galaxy S24 Series Update, Offering Galaxy Users More Choices",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxNVFJ3RGNPV3k3RHZINDR2MzA3Q3ROQW5XZUFQblpFWUMyQTJCOFpGWm4tdzJtbk13d1FWaDVqU1FfQkhZR3BUV0NabE5QbmVMaEtwRFc1UE9XWnF1NTUzamRxNHRlUnQ5VWN3SVVXV2xfTFktRHlzbjk0SkRzLXpoaHQ3bDUtcmlsTTU1ODJvbHVSbUN5b3dCTmlmSDJsUUJ6eUdDLXBpWW1NSWpabkE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUdOMU15VDJWNlUwMXRlQzFOVFJDb0FSaXJBaWdCTWdtUlFwWVVvU21pYUFJ=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-02-14T08:00:00.000Z",
+    "time": "Feb 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung’s ‘AI for All’ Vision Unveiled at CES 2024",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxObEtjel9NU2Y5TEE0c05LZjBvZ185TkVCRks1YmdrdnluZHNpTnJlRlpvNHZfWkNNbzdpaE1yQk5kajZzOEVfMW1aUUJTeldQb25kaXdUZWxwbVZBaVFNSVRGNGFSX3o3WGVqNUhod0pQd0tFcDVmaldXNmxfQUduVzAyRC1jZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdUMGxVTUVwdlVqQmliVXB0VFJDb0FSaXJBaWdCTWdZSk1vd3dOUVk=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy Watch FE with Advanced Health Monitoring Tech",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxQbV9NRHBWandLTVpCVm1lbFo4SVA1d3BhX1h0bWw0SG00Um9XeTJCYURrUlpRRzRTeXpoY3lFOXE5Wnk1Rk9qVUhsUjZqX1FzakN1NWFTWUd4M0pZWmRFX01MMFkxU0lLcXdmTlZvU0xZcU5DYkw3MHd3cXI3dEZ1UzF6UXhTd1BzSEUwanVUZlF2clFTdnVjTDBRSQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXNablZIYUZodFYyeFpVQzFoVFJDM0FSaVVBaWdCTWdtVllZNnVKYWcxVVFF=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "With New ‘Try Galaxy’ App Update, Non-Android Users Can Experience Samsung Galaxy Z Flip5 & Z Fold5",
+    "link": "https://news.google.com/read/CBMixAFBVV95cUxOWHZHM3pBYU1WZzRfdndyZzFtUUR5cVFNdTQ0U285ckNqZjcwR3E1ZWg4ZlE5cnIzWmk3SWZCRTV2TWhmYW1mTXdJdXRCdDVMX0IzVUEwYm41UXNMa0dXWXIwTFQ1SkxPbGNKam1KQjhkLXRMeWtMczJaeVNOWDNwWmlMLXdQME93Qm1xTTVHak80NHFPMWtOaklsTmRDOWF6WmhMYS1sak5adEpZZWRfMUJZTjNWMWhGbGV3dWNVN3FDWDRn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRVbWhSWW5jeGFsSkRNMmhQVFJDb0FSaXJBaWdCTWdZQmNKQ0ZNUWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-08-21T07:00:00.000Z",
+    "time": "Aug 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy S24 Ultra Set To Enhance and Open Up the Olympic Broadcast and Viewer Experience Like Never Before at the Olympic Games Paris 2024",
+    "link": "https://news.google.com/read/CBMiiAJBVV95cUxNWk9lOTA2cEFLOGFEVHkxRzdYdTRoV1VvQ0d5S3NTeGtJZG5CbGNwUXJnRTZjTXZEamdpZFdWN0dud3lRWW9fdlZxTm5YMVRGUEZsUkNadndlRWY4NjFGY3pUMWVrMFk2MlVyMFlMMlFXWDBjYUI0ZmZRZE9QN1BPM09vSUN2WTU1bUZudlZyM0Y3RkdtT0lxQ2oxQkVqcDF0by1kaG12WUQwRENERVhrdlRIc0dVU2JzU2dSWVdiN0ZTQmRUUXUyb0J5UmRIQWkxb0pYZnFfczZuQUZ6ZmhhNWEtbjVDNndZX2ZNY1BJc0JFQnFVejdBWkFWTEE5ZlR0Q1FTbUIyeF8?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpNMW80TWpadlMzRmhiazVFVFJDWUFSakxBaWdCTWdZQnRJQnBRZ0U=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-18T07:00:00.000Z",
+    "time": "Jun 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "[Video] [CES 2024] Samsung’s New Transparent MICRO LED Display Blurs the Boundaries Between Content and Reality",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxNcmc2d004SjFoamV3UUkzZldBTGdKWlo3VktBRHoxYXFhSGlPSzdjVUFtYVh1NHQydGttQTFtS2dabXIwZVc0dkpvZmROS0Z5QzY2a2t5YUd3QllqN3RvNGxSYTVlRTVQX3g5X1hzaklWalU2eTVkMkVZdkRtRXNpVzRaNUV0d0Z2TTZ5M19Bem1xUTIzN3JMM3E5Zk9SdldxbTdZZE1WQjd0VDZsbXBOdUtZRGdaLVc1SlV5SndGZVBGblhrNFF2TExpNzFWVHR3TDZqRA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxaemhFWWt3MlpIWldNVGR2VFJDM0FSaVRBaWdCTWdhSndZaW1TUVE=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-08T08:00:00.000Z",
+    "time": "Jan 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy Becomes the Official Vlog Cam of MrBeast",
+    "link": "https://news.google.com/read/CBMijAFBVV95cUxQenBoSEE2b1RoNjljUDNzOGtHMGZtcnJXdmN5Rnl1Q1hoMFVZU2l3WWFXbW8yZ3UybldYTUtOZ1l0M3RrY1VpeU5HM0MwRmZ1MGxheXdvOUJxM3kzOThiR3dMc3FNanN1RUttSmxHTk84QXl0SExHbml6WHFNenhfTHF0RVRzVG9NSXp3TQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdjVlZ5U3paelMyeG1NMGRsVFJDOEFSaU5BaWdCTWdhZE01NnJuUWs=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-09-22T07:00:00.000Z",
+    "time": "Sep 22, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Partners with IDEMIA to Bring Mobile Driver’s Licenses to Samsung Wallet – Arizona and Iowa First States to Rollout",
+    "link": "https://news.google.com/read/CBMivwFBVV95cUxQR2FaXzljdHUtd2RlV3dxSU5XTEx2bHVERmRubldRT05yMG5acnNCMXQtb3NJRWc4VlZyM0w5Q1JQNWZzQjYwMmNHdjZxcHBiZ3diWk5KX0RQd0ljc3h1Ni1XNDB4Y1YtZElSa2hETVNtVUZYYTRicDZscG9WMzR4VVlvQXp1M2Q5aDh5WHJ6NVFfZnI1ajdobFRzX0xRTmJ4UnphaTRjSWFZX09sR2U4blhVZjB6U1F4WHlPaEdkRQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTFSVzF3Y21SRmMyaFlPVVYwVFJDM0FSaVRBaWdCTWdNZFF3dw=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-05T07:00:00.000Z",
+    "time": "Oct 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Launches 2024 Neo QLED, MICRO LED, OLED and Lifestyle Displays To Spark the AI Screen Era and New Ways of Life",
+    "link": "https://news.google.com/read/CBMi8gFBVV95cUxOOS1SV1pYQ1FoNkRSTTBmR0VsSmdEa1ZmV2h4RExCRjRmZTFxRXZzd3dzUXc4ek5sSHJfRzlVLUhCZ3RibnE2NE1EY1l6cXBFWm1mbjdiVURsWW5GV2lmMEdVaEtPTlRPN2U4ejQyT3RXX3Y1TnBTRENzTzIyWHIydmlSU251a0hLSFp2dVdIMjB4RzllM2dJMUtFNFIySDdJaFJJcFVnWnpqb0dWVXFJbFpETXpLeWREeTVKUTY4OTI4UTZTOUgwcHNsaDA3NWtoVkw5ZXpvRjd3TVRzZXVQME95WDRoclBpcFFjSm5OQjdvZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVTak15ZG1wS01EZzBZWEV3VFJDZ0FSaThBaWdCTWdhbFJJcXNJUWs=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-08T08:00:00.000Z",
+    "time": "Jan 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "[Galaxy History ①] Evolution of the Galaxy Z Fold Series: Thinner, Sturdier and Compact as Ever",
+    "link": "https://news.google.com/read/CBMiywFBVV95cUxPQmtpVXRjYkFwcm5JazNUN0EzbjZoMVNVUHZaYXI1UW1saEhna3ZORWRITmd5UThCRDFFbzlCN1l2UHRSX1UwLWZsUTFhbzVibmdTOC1mNlVGenJsSU10OXhVQ1NTOF9qWnh5N0ptLWlJODhDVWNFOGlMeTNVRGJkSVpQZERIOUh0YWw4eTc4d3VlX3NhREpBX283aXVQQVMyZUFCMFptemtfT2tENlpReng0NjZPb3NCRzU4X0NrR2RLS09mWUV4cXptQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTFMWFptUjFWMk5YWTRRMUo1VFJDV0FSalBBaWdCTWdPQlVRWQ=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "A New Era of Galaxy AI is Coming — Here’s a Glimpse",
+    "link": "https://news.google.com/read/CBMihwFBVV95cUxNekZSLWluUUE1YVdmME8tU0RzT2VlYXNITTkwZ1hVZmdQSzRiVUFQYlpwQzJvZlRVQjV0SnFIY2Mxbkl3S2JyNnBDdDBzQ3phdHR2d1BYNklDX21COVFVMVFZdTdyckNGZTNOa1pmSVFBNk10WXpORFExdTBNMWh1SXA1aDFmT1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTJjV2RaWTJSTFEyRTJSV1V0VFJDb0FSaXJBaWdCTWdrQk1JaFduS1o0YUFJ=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-11-09T08:00:00.000Z",
+    "time": "Nov 9, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Showcases AI-Era Vision and Latest Foundry Technologies at SFF 2024",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxOS0xDWFZIb2doY2dYM3prMXFLNnhTTHFaSHFFekppLUFBN1lMbFhOWHU1eU5COFFaTFQ2VDQ2cEVjamFMWlZkXy1EMWpzSVp2LUdqR1B4LV84QWpFYXY4YW1KNmJxdUVvRVlONll6MlAxbmJEcGhDblA3VGQtajBCUWlvT3VXSGw4by1kcEZ6ZTY4cDJ4MEdDYkpPdGtWYUhBMFdZSjhiSG1JeGs?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXlWbE4wTkZoM1pWOUJWMEp5VFJDM0FSaVRBaWdCTWdZZFZJeUxKUWs=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Launches 3D Map View Feature Based on SmartThings and AI",
+    "link": "https://news.google.com/read/CBMinAFBVV95cUxONjZaT0VLRjV3SFhqalU3QldoWWZPeXpJRUVmMThRZ2E4OS00UDdDVVFXSld0LWdySFJqWXR1WmppYTZkYUNzaHlSeXFiRjFrS2FZTjNwT2ZMTlRfZXdLeHpWeEhfdVZnOGdfTC15V0pHMFVCNWIteWpqNGhUajhqdUJsN09INWpsbWZNQmxsSGhjaHZfR2xuYmxiRWU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhha1I1YUU4MmNuaHhPWGh6VFJDM0FSaVRBaWdCTWdhTllvNHR1UVU=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Launches SSD 990 EVO: Elevating Performance for Everyday Gaming, Business and Creative Workflows",
+    "link": "https://news.google.com/read/CBMizwFBVV95cUxPVXRFbjRleGkzT1NqNFpreGZLTVNCU3pjbTNYdFVMbXVWSG13MVFFUGU5anJ2dEVwUk9LTFNNc1V0ZkVGOFM5YS12NmQwd3ZfSHRSYzVtWkRpWUhoaG9VU19QdUN4ZTIzZUdfU2ZPUGF2S0VRRzQ0UVYxaE5oNHllWUNGaFNRc0NRT3ZOZ1o2V3JRbkM1al9WTnJCSFNUbVRSU0M1bU8xelFXVWZ3ajlaN0pWcmxVNmlaTUM4N0Z6TjJKTE9WWU9RSHc4cVBBTHc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWpTMlJ3TVRsT1RHbENkRVJKVFJDb0FSaXJBaWdCTWdZQmNaSUNNd2c=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-24T08:00:00.000Z",
+    "time": "Jan 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Unlocking New Possibilities for Preventative Wellness With New Galaxy Watch and BioActive Sensor",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxQUEJXNVFPNkZBT1F1RFZIbWFyM3gxM19GdnRBVi1jQ2RGeTNmZloxLUZqaXJBd0Jhd3M2VEt1bmlTTnhjQkVYNWlyRWVucGgwVGVaU1kyV2pPbGx3VTBvR2RoYm5xeW04ZGpWQlVVT3g0VmdfbjREUERJQzBXQjNiYXV1Q1ZFUEZFcWp6RmZZRGJITTJXNXBIN1BELTFSa0RRSjF5S0pzaGxJaFBySG04cnlTSmtpOHZLVG03N1plV1FXR1VpWDcw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhWRGx6ZVVweVoxcG9PRFJEVFJDb0FSaXJBaWdCTWdZaFU0aU5LUVU=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-07-08T07:00:00.000Z",
+    "time": "Jul 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Next-Generation QLC V-NAND Increases Data Center Profitability",
+    "link": "https://news.google.com/read/CBMiuwFBVV95cUxNVEQ1TTk0Ymd1UmtNS1FCUWc4cGU5eV9Bb2hjQjdWQTNoN1hFUGk2bUt4bi1zYXVURFpVVzdRaFNfTnNUdXZ4SFpvVVdlWmVaWklLLXFObFh3eVZzVkE0bm85bF93cFZ1V2d5OVlGR2xxNkw3YXoxdXJEUl9XaUFpcEFkbHNaR2RSYVExR1k2eGN6NVU5Mlktd2h5RnlHUHJwdUlhTUpIUlNRLWd5ckNmU09yb2pjWk5Ed1Fn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNXBUSGRoWVVRMlZtcDBjMnB0VFJDakFSaTJBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Begins Mass Production of Industry’s Thinnest LPDDR5X DRAM Packages for On-Device AI",
+    "link": "https://news.google.com/read/CBMi0AFBVV95cUxNV1M3cVBvWVVEbW9fWVpaVm94VE11aTRKR3QxV3hZTElGM2YzS2d4NENkcUNmdUR0MjRNNTlXLWR2MnNISnY4TFZnWnpZcXZuR01VUHZoNWc5X2ZwakE1U3hMVHhYSkUwSUpEbUdCRE14Mzl3Ny13cWYydlZBcFpXRmNaZFM5YjlEdGREYy04MW51TFVrdG1KSTl5OGlHSEVwRERkOHRzTDNlOEg3bFpHTklwbnhoSVdZalhHclAyQlA1dm5ET1RTaVI3UENVeHFr?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlPVkJ1YjE5aFJGSTRXVWxPVFJDOUFSaUxBaWdCTWdZSmtKU0dOZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-08-05T23:01:28.000Z",
+    "time": "5 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Unveils World’s First Dual UHD Gaming Monitor: Odyssey Neo G9 57″",
+    "link": "https://news.google.com/read/CBMitAFBVV95cUxNYkV2MVltbllMRmNwdnBZT05FNFdHMTg4dUE4eGgycXYybzNkUmRDYmJlMkl4Y0Q4M1BtcnpwMzNJLW1ocUVpNzdEOG51cmFpRWJzZ1YxVjlNZkh4Q3NPR0QxVVRTOTJydmV5SDducnVPbnVNTkxLaERBQmNzaUxwLTBodWktYTh6Nk4wdkliUmk2ZHpkNjl5MnB4dUhnaG5IX2ZPS1BmTEp0SFA4NlhjR0UwNEg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTViVWMzZDA0M01rMWtRMlpvVFJEQ0FSaURBaWdCTWdZTmdJN3dzQVk=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-08-23T07:00:00.000Z",
+    "time": "Aug 23, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung vies to make AI more mainstream by baking more of the technology into its Galaxy phones",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxOZEhCX01WV05wbmNzajROamIwU2NOemtINXBvRTZ1emVaOXpjV2N6V3ZHYmFvMURfRHQ0QS10TWdOdlc0VVRTSDduMXhzRmxFQnU3TWNyNVZzYnNXOVExLVR4SXpaY2MzdmV0MlRldVRTT0FEMTVjUWVNcFF5ckpQSVZ5UkJ0MmRhbXlaTm1PaHFIcFAtY1BvbVJBTU9vOHotYVdCUA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNXliMWd6UVVScWFWSmxOR3hwVFJEQ0FSaURBaWdCTWdzQkVJZ0VtV2RjMUVodVpB=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-01-17T08:00:00.000Z",
+    "time": "Jan 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "[Invitation] Galaxy Unpacked July 2024: Galaxy AI Is Here",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxNY2t4Sm50Yjk3aHlkZWVEd3psYmhsTUoyV1JoQ0sxY3pJR2NaOU1Idk05YzBFR2JuVkxQcTJJLU05Q0g3MW9LLXVmMjFySUo4bC1vSlc4TE9YWVJOYVJEcFctQnoyTXZCbWVtdjBaQXpKSXJ3WXFCR3pEbGl1b1E2Q1htZlJJc3Y0WVhYWGRhYw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5UbXA0VEMxR2VuWnFhM1oyVFJDb0FSaXJBaWdCTWdZcE5ZTE50UUk=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-06-26T07:00:00.000Z",
+    "time": "Jun 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Celebrate Earth Day with Certified Re-Newed Galaxy S23 Series",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxQby04RDNfWWp1UzRlYnh6cDVtRHdsQ05OSEpFTVVOalNiMWQ5ZlQ4VGJlMVpEM3RvSWZyblc3N25LZVBqM1BNNlZhRmstamxpRGJMY19mSXVnczY3OGhpNHVCUjRzVVdwRk5rYUN2VEl5b3Q4eW5iTHRZUG5jeEMxUm12LUphWXdubWlPazk4UVNUR1pjR2VB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRaVFZsV1VaTlVXeEpTRkpJVFJDZkFSaS1BaWdCTWdZUmdaYXpzQWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-04-22T07:00:00.000Z",
+    "time": "Apr 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung’s New Galaxy A35 5G Phone Starts at $399.99",
+    "link": "https://news.google.com/read/CBMivwFBVV95cUxQMGIzNTE0dHVrcVVPUkY1cldodlc1Y3VTN1hMUi1ER1RzdVJQMEl5c2JhVC0zVHlJMEZJUWM3akxVcU1kRzlmdHN2WDFRaHBUWVhzOWF0WW5BU0RzbFc5d3NGeUhVMWgtYXhpUVVHa0JQek1MX1gwcTFnSlZBTndTZGIzemV2VzZvRktFWDhJa3FkcHdrZXN5SkJEQjN2T0pmdkxCUkZaQ3BuVmh0a3pobWlieWhqcjNJdXhaaHdqbw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRZamQyUkU5TldXOHRNWEpTVFJDM0FSaVVBaWdCTWdhaE00eVJKUVk=-w400-h224-p-df-rw",
+    "source": "Samsung US Newsroom",
+    "datetime": "2024-04-18T07:00:00.000Z",
+    "time": "Apr 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung and Google Cloud Join Forces To Bring Generative AI to Samsung Galaxy S24 Series",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxOT1Y1ODhtRkEtamhfcjkwMmM0WnFybUZ5S1k3SDVHYjhqWkVHYUhwdS1iLWZuWUllcWRyMnRXMEFWTUtvOGtLdmhVS29ycHYwMnJvX3NnN2Vpci0tbFIybFlIN1RlaDBES2dBa2l3QW4yaGFoX21TWWkzZllUQTF3dkh2YzV5U0NnZ2hfRTZybFJjX1ZicG1PMEprU3FDWUUyYzlBWVNoN0YwbE5nd0RycGJUdjJaYnJjTkROSA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9aSFpXYlU1c1RHTlNSa3BIVFJDdUFSaWhBaWdCTWdZSm9aUkZOZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Introduces New Intelligent Connectivity Features on Galaxy Book4 Series in Collaboration With Microsoft",
+    "link": "https://news.google.com/read/CBMi2wFBVV95cUxPeC1kUHExZXNLZzZuWHZtQllhbTR4Vml4WENjRUpNN3phSlEwanlPV1N2Vm1ocm8tZTZoa1UyVm9vQjBERUJERUsxVkZoUTF3THdJUDZ1MjNfVzVKZzhVOS1BRC11ZlVTeVdiUUdxZnBwanlJQmJVenZONjU2a1FSdmRuay1kRXlXZ2dDdUVRSUVmX0pZZElKN0lSS0puNXo0WUNDckk2S2lwRTZmcGNEWjI0OUY1MUdHcWdJUVRPS182R2JQeXZiSjRUX1ZNaWtiX2VSWmQzV2NXaXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpOazh6ZHpCd1p5MTFOR3czVFJDb0FSaXJBaWdCTWdZVmc1Skp0Z1k=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing New Samsung Galaxy SmartTag2: A Smart Way to Keep Track of Important Things in Your Life",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxPOVZ3d3RlWUxkOUxXMnJBLTFCT194SEU1X1VzZnhtdVNOUjlDVVM5M2kxNUpGVjdzVGI2TEhjWU5BTkJtTUlGaFkxLXh5cmxhVUpVQXdJUHBtM0NVdEh6SWhMZjRJeFB0cURabFBIaXhiWFhRd2tqSEF1T196ZlR4a0lEWldOb2VyR2pjaDlOZUcxc3IwNGgzaDZzYnFGeEdMV3RGOHJIUXBnSm5jTkdOM2R0a04yazNIdWtxeGJ5ekd6eFFjc1NZ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxaMnQ1ZVhCcVFXbG5XbUpDVFJDeUFSaU1BaWdCTWdZQmtKQ2xPQWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-04T07:00:00.000Z",
+    "time": "Oct 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Partners With Hyundai Motor Group To Present a Future Lifestyle Connecting the Smart Home With Connected Cars",
+    "link": "https://news.google.com/read/CBMi4wFBVV95cUxQRy1wR0xlTTI4ZkwyQjZUaFdWU3FWd3BqTHFBUW5UdFEzNjNvdWhlb2U1OUJ2UjVUaHViTnByTDk4Vzg3d2MyZjlEczdRUlpnMU9lWTdnVVE4SURYN1ZRT05fNGxzTk1KTVpuMThmaEZGemFYeW55YnlNUElEaktyWjdqd1NlYjY0cDZqODFUTkwyVlIxMW1YWld3Z0Npa2tuaVpUMHVTX2VBNExuSENUQ0lwVE9qdXVPbEE2UHoxQjgyM052ZTQ3SDVBRktSa09fV1paNVJrcHFDWkpTc3dOWXR6RQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhibGxCVDAxSlpqRk9XRUpvVFJDM0FSaVRBaWdCTWdZWlVwQUpwZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-04T08:00:00.000Z",
+    "time": "Jan 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "[Editorial] Welcome to the Era of Mobile AI",
+    "link": "https://news.google.com/read/CBMicEFVX3lxTE9ZQjVIeTRmeUtHcHF6RjhEdFU1UWhkSXFYYmM0aFpUUXc0QTRPSGpTSm52MjNGLTZYQWFQUHpZQW8zOW9kYzFsSm9QWUNVT3otRm82emFlbW1fWFprV2pmdDd3Y0VsQ1NHVHR4Nzkta0E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhXRXh2TFZaV1FWbE1PVEZrVFJDc0FSaWxBaWdCTWdhVk9JcG9IZ2s=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-02-21T08:00:00.000Z",
+    "time": "Feb 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung News Reveals Product Updates for Galaxy Owners: News, Sports & More",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxPOTdyV1g0MWp2R3dnN21SenhnTFBLNlpQeUZFUnZxNFljUFFobTFac09vMHY1WmxCUW5FNXg3OGtZWXhkekoyc1dCLUFoWXRUUVBBWWVFeVpqcm5fUDNxYktIUFJXc3FrOVJWeWZRNDEwb0ZDbkxmMURJZ0x0ZE11dUN3V2ZRbE1aT29kZFJTekdkYzJXZTdz?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNW1ZamxwZEhsUk1VcFZPR1pqVFJDM0FSaVRBaWdCTWdrQllJN3lwT2pBemdF=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-06-20T07:00:00.000Z",
+    "time": "Jun 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy S23 FE, Galaxy Tab S9 FE and Galaxy Buds FE Bring Standout Features to Even More Users",
+    "link": "https://news.google.com/read/CBMizAFBVV95cUxQUWhpT0ZBZUg1WnFCRlQybXhtQzlrUHB4SEN5TTBzS3B5eDM1bElQRGhoemZ4aWdNbF9ENldkc3lnMkk1dURsNXpmOW5KemR0SHpvVUxZdXYwQ0hmdm1wOWZYMWgtazhJbm9jTlh1X2kzbjNpeUVmNGFDcmtPaTFDMjBGNW1DbDh4aUY4ZDI2d1ZvNlJuUkk5a09LOWRTak1lWVRJRVJjb0dlTl9DY3lXQ0pya3NpUHRRUzk3b09JMXpQeWpDc2VFM05BQjg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVRRbG8wVURBeE1rbHFkR1ZhVFJDb0FSaXJBaWdCTWdtbE00aFJ6U09EaHdJ=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-10-04T07:00:00.000Z",
+    "time": "Oct 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "24 reasons to switch to a Samsung mobile device",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxNMXRtcjdIY3JRUDlCSmNoYXhnM3Z2OWt5WWYxUFZkN2kyblg3VHBJSG8zQV85dFJYYzdvZ0lCR19aMHZCaGxaSkpGRUVDMkN5d0FDM2t4cDN1c2dFUVpHbnhDbmU1TWhRYk9nWlNibGthV1FjSWhNVlBUUUFKVmV4bENnMGdDNTluLWRKVE1DQjRrUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUZWUzFVY0RKdk5WZHdlWHBVVFJDZkFSaS1BaWdCTWdPTlFnSQ=-w400-h224-p-df-rw",
+    "source": "Insights by Samsung",
+    "datetime": "2024-04-03T07:00:00.000Z",
+    "time": "Apr 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics’ Industry-First LPCAMM Ushers in Future of Memory Modules",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxNdjFuRi1IaTlZcVhkalRpTUNZbl91LXEtTmdsaF9jNWJCcWJjclhMbm9VS0gwVzY5bm9sY0RpaFFwOE5SWDRnU3MzcGNDb1BzREdVQklEWkdPZUV4eHdDS3lGN1M4c0Z5WDJkbHFEanZjeDkxd1JhOW9lelBQd05wdmVfYU1DMGl5ellXdV9TWXdobGpScTF3aUYtLTNlc1BxY1dpT0RpNW14a25F?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJRV2QzUm14MlRWRkNiSEY1VFJDb0FSaXJBaWdCTWdZSllZNEhMUWc=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-09-26T07:00:00.000Z",
+    "time": "Sep 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics To Unveil New Vacuum Lineup That Redefines Home Cleaning With Enhanced AI at CES 2024",
+    "link": "https://news.google.com/read/CBMi0wFBVV95cUxQOThRMVJlRnhEdjk1M3ZRU2NBN09aVDl5bnpVT0J1TmtRTDFJVFEzWk5YS09EemR5UC1URGt1ZjhrZWhhamcxQnR1a1RRWUh3VDNvOFFqdmhSLVhHOE1oZE9nWDFudjFqWXMzbjR4ZzUwbnlGM0MxLU5Rd21zRGxQT1lZU282M0ZmZFdjYkt4Wm1CNm1ycExaTm4zSy1nNGE4c2Rqd0o0dG9jdU85WmJoUUItZ2dQN2tsbUdSZGxRWGlkY1pxdTBlZ3ZmY21pbVptbU9v?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhibUpZVVc5a1NtRTFYM00wVFJDNEFSaVNBaWdCTWdhbGRJck5zUVE=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-12-28T08:00:00.000Z",
+    "time": "Dec 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung expands Tactical Edition Portfolio with Flagship, Rugged devices",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxOVjR2WkYwSjlvTFRJeDJUSFVfczN0aEdyYWI3TjJyLTVlUHg4b28tU29tQ2Q3MC1YRWU1aTh4OTBhTzZhTm1UXzZpZGdUTXlVU1Y3aW5yZjJtdmMzWXR6Y29qSVpUTEg0M1ZXb1pPakpCOEtaNm8xemJyRTVMQU9ONi1UTmJnWEF1cUJ0dmw0d0QyQV9udG02Z1g0andHYkVHelp1WmtkbkxQNVNKbHJ6cVp3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZWbEZQZFV0NFJUWm5aMWx2VFJDZkFSaS1BaWdCTWdZaE5JNk5LUWM=-w400-h224-p-df-rw",
+    "source": "Insights by Samsung",
+    "datetime": "2023-09-20T07:00:00.000Z",
+    "time": "Sep 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Opens Galaxy Experience Spaces, Inviting Fans Into the New Era of Galaxy AI",
+    "link": "https://news.google.com/read/CBMitAFBVV95cUxPMnB0ZThwbVYyb3V4RHd6NXRqajNCc2JFQWxrd2libDhiY0FmUTFvUlNjQ1VwNVZSTFdpdi1zRHhaUGlMOFI1UjREWTk1Y3lqVGJrdTNFQ2J2ZmMzbUFyMVVwX2UtcHN4VlFSRXRxcy1TZjRsOExkTHNZMURYNDBDMWdVMG1SX3VmM0VvLWt5V2NsUF9MczRlRWxBdTRUSkdjdXNnT3FXOXNGbDdIY25QVktudnQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVdjR05EVnpkRVN6bGxTVkUxVFJDb0FSaXJBaWdCTWdhUm9wWXFPUWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Freestyle 2nd Gen with Gaming Hub Available Now",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxQYWs3b0VpM1pvZWFTLURKWE95bXFlTTRXUkhDdXRGcTJ4X0pDZVVVblNnTDFNZHhPeWxDNzFtMFdnSjlYelNBa2dObkExYmdCN3dzTHF2WUxsUjFWLWJhZEJkX3RXYVpkWW5OclYwWWV3S0hsUTgxR0FvOF82SmVPV1NhT2diYkF4eTFF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVhZMVkwUWpReWJEQkZkRGxNVFJDM0FSaVRBaWdCTWdtTlFJQzBwT1NoYUFJ=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-08-17T13:03:16.000Z",
+    "time": "Aug 17, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Develops Industry-First 36GB HBM3E 12H DRAM",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxNVVZfSlVFYzZUbXdLSjg5X3NpRVJpTVJPNl8xbHFNRDVST012aU01YkljNW1hUVl0bzc0WVdibjB4YnZVemxPQmpIODVLXzROcXFPWlI4V2p6TlE5NU9sWkNZSlVEZE0waDZaLXNXZzRyQTNnb3FVTVpvYk8zSUFFQlBNMnFFdXV0V0E4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhiRlIyWDA1bFdHRjRNelJKVFJDdUFSaWhBaWdCTWdhRmNaVEVNZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-02-27T08:00:00.000Z",
+    "time": "Feb 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Protect Your Device Your Way With Samsung Auto Blocker",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxONmxtU1hWdVhtc3JDcWpGMHlzblFiRHhOREE3bGFXT2h5ektfc0FhWFJxU2poLVVzNnloSEFHOHNSeTUtVmNvRms2Q0dxVXl0SVRKdnF1VTAxb3pIWm5pNlYxaW9fVTZJaVEzY0pVbGc2WTByZjdiZGhLekJYYU9kVWptYk0waTMyYnJQMmhmNA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJYelZzV25CMU1ubGpXakUyVFJDM0FSaVRBaWdCTWdhRmdaTG1OZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-31T07:00:00.000Z",
+    "time": "Oct 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "One UI 6 Update: 7 Tips for Making the Most of AI Camera on Your Galaxy",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxOalI0clJlUl9wbjZkTTMxWXhoeVVGUmkzQW9BOWJSdEEwcFRRUTloTUhTR3doU2RLVW5kUEgydXZlVEZXUW42SUI4djd5QTFKR0xEeVdmVUFmX2ZyRXlza0k5cXFQUU95ZzNwdUFaSEotWGVadkRHTjBYM1lRMzJOV0RrbVRFWTk4d1VJT1hWRkZkRnRiSWJvX0I4bFZrcl9PSEF1VA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWlUSEEwTTB0RlZtSk1WRmw0VFJDb0FSaXJBaWdCTWdrQlFJcWtwU1kyYVFF=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-30T07:00:00.000Z",
+    "time": "Oct 30, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Opens Galaxy Experience Spaces, Inviting Fans into the New Era of Galaxy AI",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxQOFJGLTRaSlRMZGR1WXRxWEQ1d0xuNWZjVVpyYTdZQlM3SkFDa3VWTzh2Vndkd1ROdllyRklXdXpUSEhydWlJVkowU3ljdFRLQkJSaVo3ek1zUWs2UWRnenJPSWhfcDhRWHNyT0w1NGNzdlZvTzM3b29BekRRUHA4dUtCR0JrQVVwU1ZpYnFUSXh2ajR2ekxNb1Q4VkdLTGdYTXZmbDFOSi1Yc0U?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUplRWhLWm01NkxXUnlibWhMVFJDM0FSaVVBaWdCTWdhSm9aWXJPUWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-10T23:02:13.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "[Invitation] Galaxy Unpacked 2024: Opening a New Era of Mobile AI",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxNVVBfeUZhaTBBcnp2SnptM1VDUkRHWGQzLUxlejRxSHVOOWR6Y3o0aFpGY3dMQVdCMm41c3BxdjRVMkFxOUs1YzFiSW5HTGVRdnBOSngtMHhyUVhIM1kzSld1VFhYTk44RmFUcnc5aUlaWFBNR25HalJmWklQNnEyT1lyMzJwN05MTklBcjhQWHhUd1c3Q05mOVZB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZXVVpNTUdGbE1HbHViV0Z1VFJDb0FSaXNBaWdCTWdhaFJKTE5wUWc=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-03T08:00:00.000Z",
+    "time": "Jan 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "New One UI 6.1 Update Brings Galaxy AI to More Galaxy Devices",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxQTndaX091Vi03ckM1Ylh2NFE3Z3kwRjBWM3dnTTVDY3hvclRUc3Mzb3ZtLVJ1OGZWVG5Nc3hOT0xLTlAya3RCU1c1cWVwY2JrOG1PSDQ0R3k4SVRsNG84Vm41aDc0SUk1T296QWNvanlNd3dwd0xhWjJub2R1aUx5WXhMMmJXam9QQkhodjNlUk14bzgwMWZUbA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJWME5WZUc5WVgzcGtWR05xVFJDM0FSaVRBaWdCTWdZQmNwQ21PZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-02-22T08:00:00.000Z",
+    "time": "Feb 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Collaborates With Maison Margiela on Special Edition Galaxy Z Flip5",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxOV0k5TFduZ1hVamd0T1VNUWxqRi10Si1CLXFBV3RKVTlnSDJZUmtFVXpGSWRmdklRMmp1Y3BaY0txc25UdmtKWW93SlhTVVJFbTFIZDhXRjhSMXdQeGhYYXBVSkRnV1pnQXFOdF9TYXdsTzZVVzVMSVF3emZxdWx3amlzX2ZjQVRBLXR1UkhzN3JMeHotOUp2Q2xYUGlCNXFOR3hWQlBBYjFoSlE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDNPVTA1UWpWelpYSjJhbTFOVFJDOEFSaUxBaWdCTWdrUmc0cG9NaWRjTVFF=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-11-23T08:00:00.000Z",
+    "time": "Nov 23, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Announces Acquisition of Oxford Semantic Technologies, UK-Based Knowledge Graph Startup",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxNZUJJMDg1MXBOdzRpMllDR2VhTXBCcS12QjF2ZlZ2MEhnZUVncHFFSzRjR1RnX2N2Wjg2Zl9wZGNoS2FhQWt6TFVIQkJpVXdDTk9STXNzRzlteXdfTTNmbkhJS05mV2h5VXh4VzJqeFk4ZmptZzBLNXlYcGdIZ2FUQXBtdUFNV0xXNjVweTdpWTNGRzRRUHhZd3hZVUU2U1pCODhjV2JrTDFJVDBYek10aVY0dTlxTllnajBwMzFoRzdyaUpuWUdJa1lmcVh3dXVvUUJwOQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhUVkI1YTNaWFMzVnNZV3RxVFJDb0FSaXJBaWdCTWdhQm9aVEdPQWM=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-07-18T07:00:00.000Z",
+    "time": "Jul 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Gaming Hub for Mobile: Discover and Play Instantly on Your Galaxy Phone",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxOR3dRc1lfeWNHb2hHcm5wOWFvMU5IODJDQWlNWXJoTklmZWM2Rml3RDd4UFdia0JiajNFT2dSTjgtZWoyb1Z2cUdmY0h6Q1JsYkVYcFFKQ1Z2Mnk3eW9GMS1vcGJQQlZWZGdkTVVOWW5EcHRuOGFLN0dYVVd2eVNBbnBCWkdXd0E4OFNVd3ZVWjZsTUVackhHS01NWTNXT2pjbU9QZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVWM2szZDFrd05XbDROVEZwVFJDM0FSaVVBaWdCTWdhRmtaYmtOQWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy S23 Tactical Edition and Galaxy XCover 6 Pro Tactical Edition: New Smartphones for Military Personnel and First Responders",
+    "link": "https://news.google.com/read/CBMirAJBVV95cUxOdGFpUVpDY3NtOThXNTNUZEhZd3c4UEhURGVVM2lFTDZQUzVFdmpYMGxlbFJUN2ppSDI3VHREOXU3emgxeEp0aU9rbFB2bW5Sc002cGZNY3E2ZEZXNF9kaFFNOFhYTFgzeHB6Ui1sZlZfZ2Z5dkdKbHg1SzI3Ql8tQ3pnanVIcTJuS1llTGNhODh6dE5Bc21UX1pHRHQzZmNRVWgxSnNrTmN2Wlp1RHMxVllDdjNhR0QzSUJJWXdOS0swTzVOZGthZTdCQ0g4MW5vYjFMVDdydElyX3hNNWh6VlVSamFWeUFPWF8yWWRwR0JhSWNTWGViYmNNSW9jR2N2R0ZuMVZISVdfM1pPSnc4UlNCRVFwdW9tQnlraXpGbTlhREtLYWRlbjZZTk0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBhRmhSVW1sQlpqQXRaa0Z4VFJDM0FSaVRBaWdCTWdZVkE0ck5oUVU=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-09-20T07:00:00.000Z",
+    "time": "Sep 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Terms and Conditions for Mobile",
+    "link": "https://news.google.com/read/CBMiY0FVX3lxTFBvb2JWNUI5Z2pCbnVNMGl5QjZ5dWp3cThueGlrdUJDQ1ZORVYzWG1nM2ttV01GMWtlMkswLXVqSGJhVk43aTRJdzc3QkFUbGZRV1VWMVQ5dGZ0TXpxWU5VeWh6MA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1jMnRoYkhkMkxXdGhhWFpEVFJEVUFSanVBU2dCTWdhWkpwSkpxZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-02-05T08:00:00.000Z",
+    "time": "Feb 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Galaxy Book4 Series: The Most Intelligent and Powerful Galaxy Book Yet",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxPazR2aDEwRkdSeFVfSVhJWVNac2IwUl9Ya0RWWkRtVFVQenJybWwxVzRObmRvSDBlcnJBb2F4T1V5OS00UE5JQWRJWHU2M1c0V3ltMW5ZT0FPalJIUGlteWkxTHNrd1NuMk44NnlteXowbEg0VjAzZnJCVlZBb09uOGhjWWhlZmlUNm15N2lza182MUNlMjRkbV9zeldCRnNDVXRRVkVXdUJZdDhOd2Y0TVVocw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHRjRVpHVWpCNVFVVlRVR3BrVFJDM0FSaVRBaWdCTWdrTlE0b21JV21hN2dF=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-12-15T08:00:00.000Z",
+    "time": "Dec 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Allows Control of Appliances From Other HCA Members Including LG and Vestel for the First Time",
+    "link": "https://news.google.com/read/CBMi3wFBVV95cUxPaGJpYk5Cb0lxQkFaMXh6S3FzTWNCVHF6TG9VOGtwc3ZxdVJneFExeEdQUWxFc21wUUx0anRyRFBoR3V0STBCNDc2T0lnT2ViRGxQXzBrQy14ZUlZYWZ0UGZiNVRBVkVJZkRXQngyTzJnYUNfdFcxSG1xaDJETG5kS0tnSW9KTU5DYUJPdnZJeTQ4cXJ2RjUtS3ZmelN3V2x5c2RfMThKQTAzTFRfVFlWVDZ0T2JvdzhXd2JYcDBZRzFSb3ZFM3M5Wll4TnFwSDY3Rnh6LWtPVk02LVp2aThj?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJSMFJhVTJwV2RYSm5TVVJTVFJDb0FSaXJBaWdCTWdhRm9KSzR1QVk=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-08-29T07:00:00.000Z",
+    "time": "Aug 29, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics To Showcase How Enhanced AI and Connectivity Enable Expansive Kitchen Experiences at CES 2024",
+    "link": "https://news.google.com/read/CBMi3gFBVV95cUxPLTROeDhic0Z4VEdtamhEQ0NTMWdzaEZIZGRnMHJXbXV6d1gwWkVUUWU0RjBzaC1oaW5vYzhaMGRpSjF3OFlELWdZdzB2eU9xa1hTOVQxYkJoSjUzbWs2czRjVzFfUTNHeTJic1NsSWc2cU9HVF9wZnlwLUZoaHNJS0Y4c3Fob1hFTkhmN21LeVFESEFOU0E5RTVpZnZad1J3ZmlRTzBHMmFVY1BocmZZb0lQVG43YjQ1VHU5aTNjbW5DV1U1ZlBjbU9Lbi1VMENSbnFQUF9laXktNUI2TGc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXZhMncyTFUxb1VFOXJPSEp6VFJDb0FSaXJBaWdCTWdNQmNBNA=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-12-27T08:00:00.000Z",
+    "time": "Dec 27, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "SDC23 Keynote: Samsung Highlights Vision for Smarter Everyday Living With Leading Technologies and Services",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxPSW5YSkYweE85ZklENWtrNjItdElFZ21MbHBHWERsZndsVkdVYmNFRk5SNkRLSGVpbktRS1RvaXBuWXl0RVc4R1l2bGZsRk84aDFQbURNa1JoS0tmcnpzdzJnZkwzUDd5Y2o5bFR6MEdWYjBId2NTaXpYWmZiUWRqYVNpV1dGdzdxTmM2ZEFkNlJmVzRQb1F0UlJJdUdhSWVkWHZBdFhmcm5ORU1UTF9oSG5LVUNPMTlwYjBETTQ0eXB1YlJLNTVMTWhQbVVOYU4wMDk0Uw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNjWGRPVTBOb1lYVldkV0kxVFJDM0FSaVRBaWdCTWdhVmM1Q05wUWc=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-06T07:00:00.000Z",
+    "time": "Oct 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Expands Odyssey Gaming Monitor Lineup With New OLED Models at CES 2024",
+    "link": "https://news.google.com/read/CBMioAFBVV95cUxNbHpFcFhOSFRUZU4zbWQ0QjV1TEJVSFhFZXRucEROTGE5RFJBNGZ1STM4MjlyXzZXWUVwSmx5RjV2WnlHNThhbGNITHZuWElOd0R5MTVQU2pjMjlXSVQzaF9ZcWFRUjVDamdFODNramtlenQ2eERKQmRKZGg1aDd5eWg2aFZvTHA5bXpFTm5hVXVjdTUtc3h0dDk2R2hiTjha?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNTRVMHhzT1ZoaWNtTTJZMnR0VFJDM0FSaVVBaWdCTWdzVk00WVRVU1NpOVBqYXNR=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-02T08:00:00.000Z",
+    "time": "Jan 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Partners With Netflix To Bring ‘Squid Game’ Universe to Life in Immersive Live Experience",
+    "link": "https://news.google.com/read/CBMixgFBVV95cUxQV2FVMldENFJ4OUNVZWJ3RkFtaHplRm9IX0dCaEIzVVg1NkVJLWg2ZGpLektSRGpCZ09zbFVscXlIcVgtUHZqd2F4eExVeGZBOFc1SGw0bi1QQW9pZWtXZXFJWVlpQmpSZGJmazQtT0Z5aEVzY3hzYXlGSmtBdnRHa0JPcFBfcUhFaHlKNnBndTJadlYzcndrWmJZS0FFUjFhSTRaTUFNbG85Vmh5bEVEQXdnSVZCNF9JWUdXZjYxY1B1Y2dnbFE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlhMU4wY2tkUmVrUlNZbUo2VFJDM0FSaVRBaWdCTWdhZE1wUU5JUWs=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-12-21T08:00:00.000Z",
+    "time": "Dec 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Expands Odyssey Gaming Monitor Lineup With New OLED Models at CES 2024",
+    "link": "https://news.google.com/read/CBMivwFBVV95cUxNQkJmZERjOU13THBlLXZfUS1JV3BKaG1SNkdiVWRiZ3pFUTktSk9ZeEFfRVAyVGVIS3RJZ0VKRlpwa0lMYTA1YUpocWg1MkszbDhEUmlNaDhzTE1kaW01Wmh2WU5jR05kWExLaDJQeXNjYVczcU9qSlBmWDdiQU0zdVBFSDdjVGR6WUhoN2xLX0pQZkN1QTVFS2ZLWHhkcmc5bXgxaUZxMTBGMVFCaGpfWEV5WlFfeVp2V0x0cktiMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVRZMkZFTkVwYWFFWkljRXBRVFJERUFSaUJBaWdCTWdrTk1vYjAwS09wOUFB=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-03T08:00:00.000Z",
+    "time": "Jan 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Creates Infinite Possibilities for Athletes and Fans at Paris 2024 With Its Official Theme of ‘Open Always Wins’",
+    "link": "https://news.google.com/read/CBMi5AFBVV95cUxNek83aFhqejUxbmpXUGNDODUwX3J3SUNTWFV4aHpYSEFDOTBVTFBvRjFidWdKSkhUdVdHbUVEeFc2SU40VVJkcWFVb3Y4ZkVySGhNZWZfS2I5U1hreFVMQlh3bzBzY19lSGdVUGVFVGtmNnpTVGhMLXZOeTFXWnU3eHF0NHBiR3JELTFZZTUtRkVVTTNUemJiZjhEdmMzOWMxRkVVMnQ5YkI2NGVFQ3RpMGpYd2dLakFVc0ZaVnJVMHVTVDA0YkNzZEwyQ2ttdGFaUnhJd3A3dVJYaEl6cVlKRnp0V3Q?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJiRlJqTTNNMGNYTmtSa2xqVFJDb0FSaXJBaWdCTWdZcFJZTE9JUUk=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung’s Portable SSD T9 Empowers Professionals With Exceptional Performance and Data Reliability",
+    "link": "https://news.google.com/read/CBMiyAFBVV95cUxPSFhYb21STDFwcDZ2cmViM2NsMU9zUllKTzhYa0hlYmxVa25wcVZqTVE2ZHlCckY1NE8zdUZaM3dMbXNSdFdTZUxuS2w0dlJkZFlEX3VucTBrZTZnMXV5S1pZN2ZXQklYVlBhRzBka0hWdW15ZUpkbFJqXzBfd0ttNzRjcWhqZmpUb183MFJwbWlVRV9BQU1pUU1PeVF4ZHZ1anBFMEw1VUpVQ3RJS3dreFI4NmNFN3ZWeWFFTXRPbWd0VWpZZTdqQg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNlVGhpYWtKMGJuZEZTMGRvVFJDb0FSaXJBaWdCTWdhQk5vR0Q0Z0U=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-10-03T07:00:00.000Z",
+    "time": "Oct 3, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Releases the Galaxy Book4 Edge, Its First Copilot+ PC, in Global Markets",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxOZV90TklBbGNvazA5WDRweGpOZmMtSHU5SUxYeVhCYzM0dUtza0szMzFwdU9CS2ptTVgxbm5wYk0zd29BZWdUdHlDMVJHcWZrSzB5Nzl1RXMxSDloTnowY0pvRjhSVThqUXVEY0ttUG4zWWVMNlNOa3V5VXktcGh2d1g2NHlpUThKLWNkei1lUzdwQTFBdUUxR1VyblFkYkZaRTU3NHF2UUlpenhnclE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpiM3BPWTJOeFQyMVBSa0ZyVFJEQ0FSaURBaWdCTWdZQmNJd3NRUVU=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-06-18T07:00:00.000Z",
+    "time": "Jun 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy S24 Ultra Creates New Standards of Durability and Visual Clarity With Corning® Gorilla® Armor",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxPZmxGeWNVZFEwUTJBeml5RnZzcERPYk01UUFTTUlfb0tIdk9USEZIZ092QTJGbmhEbVpnUHd1MDE3QVpkMjBmalZHaWJwSm1fVEFfNzVjdml1ZDV1a016cGs5UEVHLTRyWUFEb1B4ODdWdGpwNHVkX2NtSUpRWUNqRnN5S0lydzI0MjhBcThzM2ZGUzBYY1YwZkppRHItWEpmNTBzSlQ0Y1pDUjQyckl3c3Y0SnBJYWNHM1NsTEtDQ2VIaGl0dkdNZ3hvcTl1azFGWjhJSQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWZiMHRHUWs5c1kzUklXVzV5VFJDOUFSaUxBaWdCTWdrUkFZeHdLU2FhcEFJ=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Teams Up With NEXON To Unveil World’s First HDR10+ GAMING Title, ‘The First Descendant’",
+    "link": "https://news.google.com/read/CBMizwFBVV95cUxNSWdXZFQ3bmZQcTF0clVPQWhuZURTMUxaOUkxWXh5dVdXeTJDSXJXQ1FzaUlxcUJmQm0xWGZNNEpYU1l4WUx0UERPeWZVSV9XSHBzbWVNay0xWWpTWVBhWmN6RVhyUzN1Q3pDMVQ3TWZab0l5QTdRQ2NNbnhvUWhZc1V4bzBWX1kxdFRjUlF5LTBIWkRBZHp2Z2NYaFBWdjBrcmwzSFFUcFF3bkJLOFd5WGkwY1BrdDNVclhaYTBBdUw1cUVhbHN6ajBhYjBhMVU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDFjSG96V0RKVlQyNXZOM0pSVFJDb0FSaXJBaWdCTWdtQlZJNk5vV2pCQ3dJ=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-08-21T07:00:00.000Z",
+    "time": "Aug 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Announces New Medications Tracking Feature for Samsung Health",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxOaXJLOUVTSU1TbzdGRzJzT0lXV0tCdzFuRzZoYTJid2I5d2cwRF9vRHNOSzBNYWpPeFJ0T1dHb01pdU1oWW1xbnpQeGZSMkJyRVV5ZDA1eDZ4dTZfZHVoWGdyQWhoTHZxZG0xdnloQjU4LWJYT1lrN0FCSUdSUWdwVWtraXNaNjlVQVVqck1uUjd0WFdVVDVOR0pJLWZZbl9uZjU4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXhUM1pEUlVWV05raFVhM3AxVFJDM0FSaVRBaWdCTWdrQkFKQUpGaXBrandF=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2023-12-20T08:00:00.000Z",
+    "time": "Dec 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "From Astrolabe to the Future: Samsung Launches Galaxy Watch6 Classic Astro Edition Exclusive to MENA Region",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxOcW1JQS1lX1ltUjdlbmNidFdYSzBKS2NmRGpqTkZJUGpHcjlReENNUkVRcXBYQzB2TXlMNWNwV2tCV05SM01RYUZhS0VSNkdrN3RvX0VTcFBMUWF2SjViQW53UDJaZHdybjhkMm9HaGFsTzRnbTRjb3JKaHFzbWlISnRlUktqaXpjdE1tZVViRnU1QWFuNnkwRHVITUJJdUh4Z2lXdFpvbGZXZjhVNnZnckZtdHByS01EcE93Y3pJOXAySUtpY1VReEdPaWNaWXFnbTVhZg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNWFZVkZIT0VOSlJFazRkR3B1VFJDb0FSaXJBaWdCTWdzQmdKVE9NU2ZCN1lsSmV3=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-08-25T07:00:00.000Z",
+    "time": "Aug 25, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "[Infographic] From the World’s First Watch Phone to Galaxy Ring: The History of Samsung’s Wearable Devices",
+    "link": "https://news.google.com/read/CBMizgFBVV95cUxOZ3pjZnY0Um9DaV9wbUQ2ZXZIYzNJNVVFei1ENnl3cTg2MUNvel9ibGd1WHFFV1FPZjFlMjNGTFVDYi0ycG04elp5cGFUWkxfRTF4TnQ1MWk0Z01aVU1QWE1FaWxiRTgtaTBfNl9QSGhnWGhMb3gteEtLa2NDcEVjY1JybnFWeml5LWo3NDBPa3MzdVk3UFFUdHFmeko1bzVZX040STJjXzh4V2VFdnZIenRGeEdKUmhfOFZKelZmUTdSQlcyOXVFNll0NXVhUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iKkNnNXhTekE0WVdoVFQxaERXR1JpVFJDUUF4aHNLQUV5Qm9reGlBWWhCdw=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung To Unveil New ‘Designed for Samsung Gaming Hub’ Partner Accessory Program at CES 2024",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxOeVRhcGNzR3JhRlgxSWEyRl8wZnF5TW9zRFZVOG8wSGFDVlhXODRXeTg4UVJtVmk2Y2RCcmVoREE3eU5tMGphSEt4RE5VUTJ1V2pWUk9XYkM3LWQ1RDdDaG00cmdzeVJfNF9yRWRSWklrNmNmWFlWaWdjNEUzNU1xRWpUdzFtelpzYVBrTGpoVHdWTEt0ekdGeFU2SkRJNVJockZDbUtET3lWdFVXZ2d1QkdyazB6a0ZweElxWnhDeDE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJkbkEzUTFSelJGZFdNR0Z5VFJDb0FSaXJBaWdCTWdhSmNaTFdzQVk=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-01-05T08:00:00.000Z",
+    "time": "Jan 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Expands Bespoke AI Laundry Line with Space Saving Formats that Pair Smart Functionality with Innovative Design",
+    "link": "https://news.google.com/read/CBMizAFBVV95cUxPUkItS1JLX1VaTWlCQkNTejZMbURrVnhYc3pZbklhbVg3WnhObE9Dczhsa09NeGM1ZmxSQVFHN2dLSVA4VW5SUEJDUnY2UGxTVlJ3ZWo5VDVJQmNaQ1RzLVhiZ09DcWx4Q2JFZWRsSHduUGFGS3lxNC1ITjhGd3FleGhmVVViY0NOb2R4SWpWa2dRaHdqQ2xOelZHZUNvSWVCVzlQSXRlUUoyUTZ6bGNMZEtpUVg3SXVueHZEbHZ6SlZFMnZVcmloS0ptd3Q?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZSWEF0Ukd0RGNXeFRNVzEzVFJDb0FSaXNBaWdCTWdZQlFJeXVRUVU=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-04-03T07:00:00.000Z",
+    "time": "Apr 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics to Receive up to $6.4 Billion in Direct Funding under the CHIPS and Science Act",
+    "link": "https://news.google.com/read/CBMixgFBVV95cUxQbjR5OWx3ZzNHS0hySmRwcWFJcHVpeElBanV6ZGRDeE5lZ1J2MTF5dldqTEZGbmJfX0hfSndCVGhPUG1wRXNtbHYwZXRLQWZsbktKT0ZjUjYwbnBFd1c3UzZhRWpQakhld3Qtc3g0emo1aDdjalhSSHVvamVzME1YVU5tZXdSdjhQOWJwdjJ6aDBrajh0SkJoQ0JOOFlaN3JLNkdYTjMyMUNJNW55MllaZGxUYTkyb0JnXzBCSGFVWmFUWnNKQlE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRkVWxVVDNOSU1FSmhjRTFvVFJDM0FSaVVBaWdCTWdZQmNJd3BzUVk=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Galaxy Tab A9 and Galaxy Tab A9+: Entertainment and Productivity Engineered for Everyone",
+    "link": "https://news.google.com/read/CBMixAFBVV95cUxPd0RSR2Y2N0FwSXZfNkl4ZEttUGhtcGJtdXBsTWJaWlJFYTExX0NkWF9iclpTdlFHNV81dmxYdWlheUlibTU4VXNlYWktZU41Ynp1V3BSWlg3c2wzcnJLd0o3UFZuYW5vT3JTV19tMUNsUy1tODFiU1E5MmpzR0lycERRSWVWbkRJcEcydUx4TGhIZUtkTVdWdDdYMGZsdVJTaGIzaWkxTTBFSzI5czhYaGxDaUZjaEZ0STNudnNjSGtxUW5q?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRibEZrY0ZkbFJXaG1WVVZ2VFJDb0FSaXJBaWdCTWdZaFk0NXRxUWM=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2023-10-23T07:00:00.000Z",
+    "time": "Oct 23, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Electronics Partners With Princeton University To Pave the Way for 6G Innovation",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxQd29UYlFrVnhDNjBZM0dDV0oxTnJJLU80dmZpUGJOM1lqWXZ5SmlMd3NIczl4LUpfSkUwcGswUkxCVjEzS0JjeHh2b3QwVXRhUDdfNmVITEtsbkV0Q2FBUXByYkQyQS1udDVVQjFCWlR0TjZ0ZFp1TW80R1NEMXlVeXlUaWJ6blVWODFNSFUybFVkVDJYb0VnMnptbkJXZ0ZPSlRSQ3R2Nmt2VWpBRFdzNml4dXVpaW5GX1lrNg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRTbVJIZUdaR2NVdzBRVUoxVFJDb0FSaXJBaWdCTWdZQm9KU2xPQWM=-w400-h224-p-df-rw",
+    "source": "Samsung",
+    "datetime": "2024-02-13T08:00:00.000Z",
+    "time": "Feb 13",
+    "articleType": "regular"
+  }
+]

@@ -1,0 +1,803 @@
+[
+  {
+    "title": "Nike reports $5.7B profit as company trims workforce, changes retail strategy",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxNb1JBNTl3YVZweHBWZ25sTGp5NHdHdTlTVi1KRHZZbmJ6NF9TVU82QTNtM2xFX3BEQXBLN1RSM0QxR1hoRE1HdnhYU0kyUlhxR2VZWWVmYzhQYU9yNzI4ekwzd3VlUlU5bkNQTVVOb3pQTmdwYm9NM2d4YkFBLXlmWkI4LXJIZVNmUmc40gGfAUFVX3lxTFBmdHZCTC15QUR5WGFHU1p5bDhuMFdYYkNuMlpzc1pwV19sNzRjcU9BRHFKMWY3SWhvbHJqYVBDc0c5NW1iWDdTcDVMVUh1dXppdk9QckhJTHpNX0stZEx1d2hnZzlCNHRtX0d3enpUdmxXTFFLOS15YjBoc2dWaW5YOHpDVkZpdjlkWDNnbDd5bEppNkUyS19nRFlVSXZhZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTViMHhFT1RVMGNqSk5OVTlyVFJDb0FSaXNBaWdCTWdrSkVKYVdqR214eXdF=-w400-h224-p-df-rw",
+    "source": "Oregon Public Broadcasting",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike designed these wild Air sneakers with a little help from AI",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxPbERqbzJwSXZxWXd0YkczZHZXZFYyMHU3YmRGOGVwbV9BU0FXem9GVE1wb3dtMkpTd1VsNlEtNDRLdHVsTlpyajROREFTSldlSURTU0tucktGY1B3ZmNzZmpwS214c29xeDNrWHh5dW42R2FKVUdRbFpsWllhbUVtVmd5VjFKbENIS0U4MDFJQ1J4aF9WLTdtODV3ME5sY2YtcVpr?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNW9hWFZaYm04eWNXVkNhbkZDVFJDb0FSaXNBaWdCTWdrWklKUnJNV2RGS0FJ=-w400-h224-p-df-rw",
+    "source": "Fast Company",
+    "datetime": "2024-04-12T07:00:00.000Z",
+    "time": "Apr 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike Fires Warning Shot to Sneaker Artists With Trademark Suit",
+    "link": "https://news.google.com/read/CBMioAFBVV95cUxOS0staW1Sd1JucVlBTXotMTBBdEZEenZDZ2RYMm9sWGJKcWpVLURJMHdJQnJSUlc2RG5uZm80bzhkWFVOeGhFOXAxQzk3azRIWkJXMDlibWh6OG9iNmluWEdjRy1aMGxURW90bTNBeXpDMGhCemRwbDREWXBFVklxMnFOY3I1OTExaFljQ2JYX3BKRWxrX3pILVVfZ2c4ancx?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTNXSE14YUhCNk9UVkxMVTV5VFJDTEFSanFBaWdCTWdrTkJJS3BOZVJ6aHdJ=-w400-h224-p-df-rw",
+    "source": "Bloomberg Law",
+    "datetime": "2024-07-22T07:00:00.000Z",
+    "time": "Jul 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Still Versatile, But Cushier and More Sustainable: Nike Pegasus 41 First Run Review",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxNNHk4ME40VHRIRkRDSmoxbFZuVEhhS2pOSXRlaW9zZERmblhHMk5xUUpORDdEeF9xVUpQb2JCbG5sa1gyODhCWGZ4YU01ckp5c2o3cjdxVUNLVUdmbkpiNWNSUjJ1YjR5QV9falZOcW5aMjR1aVdXLV8zLW5kXzh5a0sxa2RVUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVdVelV0T0UxcmQyTnRSMUpxVFJDb0FSaXNBaWdCTWdrTm9ZeEhQbVU4c0FF=-w400-h224-p-df-rw",
+    "source": "Outside Magazine",
+    "datetime": "2024-06-14T07:00:00.000Z",
+    "time": "Jun 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike cuts sales view on choppy demand, outlines $2 bln savings plan",
+    "link": "https://news.google.com/read/CBMi0AFBVV95cUxPRUZDT0IwVmxWX3FPYm9lazc1amFTMGh5d0Z1WWRHeWktQXhCbkhUeU8zRktReTJmNElGVnJHQnprRV9PUl9QWm5FU1ZpUjVxOVp0dGdwcW1vYVUzdWlwcnctQXB2cVJZTjNCRzNrcndidUhFX2lZQkVhZkxIZnVEQVhQUGJ1V1Y2OFpUOGdEVm1LN2pybFJDalVXMmlGUGM2OHJDUTFjdVZkWlJxODdrazB0OXhPQXk2V3VhcHBMbERmXzY0OUtLUFVFQWVWNWxI?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFkRmxFT0ZSbmVrWlZRMmhXVFJEN0FSakpBU2dCTWdZQkFJNXJIUWc=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-12-22T08:00:00.000Z",
+    "time": "Dec 22, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Nike Sneakers I Prefer Over Air Force Ones | Reviews by Wirecutter",
+    "link": "https://news.google.com/read/CBMib0FVX3lxTFBGQWdDdDhtbU1kcUhUUEpjd2lSV3V6SzRiOU1VMFhoS1hOYUo5ei00Mmd1VzNEQWdSUTVPVlVoeGEyc2QyTXBIS3lJenFfb3RWOFBGYTBBcmFXRnJ4VlduQnF5V0xBX00yajY0TG14aw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTNiMGRtWjJVeVZWb3dlbGN5VFJDZkFSaS1BaWdCTWdhcGdvb3lNUVk=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "MLB and Nike are fixing the bad jerseys. But was there really any difference in the first place?",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxQc2doSG96Yzh2NnJPczNQYXVFU2VuZ29ROHAzalJXRGFHOTA2ek01enZzdU9fVHhsVE5wZTVydkNITW1oSXJnWXRQWnB4MWpEZHlKWlBWQ3JWU1YxSjhOcVlScWlpOHFIQUNIblFEeEtlMGhjdFJiM3VCb3RYVkc5M2p2WnFwVGtHeGFZcTF5MXdQLVNDalBNT2QxMlM0TGIzSFR3ZldNX3BPd3NuUG1N?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhOR0oyWjI5SVlqZEpXRmxYVFJDZkFSaS1BaWdCTWdZbEJZcUxrUXM=-w400-h224-p-df-rw",
+    "source": "Bleed Cubbie Blue",
+    "datetime": "2024-05-20T07:00:00.000Z",
+    "time": "May 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike's revenue in Greater China 2009-2024, by segment",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxNNEpaR185S0pFWTNhTENsRk5DeTRIVDdGQWEtS29xSDJGVVZGcWJtRnJFMEZaNlpfZWs4WWV3QmJ2dC13MHoyX1VRQXdUb3g3WDZrcmZtZ29RUUpOb1FlTWl2a2FTek1jOXZackJFUnFUN05sajI3R2VYSy1qblZTeENlVDBMMDB6N01RY0kwNy05WmNwWTMtXzlIeEVKTHJYcVdj?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTRMVUUyUzI1T2RFbG9iWFIyVFJEQkFSaUZBaWdCTWdNTllBWQ=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-08-02T07:00:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike fans operating on a budget will now have more shoe options",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxQNDR4RVpxck1XR2xILWJZWWpVbjBaQUpEekVWcUdWblRRMlVoSHprUFpwNjdlNE1qQzF0Z3djNmF4WGRSYlJjZmpXMDhHRml5alFXcTBZVTdYOFFhNzdqT19QRlU2T29CNlpHaFpKV2cyWmFZTWZSeUpGd1YwTmdPU3J1M1JfOEJWcVZvOW5YdGo4UXlxbnJyUHJTY21HMUVpUnBsVjFB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVhSazFtWTNWUFFYTmtWVlZrVFJDb0FSaXJBaWdCTWdtRkVJeExIYWlwU1FJ=-w400-h224-p-df-rw",
+    "source": "Inc.",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike Pegasus Trail 5 Review: Killer Comfort From Road to Trail",
+    "link": "https://news.google.com/read/CBMieEFVX3lxTE1yRjk3eHIxY1NQWUJuWDNiNjZCWENfYkIzLW90QzRZMVEwWkh1MnNUUlIyYTNBYWxma1RyamRJcExDRk9uRWp0VnZwXzRLWlVta3l2M1NKbFRnTDVDRlZ1WnphLWRYRGxhaWNNMDBYNElNb0RhckhtTg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1ZVEJGT0VNdGEyZFpSRmRsVFJDM0FSaVRBaWdCTWdZWmM0YXJMUVU=-w400-h224-p-df-rw",
+    "source": "Believe in the Run",
+    "datetime": "2024-05-31T07:00:00.000Z",
+    "time": "May 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike to sign Caitlin Clark to deal as hotly contested sweepstakes comes to end: report",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxQdEFiQ1lGNE50eDN6VnFQZnBDR1VHTktJTDg2dFJYNWZYNGt5T0VNMDhfWHJkYW9OZlZndlNPUlNfSUFSVTNHM2NRanZQdWxYTFFrRVJwX3JRR1BiR29DUEp4T19leWVhdTVERzllSTdGTHRrNHY4OVdaRHBzTmZnM2pSeHZMeTZQTHljZU5YZkxPZ3hTMjhLUzJ6NVRmQkZaTzREeUx1eGgwcEZq0gGyAUFVX3lxTE91d19fTmtQUnhoUkxnTmIwcmVlSW9Cd2hKTERFUU8yT1Rnb0dfVE5RTkdlMnppZTF6LW1SLW5CTEdsdGxEdW9US0hyYU9yQ3NCU2h5SkNGSDVvUm5UN3lEV2EzOVdFVVRReVpMTm14bzNjNG11amtsSjJ4XzkyZnRMWV9DSDFQa3FpRWlBT3BTdFN4eVhCQUJRdnFIVXJjM1ViUGgwb3JjanpDb1htNldDSXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhUSGRDTTI1RFpYWkxiV3RXVFJDb0FSaXNBaWdCTWdZQklvekptUWc=-w400-h224-p-df-rw",
+    "source": "Fox Business",
+    "datetime": "2024-04-21T07:00:00.000Z",
+    "time": "Apr 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike to lay off 2% of employees, cutting more than 1,500 jobs during broad restructuring",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxQUXhUa3Q1d2FhUVF3cXBrTG9nNGZfOFFWSlJKZVV6UW02ODN4WXdtRHJnMEx2NHhPblZmQ1FsWk14azdQc0dwZTJ1dUdUS09BVERrWlBwcmpleGhyN1FlWnJfUS1IV0JZeGRJMmZIM1FlMFdGWXNrSlV1dms1VTV0Tlh3MEg3b3RnTU9rMjdhQ1NuUk44LU03VlQ2TnZaZjExYnBUZdIBqgFBVV95cUxNSi1qbjFMb2xWNjIxa01ReG1PN3ZvY09mX0pCY3hVR0NNRDZVWmdpZnQxSHVncVdIVEFKQjBONGNjYnJZZ3lERFJLN2N4cmxBTi1SX3Baaml1bGxRdGlnb3lmdnVkTE5qeXBqX1k2d08wZVdZS09ScHRDT3FKaUxJV3ZkQ01iZnJpRHBHU0lEUW9sVm1sandGNEQzRG5uRC05Q243UDVTblhMQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTJNVlJvWnpCcmRHSTRNVFZPVFJDb0FSaXNBaWdCTWdrSlFwYkZvcWhNYVFJ=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-02-16T08:00:00.000Z",
+    "time": "Feb 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Official Nike Team Apparel Store Now Open",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxNV0pEX0dFdm9naVlhYmh4YkZCNDhTTTZVaTJHR0pWX1dLUHlpMWNpQ1BnQlRWUzQ1VTVBbnQ4QXRwTENKVk5SYlFzMjlXTFUwZjVjc0dXd1hzMl9PeTEwemJ5aGo0NGdqUXBPS0hjUldCQ1F6bEcxYU1OelpHQjlOdkY2UlhWc2E1X3dF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhibEk0Y0VkUWJtMUtlV054VFJDb0FSaXJBaWdCTWdZVk00NUlzZ1k=-w400-h224-p-df-rw",
+    "source": "Eastern Illinois University Athletics",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Caitlin Clark will reportedly sign a sneaker deal with Nike",
+    "link": "https://news.google.com/read/CBMihAFBVV95cUxOOWJGWWdwTEFEdkIta2J0X1BXZjNQNWVES1VIX2FSM241U3c5d3htYVNxX2UzYXVhMHBKM21WbG8zcGVCcl94S181TEJNVTZiTTFZcEw2ZUN1MDVMbkUxLXg1UU9kSU94UXpCcGZ6RTljcHUzbURCRktxcndrVTRSYTVvRTXSAXtBVV95cUxQMDN2S3lUWHNJNEluWGFlV0kxUl9zOE4zVllKdmY1SEdick84bVdVQWhFOEZnaHJlOVZxZ2NrSE5ZMzRCNVVWTHRqYk5fR0pGTTdURmxGazlQWHI1U3ZSaVM3X1VZZ0hpNkpkeWR3YlZFZUx3MTJJQkhkcDA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFNWHBqYW5kaVNXRTBhRmhyVFJDb0FSaXJBaWdCTWdZWkpvd3FsZ2s=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-04-22T07:00:00.000Z",
+    "time": "Apr 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike addresses flaws in DTC strategy as Q3 revenues come in flat",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxQc1JiNWt0eFBrZURfem9abHRLbktXM2VvQTloMmU2anMwTnFLTTdodmEyTXRPUmZCTTE2cHRZMzlJNmRnWFZMdnAzR3F5Q2Y5dVl2Zkp1dW1wVXFpRXg0MUdBS3ZzTmJiblFXREo5Wkd1SVhXMGYyM0xlRURjaHptMi11UjhXWFhsTUtZNVNpc0NoVjUzcXVXNVp3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9ZVlYzVUZSdGNYVmhUMFZyVFJDb0FSaXNBaWdCTWdhVlVZcXFyUVU=-w400-h224-p-df-rw",
+    "source": "Retail Dive",
+    "datetime": "2024-03-22T07:00:00.000Z",
+    "time": "Mar 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Is Nike Retroing Its Most Expensive Grail Sneakers? | The Complex Sneakers Show",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxPc19fQWZxajAtVUh6aWNsaEtzRHFZSUNmcEtwdHp3TmluNXUyOEFpeXk1ZE9CUzd5NU9ZellBMHMwQ1dCTlAzVkFzZkxJa2MwemNKVjNWQzJuOEdUVGNPTFAyYS02TjFtWmdCRjdsU0xhZmk0RFQzMDNxdnhxRnZZWjJTVFFIZ04xZ0xUY2RtWGk3aEZUMnc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVaM2xyTjJwVFNXVkJMVzVhVFJDb0FSaXNBaWdCTWdZQklJWmd4d1U=-w400-h224-p-df-rw",
+    "source": "Complex",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike's North American revenue 2009-2024, by segment",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxNWWF2R0xSUjI3U2ZycHJsVEpDY0tvVWtfanZXcW0zT2lvbXRhbnVqRkU3SkxWT3dKZ2VMTjd5VVNnYkdmajUxZXc0c3VKWkU3QlVKeG9RLU90cTMtN0pWbUFsWTQ0RWo2N2tGSlZqYVNuZjNuM3lfQjVwTmpGc1NCU2Z0SVpRWk42Q2xNZjc2UTVUZ2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNVZTSGQ0ZFZsQ1ZtUTRUMWhWVFJEQkFSaUZBaWdCTWdNSmNBbw=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-08-05T07:00:00.000Z",
+    "time": "6 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike plots $100 sneaker line as shares plunge in worst-ever drop",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxNNXhmUTZTMTgtVm5kVTgyWndhTzdoQTBFYjVKVVlnS1ZjY3hJNW1hN0ItX0tBSVR6SGJYS283NG1mU0hneEdqVnRtS3Z5N3NNOV9zd01QQktPNW1WaHVSSnAzUW02a2NfalpxZnB5QVk4dWh1UGJnU3o3Q19aUG16OXlManR5OXlDUWZTb2dzdnBIQVdTN1pXcUF1RzZyd0UzZkQ2aDJBWWsya1hFNUg2bUQzcGhSRlZnMGVqT3FZN0Y?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlZVmhtY0RWNFNWaFZZME5FVFJDM0FSaVRBaWdCTWdhSlJJNnFvUWM=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "NIKE Direct revenue worldwide 2009-2024",
+    "link": "https://news.google.com/read/CBMifEFVX3lxTFB5a1k2czRoVFc1b0NBUTZPMllId3dXUzl4R2VCZnVqYnhJUl95Zl9Yb2FNcU9uX0toRjdTd1FQR2FITnBldzhmRi1NQlBCSFF6RjgxcHRfaE5qbnc0Vm4xX0luVlV2V1plbHpjVlFpaDFhc0xoc3RnOFVwYnY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHdNRmN6Um1adFJWQjJVMmxKVFJEQkFSaUZBaWdCTWdPQndRUQ=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-08-02T07:00:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike set for rare sales drop with focus on US demand, direct-to-consumer pivot",
+    "link": "https://news.google.com/read/CBMiywFBVV95cUxOQnRuZ2lxTU5tREdnYmQyTjBXOWRZZm94WnFla2dNaDBVRllpQUxGeGJYZEpRYmhKNXRlVTRFaHNESmtRcU5oUUFJTzdMV0RLWTNnaUd6ZmlYcGpTb09VbXI2VjVBTDh5QXBUTFMzOVVTb2lVLXRFNWdKMHQtRUVOZmk1amprdHJNMlZMNHVyb3V1aVo0NnNlX2ZBSmdobUxPVkROdkdhUlF1WHA4UTZSTFlBSjFFZEVJOGFRNl9fMjNobDZaVFhsS2xaVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iNkNnNXZUV1ExVkhNeVZrZG5RVkJJVFJDeUFSaWJBaWdCTWc0QkFKRE9DS1ltSTZ1bVc1YWFLZw=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike shoes found in Portland homeless donation bin sell for $50K at auction",
+    "link": "https://news.google.com/read/CBMioAFBVV95cUxPUVByZVhyWVgwZWRYWGI3Q0htUXJsSHNsaTRudU5wVVJfeUZuNUxkazBGMmhoRUtTVDk2THd0ZWdoOUx0VE1xbUFsZVJiOE1zZW5XWDhQN1luTWVPdTBRVzItY1lwSDRUc08wUmJwOXdhZGFFRFJDQXo3N1FONkhmeVlyUmNFUDZuUkpoWF8yWkpGTDBycktOZG1HVjFuMVhz0gG0AUFVX3lxTE9zeE5zNTEtYmxhNmNUOWwxd3ZENjBQNzRBcFZadWxlMGVDS1FfUUUwSE4xMWtlVVlaSEZ2d1A4blhTeWEzRkdwMVdQaHc2RWpkTllwOUkyQTlBMlRpemQ2RmllbmVwa0ZjRVhmY0MtT0VFWm9EMUVQa1Z5eHRBcnVBMEIwZWNfWVo3aGRjc0d2TExVcUtNVEdEYXRjLUJEYXhfaDUxVS0zWkJLX3ktcHhSNWhTUw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVdSM1Z0TldaM1VEZzNlamhRVFJDZkFSaS1BaWdCTWdZaEJvWXFpZ3M=-w400-h224-p-df-rw",
+    "source": "Fox 12 Oregon",
+    "datetime": "2023-12-18T08:00:00.000Z",
+    "time": "Dec 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike to permanently close NE Portland factory store",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxNWEtXaVM4bmF2VmJ5ZmhhczZwOEo0aUpPWnprOFhFdHhvbXRCTUd2WEdaNE4xYWNhYjNGc1pzckF1MWJGNExNbFlVN1BqekU0M09SbEVDLUZhdFhpSkVVbzJQWjEySE5laThhVjNsTGVYYkp6UkswYUlxM0N5bWM0VzB6VFl0S3huTjVMOWJ3d3hhaFBHWWlpcjVtS2VLYW5vVXgwOHBhYi16SjY3ZllERWlnQUw4OE5ic1dUcE1xTWXSAdQBQVVfeXFMTllKWHBiUGluQUphLThtVzJkNi1VOUxIbDJMd3RVT2xESEZHWWRBMkF0a29aT0NXcXZFYXZZc1l0TGlaVFhMMTRXcFoydEV5VUVlMGEtTmcwWW1lbWRRdUlFVVZHZThReHhGclYwYUZqUkJ6R05XdEVCOVQ1ZUxObVdVRFdBUTgtaWZVSENDMWxPYThEZzJjNm5lak9YWE8zaHRZVzF6TEZzUURuVkdiLXRpakdEZ3FHOWdER1RVR0VKc3I4bHo3U1ZSb1RKT09MZXhmYjU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNWlXbFJNV0hSellYaHhjVFpsVFJDMEFSaVlBaWdCTWdzQlFKU2hyQ2pRcUdyTGV3=-w400-h224-p-df-rw",
+    "source": "OregonLive",
+    "datetime": "2023-09-08T07:00:00.000Z",
+    "time": "Sep 8, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike brand value worldwide 2024",
+    "link": "https://news.google.com/read/CBMibEFVX3lxTE1JeXJ3R2kxN1lVQW5qV1RBSWZ4ZVh1cmE2QmlzWWZPSi0tTURUZm9pa19qUmdUTXZIMDl4R1JEbEUyVE80Q3o4YkZJY3JZX1puMFF2ZVA0ek1LdGhTYjMxUklBMlNTX1g4MllvcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNVJZblk1VFVsU1FYTmFVMGxZVFJEQkFSaUZBaWdCTWdPUkFoUQ=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-02-06T08:00:00.000Z",
+    "time": "Feb 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike expects more revenue declines ahead after ‘sluggish’ Q4",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxNNEFFRk9JcDJ3ZUIyOFUzWHhkX3U4enRaR05qMjhqb2VESm5yM2Z3TjU0MkJJbTFYUDdnVWg1LWRybElUdU1jX0Vrbmd3TF9aeTNRVGdyTkFfWFNvWE1kTUltVHJUUmR4UU9fc3BmX2x2QXpuX0k4b3FjYzZhSjBoXzVlNk5rMm5YeU9pWkFBUFJ3c3pFODktTnBqbGJhRm8?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJTRUpYY21oNldVaFZlbkZUVFJDb0FSaXNBaWdCTWdhbFFvck1IUW8=-w400-h224-p-df-rw",
+    "source": "Retail Dive",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike and Fanatics: Who’s Responsible for MLB’s New Uniforms?",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxPSUl2Q0c0QXdoTTFiUG1YR3BldFZjbmotcldLYUtKbVFNQndIU1pNZXMxTzBCN3FYQXB5cWF2X09mdDAzQkRLc0xNcEtOOEVNMk5uVWZva1pONkJENEhmODkzYmVUNVREOEdrdk14UEVvTVZ1MEc3ZlFxbVA5SWlHb1ZRT24wT1Byakpua3l2MXVfbmtH?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRiR1IwZWt4T2VFeFRiMGwzVFJDb0FSaXNBaWdCTWdZVlE0cnJuUWs=-w400-h224-p-df-rw",
+    "source": "Uni Watch",
+    "datetime": "2024-02-14T08:00:00.000Z",
+    "time": "Feb 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike urged to backpay garment workers ahead of annual meeting",
+    "link": "https://news.google.com/read/CBMiygFBVV95cUxNWnkybHFnU0Zzc2NGN0JnOGQ2SG9ta05kOEJDRkd4dV9DcXBacmxnX3p5OHBuOHUxOUQ4M0NMWU9BOG9COXNJYTlQTWpOWTNrSlBoNGxFUVczTHE5ZHVqbGFfNWZGS29uX0c0UURpd1lDbE5JLWJhcEhjQU96N2lSOHYyNnJSNlpNRHZOOGJUaXl0M3FwS2RrNm82U2J0SXRoZnd0TG5aNUk1bUhzbDRVaXNLX2JQLXJUdW9wQm5BZXJYLVJJd2lOc2VB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlla2xmVDBwQ2VGVTBWR2xmVFJDM0FSaVRBaWdCTWdhUmdZWk93UVE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-09-11T07:00:00.000Z",
+    "time": "Sep 11, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike forecasts surprise revenue fall as upstarts steal marketshare; stock dives",
+    "link": "https://news.google.com/read/CBMiygFBVV95cUxNTEU5ZkFKREJkaGVPQnVDUU1ic2pZMFhtUWpNWEl5SmJ0bGZEbndaakNzcldiQU5yUEwwbDhQUm5OUDc0SzB4VHk0RmFMM0lpck83ZHp1U1dIUnhpemFXMm9CVmtBOEdESUMxbktsS0RJNFM3bzdEWmZYckdudWItMFZzQzktSEZ3UllLWUJ6Q0tEcE5SRjQ0dWZqOWFwWnBzZ0VGTFlwanNzeG5MUzBRWjBDNW95cjNpSURPR3pEdnRlejVKRERHUkpn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZibTVEV25SVFZuTTBkR0ZCVFJDM0FSaVRBaWdCTWdhQmRJb0xxZ2c=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "As Nike bleeds market share, investors worry over relevance",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxPLVBpZnhMYlJsdnZfODZFX2g5V21jSVRocmFUOVdQUUN4d3l2T2J2UXpUYTBxRUZ5VV93OUVDRENtdy1jeWhncmNzbTJGVjdBZzRYWWtLUGVnNG9SQW9vSVRpY3F5bURiT2NzY3NvNXo5SXNlOFYyc3ExQ0IwMTREaml3eEZ4LW1wR3RXVzN4T0M4eUgxZzhHcG1SUjI3WXZsLUc2SUhFUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhWbVZMWDJWQlJYSlVjbVpzVFJDN0FSaU5BaWdCTWdZWk1vZ3BuUVE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike is in a slump",
+    "link": "https://news.google.com/read/CBMidkFVX3lxTE5PNFJTcGxFa3hEaG1ILWp1NUpMOV85QWEtNERMX0VVME1rRGhWaG5rLWZkdlg1NF80YmdveHEzMG5lb3lSUUt2WjUtYnFZWU9iT0h3RlNSQ0tIR1VFdU9Dck1LUFBlNFlWLTgwY0ZVT1FPTWdrR2fSAWxBVV95cUxPdG05dDZ1NUVqVFRrX2RCWUZKVUoyMlNfajBFdld6QzdSNVhMRUpaSFhjdVVMVElaRkM5YmtmQy03YVc0eW45NWpnSXEzYkhzNVNfSFV0U0RMa3hGWGhKUVUxOUdzazRfSWIzLWY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNWxURUZ0YldWMFJrRjBiVEowVFJDb0FSaXJBaWdCTWdzQkFJQkNKR01WNWdvOFJB=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike is changing MLB uniforms for 2024",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxNaWVid213YUlJNmV1bElyTmI0RWVXMDU5SlJZQ2hOcU9HLS1KVnNVQWZEOVhpeTZSblUycU00ZUVSOHlLYVU2NzRoNjJQTDYyb19fSVlSMjdOb1Y5bUNST2ZOMGZhTEY5SlBoRms1b3BXbDUzVnVhTndaY1hJdVlmVnRUdHFqYXVDTkRN?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXRkazl4TjBSQ01FNDRUVEp4VFJEaEFSamhBU2dCTWdrQk1JNW9tdW9sQ3dJ=-w400-h224-p-df-rw",
+    "source": "Bleed Cubbie Blue",
+    "datetime": "2023-12-20T08:00:00.000Z",
+    "time": "Dec 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike Faces Rare Slowdown Amid 'Short-Term Headwinds'",
+    "link": "https://news.google.com/read/CBMiZ0FVX3lxTE02TXhRcER1MWhyY19meEloeWpyeUZGSFN1WTNVeVBveXpwSHY5dzBid09FMTZaT1FXaVR3UkFaRy1ZdkJ5bVRwZl9udWpmYWFOQjU0bUhzWUVyZ2lZdGRRT0hJbzlfNjTSAWxBVV95cUxQc2d0dGdidXJBbTR0OUl1c2RlUnhiTi1BUHpXXzRtS2xXOWg4SGRTM0g0VGRueFB4ajQ3d1VUTktBSWVOUllMem9HOG1YNV9MWE1LanI3RGR0ZGxhTDVHVlNlT3BsRFhpS25pMzc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHdZMEZSY214alNWQkhMWEpEVFJEaEFSamhBU2dCTWdrQkFvemtFQ3lxS0FJ=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Color meets comfort with Nike’s Bloom Run Collection, new this spring",
+    "link": "https://news.google.com/read/CBMihwFBVV95cUxOXy1raHB1WVZfY09DbjB1bndHbEd4MjlNNGRQT3AzdUFONl9GZWtDSmVkUEpYR0t4OEplaG10NHRQeXprSU54LXdKMDlOM2p5cjJyNFpYUTNUNzRYbFRWLTdiNFRDRGtJbTBiUzJrSW10ZU11LU04aVhRNkViTFhNTHFnbWhOTGfSAYwBQVVfeXFMTTJ0dXhjdUFtV3RoWkc0a1RycWR5MHUzVFhkZDdjX2lHTW9iRWVFUXdaeEh2OUMydUxNNnZOdDAwamdkcDF6cS1qRk1PZWtfY0x5T2lBczN4dmV0eUFpaGF2dHV0R1NrQzBpdTR1YTlGQzdySmRHTHlBX1VRR2lQOVVBajAtcXRlLVJkN2g?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVdibUZxYkVWdmFsSXpOelYyVFJDb0FSaXJBaWdCTWdZQlVaVHJvQWc=-w400-h224-p-df-rw",
+    "source": "CNN Underscored",
+    "datetime": "2024-02-16T08:00:00.000Z",
+    "time": "Feb 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Lawsuit claims Nike CEO John Donahoe misled investors about the success of its DTC strategy",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxPZG9DRkZkOVRTVVRwUW0xdG9hWXFBVjhDWk5mc2VWeDlOemhqbi1JVlNrNmdkNlJYMzRKN01fRGZucE01X0d3dTdZUmN0WFBpYWdZNUdYbzY0LTBhdDNVZ1daNGFxUzJma01IT2tmM3BNckJ1WGFrRzU3SEdLMnBNa3BPOXRUZDJBOFpTMHJlLWdVRkdkd0E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9ZVlYzVUZSdGNYVmhUMFZyVFJDb0FSaXNBaWdCTWdhVlVZcXFyUVU=-w400-h224-p-df-rw",
+    "source": "Retail Dive",
+    "datetime": "2024-06-25T07:00:00.000Z",
+    "time": "Jun 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike warns of revenue dip as it cuts back on key products",
+    "link": "https://news.google.com/read/CBMivgFBVV95cUxOSGYyV2J1ZGZETGNRb3lRb05SMTlaYlZNcVdJMUZubEdRU0hWXzNzR2VYQnVIZFA1WDRNenpHYVdfdlROYVAwRGlpOGlFQWNvZ0FQdUQ3bjdwb0RPZzVtVkQzLWNTVDBFYkwwVjZzUmloX01LZXc5cXVjRHRYejNhMl9ROEVpRWZxZHktMnNla1NVZWg4T3BNNC1hT0pHY2t4WFhKcFVYN1R6cUNGVmNNNHNIV1NHNG5BbFZOWnBR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iNkNnNXZUV1ExVkhNeVZrZG5RVkJJVFJDeUFSaWJBaWdCTWc0QkFKRE9DS1ltSTZ1bVc1YWFLZw=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-22T07:00:00.000Z",
+    "time": "Mar 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "‘Phanatic approved': New Philly-themed Nike Dunk Low sneakers go on sale",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxOVkJOcTJhaDhlS2l2WHFLR1loMjBkZDFnM0lMZWJsZ253U3ZuYzkzT0RUVVd5N3hlNy1qdXFXWWpoTWo3V0NkTTZhc1dHNmRmdTlZbWo3Q280LUN2aUxibU56TjNjNlIyMTJSWjAxa0J3NDVTNTF5dTNoTVVhTzd6S05zRzN4VF9VLUx3Wm1RZ2E0NllmVXNLeFk0S3BzQ1FqU05DWTM5NNIBrwFBVV95cUxPc1I4aGY0TmpxTkxSa1lfUFlmLVNnZ0plaHBfQ2lmc3pwSGVjaWJLbEN4RHZidUtqbUZ4bmtvcWxrLUFrNS1oYWlLRG5taGpfdS10WWxmQmkwT0liWnVORVJKU2p1Uy1IdGhwUE1qeFlpUUl5OW1zVEkwM0ZRNVBKajM1emNlU3VCaFlWdTZHUGxrcmM3dFd3MEx0a2ZUemMxX25QaWN0RlE0SmxQQ0E0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNTJlbGN4YTJoWWNWUlFPVk56VFJDb0FSaXNBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "NBC Philadelphia",
+    "datetime": "2024-05-23T07:00:00.000Z",
+    "time": "May 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike stock plunges on surprise forecast of drop in sales",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxPMVFISlItUHdURUJnNFZhYTE1LWVJQko0YkdDT1M4MW1PclF3aDhUdlV0UmN3LTdINXFzd2ptUDFubFRMSmpoZ25fd2NwZGVFQmM0WFlqYl9CX0xhOTFnc0pxM2tzMTN0N1VzMWJCT1lKT1lKbG5vWlZDaUhfZmh5YlhCV0lQUGFWU2RPd3BTYWVGVFJldlVjcWJ5VTR6alBfV1HSAacBQVVfeXFMUEdEX2NYWUtVUTZ1Tlpsdlppa2VjVmhLWTFxeUhFcGtqWG9SOGRDeTJGQ2JSNTVSLXhLQ2dtanZkbnpqT1h4RDFfSnpweUxhanZobXd5Y0wtNmNCMnhYR2Z2MW9mS3VOc1M1U3F5R0lTYW9TLUZfNVlSWVpPNTJKaHRMa1BUQ21TUkFOSm1xV2FIQjR3VjdJQTF2YTFXcEFPelpMdW80Xzg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhaM1ZVZW05NldWOW9kalpDVFJEQ0FSaURBaWdCTWdhVkE1RHN0UVk=-w400-h224-p-df-rw",
+    "source": "Al Jazeera English",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike leans on Air for multiyear innovation cycle",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxQcGJlbTZFbGh5MmpjUk5rOUF2M1FPTmVxZVBWUmg1cTAwNVVXRHAzYjJJa04wdFc0M2ZXTFJoMXpyRlBQXzI0VF8zY1A1YjN6LU9sNVNxdFJFcFJ4N2g2eHNPTVNCRXh2Y3N5bG5rRkpRejRhUER5UERRR3pwRmRCTmFmc3hkcGVtYnE1SlB4Tk9ZTnpW?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFhRTVpVTFoWFdHNW1ZVTFQVFJDb0FSaXNBaWdCTWdhWm80ekx0UVU=-w400-h224-p-df-rw",
+    "source": "Retail Dive",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike’s Layoffs Prove the Olympics Can’t Solve Its Midlife Crisis",
+    "link": "https://news.google.com/read/CBMihwFBVV95cUxPSkpLZXJmaHdDWFZSVjBJM1ZCZkk5MHE1OVU5NUJEUXctdFh1QlJrelpRSTYwUTE4SUlrelJEZzBQYkNhR3VlamY0WkZ1Y3cwTFFnUUtBS2xiN1l6elI2ZnJ1MVp2Smw2WHFiMXM0NXRraWFkbzdSTEVfMmxlMTNEY1ZDZ0FsbGs?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJRVU5JVlhVMGFtSTJTemN3VFJDb0FSaXNBaWdCTWdhZGM0eHVNUVk=-w400-h224-p-df-rw",
+    "source": "WIRED",
+    "datetime": "2024-04-22T07:00:00.000Z",
+    "time": "Apr 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Caitlin Clark is set to sign a new Nike deal valued at $28 million over 8 years, reports say",
+    "link": "https://news.google.com/read/CBMihAFBVV95cUxQZVZwUFlMY3FBYmgzTW42Y3dValNrd1lNRWZ1YlRIMVlsQ05tSkpPSXBjVC1HeFNnVTJYSlJ3ZExkY2VRRGxfaWdsMkVteTlMSTlFNU5EdC05clFUdXpYMEFqaFM0S09reGNtbElMMWlMSEJNTmpnbjYyVW1naEE4bVpjSlU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXlka2R2Y0VsRk5XUjVZbmhUVFJDM0FSaVRBaWdCTWdhdEk0aFFGUW8=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike’s self-lacing Adapt BB sneakers are losing their remote control mobile app",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxPVVBqQlhQd0s4X3dUV1VwZ3lja1lBd3dPaDc1M0lXajFhUlFaR3ZtdGdJaWZkdzdMbEJNdjVWRHFFSS02VGlLY1dHdTlVenlCdmlncWhZYk9IaHFQN1hzYzAyd2s3UDBoQmJ2ZER0Yl9Zd3JKTjA0S3c3VTlNX3hhUWRyM0V2bFJBZ1N6OFN2MTZCTEE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNUhibnBMUWpFMFl6WmhPVzE1VFJDaUFSaTNBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-07-04T07:00:00.000Z",
+    "time": "Jul 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Adidas set to benefit as Nike struggles",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxPN0Z2VjJJTm0waWNsSEpqUi0xdEo0UnZpSTUwZU8wYzBOVVFYVmhTcXF3VmppY3pfTVlRNFE0cmRBOC1BU0gzUFlwMkRQTWtmYTAwcXlTNzgzY1dQWk1VQ0pSTEtQWVVyLXJtb3lhcU5hd0hnWW4wbV9qdnkxVUZpYkpPVm5xNWdyMHZGLWVMOEVDTThiUmlOVDRR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhaMnBCY0RnMVpqZDJjVXhEVFJDM0FSaVRBaWdCTWdhZGdZcnZ0QVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "Jul 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "What you need to know about Nike’s grand opening in Fresno. Free stuff, what’s inside",
+    "link": "https://news.google.com/read/CBMihwFBVV95cUxOWjEyZ0JmdHJTWXRqMEJLemZ5ZVdISThZYTBTY0h2REdoRXVtWkhSR3BtLVdNeV9DWGtPRUt5azZSeldNZUFLRFpSdXNTUVR0TGUtOGxBeG02T284SVNoTFhqMWU3VTg4ckdPRld5X21aNEVyTTUxdUdfM20taEdWYkFVTzl1VjTSAYcBQVVfeXFMTW9Gcy1VX0dxQVZJMTNRMzFsZnhUb0FtWFg0Z0J0WVprUkhLc1pUOVh4cE9FUU1rbG1tU0EzNUg1cTZTWUUxd3RYZ2Vza0pOeVhfSGM4bkFGZHJJVGFHUXpENjRWOTNFODBvWEdYVzctNlFJVW9CY1lRV1RlU0kxZjBkOVRMSnFF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhXV3hsU0hkQ1ZrWkNWV2t4VFJDb0FSaXNBaWdCTWdZQmdJNEhOZ1k=-w400-h224-p-df-rw",
+    "source": "Fresno Bee",
+    "datetime": "2024-03-04T08:00:00.000Z",
+    "time": "Mar 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike Pledged to Shrink Its Carbon Footprint. It Just Slashed the Staff Charged With Making That Happen.",
+    "link": "https://news.google.com/read/CBMigwFBVV95cUxNNEdBUDVycGFXU1AwdHNuLXlRMV9Oc1VSaUZFcFdkbElwZmhISlc5VnduY0xORWRMRnV6WTJTUGtyQzdfUndMOWtYZjdiY3ZzcW5FTmxBX1h3bDN5SEZCdmJ0eGFPT01jYjJkUzJZN01tbURneVhUY0gxbXpoT1dXUDN2Yw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpObUZtUW1KelpWWmZPVkpSVFJDakFSaTJBaWdCTWdhbFE0YU95UU0=-w400-h224-p-df-rw",
+    "source": "ProPublica",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "explore NIKE A.I.R and its 13 new 3D printed sneakers made using AI, math and algorithms",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxNTVRjaDl3RmxmSWQ5c2NHLTJfeVkwcWJyMERBME4zTTJrSTJXLXFNOFBncEY1MmEtUDMydE5FWEs3WUNMd3d3NlF2YWpuUHVJVXhZU1lBemowWW9rNjdvcWpKRFdSQ054WHIwcXdfcExicHlSMFdzcFFRSG5wd3RuRTB5N0JtRWNsdHlmeFFrSmpxNjU2RW5yM09US2doTE5RR1ppLW1zcnA1M2Y1LVZ2c2RHYw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhlRGxPUnpWNlNVZ3dhV3RvVFJDb0FSaXNBaWdCTWdZWmc0S05TUU0=-w400-h224-p-df-rw",
+    "source": "Designboom",
+    "datetime": "2024-04-13T07:00:00.000Z",
+    "time": "Apr 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "MLB is going to fix the uniform mistakes Nike made",
+    "link": "https://news.google.com/read/CBMihwFBVV95cUxOT1R2alc0NDBUZ2NoY1JmdUtESTg4UnZSM3F5VEZNOHAwaVlCTXBfd1JmbDg1WEptd2pQVUxpMmpFUkZHNnNoZE5VcGV1dHlHTzNfOXA0UnZuMWNrQkhncmZ1Q0tzeVN0RFdJYUtmMllldmEzMjIxN3NhR21nY3BiUWl5bFFTYkk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNTVXVTlJZGw5TldWQk9UMEU1VFJDZkFSaS1BaWdCTWd1TkFZcG5CcVJNSUl1SlN3=-w400-h224-p-df-rw",
+    "source": "Bleed Cubbie Blue",
+    "datetime": "2024-04-29T07:00:00.000Z",
+    "time": "Apr 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike's first Michael Jordan-branded store in the US to open on Walnut Street",
+    "link": "https://news.google.com/read/CBMixgFBVV95cUxPWTZRRF9QWmZ1ZlV4bE1od0xhSURwMmFldzRKNzNZMFBRSDhHWE0xR1dRZHV0dk82MUVZamQzclZNQS0zam5zWk1DZURZX1BRWmNPeS1mWjB4bUtGcjF6OFlzMG1EWXpxV216ZEJnTmhlV0d6YkkxN1pycDQ0WVNrNnJocUtMVXlCTExnU1BvQ2VnMEdFUGNJNHMtSThyZl9pYXpxRTF1bXduRTdxbExncWNTaWRaRzZ4NDNEOGVBOXMzVWhWdHfSAc4BQVVfeXFMTXJURXpFWENwWGVqMUZ1U2FSWk5RUXp2ZUVYUGxsZi1rOWVDRW10SF9sR3lTV1l3ckF5aEFRU2xTZDR0dDRjVHVlY2w3OThuRnBlaUZUVUhxbFZKWHhUY00zcVVSNFZKYkVTeFRDTWtndE5oaHJvVWlKazVaLW5ZWGxwSHEzUl9Pdzk5a1Q0Qzd4dkdLcnRQeDV2VVpHZHNpT0RrelR0TTk4SGJBS1UzZVdfUkZmTU9PWUVwTW9WT0NfZHlfU1I5czBLMGh4S1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlObFJmYTFsbGIzcGZXSEJoVFJDb0FSaXNBaWdCTWdZQlVJcXVMQVk=-w400-h224-p-df-rw",
+    "source": "NBC Philadelphia",
+    "datetime": "2024-02-17T08:00:00.000Z",
+    "time": "Feb 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Caitlin Clark is reportedly getting a Nike shoe. Where is A’ja Wilson’s?",
+    "link": "https://news.google.com/read/CBMioAFBVV95cUxQWF84SXNNQUJ1TmdPcXRWeHlSd3QwbWpVTTJVZmdKVXdSVFhsbG1pcjFyYnU2d1RGUFZWQVdMWEEwMDBaRnpnWHBtbHBWNFpHTzdURk9NMjlNQ1ZrYmVqRzVxY3FScFdZbUJMQ24tbVFlYlE5YjcwbEl5b05hOEZveF9GWFAzMXNyVzgxNWN2X252NWJmUzl0MVg2dkZFZ0Zo?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5TR2w2Y2psYVVFSnZjbWxGVFJDb0FSaXNBaWdCTWdheE5JYVFIUWs=-w400-h224-p-df-rw",
+    "source": "Andscape",
+    "datetime": "2024-04-19T07:00:00.000Z",
+    "time": "Apr 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike sues New Balance, Skechers for patent infringement over sneaker technology",
+    "link": "https://news.google.com/read/CBMixgFBVV95cUxPY20tdmVQMDNZQmpuMTZRUEIzTkdBdTlBV0xGUTlkSEhPZkxRSThLVU1RcGJ2ZkdkaUxHSzRhc1ZndG5Kcl9EUnNXbE5fN2Q1ZERZQmxJdU9SU3o0NmtuX3U4WVJrQkpHWnFoYVRHcFZWNGFSTGtlMFFCN1VuUFJVUW9lOEcyUkR3dzlrV2NVcHA3alpkQjZDVmE2UjdnSmwxSjBjZVBqRnlMN2cxQ1lOdDM3Uk4tMEtFZk5MLXdyYWpPS2JOcHc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNXdSMmRUZW05VlpsbEJkRk56VFJDM0FSaVRBaWdCTWd1SkVZaEdHYVE5OGtpMFd3=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-11-06T08:00:00.000Z",
+    "time": "Nov 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "After 53 Years, Nike Just Had the Single Worst Day in Its History. Here's How It Happened",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxQempOWjh0LW1Pa09IVlgtR012cWowNkZYOG5fRXNfc3Rib2dZQTNzY1lDeFVFSWVNTkdON0RaRUhtN2tVMTRLbmVoNFJFdHZseXhCVnlrNE85LVdWRVFPRnNuUDBVdG5wdUVkV2U2OHZPelRBNUd2WXVaT05oQWtDOVlxZF9VTGJmWVBuMWtWZVNaZnN4N05lb1dJUU9YWGNCMHJPa01ia25TRkNaMjZN?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5aa2g1ZFhkRlVraElRblpMVFJDb0FSaXJBaWdCTWdZZE1veU1JUWM=-w400-h224-p-df-rw",
+    "source": "Inc.",
+    "datetime": "2024-07-03T07:00:00.000Z",
+    "time": "Jul 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Dutchman who gets Nike and Lego into wartime Russia’s stores",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxNYjZ2Z3NiUmtYNlVpNW1ucnhWSzVRSzBBUVBBZWtYMjlyZkRCdC1Ia2RBYkhvY3RxQkpuTDR6ZUQwNHlJcXc2LXBJRHFBU0V5b0ZEQnVHRFVoMHhIQy02RjZUc0ZvRmZmbnpNSU15dVcxUWdhX1FIRDNfOGw3UldDazI5R1BQM2RxLWZDajdvS2FOYVhiZ25nZ3huYi0wcnFZcUg4YWgxTW1QUzk1cHlxbnBlUkJmN0k?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBialpyYlhGaFFtZ3dTWGxLVFJDMUFSaVdBaWdCTWdZVllJZ1NNUVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-15T07:00:00.000Z",
+    "time": "Jun 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Giannis Antetokounmpo Explains Why He Signed With Nike Over Adidas",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxOeUZVQzU4M051SkpaeU9aSl9lNWVLM01ybkU2dDJqbGVWRjJkd0stOFJiSEFtZXVNdm92X1VBWXQ0XzVycm84RU5DZnlLNG1lMjU2RHNjWE1QVkRQWDFwWUk0aEJBV2I1LXgyZEtKNHpFQ0dqbU9vV0RhTXFiZFZTb0dZTWdJYm5wcWRuQnlzX0VFZncwR0IwT2lWeHFLQTdWaVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpiMDlUZFc4MWQxTTVVVEJ1VFJDb0FSaXNBaWdCTWdZWkFvb3FGUVU=-w400-h224-p-df-rw",
+    "source": "Sports Illustrated",
+    "datetime": "2024-04-19T07:00:00.000Z",
+    "time": "Apr 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike pares back supply as demand remains sluggish",
+    "link": "https://news.google.com/read/CBMijAFBVV95cUxNRWdwZHREWFBySHZKelAzYUltd3hRMml4LS0wdTRKTFJJNkdncUFPTFVLODhVQmc0cDdJaV84V3dGb2llbUJEdXBxcnV1Nll0Rm1kX2p2R19BaEl3NXB2LVN0eU5RdlQ2OEZGdl83QnJFZ3pYWlBrazlVTVUzWm42dV9EeXBGRFVBQjBtRw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNVdjR0psVjNWelpWWklXVEp3VFJDb0FSaXNBaWdCTWdNQklBQQ=-w400-h224-p-df-rw",
+    "source": "Supply Chain Dive",
+    "datetime": "2024-01-04T08:00:00.000Z",
+    "time": "Jan 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike veteran Tania Flynn jumps to Athleta as head of design",
+    "link": "https://news.google.com/read/CBMikAFBVV95cUxPd0l6OWFfSDFMRDFINHhkNXFoMnFGcnV4YlplajN6bV9SdXdjcHZmS3NZVTZsOUExeGF2eUFwT3lJc3luMzg1QS1pVUFwZERsVmdSYjZQLW5JazVaaUJEYWhJRy1qcDVrSDN1U2YzZHdBcHZiXzh4VDEta1pGbWVnb0RmbVptbndiZC02OTFfbVA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpOVzR5WVRkR1QzTllWRlY1VFJDb0FSaXNBaWdCTWdhcFJaRE9xUWM=-w400-h224-p-df-rw",
+    "source": "Retail Dive",
+    "datetime": "2024-06-24T07:00:00.000Z",
+    "time": "Jun 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "What Nike’s future looks like without Tiger Woods",
+    "link": "https://news.google.com/read/CBMikAFBVV95cUxOM3BWZGVLSTMtWDQ1UnVjWENxSFdLR1pQSVRUV3dnQWRFSWZ5WGZjSEtGTU9ZaHIybFp3MXlDZ2JSZnNmNFNlUDFUYnlOWU9sRm1nZ0xwYWhzT2puN3pKZlJxSU5hWkJKakhRT245N2tqOGdNLVRNOEZwLWcwOWRtS1NBRTVEeURmM0x1ZXJhaUM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBWRTlPY1c4eFIwVklVMWx4VFJDa0FSaTBBaWdCTWdZWlk0Z3FOUVk=-w400-h224-p-df-rw",
+    "source": "Modern Retail",
+    "datetime": "2024-01-10T08:00:00.000Z",
+    "time": "Jan 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "It’s official: A’ja Wilson is getting her own Nike signature sneaker",
+    "link": "https://news.google.com/read/CBMidEFVX3lxTFBYM0xQQnNYWmN2dVhKU1FsZzBmSndWR0NUS1l0dnBtbkhvVHYtNm1kalRzZjNLODFueElMVGlCREJjTmNhUG1LUzhvS1dwRUs1ZzNyd0pUYnJhcEc2aHRDOHBhVlVoTGw1UGM4Qi1FRVdqUWlH?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWpiMmRqYlhOQ1pEZEJkRVJTVFJDb0FSaXNBaWdCTWdhSlZwSUZwZ2c=-w400-h224-p-df-rw",
+    "source": "Andscape",
+    "datetime": "2024-05-11T07:00:00.000Z",
+    "time": "May 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike pins hopes on Olympics to win back market share",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxQUWEyVjYxWjlKWEFocUNrZ090UjVEWVdKdXotUndPTlZ5QVZOd0FaV01EZ1BmNmpBMEN6c0hWZkMwaE9MYjJmSm9zaEgyak5oNWlSRGhPcmQ5cTJ5SC10Q3JOQXUzVlBjZUd1cFl5c3R5Ym9lY0ZzQkhnUTNtT2dHb3gyT1NEVDJZdGoxMWJmSHF5cmNwRDRvZXdlSW9Dbk04dEFQVE9Sd3RLcUNUZWtpcEVGOA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDNjMGhXU1dwMWRFZExiMW8xVFJDM0FSaVRBaWdCTWdtTkJJaktHYWx6OHdB=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-11T07:00:00.000Z",
+    "time": "Apr 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "My Friend Chased a Pair of Nikes Across the Internet for Trevor Noah",
+    "link": "https://news.google.com/read/CBMic0FVX3lxTE1FRnlYanJBUmtCSU1rcU91a0k1TTNWX0s1QWJWY181SFNPSmw5Rll2TGhMRmFIU0R0YmxnYklZcHNmckhrNlQ5c3BEU3pkU0h4WDZPZEtQVEJjQWtTX2s3ZjMweGdyeHBCdEdiZThxYVdvMXM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWtTVlZFWTNkM1UycElZakpyVFJEaEFSamhBU2dCTWdZVmM1Q29yUVk=-w400-h224-p-df-rw",
+    "source": "New York Magazine",
+    "datetime": "2023-12-11T08:00:00.000Z",
+    "time": "Dec 11, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Steve Prefontaine set the pace for Nike",
+    "link": "https://news.google.com/read/CBMiekFVX3lxTE94MGFqM3dydFE0eTZDOEJJZUFPSFk4SVcxaWxDWnE5VEtxa21YUFF4T1ZCbnBONG5uWXVWRFVEYVQ2S2dQd09IUHhBUDZXbHFrVy1GX3hXcGRqUlBqSTdDZk1yZmNZbE1Oc2xGTXp6RXVJUmNENE14c3hn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhaak5hZERkUU1uRTBWVlpQVFJDb0FSaXNBaWdCTWdhMUZJQ1FGUWs=-w400-h224-p-df-rw",
+    "source": "about.nike.com",
+    "datetime": "2024-04-06T21:26:23.000Z",
+    "time": "Apr 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "On and Hoka are gaining market share, as Nike reports sales declines",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxPaXBXNkE2d1g1U0s3ZDZ1T3BFc2JPeE5yQTd3SzV5ZzV0LU5RQUlKTFZpaWtSYzlBMm94UEVfWDVFdmdIQWxDUzZFd21OTTI5bHhDZHFTb1I1endTbVdDdzZnSWd6WWVYRHF4dVVtaVZyX1FfOGlpVlIwazg5UTZobThIR2o1ZTBPelV2Y2w5S1FObndsTjUyV2F5ZWNCLXM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHpiRFpEVVdoYU1HaGFOMDg1VFJDakFSaTJBaWdCTWdrTlVJYU9TQ1FlendF=-w400-h224-p-df-rw",
+    "source": "Glossy",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike stock plunges as gloomy sales forecast fans growth concerns",
+    "link": "https://news.google.com/read/CBMiwwFBVV95cUxPMlA1VWZBb05ZbTFFR1BfeDgzWEhfS0ktcEU3ZnZKZXJ2NnhGTzJ2anZmOTZBX2dsVmpqaG8ySXJiM2h5SGZNNFY0VWJuUHBJMFhkU2tzZFR6TUpYOXE4THM4TEFhWlFiNHFUaFMtdTZTVUx6Q1JYSGdlcGphRTMzcWdqLUt0R0ZvX29uYzZVUWtQVUJzdkg4X3NsYlBaM1ktSDRRQm9Qc3JtU2U2NFpwNnVnUG45TERlS2FIb3JuNGF5NlU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iNkNnNHlVVzVKYVVsSFgxaHFSRkJFVFJDM0FSaVRBaWdCTWc0TkJJaktHYWx6OHloWHVTN29IQQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Strategist Guide to Shopping at Nike",
+    "link": "https://news.google.com/read/CBMic0FVX3lxTE96NHdjRnNjM0NjN0RxWkQ2NGc5WDJRMTl3aXdkdGRsVVB0WlpXYmJfYU9nNDczQkhFcS1td2VSZ0RXek5jeXVNTHVtWlFKVXJENW5wb1BIczhqcnZ0VDJyQXBQcXkzRWZ3LWJKTW56aHpBOGs?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1Sa0pITFZjeVNEbHZZV2R4VFJEaEFSamhBU2dCTWdhSmdaS21NZ2M=-w400-h224-p-df-rw",
+    "source": "New York Magazine",
+    "datetime": "2024-02-26T08:00:00.000Z",
+    "time": "Feb 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike Vomero 17 Review: The Better Pegasus?",
+    "link": "https://news.google.com/read/CBMicEFVX3lxTE5RTG85VldCc0hNb3ktRkNKYjVPZlNnVWRnNG9uaTFTYmpxdVNNWFBIQVZpblE4RkZFdE1udDRmdUkzN0JrcnZWSGNRRkJQa05HdUJ0RFg3OTRyTlEzTTAwbVVRa3NZZm04UDlTQVZJcUY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRWVlpXTjNFNVdrRmFhMTloVFJDM0FSaVRBaWdCTWdhTklKSkxvUWM=-w400-h224-p-df-rw",
+    "source": "Believe in the Run",
+    "datetime": "2023-10-06T07:00:00.000Z",
+    "time": "Oct 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "I tried the wild Nike heating boots that athletes will wear at the Olympics",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxOeDc1YTBEWENsRGpYS01ZZXpBNTdIa190Tzh3Vk5KcFAydTdFejhiZG9TTEpSMkE4NGZoRjhSLTd6NF9xVTUxNFAwdkYzRjNkb2xSWDBoczZTQmJaNm9MM0xYUWZDUnNFY1lrVndMWVZUVXZHeTczMnZYVlhVdWpNdXVHaHpremh2dG83YllnMVNPVmZKX1MxMzlCNGtpaDdVYlRka1hCMnJWSXZ2dlR6MWJ3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRWMUJUUm5OMFJqZFRaM2RIVFJDb0FSaXNBaWdCTWdhaE5JcXNuUVE=-w400-h224-p-df-rw",
+    "source": "Fast Company",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike’s shoes are setting records, but casual runners are wearing rivals’",
+    "link": "https://news.google.com/read/CBMitAFBVV95cUxNNnRPXzFQNDNkbjY0NjdxNU1uQ0RZcUl2RWxkZ2g2NnNWRjB5ZV9iYUl1MnJleXc3Q0NrUkVmNVVwZ2MwVWlBT0U4b2p5RVdYWHBCR1FHT19HUWRja0xnY0hsTVJoXzFUQkNjQm5sSXF0dms3c0FrX0wwLWJucXd4ZzFYMHhZMWZ5YlFQcHgyaEp0OExUaHBCYU9JSXlmZVg0V0h2XzZic2ExSkd3cG5xRUNkNzTSAcgBQVVfeXFMT3otOWtPci1NMVpULS1Gbmp5b1FReklqTmo0UmhDQzZtT3N4eVZ1RmNHZlh0ZEo2TkZnWndWSWRjRmFSTmZrd0h4ZEdfQ3c5a0RSRmpuY0VqQkRVMXY5UHkyTk1lWjhQelc3UXJScmVKRDAtbXFGYUd2MkZnUlZEQlhfVXcyMFB4aFdqQm5hR0VjaGNBU1drcVdVXy1NeDlIY0MwU1hUYmpzTnZobE51bUNWTnQyZGZidzdiSE8zZVpXdUN2WXA0ZUs?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWhRMnB3Y25SNlJEbHpUM0ZvVFJDMUFSaVhBaWdCTWdNRkFSSQ=-w400-h224-p-df-rw",
+    "source": "OregonLive",
+    "datetime": "2023-10-13T07:00:00.000Z",
+    "time": "Oct 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike’s sales are so poor it brought a former senior executive out of retirement to fix its relationship with retailers",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxPWEtWVHpVTGFVRTI0VEtEMXdHMUplUzluOVR0QkV6YjYtMG0yNkhIek1DbzBzMVYzdG5saFZwNjRibzBCNEs2MWpEenE2cGhraTFDSnlXLTBKQVlpdUp3aWtIbmdDQWZseU05WEE0ZmRuaENLcm9hT0FqZTFkejdmV19majlpal9xbmhqZUp0U1dSSHZSb0JMbG9OSEVFc1ZUcVZn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW9kVzU2ZFZKRE1ubzVaWEpOVFJDM0FSaVRBaWdCTWdiSkFvVDFFQXM=-w400-h224-p-df-rw",
+    "source": "Fortune",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "Jul 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "History of Nike: Company timeline and facts",
+    "link": "https://news.google.com/read/CBMibEFVX3lxTFBGYlc3R3MyLVZmNGppNEdPbS1XOFB3MmJpNEdZMl9zc05Ndm5XSzBOYkgyek5NbUl6SGJsVk9jb1lMcHBObTR1NFkwYWVJbXRoNlowLUUwTXpsUlVxR1VVbW9qV0xscDJlYlNTVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJhamhZUkVSSmJ6WmxUbVl0VFJEaEFSamhBU2dCTWdZRkk0eEdPZ1U=-w400-h224-p-df-rw",
+    "source": "TheStreet",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike posts its first digital decline in 9 years",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxOTjh6R2hPaU1kM0xsYV9HODVZQ0Rzb2ctb09WYlVxSW5jSHlxM1NTeVdsZ0dkLWpKdDVmbE4yNzJXQTdlREFJTWJYdjluQ2hlR1Q3eUc4QmtXT0NjQ1JDTUMtdlJaaFpQREN6ODdFRnlnZWx1YUxYLU5VZEFMMG93ckpmSmc2bTdEZUw1WlMwek9uRmJV?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpiRzV4VmtSNU1rMURPVlpzVFJDa0FSaTBBaWdCTWdZVmNvcHNMUWM=-w400-h224-p-df-rw",
+    "source": "Modern Retail",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike Stock Tanks 20% To 4-Year Low: Why The Sneaker Giant’s Struggling",
+    "link": "https://news.google.com/read/CBMiwwFBVV95cUxONWdLQU1CWi1zNk9YTmVHbzlscFlJOXJzNzU3bEZOenc3S2sxZUtpeEpqNC1GZWZfSHZFcFA5M053OVZkZ3NnaFdFUjdyUVlRZEZmTlRKZHNGU1V1VHMtcWpUZUkxTV9DdmVaWGNNOVpPVkZVQVlzRTBkRmt0ZXBqXzFIVDgzYTNrcEp2cGNqQ2p4TFZYZ1I5WVBmN25Fb0JqQUJ4eXEzRWVqcmhaazYtUklDRDhodmhpRXRKQWlwNUlXaFU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVVWMVV4YlhnMmVWODBSMWw2VFJDb0FSaXNBaWdCTWdrQklJU0QwR0lzaFFJ=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike plans $100-and-less shoe line after shares plummet following sales slump prediction",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxQaVZqX0czb1k1dTZfazQ3dWkzXzc5WXdpQVNuX1BGUVlDZGhVY1NoM2dwbDBwYkNYUGpNejF6WW82RVdsOGZFWW9ROEg3NXh4NjMweG1NN2d6OTR2aG9GYU92RzFxbzE3YW1NenVwVjdfMllvZWZSblBFZVI1aW5DejBJVFhjTldFM2tEbHVUOFB1dnhEY3U5cHhVQ3pTS0stWThWOFlzZFFTaTZPSmkxZnphZnBXOUNhXy1GMUNwT3E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9lRlExUjBvMFF6ZDNaUzFEVFJDM0FSaVRBaWdCTWdhbEVJQ3pGQW8=-w400-h224-p-df-rw",
+    "source": "New York Post ",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike’s MLB uniform fiasco continues with mismatched colors",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxOLXh6TFMwb0dZSmtNMTZfUzlOR1ZsNHJiZGxRTlBFZmR2MDZwdkp2MHBiSmJrZDlSOG5XeVdhM2h5c3N0QlNtNThOY2d3WEh0VGdjLVlVdy04Ynhyd3lOMldQR014QVFURTlpZnpZOXhYWlJhTlV3MFlmWkZ3UGQxelpoLUluWEFYUVNaOHQxWS1mQ3ZYelVTWTAtTmRwUk50VjVSRUNLeG5KMWtEZHZxOQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdZVE5JWkhWdE0xUnhja1Y0VFJDb0FSaXJBaWdCTWdZWlVZUXIxZ0k=-w400-h224-p-df-rw",
+    "source": "Bleed Cubbie Blue",
+    "datetime": "2024-03-01T08:00:00.000Z",
+    "time": "Mar 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Nike Ran Off Course",
+    "link": "https://news.google.com/read/CBMingFBVV95cUxNMGNnR1JFS05yeTdhRTFzRU5yS0dna1VMUE1HTHhrTUthWUhEenRnTzBDSmlaVzNsckliakJHNThLU2EySG1GbkcwMGJLUFRfOU9aZjAzLUtBSGo5V25mMlFmRGlleXV4TXJhekRQNFpSMklHVUc4dm1OeE1SMVJQY2VYZndkbzEyNG1ORGlTZXl4bnZ1UjVyblUycU5ZUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5hRTVXZVRoTlpHOW9ZVE13VFJDVEFoaTNBU2dCTWdZVkJxSUtrZ3M=-w400-h224-p-df-rw",
+    "source": "The Business of Fashion",
+    "datetime": "2024-02-05T08:00:00.000Z",
+    "time": "Feb 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Number of employees of Nike worldwide from the fiscal years of 2009 to 2024",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxOdnVDUFg4Uy05akxDYXhpUF9kSERJX3B3LUJQcjdyaDZpWXJhOTB1V3lzZGEzUzJqS05iRDBlNy1qa2l0VXFoYVFxcmVrYzBUbXFnX2J0cnEyemYtR2JPa0xTR0dmR0JGZ09KMnN0a1FTMnNzRjFseVBHRDZUbTNrM1FmQldYRWJx?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNDJSMHBuTFROaGNUZGpPRk5mVFJDOUFSaUtBaWdCTWdPTkFRdw=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-08-02T07:00:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike says it will cut $2 billion in costs in a major warning for consumers",
+    "link": "https://news.google.com/read/CBMihAFBVV95cUxNVkVYLUZxNmdBbDJaU1lwLU9WSGVlSkY5VFRHY0p5MndfVzJyRk5sWkVjT1owMFBSbXJVQUs1UTM1azhPbkJ6aTFQLW9xY0lKX0M0VElTbEJzUTU5elRicFQzOTZnai1acXBma1ZBcE1uWV8zaDNISVlsZ3BjeGZjbnItaGbSAXtBVV95cUxOLWZSZ3RqSmdid2dXRnJFVGF3M09lTlNIOHB2TnJjck85VHZ5V01QYWl1WFRRM0tJanJTc1dTT2tCVWZKellpRTBJRkJsUWdHTUFvQWpTUkx4Skk1Uy1UeGU4eG1xRGpoNVV6amt1SWlfaHFzSmx1a0FDYXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURSbG94TkVwUVVraHVibmhJVFJDb0FSaXJBaWdCTWdZVkVKSXBJZ2c=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2023-12-22T08:00:00.000Z",
+    "time": "Dec 22, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike annual revenue worldwide 2024",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxOWl9YSzFHR2JZcWk5LXh2SHBOeG1vcEprYmJhMy1nUWFLWWRQa2x3N0tLcDVWZ0NrUnFvTlF6SDNIN1V2OG9mcDZpSHFjQWU5UFpUNEdKdXZVWG9yS2U5RU5TU2NMdWJpVjBRTnc4aTBVVmR0UjVIeGEzMm5FR3FhSlNn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNU9WemRoVm14aFJqTmZRbTVVVFJDOUFSaUtBaWdCTWdNRkFnbw=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-08-05T07:00:00.000Z",
+    "time": "6 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Nike wants to make Air Force 1 sneakers harder to find",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxPRHAyM0hGN3V3cWZVSnhQN1hLUHA3ODd5eXVKVWtRVXR4Nmh3WmdRTG16MGlZME1OSGloN1IteVVyaVh6UDk4cWUtckllUzJVWWxLMnBnYzF6ZzVybGtzTzU0VnBfUW5zcklGeFRwSWVQcUpCR3ZGbS1LVnV5aWZlUldn0gF4QVVfeXFMTjZFWTlHMWkxLWxEd3czUGRrX3VTSXR5LWgxNlM1aVpZc2ZLNV8wenp4MVRxa1NQX2V0NUlReDJ4NG9ZSlh0M3p1WEdOSUhINVhlOERMMzROYTRfaEUzVXJXc1VZRk1Kdjl2TURxV3Y0Z3R1VDhMNUR5?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUxPVVZTVVdKcFYydGxWVk0wVFJDb0FSaXJBaWdCTWdPbEF4UQ=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-03-25T07:00:00.000Z",
+    "time": "Mar 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike is cutting about 1,700 jobs",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxPRDFVSmVIc0lGbzd6MmxfQXUxNmlxQTgxS2VLYW5CMXo4LUJueDUyR2ZPalp4aDdhcXlQeVZDdUU1ZUlsSzc4SWtxS2pCdmEyUVBsd0pDMUV2TkZqWk1pcDNOZGdHc1lSZzZUS1g2ZHhTQ2FuekszaFpwZ0NDRGdpNDZ0MXcxdThCQTlKVEw0ONIBhgFBVV95cUxPb2hSVzNFV1NlNGlYSU53Q2Q3bC0yUGRYOVh5ZzdaMlFTeTBURjMwT3ZENURJMExLbGJ0QmtwdG0xTGJPSmFHMnkxeXZxR0Y1U3UyOHhsbEdoUUVSQ2U0QkctcHNUVElubG9BcmFpUUtXQzZRYkwwUlpuVXlTbFVTS0F2WDJvZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9UR3R6U20xWlJWWnlZM0JNVFJDb0FSaXJBaWdCTWdhWkVvSXNTUU0=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-02-16T08:00:00.000Z",
+    "time": "Feb 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Inside Nike’s seven-year design process for the Nike Jam, its first-ever breaking shoe",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxQUWZidmZjeF9NWjEycTNESDNBTE44cXlpLXA2eUNwQXgzWDZRc0pNUGl5cENqTzJLUU9hbTZWZFJLWHBORjVsSzVMRVdHdUhHQjk1ZF9oQ3Y1RDQ2bUVXLTNCM1NCUHdnOEJhTmhzb01QUHMyNldUbktxbno3LXdfUk1xMnk0blI0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJOR2x3ZW5oaU0yNVdZV00xVFJDb0FSaXNBaWdCTWdhTkVZem1qZ3M=-w400-h224-p-df-rw",
+    "source": "Fast Company",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "A Review of the Latest Nike Running Shoes, Mid-Summer Training",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTE5xYTF0M0lDSkl6VW1ZbExPakY4bEZkWllONHV1MlV1bFFWS1FOQWloX1liUWJUUkRoS0dTUjBrWFh5VmIyUVRSQmg3Nkd1Rmw4bEMwYTc4eVJSay1tSFJhYnotcVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxUMUpUWDFvM1VIZHBjRE5mVFJDNEFSaVNBaWdCTWdZQlVaSzNIQWs=-w400-h224-p-df-rw",
+    "source": "Well+Good",
+    "datetime": "2024-07-16T07:00:00.000Z",
+    "time": "Jul 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Can This Nike Shoe Help Me Run a Sub 3-Hour Marathon?",
+    "link": "https://news.google.com/read/CBMiigFBVV95cUxOZmdEa0RMMjZ5Q1BCZm4tb3lpQTFkVmxjc3JRZk44ajN6RERXRkdaRDVjei1lME8zQ2tCUVFzc3hNZi1HWjBXQ21xc05oRmExRUpoNzQ3V1Ftd2lzMk9xaE1FTUlFb19aWHFWUHRDTm1QRVdyZTY3N1VhTlhLcnBhN3ZidVdGT1d3S3c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRNWEY2Y0doMmVVUnZhbk5vVFJEQ0FSaURBaWdCTWdhVmdwUk1yUWM=-w400-h224-p-df-rw",
+    "source": "Men's Journal",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike continues to innovate with its summer-ready running shoes and Olympics essentials",
+    "link": "https://news.google.com/read/CBMijgFBVV95cUxPMWpVRmUwUERBM2l3VGxCNXRYMS1EdnNLN1VhSE1WU2tiSTZBOUpxZ0RvRWhRaFdWcFJpRDBFTzBXMWk3aFN6b0xiVkNaakFZVmxOQi1VMEUydmxSZThjVlluNzlnTUdqZDVYWFdNRWxQUnpNNm03blVKWjB6a3ZNa3FUbGVta3k4LVQxVHN30gGTAUFVX3lxTE9YTXEtblhkLUJuNlhEeWZBWS1nNlZyTS1IQUgzbXNhWkxVMWZ2QldwS21CTkgyS0JsNlllcDk0V2pQZ2pHckVMUW9MLWdSSW9RcVp0cTZGRk1PTUY4SU53TWVRWVRvbDItZG5YTjUwNWZDZkdHZHgxeFNsT2hkZU5Fb1lmTTlMUWlKR05Fa0tpQXB3OA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDVlRmg2TVdGMmJsRTFablJ6VFJDb0FSaXJBaWdCTWdrTkFaS1lpR3R6d3dJ=-w400-h224-p-df-rw",
+    "source": "CNN Underscored",
+    "datetime": "2024-07-15T07:00:00.000Z",
+    "time": "Jul 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike's secret 'DNA' department hit by layoffs in $2 billion cost-cutting scheme",
+    "link": "https://news.google.com/read/CBMigAFBVV95cUxOVkNHS2ZJQi1UUi13R2EwWkdBZWphbVJ5LVl6Yk9uOW1Pc1RDUW0wZHYzRF8zYUVuMWo3WWROWFZMS0YyZUtrWDZMc196Wl8xelgwMXJUbVhkYkthQUM4Q1JzMldSMlN2TDdlaHFjOWRrTmVoano3MC1OQTJqeGFuSA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlaMWxSTmxCcFdGZzNibTkzVFJDM0FSaVRBaWdCTWdZTmtJanJSUU0=-w400-h224-p-df-rw",
+    "source": "Fortune",
+    "datetime": "2024-05-31T07:00:00.000Z",
+    "time": "May 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Your beat-up Nike Air Force 1s need to be your go-to party shoe",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxQS1hwdTlwaXlDU1NZd3ZhWmN4ZlR2SERBcUs0OFNmeng5VjRjYTQybVNITzU0VnFYdjhOT1pCbHVfYlMyaDNXUC13YXZrVE1wemZSUmctb2M1aGV0bFBNQmlNSDc4YjJqZ1hkdU80VnhVSDFvb3BNb1F0dWtSRHJacEgwQ3ExMm9xTGFZc0pPcktnLVFpemszcUJQX1NaZml1MEFGSFBPX2c3Nzll?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTZOMmx0YlhkQk4ydExjalJ6VFJDM0FSaVRBaWdCTWdPWkJRSQ=-w400-h224-p-df-rw",
+    "source": "The Michigan Daily",
+    "datetime": "2024-03-27T07:00:00.000Z",
+    "time": "Mar 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "EIU Athletics Signs Agreement With NIKE & BSN Sports",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxPa2xoSVVxNUViTzBZaThKUkR2Rl9qY1dISkYtSkR3THAwS3gxa3kwQWRfN0hoend6eGpVU1A1eFBCODBiV1BXMXkwRVR2OWlMd3N2WWVMdUtzWFJlOEpvX1ZNTjVTdnZxb0l3dlJNVjdFb1h0VTluZ0JRSV9pYThsOFJPb2k5Y05ld2pzcmNSVUJCQTliSEpNOThuUnFzMFNPVGNVeg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZlamQwYTJOV2RYaHRaMmR4VFJDb0FSaXJBaWdCTWdZTmtwSnZzUWM=-w400-h224-p-df-rw",
+    "source": "Eastern Illinois University Athletics",
+    "datetime": "2024-04-18T07:00:00.000Z",
+    "time": "Apr 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Focus: Retailers slash prices on more Nike sneakers in 2024, data shows",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxNYm5ROFFYbWF1VnJ6M21hUU9tUUtvVllmdWJ5bVhZWXBXcnN3WmxiUVR1NUJyMTlFYl9WbFBpN24zX0lEUmFpZjhhZGVjclZsRU5ucVlubDhwMU5uZHNZdmxIakkxWVlqbzJxTW1tTjcycFhGdkdfLUJHYkVhUFBwdF9LNGhSMWpYbWlvZGs2Vlh0U0g0SFJ2cFVSYTlwWVpyT3ptT2xQbVoxV3NraVZnVmx3aXAtNU5oSkE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUtlakp1WTJWaFNrcHFUa0k1VFJDM0FSaVRBaWdCTWdrQkVwTG5KS2laNXdJ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-02-02T08:00:00.000Z",
+    "time": "Feb 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tiger Woods and Nike end partnership after more than 27 years",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxPSHd2c21waEk5bHFGQ05CdFl5NHdyUWdxYTRLbXlCcjhMQktoWDlRdG9vTVRSSWI4Sk1fc1V0UWstSFM4N2dLNGdWWFZuWlhvRFNhUk5vRDNTY25SejRUWGdzQUVqaGFCM25QeUFRWU1YVzhPMnJQWXNRbVp5dWRrV3hB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXlSakpxYnpRMWFHWkhOemc0VFJDM0FSaVRBaWdCTWdhSmNvQ21wZ2M=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-01-08T08:00:00.000Z",
+    "time": "Jan 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike shares plunge after retailer says quarterly sales will fall 10%, warns on China weakness",
+    "link": "https://news.google.com/read/CBMib0FVX3lxTFBLcG1QZnhsV1B5NkxHM1FVSW9NWWdYNjZ1VXRmTmxiSTF1czVlOC1qS2gzQm9xNjhYallLXy1jUzh4cUJTUk9wZ0FJRjU2b3p1VGpXUTRnRy05azU1LTN2Y0lWdWsxa05xSm9nMjRZVdIBdEFVX3lxTE1HZjJvU3IzeTl1V0dSR2tUNjVSend4NUVTc1dXLUZidERhcFFzdzlaNEZhLS1ESXFvNWZ0bWtuUThBbkc5eThoSEtaRUtWeEZuVkhmSXQyVWxhSEJNZTVEbFRmUzBrUm9MbVRucExMSzl3SGM3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJiM2RhWmxSMWRXbDFObkp6VFJDb0FSaXNBaWdCTWdZQlVJSlQwQUk=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike CEO says focus on its own website and stores went too far as it embraces wholesale retailers again",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxQWXBfd0ZocHdweW5fTFQ4NTBOMkF3TzFOS3NueUsyN0RXNy1ETXFXREk3d05iLVZhUVE4bl95S2F6d3lUZ0ItbXQ2aVZ2RlYwTnFLOGJaWTM1VWtYeVFTdnNBb3pvMVJ3LXhPeHVjNm5xbFl2ejJ3SDdJcTVhOF9XN3dfYl90aF95cHRaY3pFdzd4bTjSAZgBQVVfeXFMTzd2R3hYRHktN2ZZSlNkdWMyN0FncnNVRnNfRnVBRFRTOEYtUWR5ZFVHUWtjY2NnaGNGYmR6OEREcDlzMzNMUXFpaVpGVk1MTUtVUWlEdFpUNEJqclFjemN4Q0RPcWdDa1dRMThQTjBnUDUtZWgzRDNueS1YM2llT2x0QTk3bDJmLWg1eDFmYkxJYVMtSGlVU3Q?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpWMWczYTNSMmRUaGhWbWgyVFJDb0FSaXNBaWdCTWdhWklvUXNUUU0=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-04-12T07:00:00.000Z",
+    "time": "Apr 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike misses on revenue for first time in two years, but stock pops as earnings, margins beat",
+    "link": "https://news.google.com/read/CBMib0FVX3lxTE1fUlRmS2xsVzY5TzVCTk9RdTV2ZTNGVVRMOWd0Z2x0TVZiLXNLTmExVTV6dzhQODl4dTdXNlF6MFhJemFYMmZtS3poS0wzbXR1cUtucWV6RE9FRG1nWGNNQWNjSUFQODF2djV6VlhLY9IBdEFVX3lxTE5WVkdrT0l3V2FlS0oxZ01WUnhyam5vVXQtZE5yVnVNTEFBSHlBTEdla3VTdGlFRFhSVXI4VzBrZEF2OEJsWjVZcTRpMlZTR0U0UmlIdmhBalRRei1nZHJJY1BDMXh6ckdVdWVBcDdMQXlrb0lK?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBhRlJoVWt3ell6a3dUM0o2VFJDb0FSaXNBaWdCTWdZZEJZekxPUVU=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2023-09-28T07:00:00.000Z",
+    "time": "Sep 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nike, JD Sports expand connected loyalty program to the US",
+    "link": "https://news.google.com/read/CBMikAFBVV95cUxQazdPWG9OR2ltLVBFVnM4ektOLVpUeWtLTXllZ0thZ2VpVDlOR1VJdTd2QzRsRHM5SUNUT0pFWW5RbjljbG0xclhuTHJ1T1FLeG0xV3ZnaVJDcnBDZXdQdThyTGlvVTEwcHJXdXlnSDNjenNHNHU1NHdFdmRsbS1FX29zVmVJQl9oVGl5aFEzMzY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNYMjlMWjNaZmFIWktjMUJCVFJDb0FSaXNBaWdCTWdZbE1JNk5MUVk=-w400-h224-p-df-rw",
+    "source": "Retail Dive",
+    "datetime": "2024-08-02T07:00:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  }
+]

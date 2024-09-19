@@ -1,0 +1,873 @@
+[
+  {
+    "title": "Data Suggests Growth in Enterprise Adoption of AI is Due to Widespread Deployment by Early Adopters",
+    "link": "https://newsroom.ibm.com/2024-01-10-Data-Suggests-Growth-in-Enterprise-Adoption-of-AI-is-Due-to-Widespread-Deployment-by-Early-Adopters",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRNMlpmWWpGc1IwNUlORWxKVFJDSkFSanZBaWdCTWdhQkNwd0NFd28=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-01-10T08:00:00.000Z",
+    "time": "Jan 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM RELEASES SECOND-QUARTER RESULTS",
+    "link": "https://www.prnewswire.com/news-releases/ibm-releases-second-quarter-results-302205863.html",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTNSMVJYV2t0WlprOUJTMHBJVFJDaUFSaTJBaWdCTWdNUllnNA=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-07-24T20:08:00.000Z",
+    "time": "18 hours ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM to buy HashiCorp in $6.4 billion deal to expand in cloud",
+    "link": "https://www.reuters.com/markets/deals/ibm-buy-hashicorp-64-billion-deal-expand-cloud-software-2024-04-24/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZMVE5WYzFOcVRVSjZjRnB4VFJDM0FSaVRBaWdCTWdhTkJxZ25DZ3c=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-24T07:00:00.000Z",
+    "time": "Apr 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM and VMware Help Enterprises Adopt Generative AI with watsonx On-Premises",
+    "link": "https://news.vmware.com/releases/vmware-explore-2023-barcelona-ibm-watsonx-private-ai",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXlla1JmYTI1SVdFVTVhM3B5VFJDb0FSaXNBaWdCTWdZWlFveUtzUVU=-w400-h224-p-df-rw",
+    "source": "VMware News",
+    "datetime": "2023-11-07T08:00:00.000Z",
+    "time": "Nov 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing IBM Concert: Control your operations with generative AI insights",
+    "link": "https://newsroom.ibm.com/Blog-Introducing-IBM-Concert-Control-your-operations-with-generative-AI-insights",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXhSMkUwY0Vsc1lreGZlVE5hVFJDSkFSanZBaWdCTWdPWkVRNA=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM adds AI-enhanced data resilience capabilities to help combat ransomware and other threats with enhanced storage solutions",
+    "link": "https://newsroom.ibm.com/blog-IBM-adds-AI-enhanced-data-resilience-capabilities-to-help-combat-ransomware-and-other-threats-with-enhanced-storage-solutions",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXljamhXVEZOaGJEbERjRzlJVFJDSkFSanZBaWdCTWdNZFFRbw=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-02-27T08:00:00.000Z",
+    "time": "Feb 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "A new chip architecture points to faster, more energy-efficient AI",
+    "link": "https://research.ibm.com/blog/northpole-ibm-ai-chip",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZjMmhuZVRGcE1HcHNaRFUwVFJDb0FSaXNBaWdCTWdZbGRJcU9yUVU=-w400-h224-p-df-rw",
+    "source": "IBM Research",
+    "datetime": "2023-10-19T07:00:00.000Z",
+    "time": "Oct 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM and NASA Open Source Largest Geospatial AI Foundation Model on Hugging Face",
+    "link": "https://newsroom.ibm.com/2023-08-03-IBM-and-NASA-Open-Source-Largest-Geospatial-AI-Foundation-Model-on-Hugging-Face",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5kVmR1TnpObFlYRXlSRFE0VFJDSkFSanZBaWdCTWdZQkFJemxDQWc=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-08-03T07:00:00.000Z",
+    "time": "Aug 3, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM and NASA are building an AI foundation model for weather and climate",
+    "link": "https://research.ibm.com/blog/weather-climate-foundation-model",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJPVFZsUVc0M01DMUNUR0ZQVFJDb0FSaXNBaWdCTWdZaGs0eHVQUVU=-w400-h224-p-df-rw",
+    "source": "IBM Research",
+    "datetime": "2023-11-29T08:00:00.000Z",
+    "time": "Nov 29, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Unveils watsonx Generative AI Capabilities to Accelerate Mainframe Application Modernization",
+    "link": "https://newsroom.ibm.com/2023-08-22-IBM-Unveils-watsonx-Generative-AI-Capabilities-to-Accelerate-Mainframe-Application-Modernization",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUVTSFpTVTIxTVVuSlhORlJxVFJDb0FSaXNBaWdCTWdrTk1wTG9vT2RFQmdN=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-08-22T07:00:00.000Z",
+    "time": "Aug 22, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Debuts Next-Generation Quantum Processor & IBM Quantum System Two, Extends Roadmap to Advance Era of Quantum Utility - Dec 4, 2023",
+    "link": "https://newsroom.ibm.com/2023-12-04-IBM-Debuts-Next-Generation-Quantum-Processor-IBM-Quantum-System-Two,-Extends-oadmap-to-Advance-Era-of-Quantum-UtilityR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW9kR1Z6YW1zNVpVeGtWa293VFJDSkFSanZBaWdCTWdhQlFJeHNvUWM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-12-04T08:00:00.000Z",
+    "time": "Dec 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Commits to Train 2 Million in Artificial Intelligence in Three Years, with a Focus on Underrepresented Communities",
+    "link": "https://newsroom.ibm.com/2023-09-18-IBM-Commits-to-Train-2-Million-in-Artificial-Intelligence-in-Three-Years,-with-a-Focus-on-Underrepresented-Communities",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdNMnB1VDJwak0wbFRkMnBYVFJDSkFSanZBaWdCTWdhZFpJckxKUVk=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-09-18T07:00:00.000Z",
+    "time": "Sep 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Unveils Next Chapter of watsonx with Open Source, Product & Ecosystem Innovations to Drive Enterprise AI at Scale",
+    "link": "https://newsroom.ibm.com/2024-05-21-IBM-Unveils-Next-Chapter-of-watsonx-with-Open-Source,-Product-Ecosystem-Innovations-to-Drive-Enterprise-AI-at-Scale",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUNhR3N4UWw5NGJIWTVTbmh4VFJDSkFSanZBaWdCTWdNTmNoSQ=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM to Acquire Application Modernization Capabilities from Advanced",
+    "link": "https://newsroom.ibm.com/blog-IBM-to-Acquire-Application-Modernization-Capabilities-from-Advanced",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNZalo1YVZCeGMyNWtORFZTVFJDSkFSanZBaWdCTWdhbEpaRExtUWs=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Report: Identity Comes Under Attack, Straining Enterprises' Recovery Time from Breaches",
+    "link": "https://newsroom.ibm.com/2024-02-21-IBM-eport-Identity-Comes-Under-Attack,-Straining-Enterprises-Recovery-Time-from-BreachesR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVabTFKVWtsbFVERkhiVmhYVFJDSkFSanZBaWdCTWdhQkdhRGhsZ28=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-02-21T08:00:00.000Z",
+    "time": "Feb 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM’s Granite code model family is going open source",
+    "link": "https://research.ibm.com/blog/granite-code-models-open-source",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXROREZMVlZkNWNFcERlVmxYVFJDb0FSaXNBaWdCTWdhNTQ0WlJ5UU0=-w400-h224-p-df-rw",
+    "source": "IBM Research",
+    "datetime": "2024-05-06T07:00:00.000Z",
+    "time": "May 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Application modernization with IBM generative AI",
+    "link": "https://research.ibm.com/blog/cobol-java-ibm-z",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXBPRjl6YzFCRmFITnpNR3hyVFJDb0FSaXNBaWdCTWdNQmdoSQ=-w400-h224-p-df-rw",
+    "source": "IBM Research",
+    "datetime": "2023-10-25T07:00:00.000Z",
+    "time": "Oct 25, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Launches $500 Million Enterprise AI Venture Fund",
+    "link": "https://newsroom.ibm.com/2023-11-07-IBM-Launches-500-Million-Enterprise-AI-Venture-Fund",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhibEJxY0ZKNlVrdERUVUZLVFJDSkFSanZBaWdCTWdhQkJvaElGZ1U=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-11-07T08:00:00.000Z",
+    "time": "Nov 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Introduces New Microsoft Copilot Capabilities to Fuel AI-Powered Business Transformation",
+    "link": "https://newsroom.ibm.com/2024-05-09-IBM-Introduces-New-Microsoft-Copilot-Capabilities-to-Fuel-AI-Powered-Business-Transformation",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXlPR3BPVmxkMmVGQkpVVEEyVFJDSkFSanZBaWdCTWdrQlVJUmp1ZVN3OXdB=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-05-09T07:00:00.000Z",
+    "time": "May 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Casper Labs to Build a Blockchain-Powered Solution with IBM Consulting to Help Improve Transparency and Auditability for Generative AI Systems",
+    "link": "https://newsroom.ibm.com/2024-01-11-Casper-Labs-to-Build-a-Blockchain-Powered-Solution-with-IBM-Consulting-to-Help-Improve-Transparency-and-Auditability-for-Generative-AI-Systems",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXRUbTlvVVhkME5YRlpOR0ZpVFJDSkFSanZBaWdCTWdPUkVnQQ=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Usher's New Look Embarks on AI-Focused Collaboration with IBM to Set Students up for Career Success",
+    "link": "https://newsroom.ibm.com/2024-03-07-Ushers-New-Look-Embarks-on-AI-Focused-Collaboration-with-IBM-to-Set-Students-up-for-Career-Success",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVNRFkyVkROTGNYbFNiak56VFJDSkFSanZBaWdCTWdZSlVvem1NQWM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-03-07T08:00:00.000Z",
+    "time": "Mar 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Study: Widespread Discontent in Retail Experiences, Consumers Signal Interest in AI-Driven Shopping Amid Economic Strain",
+    "link": "https://newsroom.ibm.com/2024-01-08-IBM-Study-Widespread-Discontent-in-etail-Experiences,-Consumers-Signal-Interest-in-AI-Driven-Shopping-Amid-Economic-StrainR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBhR3BQTms4MkxVTlFhV3AwVFJDSkFSanZBaWdCTWdZQkk0WlJEUWc=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-01-08T08:00:00.000Z",
+    "time": "Jan 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "NASA and IBM Openly Release Geospatial AI Foundation Model for NASA Earth Observation Data",
+    "link": "https://www.earthdata.nasa.gov/news/impact-ibm-hls-foundation-model",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFia3RxTTBOQlVYWXdXR0l0VFJEaEFSamhBU2dCTWdZaGRvRE81UUE=-w400-h224-p-df-rw",
+    "source": "Earthdata",
+    "datetime": "2023-08-03T07:00:00.000Z",
+    "time": "Aug 3, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM makes more AI models open source and lands Saudi Arabia deal",
+    "link": "https://www.reuters.com/technology/ibm-makes-more-ai-models-open-source-lands-saudi-arabia-deal-2024-05-21/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUZTM1J6T1hKeGJHTTRZVEJRVFJDckFSaW5BaWdCTWdNQlVBWQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Watsonx Can Help IBM Stock Gain Lost Ground",
+    "link": "https://www.forbes.com/sites/greatspeculations/2024/05/30/watsonx-can-help-ibm-stock-gain-lost-ground/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHhiV3MzVkVoTlUwNXJjWEJtVFJDM0FSaVRBaWdCTWdtSlFKaEdHcW8wQ3dJ=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Rensselaer Polytechnic Institute and IBM unveil the world's first IBM Quantum System One on a university campus",
+    "link": "https://newsroom.ibm.com/2024-04-05-ensselaer-Polytechnic-Institute-and-IBM-unveil-the-worlds-first-IBM-Quantum-System-One-on-a-university-campusR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhXRWd3TjFscWRDMWFZblExVFJDSkFSanZBaWdCTWdhbE1JaXRrUU0=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-04-05T07:00:00.000Z",
+    "time": "Apr 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Commits Up To $45M to Climate Adaptation, Starting With New RFP for Resilient Cities",
+    "link": "https://newsroom.ibm.com/2024-03-06-IBM-Commits-Up-To-45M-to-Climate-Adaptation,-Starting-With-New-FP-for-Resilient-CitiesR",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNURRV1JJZW1wM05GTmlUVGRSVFJDSkFSanZBaWdCTWdrcE1JYk1OYVVlOVFB=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-03-06T08:00:00.000Z",
+    "time": "Mar 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "The hardware and software for the era of quantum utility is here",
+    "link": "https://www.ibm.com/quantum/blog/quantum-roadmap-2033",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpXRUpUZFhwU1RGTnZjV05EVFJDb0FSaXNBaWdCTWdZQmNJNU1MUWM=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2023-12-04T08:00:00.000Z",
+    "time": "Dec 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Study: As CEOs Race Towards Gen AI Adoption, Questions Around Workforce and Culture Persist",
+    "link": "https://newsroom.ibm.com/2024-05-16-IBM-Study-As-CEOs-ace-Towards-Gen-AI-Adoption,-Questions-Around-Workforce-and-Culture-PersistR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhjWFl4UlcwM01UUm9OMU5WVFJDb0FSaXNBaWdCTWdhRmtZektPQVk=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-05-16T07:00:00.000Z",
+    "time": "May 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Expands Software Availability to 92 Countries in AWS Marketplace",
+    "link": "https://newsroom.ibm.com/2024-05-02-IBM-Expands-Software-Availability-to-92-Countries-in-AWS-Marketplace",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVTM2x0ZFVwVWFWOTBSVFZLVFJDSkFSanZBaWdCTWdZTk01U0huUWs=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Introduces IBM Consulting Advantage, an AI Services Platform and Library of Assistants to Empower Consultants",
+    "link": "https://newsroom.ibm.com/2024-01-17-IBM-Introduces-IBM-Consulting-Advantage,-an-AI-Services-Platform-and-Library-of-Assistants-to-Empower-Consultants",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBhRWRGZVVKclZsRjJWbTlQVFJDSkFSanZBaWdCTWdhQkFZS1loQXM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-01-17T08:00:00.000Z",
+    "time": "Jan 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Debuts New, State-of-the-Art Washington DC Cyber Response Training Facility",
+    "link": "https://newsroom.ibm.com/2024-03-06-IBM-Debuts-New,-State-of-the-Art-Washington-DC-Cyber-esponse-Training-FacilityR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVWbUl4VlRCM2JGTmlkamh0VFJDSkFSanZBaWdCTWdZQk1JaGxtZ28=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-03-06T08:00:00.000Z",
+    "time": "Mar 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "AI Alliance Launches as an International Community of Leading Technology Developers, Researchers, and Adopters Collaborating Together to Advance Open, Safe, Responsible AI",
+    "link": "https://newsroom.ibm.com/AI-Alliance-Launches-as-an-International-Community-of-Leading-Technology-Developers,-esearchers,-and-Adopters-Collaborating-Together-to-Advance-Open,-Safe,-Responsible-AIR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRaekp5YzBsaGIzbDFWVlU0VFJDSkFSanZBaWdCTWdZSllJWW0yZ0k=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-12-05T08:00:00.000Z",
+    "time": "Dec 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM to Acquire StreamSets and webMethods Platforms from Software AG",
+    "link": "https://www.prnewswire.com/news-releases/ibm-to-acquire-streamsets-and-webmethods-platforms-from-software-ag-302017616.html",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNDJUR0ZYZW5ObGNHdENkMjk2VFJDaUFSaTNBaWdCTWdNUlVnNA=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2023-12-18T08:00:00.000Z",
+    "time": "Dec 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Launches watsonx Code Assistant, Delivers Generative AI-powered Code Generation Capabilities Built for Enterprise Application Modernization",
+    "link": "https://newsroom.ibm.com/2023-10-26-IBM-Launches-watsonx-Code-Assistant,-Delivers-Generative-AI-powered-Code-Generation-Capabilities-Built-for-Enterprise-Application-Modernization",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNVamxTWldOU1JuVjZRWEZGVFJDb0FSaXNBaWdCTWdZQkVKQzBHQWc=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-10-26T07:00:00.000Z",
+    "time": "Oct 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Consulting Collaborates with Microsoft to Help Companies Accelerate Adoption of Generative AI",
+    "link": "https://newsroom.ibm.com/2023-08-17-IBM-Consulting-Collaborates-with-Microsoft-to-Help-Companies-Accelerate-Adoption-of-Generative-AI",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpYMHBtVmxGNVRGWnRSVzVVVFJDSkFSanZBaWdCTWdZTllJYnBzQWM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-08-17T07:00:00.000Z",
+    "time": "Aug 17, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "NATO Selects IBM to Further Enhance Alliance's Cybersecurity Resilience",
+    "link": "https://newsroom.ibm.com/2023-12-13-NATO-Selects-IBM-to-Further-Enhance-Alliances-Cybersecurity-esilienceR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpNa3MxUkRSM2F6SnphazVuVFJDSkFSanZBaWdCTWdZZFU0eFR0UWM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Completes Acquisition of Apptio Inc.",
+    "link": "https://newsroom.ibm.com/2023-08-10-IBM-Completes-Acquisition-of-Apptio-Inc",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVSazFHVWtzMmMySk5OMHRrVFJDSkFSanZBaWdCTWdZQlpJU0lyUVk=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-08-10T07:00:00.000Z",
+    "time": "Aug 10, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "NASA and IBM Research Apply AI to Weather and Climate",
+    "link": "https://www.earthdata.nasa.gov/learn/blog/nasa-ibm-weather-climate-foundation-model",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhjbmMwTVY5R1lYbE9hWEUyVFJDUkFSamJBaWdCTWdZQklJeWxvQWM=-w400-h224-p-df-rw",
+    "source": "Earthdata",
+    "datetime": "2024-05-22T07:00:00.000Z",
+    "time": "May 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Boehringer Ingelheim and IBM Collaborate to Advance Generative AI and Foundation Models for Therapeutic Antibody Development",
+    "link": "https://newsroom.ibm.com/2023-11-28-Boehringer-Ingelheim-and-IBM-Collaborate-to-Advance-Generative-AI-and-Foundation-Models-for-Therapeutic-Antibody-Development",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNU5ibVpQVkU5Q1UwOWxiMnRuVFJDSkFSanZBaWdCTWdrQlVJREpKYU5jdHdB=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-11-28T08:00:00.000Z",
+    "time": "Nov 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM defends role in remote learning fiasco at Council hearing",
+    "link": "https://ny1.com/nyc/all-boroughs/education/2024/03/07/ibm-defends-role-in-remote-learning-fiasco",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUhXWEUxZGxsdFMyOWZlVXhSVFJDb0FSaXNBaWdCTWdrVlFKQ3JwV2dXaUFJ=-w400-h224-p-df-rw",
+    "source": "Spectrum News NY1",
+    "datetime": "2024-03-06T08:00:00.000Z",
+    "time": "Mar 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM forecasts annual revenue growth above estimates on AI adoption rush",
+    "link": "https://www.reuters.com/technology/ibm-forecasts-annual-revenue-growth-above-estimates-ai-adoption-rush-2024-01-24/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVPWE4yVFVReFUweENWWGR5VFJDM0FSaVRBaWdCTWdhcE5ZenRuUWs=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-24T08:00:00.000Z",
+    "time": "Jan 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM announces new cold storage solution for digital assets",
+    "link": "https://www.ibm.com/blog/announcement/new-cold-storage-digital-assets/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1UVUYzV1VZNWRGUk1TbVZtVFJDakFSaTJBaWdCTWdZeEpJeXZHUW8=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2023-12-05T08:00:00.000Z",
+    "time": "Dec 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Advances Geospatial AI to Address Climate Challenges",
+    "link": "https://newsroom.ibm.com/2023-11-30-IBM-Advances-Geospatial-AI-to-Address-Climate-Challenges",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5kVmR1TnpObFlYRXlSRFE0VFJDSkFSanZBaWdCTWdZQkFJemxDQWc=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-11-30T08:00:00.000Z",
+    "time": "Nov 30, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Deloitte and IBM Collaborate to Help Organizations Accelerate Sustainability Outcomes",
+    "link": "https://newsroom.ibm.com/2023-11-27-Deloitte-and-IBM-Collaborate-to-Help-Organizations-Accelerate-Sustainability-Outcomes",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVTR3hrYTJaSFJqZFBkbVJvVFJDSkFSanZBaWdCTWdZbGxaVE1NUWM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-11-27T08:00:00.000Z",
+    "time": "Nov 27, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Acquires Pliant to Further Enhance Network IT Automation Capabilities",
+    "link": "https://newsroom.ibm.com/Blog-IBM-Acquires-Pliant-to-Further-Enhance-Network-IT-Automation-Capabilities",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBVRU5LYTFsV2IxOW9kRWhGVFJDSkFSanZBaWdCTWdZSmc0Wm5YZ00=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "What is responsible AI?",
+    "link": "https://www.ibm.com/topics/responsible-ai",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHlhRTF5VUVGUGFEQTVkMmRWVFJDT0FSampBaWdCTWdrQllaQ3dKT2lvN0FF=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2024-02-06T08:00:00.000Z",
+    "time": "Feb 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Think: 10 Biggest AI, Red Hat, Nvidia And GenAI Launches",
+    "link": "https://www.crn.com/news/ai/2024/ibm-think-10-biggest-ai-red-hat-nvidia-and-genai-launches",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhRMGxQWXpGSVlYUnVUa0V0VFJEREFSaURBaWdCTWdZTkVaSW90UVk=-w400-h224-p-df-rw",
+    "source": "CRN",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI",
+    "link": "https://newsroom.ibm.com/2023-08-31-IBM-and-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-of-Trustworthy-AI",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhNMDFsYUhOeGVuWnpNWGRwVFJDSkFSanZBaWdCTWdZTm9aUzBNQWM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-08-31T07:00:00.000Z",
+    "time": "Aug 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Announces New AI-Powered Threat Detection and Response Services",
+    "link": "https://newsroom.ibm.com/2023-10-05-IBM-Announces-New-AI-Powered-Threat-Detection-and-esponse-ServicesR",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNVVVVlZhYjBKb1lXRkhaMnhzVFJDSkFSanZBaWdCTWdPcGRSQQ=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-10-05T07:00:00.000Z",
+    "time": "Oct 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM and NASA open source the largest geospatial AI foundation model on Hugging Face",
+    "link": "https://research.ibm.com/blog/nasa-hugging-face-ibm",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRjSGhmTm5aTUxWSTVZM2hZVFJDb0FSaXNBaWdCTWdZOW9JUzFUQU0=-w400-h224-p-df-rw",
+    "source": "IBM Research",
+    "datetime": "2023-08-02T07:00:00.000Z",
+    "time": "Aug 2, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Develops The AI-Quantum Link",
+    "link": "https://www.forbes.com/sites/tiriasresearch/2024/06/24/ibm-develops-the-ai-quantum-link/",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNDRkbGhUV2poMVNESldWWHBSVFJDX0FSaUlBaWdCTWdzQklKYUpwS2R6QTl0Qmtn=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-06-24T07:00:00.000Z",
+    "time": "Jun 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Launches Mainframe Skills Council with SHARE and Other Key Organizations to Support New Generations of Mainframe Talent",
+    "link": "https://newsroom.ibm.com/IBM-Mainframe-Skills",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNVRlakZRUjBFNFdrVmZUVnA2VFJDSkFSanZBaWdCTWdNaEV4SQ=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-03-06T08:00:00.000Z",
+    "time": "Mar 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "New IBM study reveals how AI is changing work and what HR leaders should do about it",
+    "link": "https://www.ibm.com/blog/new-ibm-study-reveals-how-ai-is-changing-work-and-what-hr-leaders-should-do-about-it/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVdXbmgzVW5aQ1RsbFVaVEZ2VFJDZkFSaS1BaWdCTWdZWkE1d3lDUXc=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2023-08-14T07:00:00.000Z",
+    "time": "Aug 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Sevilla FC Transforms the Player Recruitment Process with the Power of IBM watsonx Generative AI",
+    "link": "https://newsroom.ibm.com/2024-01-23-Sevilla-FC-Transforms-the-Player-ecruitment-Process-with-the-Power-of-IBM-watsonx-Generative-AIR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxWRzFsVlZZd05VTmlabWsxVFJDSkFSanZBaWdCTWdZQklJWkRsQVE=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-01-23T08:00:00.000Z",
+    "time": "Jan 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "WPP and IBM team up to revolutionize business-to-business marketing with generative AI",
+    "link": "https://www.wpp.com/news/2024/06/wpp-and-ibm-team-up-to-revolutionize-business-to-business-marketing-with-generative-ai",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBWMXBTWVhsa1pFZDNjbHBYVFJDb0FSaXNBaWdCTWdZQk5Zak1uUWs=-w400-h224-p-df-rw",
+    "source": "WPP",
+    "datetime": "2024-06-19T07:00:00.000Z",
+    "time": "Jun 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Liberty, Insurers Take Hit on $1.6 Billion IBM Judgment Policy",
+    "link": "https://news.bloomberglaw.com/business-and-practice/liberty-insurers-take-hit-on-1-6-billion-ibm-judgment-policy",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWhRVWxEWWs1T1ZFeEVTMVZFVFJDTEFSanFBaWdCTWdORlVRdw=-w400-h224-p-df-rw",
+    "source": "Bloomberg Law",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "AI Drives IBM’s Quarterly Results Amid Economic Challenges",
+    "link": "https://www.forbes.com/sites/stevemcdowell/2024/07/24/ai-drives-ibms-quarterly-results-amid-economic-challenges/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdNbGROY0VRMGFqWm5TQzAwVFJDM0FSaVRBaWdCTWdhSlVZNW5MZ1k=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-07-25T01:02:03.000Z",
+    "time": "13 hours ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Palo Alto Networks and IBM to Jointly Provide AI-powered Security Offerings; IBM to Deliver Security Consulting Services Across Palo Alto Networks Security Platforms - May 15, 2024",
+    "link": "https://newsroom.ibm.com/2024-05-15-Palo-Alto-Networks-and-IBM-to-Jointly-Provide-AI-powered-Security-Offerings-IBM-to-Deliver-Security-Consulting-Services-Across-Palo-Alto-Networks-Security-Platforms",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRWV3BMVEhoUVJraDRTMDl6VFJDaUFSaTJBaWdCTWdZQmtKU0lQQWM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "New IBM LinuxONE 4 Express to Offer Cost Savings and Client Value through a Cyber Resilient Hybrid Cloud and AI Platform",
+    "link": "https://newsroom.ibm.com/2024-02-06-New-IBM-LinuxONE-4-Express-to-Offer-Cost-Savings-and-Client-Value-through-a-Cyber-esilient-Hybrid-Cloud-and-AI-PlatformR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlTVFF3U1ZOQ1dUWXdWMmx6VFJDSkFSanZBaWdCTWdZQlVwU0N0Z1k=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-02-06T08:00:00.000Z",
+    "time": "Feb 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Dun & Bradstreet and IBM Collaborate to Bring Trustworthy Business Insights to Fuel Responsible Generative AI Solutions Powered by watsonx",
+    "link": "https://newsroom.ibm.com/2023-12-13-Dun-Bradstreet-and-IBM-Collaborate-to-Bring-Trustworthy-Business-Insights-to-Fuel-esponsible-Generative-AI-Solutions-Powered-by-watsonxR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdaR2swYTBKS1lsSnNjalJUVFJDSkFSanZBaWdCTWdZTkVKQ2xKZ1k=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Kyndryl’s Future at Stake: Navigating Post-Spin-Off Disputes and IBM Contractual Ties",
+    "link": "https://www.tipranks.com/news/company-announcements/kyndryls-future-at-stake-navigating-post-spin-off-disputes-and-ibm-contractual-ties",
+    "source": "TipRanks",
+    "datetime": "2024-05-31T07:00:00.000Z",
+    "time": "May 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Earnings Preview: 5 Things To Know",
+    "link": "https://www.crn.com/news/ai/2024/ibm-q2-2024-earnings-preview-5-things-to-know",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpUWFZ1UWpadVRGZERRMHhLVFJEQ0FSaURBaWdCTWdZUkFJcG5pZ3c=-w400-h224-p-df-rw",
+    "source": "CRN",
+    "datetime": "2024-07-24T13:37:00.000Z",
+    "time": "Yesterday",
+    "articleType": "regular"
+  },
+  {
+    "title": "Honda and IBM sign Memorandum of Understanding to Explore Long-term Joint Research and Development of Semiconductor Chip and Software Technologies for Future Software-Defined Vehicles",
+    "link": "https://global.honda/en/newsroom/news/2024/c240515eng.html",
+    "source": "Honda Global",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "100 Years Ago, IBM Was Born",
+    "link": "https://spectrum.ieee.org/ibm-history",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHROV3BLWkdKWVVWa3hZbXhoVFJDeUFSaWFBaWdCTWdhVkVZRHJsUWs=-w400-h224-p-df-rw",
+    "source": "IEEE Spectrum",
+    "datetime": "2024-02-13T08:00:00.000Z",
+    "time": "Feb 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Consulting and Palo Alto Networks Announce Expansion of Key Strategic Cybersecurity Partnership",
+    "link": "https://newsroom.ibm.com/2023-12-04-IBM-Consulting-and-Palo-Alto-Networks-Announce-Expansion-of-Key-Strategic-Cybersecurity-Partnership",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUNaRWhuTFdWVVIycGFUMDVtVFJDSkFSanZBaWdCTWdrQmNJWWhNZVpxaWdJ=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-12-04T08:00:00.000Z",
+    "time": "Dec 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Surrenders SIEM While PANW Tries To Gain Ground On Tech Titans",
+    "link": "https://www.forrester.com/blogs/ibm-surrenders-siem-while-panw-tries-to-gain-ground-on-tech-titans/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlRVk51V1dKV1lrdzNiMmRvVFJDaUFSaTNBaWdCTWdZRlY1SUZKZ2M=-w400-h224-p-df-rw",
+    "source": "Forrester",
+    "datetime": "2024-05-16T07:00:00.000Z",
+    "time": "May 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM turns the corner with Watson: Why 2.0 is a breakthrough opportunity",
+    "link": "https://siliconangle.com/2023/11/11/ibm-turns-corner-watson-2-0-breakthrough-opportunity/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRWVk0zVVdwUWRFazBaM3BaVFJDM0FSaVRBaWdCTWdhaGtvcExOUVk=-w400-h224-p-df-rw",
+    "source": "SiliconANGLE News",
+    "datetime": "2023-11-11T08:00:00.000Z",
+    "time": "Nov 11, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM showcases Gen AI-driven Concert to monitor and manage enterprise applications",
+    "link": "https://www.cio.com/article/2116897/ibm-showcases-gen-ai-driven-concert-to-monitor-and-manage-enterprise-applications.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNTWEZIYmtwalFuUldNbWhUVFJDM0FSaVRBaWdCTWdhWmhwUktNZ2M=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "An energy-efficient analog chip for AI inference",
+    "link": "https://research.ibm.com/blog/analog-ai-chip-inference",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1iemd0V1U1a1VWVm9ia1Z3VFJDb0FSaXNBaWdCTWdhbGRKQ3RNUWM=-w400-h224-p-df-rw",
+    "source": "IBM Research",
+    "datetime": "2023-08-10T07:00:00.000Z",
+    "time": "Aug 10, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "RIKEN Selects IBM’s Next-Generation Quantum System to be Integrated with the Supercomputer Fugaku",
+    "link": "https://newsroom.ibm.com/2024-04-30-IKEN-Selects-IBMs-Next-Generation-Quantum-System-to-be-Integrated-with-the-Supercomputer-FugakuR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNNVE5QVW1sVloxRnRkRWhWVFJDSkFSanZBaWdCTWdhcFFveFByUVk=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-04-30T07:00:00.000Z",
+    "time": "Apr 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM and Apple Have Abandoned Twitter. I'm Grappling With Whether to Stay or Go",
+    "link": "https://www.inc.com/minda-zetlin/ibm-apple-have-abandoned-twitter-im-grappling-with-whether-to-stay-or-go.html",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTVZWE5UVG1KdVQwNWlXbGMxVFJDb0FSaXJBaWdCTWdNUlFRZw=-w400-h224-p-df-rw",
+    "source": "Inc.",
+    "datetime": "2023-11-29T08:00:00.000Z",
+    "time": "Nov 29, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "EY and IBM launch artificial intelligence solution designed to help increase productivity and drive efficiencies within HR",
+    "link": "https://www.ey.com/en_gl/newsroom/2023/10/ey-and-ibm-launch-artificial-intelligence-solution-designed-to-help-increase-productivity-and-drive-efficiencies-within-hr",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTNZVGhNUjJsTk5HUjZZV1oxVFJDM0FSaVRBaWdCTWdZQmNJYU91QVE=-w400-h224-p-df-rw",
+    "source": "EY",
+    "datetime": "2023-10-10T07:00:00.000Z",
+    "time": "Oct 10, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Watson, Jeopardy! champion",
+    "link": "https://www.ibm.com/history/watson-jeopardy",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWpXV2xIV1ZwM1NFZHZOWGRaVFJDT0FSampBaWdCTWdiQlFZd1VIUVk=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2023-12-09T02:02:46.000Z",
+    "time": "Dec 9, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Plans to End 5% Employer Matching in 401(k) Plan",
+    "link": "https://www.plansponsor.com/ibm-plans-to-end-5-employer-matching-in-401k-plan/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5hMEoxUWpabFduYzBaelZXVFJDb0FSaXNBaWdCTWdZbEJJU3VtUWM=-w400-h224-p-df-rw",
+    "source": "PLANSPONSOR",
+    "datetime": "2023-11-03T07:00:00.000Z",
+    "time": "Nov 3, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM doubles down on hybrid cloud with $6.4B HashiCorp acquisition",
+    "link": "https://www.cio.com/article/2095185/ibm-doubles-down-on-hybrid-cloud-with-6-4b-hashicorp-acquisition.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFVM0ZKTjFKekxXeGtlVXRLVFJDb0FSaXJBaWdCTWdhbFk1YU9MUWc=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-04-25T07:00:00.000Z",
+    "time": "Apr 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM suspends ads on X after corporate ads appeared next to pro-Nazi content",
+    "link": "https://www.reuters.com/technology/ibm-suspends-ads-x-after-corporate-ads-appeared-next-pro-nazi-content-2023-11-16/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhRbDlKUTBONFRHaGlValEyVFJDaUFSaTNBaWdCTWdhdGM0aVF1UVE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-11-17T08:00:00.000Z",
+    "time": "Nov 17, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Transforms the Storage Ownership Experience with IBM Storage Assurance",
+    "link": "https://www.prnewswire.com/news-releases/ibm-transforms-the-storage-ownership-experience-with-ibm-storage-assurance-302126720.html",
+    "image": "https://news.google.com/api/attachments/CC8iJkNnNW1MVWxXVUV3dFZUWlhZemxNVFJCcEdNZ0JLQUV5QXhGU0VB=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-04-25T07:00:00.000Z",
+    "time": "Apr 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "CISOs Grapple With IBM's Unexpected Cybersecurity Software Exit",
+    "link": "https://www.darkreading.com/cybersecurity-analytics/ciso-grapple-with-ibm-unexpected-cybersecurity-software-exit",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5UM3BFU1c5WFJuaFFRM3AxVFJDb0FSaXNBaWdCTWdhaEU0eE1HUWs=-w400-h224-p-df-rw",
+    "source": "Dark Reading",
+    "datetime": "2024-05-17T07:00:00.000Z",
+    "time": "May 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Stock Gains As Earnings Beat Expectations, AI Bookings Jump",
+    "link": "https://www.investors.com/news/technology/ibm-stock-q2-2024-earnings-ai/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTJSek01Ym05WmNYbGhaMUJqVFJDb0FSaXJBaWdCTWdNWlZBSQ=-w400-h224-p-df-rw",
+    "source": "Investor's Business Daily",
+    "datetime": "2024-07-25T13:04:00.000Z",
+    "time": "1 hour ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Francisco Partners to Acquire The Weather Company Assets from IBM",
+    "link": "https://www.prnewswire.com/news-releases/francisco-partners-to-acquire-the-weather-company-assets-from-ibm-301906730.html",
+    "image": "https://news.google.com/api/attachments/CC8iJkNnNU1VRUppVW5KclNFTk5URWhqVFJCcEdNZ0JLQUV5QXhGU0VB=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2023-08-22T07:00:00.000Z",
+    "time": "Aug 22, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM acquires Manta Software Inc. to complement data and AI governance capabilities",
+    "link": "https://newsroom.ibm.com/IBM-acquires-Manta-Software-Inc-to-complement-data-and-AI-governance-capabilities",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5UR1pNUlhGMllWSmFSVlUzVFJDSkFSanZBaWdCTWdhVm9wSXNPUVk=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-10-24T07:00:00.000Z",
+    "time": "Oct 24, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Appeal court overturns $1.6bn mainframe software ‘poaching’ ruling against IBM",
+    "link": "https://www.cio.com/article/2097925/appeal-court-overturns-1-6bn-mainframe-software-poaching-ruling-against-ibm.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpVa2N0Um1KRWRtNUNlbms1VFJDREFoakRBU2dCTWdZQlVJN0pKUVk=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-05-03T07:00:00.000Z",
+    "time": "May 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "What Are AI Hallucinations?",
+    "link": "https://www.ibm.com/topics/ai-hallucinations",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZTWFJtYUVoc1VXTjVObTlqVFJDT0FSampBaWdCTWdiRmtaTFZzQVk=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2023-09-26T15:47:47.000Z",
+    "time": "Sep 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Rensselaer Polytechnic Institute and IBM Unveil the World’s first IBM Quantum System One on a University Campus",
+    "link": "https://news.rpi.edu/2024/04/05/rensselaer-polytechnic-institute-and-ibm-unveil-worlds-first-ibm-quantum-system-one",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZjREphYjI5WFQyNTNWamgwVFJDb0FSaXNBaWdCTWdZZE1JcXRvUVU=-w400-h224-p-df-rw",
+    "source": "RPI News",
+    "datetime": "2024-04-05T07:00:00.000Z",
+    "time": "Apr 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM releases first-ever 1,000-qubit quantum chip",
+    "link": "https://www.nature.com/articles/d41586-023-03854-1",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRZelZ0ZVhGd0xVeE9VVkZ5VFJEQ0FSaURBaWdCTWdhbGNvNVBLUWM=-w400-h224-p-df-rw",
+    "source": "Nature.com",
+    "datetime": "2023-12-04T08:00:00.000Z",
+    "time": "Dec 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "New IBM Study Explores the Changing Role of Leadership as Businesses in Europe Embrace Generative AI",
+    "link": "https://newsroom.ibm.com/2023-11-08-New-IBM-Study-Explores-the-Changing-ole-of-Leadership-as-Businesses-in-Europe-Embrace-Generative-AIR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJaMFpYY0UxVlZGWm9Talp3VFJDSkFSanZBaWdCTWdaQkFwejBEQXM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-11-08T08:00:00.000Z",
+    "time": "Nov 8, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Intends to Partner with Fermilab’s SQMS Center to Advance Critical Quantum Information Science Initiatives",
+    "link": "https://newsroom.ibm.com/2024-07-18-IBM-Intends-to-Partner-with-Fermilabs-SQMS-Center-to-Advance-Critical-Quantum-Information-Science-Initiatives",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTNMVzQ1TVU0eFJYWlpXbVpmVFJDSkFSanZBaWdCTWdZSm9JeDF0QVk=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-07-18T15:04:37.000Z",
+    "time": "7 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "In-memory computing",
+    "link": "https://research.ibm.com/projects/in-memory-computing",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFVbVpZVmtoM2EwNVFVVzVyVFJDeEFSaWNBaWdCTWdZMUlJS3lvQUk=-w400-h224-p-df-rw",
+    "source": "IBM Research",
+    "datetime": "2023-12-07T14:33:01.000Z",
+    "time": "Dec 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Platform for Digital and Quantum Innovation of Quebec (PINQ²) Proudly Announces the Historic Inauguration of an IBM Quantum System One Quantum Computer in Bromont",
+    "link": "https://newsroom.ibm.com/2023-09-22-The-Platform-for-Digital-and-Quantum-Innovation-of-Quebec-PINQ-Proudly-Announces-the-Historic-Inauguration-of-an-IBM-Quantum-System-One-Quantum-Computer-in-Bromont",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWpUMHhxVkRSdlVHUkpTbk5KVFJDSkFSanZBaWdCTWdrQmdJcWt0Q1dDVlFF=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-09-22T07:00:00.000Z",
+    "time": "Sep 22, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM tells managers to come to the office or leave their jobs",
+    "link": "https://www.cnn.com/2024/01/31/business/ibm-tells-managers-to-come-to-the-office-or-leave-their-jobs/index.html",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWhiMWRHVnpoVmJVNVZXV1YyVFJDb0FSaXNBaWdCTWdrQllKQUFLMmdXQ0FJ=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-01-31T08:00:00.000Z",
+    "time": "Jan 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM Orders More Employees To Spend Time In The Office",
+    "link": "https://www.crn.com/news/cloud/2024/ibm-orders-more-employees-to-spend-time-in-the-office",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRjMlZTWkVKbk1GcDFUMnRhVFJEaEFSamhBU2dCTWdhVk5aNHFuZ28=-w400-h224-p-df-rw",
+    "source": "CRN",
+    "datetime": "2024-01-22T08:00:00.000Z",
+    "time": "Jan 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "The games that helped AI evolve",
+    "link": "https://www.ibm.com/history/early-games",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRUbU42TUZSSFUwcHljbVJNVFJDT0FSampBaWdCTWdZRk1vVFZGQW8=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2023-12-09T02:02:56.000Z",
+    "time": "Dec 9, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Building AI for business: IBM’s Granite foundation models",
+    "link": "https://www.ibm.com/blog/building-ai-for-business-ibms-granite-foundation-models",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1hbE5rTjI1UVRDMWFPRFJxVFJDakFSaTJBaWdCTWdZZGhJcU50UVE=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2023-09-07T07:00:00.000Z",
+    "time": "Sep 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Cleveland Clinic, IBM and Hartree to Advance Healthcare with AI",
+    "link": "https://newsroom.clevelandclinic.org/2024/06/06/cleveland-clinic-ibm-and-the-hartree-centre-collaborate-to-advance-healthcare-and-life-sciences-through-artificial-intelligence-and-quantum-computing",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVBYMlJ2ZEVGcU1VcExPUzFIVFJEQUFSaUdBaWdCTWdrQk1Zb3FIU2hyVUFF=-w400-h224-p-df-rw",
+    "source": "Cleveland Clinic Newsroom",
+    "datetime": "2024-06-06T07:00:00.000Z",
+    "time": "Jun 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM gets lift from software, AI demand as consulting slips",
+    "link": "https://finance.yahoo.com/news/ibm-beats-quarterly-revenue-estimates-201249343.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBjelZEUnpVNVdubGxaV3BoVFJDa0FSaTBBaWdCTWdZQmNJS0RVQU0=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-07-24T22:50:35.000Z",
+    "time": "15 hours ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Deep Blue",
+    "link": "https://www.ibm.com/history/deep-blue",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNVJRMjh4VW1Rd1RVMTJRMkpyVFJDT0FSampBaWdCTWdzaFFJQldxS043MUhqTHNR=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2023-12-09T02:04:41.000Z",
+    "time": "Dec 9, 2023",
+    "articleType": "regular"
+  }
+]

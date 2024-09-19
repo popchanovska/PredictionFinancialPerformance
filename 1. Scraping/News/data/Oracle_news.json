@@ -1,0 +1,871 @@
+[
+  {
+    "title": "Oracle and NVIDIA to Deliver Sovereign AI Worldwide",
+    "link": "https://news.google.com/read/CBMibkFVX3lxTE5SVlplUXQ4Rzk3dnlpYTFfRFRoTlpqdDZSdU5QWjBpZWlBb3M1cDQxU1VUcmM0V19XekxuVTZyWmV1blcxOFoxemdxMWhEb0ZwejVZTW5JU3BFU1ExMEpKRDJLNDdwV2FMdTFoYm93?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJTMjQzU2tWRlJVaHhSR3hMVFJDb0FSaXNBaWdCTWdZUm9aYlZ1QWM=-w400-h224-p-df-rw",
+    "source": "NVIDIA Blog",
+    "datetime": "2024-03-18T07:00:00.000Z",
+    "time": "Mar 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Sets the Date for its Fourth Quarter Fiscal Year 2024 Earnings Announcement",
+    "link": "https://news.google.com/read/CBMi6wFBVV95cUxQOWl3N1NwR2laYlBEbFVYeExnUGdSb2J6Z2o5TXFxQlV3dUFjaUl3LXEtckpNS1hoMExzLWI3UmUyTENqd2JaZy1tekJ6T0VPLUZ2alVkRnRMVmhUelVDbEhWSm1nOXhKQnlIWnMzbGp2UV95U2dtSjhjR0tuT0ZwRXhiQlRyb2NMQzFMWU1iTTBKQjFzX0tBalZRQkppNHo2Mmd3dWpVYlFtR2NUc0h6Tzc4cWdBMUtIY3UxVm5wQVJ1TG10X1J3ZG1qelY4dVdNYzh6S2paMEI4WHZBWEJvMFdzTkpiT215c2dn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iKkNnNU5UWFV0Ulc5bVNqUlVhbkJMVFJCOEdKQURLQUV5Qm8yUmxLaTlCdw=-w400-h224-p-df-rw",
+    "source": "Oracle - Investor Relations",
+    "datetime": "2024-06-04T07:00:00.000Z",
+    "time": "Jun 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure",
+    "link": "https://news.google.com/read/CBMi9wFBVV95cUxOREdTdnNiUlZDUGJmX1kxa1dxdnp3SG9XVzNKY2g0YlJPQnNsQ0NaWEVsNUcwM0tBVWdYbktjUnlGaFVFZDhjNEVjR0FianlHSkFBNWpCd3REamxvM2Jncm93UjNod1JhUXRmM3BCUmJwNGsxSEhhTlNBb2ppcVFibHoxN3RFVHcxWndweFVVdVJUNTFkaEdaM3A5ZWxnU3dvZkMzTFo0ZzM0QTR3Mk1GYU9uUkJkNzRTdGt5NUJlai1ybnM4QWZVUVRjSTBnaHFUX1FyMU05dWFxS0JOYWVaVUxYd2Q0c3VxeWQwc3hleTZJN1BRdHlB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVhazlsVXpsaVdFTTFjbU5PVFJDb0FSaXNBaWdCTWdhQm9KU2tPQWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle to launch generative AI-backed clinical assistant within next quarter, exec says",
+    "link": "https://news.google.com/read/CBMioAFBVV95cUxPUWFOd2s4c3JNVzF2RUJYY0FsSHV0cGtZaU9obnJ1MXlnV2lIUk5CMkI2M2tCS293WlMzZ0twUjlySldTMHlDcDhUR3UyNGRtWjE5R05PdWQ3U0dUMVFqUEhWNTBseldwMDY2U2dlRlJReFFuRkdyV2NRQXFySlFKU2xZUkZIRFJ3aFVuQzd6aUk4ZXpMMEVfeFQ3Uk4weU80?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZaRVZMWTNFelIzTlNYM0ZsVFJDb0FSaXNBaWdCTWdZNThZalRUQVE=-w400-h224-p-df-rw",
+    "source": "Healthcare Dive",
+    "datetime": "2024-03-12T07:00:00.000Z",
+    "time": "Mar 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle and Google Cloud Announce a Groundbreaking Multicloud Partnership",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxPbkpaMDlmSEl1aEllbnZaZVVUWlJFU1F1eXlLYTJtb1VJVEhLYnFSdTlfYV92X1dyOEtfdnFvQVhfSVdfYVZSQWFtdGZobTNrOEhDLS1kVy02a0thZXpHcXFoMmVuc2o4MGo3YndQSWxOaF9wdHRkYmw4dUJwVzBsY0F3amVBUmV3NlhaSDFjTE45aEVJTTZvU1IzcDI1NlNXeEUzOGxWeV9ES0RTbkwteFQwaUxsSXhiNEpvWXdObWZqWUR3LW9n?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJYMTkwTUdOd1QySnZkMHczVFJDV0FSaklBU2dCTWdZSnNaTEdQQVk=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-06-11T07:00:00.000Z",
+    "time": "Jun 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Oracle Health Clinical Digital Assistant",
+    "link": "https://news.google.com/read/CBMifEFVX3lxTFBGRXZmUXdtcE5ZTlFha1VJLTFmaGRyUFE4aFNsM1hsUnF4bG5NN2o1YnFza3hJelowdldMMzU0TjRqaGpWQ0hDUU42SUhwTkhuQ0Zhbk5WV0hCYTBnUmpyN2g4ajV1UjBMd0hkY0U2Q0xlRkdDYVpQSWpGWGk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTVXbWMzUTJsVmFuUjVXbWhzVFJEQ0FSaURBaWdCTWdrRmNwTFZKR214amdF=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-06-22T01:28:20.000Z",
+    "time": "Jun 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft expands partnership with Oracle to bring customers’ mission-critical database workloads to Azure",
+    "link": "https://news.google.com/read/CBMi5AFBVV95cUxOQjVxemw2eEszSUlOMGZraER6OVFZMGhySVljcGJLUGpDVDJkVFMzNmFLTHdEeUI3a3VJZlYwNS1NR3BldWVsSXJJaV8xZWJ2NzlRQ3lYcktrT3gxcVNQMnUyWWZQOU9hODB2ZTBNQks3TjN5NGpTQVFCb1UyUFpZZVZPQXg0eXlxRU9JM3NmYkF5NXN5akk1eWRsMllXeXhSaHJsYTZXRFJJS2ZkQjk2emhGdklBM004N0xuZWNrYzFJYm91UDhyb1l4c3diTlVlb0pYSnRGX2xtR3VrWS1maWJITUg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJZa0p2T1ZCUU1GOWxOekpZVFJDb0FSaXNBaWdCTWdhQm9KU2tPQWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "OpenAI Selects Oracle Cloud Infrastructure to Extend Microsoft Azure AI Platform",
+    "link": "https://news.google.com/read/CBMi0gFBVV95cUxNNmJkV2xIOUYzSVljbDJDM2tZTWNVLTI4d0xIVWVmdUs0MkFkUnV6eVllMDl4QnpXMlpRaU9lWDRReE9RS2tBdUJPblF0MHZFYW1KbGN0WFg4QVZrOWRXYXhaVXN6b01jd1BhWFpGUWwzZmRhdHdWUWVsaEt6WDRYMDh5WUlHUGZnVmE1cVpmeWpIYkhLMUZfcE1EQmwzY2NyV3Q2azk5a3hNMlBreHVpcnZ1RXU0THNlSllQV0h2RjhmT0FVQUlrUUp5dU5jQ0UxeXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNTNaV3MwU2xjd01WUkNibG8wVFJDV0FSaklBU2dCTWdB=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-06-11T07:00:00.000Z",
+    "time": "Jun 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Connect and Modernize Healthcare",
+    "link": "https://news.google.com/read/CBMiU0FVX3lxTFBJQVlzSXF3WF9EamJUcHk5N1FkeUdlay15VFhQOG04TjdUM2p3S3F4TzRyMjhaM0Q1X2hlQUJUTTJmcjFLVUE0WE1oeHV4N1pUWlVn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTBOMlIxYUUxeWNWcDJkREJKVFJDb0FSaXNBaWdCTWdrUk1wejFHT3FwWndJ=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-19T04:13:39.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Secure Your Cloud with OCI Network Firewall",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE54N2tINDd1d3oyeDljXzBnYXZSa2RMdjJ2OTUtTzdrVzJQVERMOFNhM2JDS1V2eFg1TFU3eFpCYTJSQkVzM1I1UWlpS2RpT1ppU1BsYlZWeF9ySzRpa2tKV3JzZzhDbnJw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUxkMmx0VEZvM1ZsOXRXSE5zVFJDaUFSaTJBaWdCTWdtRkFJeWttS2RNa1FF=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-04-17T18:05:32.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing the general availability of Oracle Globally Distributed Autonomous Database",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxQb1I0dzlKOVlOOFQ5UDFudlVOejJCTm9URFRvaEVJRlg3dVpXWktIQWRoSTVab2gzU3pkV3JQcTJ0MTdsNkFwRTM3cUszbnU0UXp2b00tX0FCNlJWaUhvVTZZRjBXMmZCMDh6NXFRMjBPNlNGalprMXpMMzZTLTlJNVBjOHZqT0ZOVndQRWI0bm9fejBGXzhoel9sUFV0T1Jxanc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZVVEZ4YTFkcmNVWjRhbTl5VFJDb0FSaXNBaWdCTWdhRmxaSW1OZ2M=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-03-04T08:00:00.000Z",
+    "time": "Mar 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Code Assist: AI Companion to Boost Developer Velocity",
+    "link": "https://news.google.com/read/CBMingFBVV95cUxPQ3I4YjZ1U0luWUhSeTdsYUswTTZlcTRsNTBReGllUFMzbFBsc2dHMnJKV21rLXZUcV9VRDNGZmlpWWZKcmsxTjRTQzhqa1NEWmtKNGk3ZThiRGRiWk9vckJ3Mk9SdnlRSWoxVmQzVHBsNVJOOG80cFhWYWVJODVzWThYYTYtN2I4UFRSWEdQeWcza1hfN25pMC03dkxqQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURieTB6V0UxbE4zTmxaa3RxVFJDb0FSaXNBaWdCTWdhVkk1UnBHUXM=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-07T07:00:00.000Z",
+    "time": "May 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Dynamic Routing Gateway",
+    "link": "https://news.google.com/read/CBMickFVX3lxTE02dWpJdlJ6ZGJKd2h4eWdmUFI4RERpMERNUHhzQUhockpHNEk5dHVnQmtTNVpCcnV0a2VVcGhzMFJFVmxIbTRVODJpclZfT05EV0VlZzRZRF9FTkJLckp6R3h4ckpzazR5SHU0ZVcwYVNqdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUphREJHTkRKZlkxSkdZMDVrVFJDbUFSaXdBaWdCTWdrSkFwTHZpR201UmdJ=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-04-17T16:47:43.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing the OCI Generative AI Agents RAG service",
+    "link": "https://news.google.com/read/CBMijgFBVV95cUxOQ2dHT2gzMGhEek1yWDg1b0xlamRGZ3FkeVp4UUkzRGc4VXljVEl0ZE05Rk5FRFNJenpCLUhlN0hYQTJ1Wm1ZdnFMdm1TMEFmSnY1SUtsRkt2QXphVWxkbTlHblZ1dnhZeUF0dkF3VEV6Vl8yTXVUSThDMDVYdkNNMFJaTmVJd0RGaklUTzNB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBkWEpwVDJoWlpsUkhiM3B3VFJDb0FSaXJBaWdCTWdZQmVaYkROZ2M=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-01-23T08:00:00.000Z",
+    "time": "Jan 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Private Endpoint for Secure OCI Access",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE5aWkQzV2tKdUVqUDU3QWFXbUlxRXBfUFZlb2dlMllKcDE5WVNMdmdZQTMtVnd2ejhxU0FFblhCVk9vT2lfVVFoZGhJeU12NnlhOTV2NkF3R2JIQndyLUxGUFJXY2dkNEtT?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFOVUZWWWtaWU9FUTBObTlxVFJDb0FSaXNBaWdCTWdhdE5ZNnVuUWs=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-12-21T15:46:36.000Z",
+    "time": "Dec 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "First Principles: Powering mission critical applications with Oracle Database@Azure",
+    "link": "https://news.google.com/read/CBMiuwFBVV95cUxOOTh2QVJSeWJSOGZJNFZVcmJVd054alBmWVNPRkg5WnhkWFFRU2RodXh4cTYxY19Xb2pvMXpsV01Hd0stSjR5bmVaVE8xOEk4STFVbmdXdkJidW0xTmllNVJfaGlhT1NmZF9hRXNGQTRlWm9FTlJuSWR0cmNqTzRvZ2lsSkRxUnJ4d2dhY0g0TGlkNEJZWUZoN1haaVl0Q3EtN0s1SzQyR3ZZOUdNWmEwM002aUFjTEJ6U09N?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNTa1pWVjBkeWVsUjJNbVI0VFJDb0FSaXNBaWdCTWdhTlVaVFZxQWM=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Watch Oracle DevLive: Build with Data and AI",
+    "link": "https://news.google.com/read/CBMiU0FVX3lxTFBraWtQbUxaeUk2M3gzaklsQ2prZWR3SkxCTDhNaldGUzFGM3V3bnhXdWpXTXBPVzJrUDFPY2RDYlc2TUNFT01zdTdBamxjMW9yb25V?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUplWE5FV2tZMWJVOXllRVpzVFJDWUFSak1BaWdCTWdhWms0Q3Z6UU0=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-01-08T18:56:15.000Z",
+    "time": "Jan 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Oracle Exadata Database Service on Exascale Infrastructure",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxNajFqNFI1OGI5TUxHeHpMUDFxRFQyeWZHd2NPS2xvRkE2TGxWS2RkLUJuZ2tjOGIwS2pGaktWTXYyUUdYUURsN3hEOENkX1JCQk5LR2FaMk1tUlJBM25uY2FmcEdBTGNUT0phUEV3QlAzWnFWcFU3NzN5ZXpvYWdlci1IRENrYkloTm8zRnpRdi1lWnNRODRHYU5rY2dGVDBuVVJJaHlzTVJwZmU4SEE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVjV3BPZHpaRVdXUm5Oa1YyVFJDb0FSaXNBaWdCTWdZTmNKS1pLQWc=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "Jul 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Diving into ‘Hydranism’ by Oracle Sisters",
+    "link": "https://news.google.com/read/CBMigAFBVV95cUxOZmM3cGt6SDdYZ2plUkRLbldLR0xEeGxmZ2RhV0hjVU5GYWhVS1VDYTJUd2pna09BT3ZTMjlQSHlMSlFzOU5BM0NKNjlneTZORERRanpTaFR5Y0pCS2tOaHdtUnMtTnVNM1c1N2xnV2pVTnJTOGZoTE1CdUVmcFJoeA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURUR2RhTUhodUxYZFNSRWxvVFJEaEFSamhBU2dCTWdhWmdvd3J0UVU=-w400-h224-p-df-rw",
+    "source": "The Trinitonian",
+    "datetime": "2024-03-07T08:00:00.000Z",
+    "time": "Mar 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Oracle Database 23ai : General Availability",
+    "link": "https://news.google.com/read/CBMif0FVX3lxTFAzVUtRUmFJcVBkQmJoLTVnTG1xN2lFRHQyQXFMa2NrR2FJYktQZVBOMHBlZWhHZTdEYWk0ZHdfbnlrOWZyUnhCYVAzSDZCdFQ1V2lrem9JSHNaLVl0bk9KQTMyOGtFbnZzYTdmdTZ5ejZVZFVRTDg2cEVQOVBvYW8?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVFibFZrUlZoNVdWVjZNRTUzVFJEaEFSamhBU2dCTWdrWmNvZ1BTU1I3ekFF=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and Oracle announce that Oracle Database@Azure is now generally available",
+    "link": "https://news.google.com/read/CBMivwFBVV95cUxOQ3F0eTctM0gtQlhra0NIWXROZFVVU2M5VEJvVkdjSWFEb3ljQTBhMlYwa3NDR3U4ejViaTdHdDFvNV8yNFR4cjJyb3kyalNlSjVJLTVoXzkxZVh3Z29mT05MeklCd3hPQ2Q2SEtfOW1tTkhveGp6aWt1bVdOVGl2THcyN0ppUmpVbnZFSlVoYWprRWpiZFlaM2ZKd3hKQ1UwR1g0eTRjQVBqRTN0YlQxbTlkWUl1UHBOZmJwQnZENA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJkSHAxUVd0TlZHVktUUzFZVFJDM0FSaVRBaWdCTWdZdFZaQ3ZwUWc=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Database 23ai : Where to find information",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxQNUtSMkxqTXdPLUpvelBWR0Z6dVB3U1ZEeDRmamlObTZXWTFpanBQT3NqVUhrS0lZZHhIZnRBRWlRTTEyOVVrWV9YRi1wa21CN29ZanlHVlFyNnNIdWtlVDZfZnJZTzFjd1FJUTNvTC1fWW1tNVFGUF9GeW1ZZWNyc3FMT3ktMmRWVFAwNGRsbVFFMXRB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNWxlbEkyVnpWaFJuRmhaMTlSVFJDb0FSaXNBaWdCTWd1Uk1vUVFVZU41YU5wZWd3=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Federal Forum",
+    "link": "https://news.google.com/read/CBMibkFVX3lxTE5nbHdiV1dZOVdkNlUtMXNWV3BqUWlXamthbGR0NDhZMUFBNndjdWhrMERGbWcwN0Vqb3NfMmhualB4MXRYdXRydFB2eHBUdFJDQWllOTJXa2d6TnlBakZWc2RNTnVMTGYydThXdmxn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVNVEF4VkhkRFRtZFNiVFpvVFJEaEFSamhBU2dCTWdZQmdJNUlzZ2M=-w400-h224-p-df-rw",
+    "source": "Guidehouse",
+    "datetime": "2024-04-25T07:00:00.000Z",
+    "time": "Apr 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Oracle APEX 24.1 General Availability",
+    "link": "https://news.google.com/read/CBMibkFVX3lxTE95T0lLdFR5ZVNGNG81elNZcUFtSmxRT2Nkd293X0pYMUFJQ0Z0N0NsNEtLcHRUUnBZRWduLWtTR2NfWFNOTi1vc2xLc01WS081Szk2d3JSVmRXUjdXRDRUV0l5dXQyRHpGUFVvcmV3?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "Oracle",
+    "datetime": "2024-06-17T07:00:00.000Z",
+    "time": "Jun 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft, Oracle deliver direct access to Oracle database services on Azure",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxPZmkxcnc0Ny1wLWQwWXdKWUpGbWwwYWlicEhYSE1jajhtX0YzZHphc1lZU2JKWDcxcHhSU0VnNm1NanJmdHZSN0kxbEZ3RHRVdUZ0VUlvZDBUVkxTaGlHX0RueGRtS1JMdVFialVhS2txcjZYVzNoWDJvRnllWmwzZDI1R3lYR1NBOHhnMDF4M0tFXzdjckEwYW0yQ2J1S1otQnB3VFZuVUlRdkQxenhoci1tNVY1QdIBtgFBVV95cUxPZmkxcnc0Ny1wLWQwWXdKWUpGbWwwYWlicEhYSE1jajhtX0YzZHphc1lZU2JKWDcxcHhSU0VnNm1NanJmdHZSN0kxbEZ3RHRVdUZ0VUlvZDBUVkxTaGlHX0RueGRtS1JMdVFialVhS2txcjZYVzNoWDJvRnllWmwzZDI1R3lYR1NBOHhnMDF4M0tFXzdjckEwYW0yQ2J1S1otQnB3VFZuVUlRdkQxenhoci1tNVY1QQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUljSFZGVURGVVltZHdhRTQxVFJDb0FSaXNBaWdCTWdZMVlKVFNLQWs=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Future of Generative AI: What Enterprises Need to Know",
+    "link": "https://news.google.com/read/CBMioAFBVV95cUxNV0RYbWR4d2JXWHppajlfdmdWRS1YN1NhWXFZM0M5X2VKZ1ZFazlNRUUtbWdjYU01M3Z0cUV3ZWZweHExdFhuakUxRkdKYzFjQk1TMC13SmNFVVFEa2lKRUVQLUNZajdhY205R2tEUFRySzNaV0xKVG1rQUZnNTFiajhHTlZ4UzR5VEl6b05lWml1ZlpweUoxRThpNktYN0U1?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZTbTUxVEdGU1dHSXlOVEJxVFJDb0FSaXNBaWdCTWdhSmNaTFNNQWM=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Base Database Service Adds AMD VM Standard E5 Flex Shapes",
+    "link": "https://news.google.com/read/CBMieEFVX3lxTFBkR2JkN3lmM1Byai1XQUYxa2JfbkhNSk9MQnBaUWtKM0V0OFpia0p0REczNlg0NVZCaEdtbjZVcEJWN3EwRzFjOVpKdWFHaXdqejdVSklBSXV4dF9IUTJtWFdxXzlGTmlLVzVMQzNpazlSdmE5Z1ZvVA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUVXVkYxYlZReFVHTjZNWE5pVFJDb0FSaXNBaWdCTWdrQm9vZ1B4V1NoVXdF=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Breville Oracle Jet is a $2,000 computer that also makes coffee",
+    "link": "https://news.google.com/read/CBMigwFBVV95cUxPT09CYkhlRng0bkEyMnpNZGVKNW9abjdkYkpXdW42RTFVcnVHTEZDcFVmNGQxU3FDZFhEdGZOTEdOQk5nT2RDUGU2ck9WdVdtMVF5aDNYUlFZMEp5YVVRQ0lNU1VnSjI3bU5mUGxDTVE2TTM4MFJlSGZySzZ0MGIwZUl3MA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpaekE0WVRSQk9EQlBTR1oxVFJDaUFSaTNBaWdCTWdZQk00ak5HUWs=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-08-04T14:00:00.000Z",
+    "time": "7 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Sharing Data from On-Premise Oracle Databases",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxNc0ozZl95MS1KeFdybVZvRFFyX3BjRFlsRXVqWWdDR2tCdVZRM0tyVVZlcm5lYjBnU05CX0d6cU5KazhmanJMZnQtRGJXZHZVR2NvNV9UOVk4MTZvRl9fS0gtVUhCVnozVEJsVUtqZFRXUzJidUxieUJub1N1bXlYY2tlZWpTZERNNUZVY2g1N3phMnRR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNkV2x6ZFhSdWFYZE5jbmxsVFJDOEFSaU5BaWdCTWdhQklaNkhuZ28=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-01-12T08:00:00.000Z",
+    "time": "Jan 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Exclusive: Oracle Will End All of Its Ad Products by Sept. 30",
+    "link": "https://news.google.com/read/CBMinAFBVV95cUxPQTNPVFdRdGU1SWFNa2pxc01oVUpWeEdiQkRoYXBrYmcyWnZEVjBHcVJjeGdwZ2FQZzRCSTJyMS1JQy1SWjVEVWd2bkZESnNZUEVaRnJqUXNCczJDZFp0UklYOFY3alZkNWhRVGpqZjNRRl81RU9QMWo5R2lZeFUtbExKTTAzbTZUcDA2MDhUU2tjbUNoSVJ3dzREd0c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRSVWd6ZDBwbVNGRkhYMXBMVFJDb0FSaXJBaWdCTWdhUmc1Q0lzUVU=-w400-h224-p-df-rw",
+    "source": "Adweek",
+    "datetime": "2024-06-17T07:00:00.000Z",
+    "time": "Jun 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Oracle Autonomous Database Connects with Databricks Across Clouds",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxNM1J3VmRtblRlRlhyV2Y4aFphX1FmX0tJMHVZQ0JXN3Nuem9DMjI5clZRT3JoOE5DRnUyeHFwLUh6UE5WU3RyQ3ZZWVF3TFUteTF6Ull0YWJHb3RXWEdJaWo1QXdCbUQ3ZmlyMDhMb1FheGpLWENtbmZQbEJxd2g0WXpzbWNGMXI4YjVBaFY4eHRqQVRZVnNTSUYtcjhRNmxVVzZkT0ZBSmxBMWVMdEk3bHNia0dvdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlkRmhGTVRKeE9VMU5OMEpqVFJDSEFoaV9BU2dCTWdhVkVvRHMzQUU=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-10-31T07:00:00.000Z",
+    "time": "Oct 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Database 23c: The Next Long Term Support Release",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxPUE1kRVV2Y05MUlFYRVExSkJwcnRYZmdKVmpIYi1rRlF4UzJmMXRqNlFXdkVQT3d3U1hrdUFUSWczWHc4TktxTjM2Rk5EQmJydU1YQ2xuVl9GMndtVVM4bzZRbzBjUFJIQml1dC11UUlGNkJ3OWY3Nld2cy1YdEdkODF1aXVVS0podWhJWFRNOHJlMDAyX2I1dw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1YMk16Y1VOV2JFOVJRVVpQVFJDZEFSakJBaWdCTWdZSkVJeXRrUW8=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "New! Discover connections with SQL Property Graphs in Oracle Autonomous Database",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxOZ0dlUG5rT05ORjROX21BTzZ3T2VmWU9pRE9nSEFPRTF4aFhYZmtzRklGQVExRFJ0dlNKbVpIdEdUSUJOOVBPVjFQc04xRFQ2STFIU3RGMHRpT19HWm1fVk42NmtMLUoxekxmdkhnallONkF0RndsTXA1S1I5VkRmeXNmZ3dXYkF2M0otc3JOZW1pUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZlVWhNWldoVGJVczFhVzFhVFJDWEFSak5BaWdCTWdZQlU0aklTUVU=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Unveiling the Power of Oracle Globally Distributed Database: Oracle Database 23ai Advancements",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxQQU1qcTR5RGtVYlluZS10c2x3LWY3bk9lQzZmb0lKODhEQ0t0aEN4NV9rZkZBZkNZT3VQZjVYSlFiTEFIMldWOG0zVlFEZFR1Snd2RFhyVVJveTBVNXN1bXdNSTZST3JZaF9nSWRnaThDSXI3aklHRHBxS1ptOVVXZ2x5ZXdVQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXNhblp3UVhGUGFHUTJSM0ZQVFJEY0FSamxBU2dCTWdNQk1BZw=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Zero to low-cost Autonomous Database for Developers",
+    "link": "https://news.google.com/read/CBMijgFBVV95cUxNRDgyeEUwTGhmX3dwZmlYSXpBSGVpc205d1RiVDFhSWtfYmV4MzBVa0VZYjYydWwwcUhDMjZseE5uMUwzYkU0V1FqQnZoUWRIbGcycnh4RnZ3X1pNbDNmUTRfWHZ5VXpMSkJlUkxkTTVaQUdZcFFaMjFhNjVxQ1NtMlhmc09seDQtSnU5WHNn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWFSMnBZYTNOYVExSTJTWHBIVFJDLUFSaUpBaWdCTWdNQkJSSQ=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-03-14T07:00:00.000Z",
+    "time": "Mar 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Database 23ai Brings the Power of AI to Enterprise Data and Applications",
+    "link": "https://news.google.com/read/CBMi0AFBVV95cUxOc0tnZURIc1VpX3hGa0xvWEVQN28zRldjcm9Vc0NHWHg3eHJnM1RVSUpnczJtWGViT2cwZHhlUnVib3lVczQ0VE1CMDV6WmdqX0xMWEQ0di1DTFZDMmhMQkFNSW9nSUhBLVNMb2t4WHlIT1NmbzNQMW1LbDJjTU1qNUpTWG1rVXhuRmVJeWx0NjNqa3FHd0N3MVF5ZUc0WTY4MmVZRTFRc1pCc1R0NzVRRXh5XzNYY3JfRUtpWDJZcEwyUjgxS0VVLVNIcjNVRjNW?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "PR Newswire",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle cloud regions approved to handle secret-level data for Pentagon",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxOdTVJRjczalZLTzlqZVNORlNyVFlmMC1PZ2k1dE9TVVJlZjc5ZC1GSnBoeVZkVXZpVnVaWWpZd2stZ2t3b2N6QVAzRExhSHlsRTNkWWtSTF8yQ3lsTmhaVHFybjgzV3Z3aTFmYlBkMS1uNllYQ2k3U1Q5ZTRYRDFsUnQ3Sm1yU2hWTEp2SGZsMVM0bHFWNEJj?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhkakZtTjBKeU0zWmxjVlJFVFJDa0FSaTBBaWdCTWdZaFVaN01vQWs=-w400-h224-p-df-rw",
+    "source": "DefenseScoop",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle CloudWorld 2023: Key Announcements and Highlights",
+    "link": "https://news.google.com/read/CBMiigFBVV95cUxQQjVXajNSTkdnNG9TQmNyWDlVaXNOcjI3Vk1ZNXlkNmxJSV9PWUhCOFpaR1VyTmdnNkktbjRtcXVSTE54VmRJMFNJeC16TjFxM1h2ZEdTNVlzdm1CZW1kQzVJOFdnWWNLSTNfLUJaUXNHcmlVVDBlRGdYdEFhbTJBU00xWnl3ZUthWkE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlXRXBXYkhwcFNqSTFVM0V0VFJDc0FSaW1BaWdCTWdhRlNKNkVuZ2s=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-22T07:00:00.000Z",
+    "time": "Sep 22, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle and Palantir Join Forces to Deliver Mission Critical AI Solutions to Governments and Businesses",
+    "link": "https://news.google.com/read/CBMi7wFBVV95cUxNWEZCc1FEcGVWRC1ONURUbnVaZmpkNDZHbWxLR0o2bUQweXZYanZ6WERWVGc1c3hIZzJRZkh0Y3lScEQzRGNqTEMyX2hyQ3c3SjZJcnJNVG9mdExkbmxTWnhYNEwyZXVvVjFLN3hhOVhibElxcXN2bHVIMDR4eVIzbTROWldvWE5PLXE1RURPNkFrOEFIdTN6LVRIQmNtY2UzTlNBaG1MT040eVN2MFAtYmNqRVRpRkJLUklScG01WkQzd3p6VUZTdFI2LUpFZEN2bUVLalE4Qk1yZHdodHY2dnZydFJxekVpSkwyMkhUSQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iKkNnNW5ZVXN4TWxCemRreGlhbW8zVFJCZEdLd0NLQUV5Qm8yUmxNaTlCdw=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-04-04T07:00:00.000Z",
+    "time": "Apr 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Optimize your Oracle estate, reduce costs and maximize value",
+    "link": "https://news.google.com/read/CBMia0FVX3lxTE9IOWlJZVE1d01Vakl6NHZSUUgtb0VMWXI2bEVpRjlfdDFOTGJrMjk5ZGRjWUJEVkJpSTcxMDhvUGhsbHhBazRNNG1CeGhSNEQza1Brb3g3TWpWWFRMZ0JaRjVRUWZ5WWREMTFr?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNXJVbnBvYUY5bWNGZzFibG8yVFJDRkFSajdBaWdCTWdzQlFaTGhwT2hMNk9yT2d3=-w400-h224-p-df-rw",
+    "source": "Enterprise License Optimization Blog",
+    "datetime": "2023-11-21T18:07:26.000Z",
+    "time": "Nov 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Globally Distributed Database supports RAFT Replication in Oracle Database 23ai",
+    "link": "https://news.google.com/read/CBMif0FVX3lxTFB5b0lSSWRKWHJTR2c5MVFmYU5SajgtdGw0RGt0d2hVVWV6Z3NKV1VNM04yWVAtd0pNSUhxNERFX1l0NHlvVGtSdTNKaVNKRWUyU29VOHgtdVVycU1xeXNqbEJUVHVWTVpBcF9nQ0pmUTVTR0QzRjZESUxsNFlRY2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXphV1p4YTNaUmMwRkZOblF4VFJEVEFSanZBU2dCTWdNQk1BZw=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Achieve data residency, availability, and scale with Oracle Globally Distributed Autonomous Database",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxOekg3TXM0MWFsa2xIMkVnSlpsNGlNZ0s4aFRBamhQMHk3NGJtVC1Uc1FFSnhBVFJNb0VZWENweV9fM005N1pYT1NIRDZkbmpuc2MxWnM3ZFlZR1NHa0R4X01yOVlWTDdLR1RKUU5xN2tsM2pkM2R3UGhXODVGbVA4LVBrT0k1QQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXBRMVEwUm5kM1JpMHhRMGRhVFJDcUFSaXBBaWdCTWdtSlVZeUdydVpjcVFF=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Update on technical standards investments at Oracle: Oracle joins the NIST AI Safety Consortium",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxQdW5WbkhqT2tUTFhQS2cxNndpXzVKSnF3TUpMeWxEeExvaFFSb2xlZE9MOFZfLVp6N000VzBFMjZqNkVHNGdBaGJnZ3ZYelZwNVBlcnc5THRwRkVmTXAzNzJlZXBkaC10bkJYSlNmZ2ExWE9CNWJoNy1QX0hxb1hGd1NweG1XTWFEZmFsNUNyVy1pemc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdla05DVURReWNXTkpOblZMVFJDM0FSaVRBaWdCTWdhdEZJNlBGUW8=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-13T07:00:00.000Z",
+    "time": "May 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle still has more workers in California than Texas after moving headquarters",
+    "link": "https://news.google.com/read/CBMivgFBVV95cUxNMmhDT3l4YmJWLThKRjV5NURlLVNwS3VtMlZqVWdvVFVRZDVfT09Kd05xVW1fMTEzWWVLMU1yZXJHcWt6VUV4NUY5UzIzd3puYi1ZNzJWN3c0d3YyTnpSTXc2b2RvcGROZVhWMmszbEw2cTdNUk0tNnVQdzJsMnRxNTFfTG0xTWRCeHZxREN6U3hiSnloTEJmYVZKYzc4UjRCcHpBSTdrMDVkT2dMdFRrc09oa3RlRlFXZ1Zab3NB0gHDAUFVX3lxTE1xS0xUMzFJb0k5aFZxd3Q4OVBwbjlXeXFPYUI4SFVjYU1RekV3YUJPWUstUzZqdFNGdUNFa2FPb0JENFpJYmxCdnV1eXBFRFJUaElfV1VTR25zR0x0RHhVdXpfMFVSRDNSSFlMZzBvY05oSG1XcDJnNnVjY2tBZFZqbXh0cUo0VWlHcndCeTdWQ04yenRaaFJocFduTkpEOU90U21SbkN5UmJHSEZVUEJqR01tVDZiUnEydVVfZzk3ZkIxaw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJaSEZCTVd4U1dXMXdlVzE1VFJDcEFSaXFBaWdCTWdhaFlwZ3VxUWc=-w400-h224-p-df-rw",
+    "source": "The Mercury News",
+    "datetime": "2024-04-30T07:00:00.000Z",
+    "time": "Apr 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "2023 in Review - Exadata Database Service and Base Database Service key announcements you might have missed",
+    "link": "https://news.google.com/read/CBMihAFBVV95cUxNbERiYjNCeGRPZkZtWGx5d3hzVWpyYUtEYkJObHh3RXlNN2hBc0hUcGVUa29Da3g0RThwM0dlR192TXN5Ml9MM2JncmUzVHppTGJQcWRxcmowblZ4a2ZKOXRxbTRTUUdhd0NXazZ6bE52bUluX1VRR1FxVEQxZmtoQ29FM1c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRNSGx4ZVRsRmJHbDNaekp4VFJDZEFSakJBaWdCTWdZSkVJeXVrUW8=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-01-12T08:00:00.000Z",
+    "time": "Jan 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "DISA, DoD, CMMC 2.0 Level 1",
+    "link": "https://news.google.com/read/CBMinAFBVV95cUxQVVdpQmxwOTM2elBhRV82eEs3MjhaaDhDdzdSWkRxdkd2WHpUSk1FeHl6UzhnYXlOMVhBZFc4WDdibVY3TE5nMnFHbzcxSG5NdzQwb1pieEM1UzRfMk5EeVFDNTFFT0s2Y3B5U2NZdGRwdUdwYmhjRnVBT00wRmU3VlBuMkpEZTZVZmx5NXRhVEh5M0pLeVRWRmJXOUo?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9SVk5mWjNoUldsWXhNMHBuVFJDckFSaW5BaWdCTWdhRklKSUVId1k=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-18T07:00:00.000Z",
+    "time": "Sep 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing 23ai Database Version Support on Autonomous Database on Dedicated Exadata Infrastructure",
+    "link": "https://news.google.com/read/CBMivgFBVV95cUxOVHNlNDd3aGh0Y3RzZkF5VEs3UGtTV2lTQkJSNEVCdmxXVGFlXzhfUGN5TC1yanpwYU1XaTRVVkFDbGhJZ1E0bXA0TUV6ejlSWjNBcVBMLUpORnpEbWhwQkJTNWVqcHZNZTdZRTFyTVh5VGFSaXNMSW5nYThkaTNsbVJnUGwxWU5mVm1JN2FRRHJGRmlmSDVsMTlhNGVWMFdtUVJjNkNlMWY5MDlXczdIM3JiLWFHakxOQWlzRWpB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBTVkYxYUd0NlUwOVRlbE5mVFJDM0FSaVRBaWdCTWdhbFk0NU9yUVk=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "By Jove, It’s No Myth: NVIDIA Triton Speeds Inference on Oracle Cloud",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTE5kS29RRXhQQ2RNQ2NIbnNpUFNMaTVFdnpial9pRXNLZXZqNXBla0sxN2dZeU9JdjAwRVVQYjJCRzZCUFNQUGRHNTBJMzZxVE0tTmFZOFJ4OWU4VC1lWThiSDNPT3Y?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBRMDgzVkdsWk5HVlVibVJpVFJDakFSaTBBaWdCTWdZQk01VGhvZ2c=-w400-h224-p-df-rw",
+    "source": "NVIDIA Blog",
+    "datetime": "2024-01-02T08:00:00.000Z",
+    "time": "Jan 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Leading Industry Analysts Comment on the Database Announcement at Oracle CloudWorld 2023",
+    "link": "https://news.google.com/read/CBMiqAFBVV95cUxPa2dwdUgxTXA5MWQ5dFRRb01xaXhVOWtpZ0g0MG9FRHZZNmowZVFVekdwUVdrVkZrWFJDdW1kdXBIZHBVdVpwb1dvcUt1aXVrSGxNMDFrcHA4RnZXZ3ZmcHZQVmZCejdhTllpR1EtZ1FRXzNWUU5hVUhDR01SdjZNNkcyOU52eUhSZGRfZGxocTVqSHRlTDFvOHBYQVZ4bnRlNWpHNDBoZGo?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURRVVZYZDNKUE1GbDZOMUJUVFJDckFSaW1BaWdCTWdZRnBwQmt0Z1k=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Spatial: What's New in Oracle Database 23c?",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxQdEJHQU5jZVZ0RzJ5R1NtNWZlT3VMY3oyMUN4b1VaSFhMMkUxWGpxQUVTbDI4amJZTlZPSTlueTQ5YTh4TDBjdzlXQlNFcElnRU5MWVJBRk5aRDRid3Jnb1hzdUZxODZXWFlqV2xwbXhld1NqU1RrY3cwS2MxRmNOd1NVZ1pZdDlVZDdDejNpQXFGTEFf?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUNUa3hKWm1kaFUxVjVZVmxIVFJDb0FSaXNBaWdCTWdtSmtaTEZNaWRGendF=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-11-27T08:00:00.000Z",
+    "time": "Nov 27, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Oracle Database 23c Free",
+    "link": "https://news.google.com/read/CBMia0FVX3lxTE5PSi1zem0wal9UVlBuMnltdUc0SW9seHo3TDZJemx5dHZNZFBDdUpaeXhfUjJ0NUtLanREZUhLQjEzWkZxTVVyZE1pWE5xeU1wWGpHbThyYU9sQlg2UlFvUHJFS1NDcEJ6ZW9N?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhjSEJEWHpFd1FqY3lVVzVCVFJDb0FSaXNBaWdCTWdZaEJJcHZSUVU=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Strategic customer success programs with Oracle",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxOR25ROVVSTEV3dml2VHBCTFAtRDdYTlFZRFFMZDRZcTVwc3kyR0ZKNFZXSFhIdUk2SzlaeVFKWHZhMzlTdk5ZNXVrQ2ZCVFZ1MXRycVBxRXhVQlptb3BpNGJralUtTWlUN2xUWXJ1ekpvQS1oVl92SnRNUmZXc1BsYlI4SlBwX2tINzRqeDJPcng2bzFrdDRr?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDVOM2N4Ym5kRFEwTlBSRXhSVFJDb0FSaXNBaWdCTWdrQlFacHZwV2pZU2dJ=-w400-h224-p-df-rw",
+    "source": "pwc.com",
+    "datetime": "2024-03-12T07:00:00.000Z",
+    "time": "Mar 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "ORACLE FINANCIAL ANALYST MEETING TO BE HELD September 21, 2023",
+    "link": "https://news.google.com/read/CBMizwFBVV95cUxQZlpORzIzakR4QUhvaWx6dkNpYWlfaEtPcWRwXzk3UXZtWWo0QkRNYkZucXhDdXBUQ3o3SzFaYk9LMkdtV2hwVWZ0OEJTS1pTbGR6OUtHNk1oOUhvYmpOeTVOQ29EN0FRbFJaNHdaSkFyaE1welhMQ2ZYVkx2YnZJaU84T3NOd1U3bTZ1d2dNODR0WVJTX1BFVmxUY1lQY19aRmdRX2hPM2tsNzljeW5wMURqc1VSRURYWEdMYnBHZHdJYmtEMlFLSEVLX2NYSlk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iKkNnNXpkbGRoV0ROclVtWlJVWFIyVFJCOEdKQURLQUV5Qm8yUmxHaS1Cdw=-w400-h224-p-df-rw",
+    "source": "Oracle - Investor Relations",
+    "datetime": "2023-09-18T07:00:00.000Z",
+    "time": "Sep 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle expects double-digit revenue growth for fiscal 2025 on strong AI demand",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxOdUpuMnVEOTdRZlAwOWwyT0F2VThMY1Q2Q21nSGFLN1NNUWlYaGRiUjV0MDRibm1sUlM5al9jdjljVUVJTzRBZHU4akhUQnA4MWQ1S21nT041ck96aVBhRjFXdEY3UF9WaEFYOTJYekJPQ2FJaG95STIyeEVzNFpORWpDbU5Kd1lheDY2RHVnV2t1Zw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXlVbGxmVURsYWRXcGtOMGx0VFJDM0FSaVRBaWdCTWdtQm9ZN3hOQ2VDY0FF=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-11T07:00:00.000Z",
+    "time": "Jun 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing OCI Ampere A2: Oracle’s next-generation Arm-based cloud compute",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxNVGM2bmJrSEFDdlh4TEc3ZEhsMVM2Y3E2eWxRVXpjMGlKeGxWa0R0UlhJbmpMNGlRdWV5RHJXanp2aDNtS3BPeVNHV0FkcG9vYXZETmNTeHE1Rlkxa2V5U2lSVW9aNDJUc2NkWXg0NG54V0xoVDNIVzJaU1FWaWZHaXJvTlNQNEYzbjNDRmhodEVRdU1CcVRhWG9B?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxhV2RVUm1JMmEwWklZa00zVFJDb0FSaXNBaWdCTWdhVmQ0eHBMZ2M=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-08-05T21:18:28.000Z",
+    "time": "6 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Enterprise Manager 13c Release 5 Update 17 (13.5.0.17) is now available",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxQbHpFSzNkMk9iSmFOdTRyN0wtNUVHU1Z6UlNKMHlhN2FfeTk4WkhuMG9LdFVOTDVvSHQ5NmRJcHRQLWl4bW9Cc1dnQzhvbDR3OGllT291Y001QkIxTXpVa3puOVlwUndLT0w4SGxhcEpnTzNINXZEd1ZzUGV5UDg0bXQwZ3NLRmtOU3dTR1h5eTl3ZUUtcGc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdaRGcxZG1ZeVQxWlpPREZaVFJDakFSaTJBaWdCTWdZQkFJeTJqQW8=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-28T07:00:00.000Z",
+    "time": "Sep 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Is Shutting Down Its Ad Business",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxQWGt4TW5uQmpjcTlRZmJYYTFzRHM5YmxNb1ZSRlFoamhRaVZFYUdsSE1TazlXbFdYblBOTDlTTkg5bWE1SUhyWXM5NHhvcEZDOW53WlhZQmY2N3g2OHltMmhTb1pUVkh5elVUaDBHUDJDR0swT1J5bG5OMnNheUhKRXdn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFkREJSTFMxWFgwdFJXbFJ1VFJDaUFSaTJBaWdCTWdZTm9wUW5PUWM=-w400-h224-p-df-rw",
+    "source": "Adweek",
+    "datetime": "2024-06-12T07:00:00.000Z",
+    "time": "Jun 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Sets the Date for its Second Quarter Fiscal Year 2024 Earnings Announcement",
+    "link": "https://news.google.com/read/CBMi6wFBVV95cUxOSzZwM3otcFZGXzNUNjhieGp2U1gzMWNNVDBJTHhqb3pKX2QycExkUkItb0ptaG12NnpXa1F5Z1JfVmVfa2ltYndudXhLdHQ3RFVCVnp0RXhsZXBmTEtVWFZSVU11aERSS0w1M3Z4MXFHejludkRHanV1ZUVueTRYMk92S19HX29UVDhWWE9lS21FcUh3VzNhYmwzMHpiNjR2SWRwUFV5Qk5NanF0Q0lzYUxlU05tVTlBc3hoOElxbWRrWTBhUGRNNFIyQTlrQklYSjhibFd4NnluMEdIY3A4QTcwaUtOSDVIM2lR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iKkNnNU5UWFV0Ulc5bVNqUlVhbkJMVFJCOEdKQURLQUV5Qm8yUmxLaTlCdw=-w400-h224-p-df-rw",
+    "source": "Oracle - Investor Relations",
+    "datetime": "2023-12-04T08:00:00.000Z",
+    "time": "Dec 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "OpenAI-Oracle-Microsoft Partnership Redefines Innovation and the AI Ecosystem",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxQbUZZVVk2bThpbHQ1cHRjdnppbkN6cFcxbWozYUVtQ2h0eFc3T1JwVFQwbk5SMXoyYl84dldSNVN2SWdYR09lSmFudWFpcmFBblhCT0hnQkwzVVFkUlh4UTc5S2Zwa2FCUHhrbGJGZUdFekFzNE1fZVVHcGE3emVya3p4MjBBNDFiYkJkU3FSUWVtZ2FqellyT3NleHFQR29vVjIyOVlhazdRNzItbER0bXNfemY1bTZpazZ1Vm9IVk0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVVVmhtUW1NMFYzbHBTVlJPVFJDb0FSaXNBaWdCTWdZQm9JaXFRQVk=-w400-h224-p-df-rw",
+    "source": "Acceleration Economy",
+    "datetime": "2024-06-19T07:00:00.000Z",
+    "time": "Jun 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "The future of AI transformation with Oracle",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxQR3R2RVF6NHFOWFBjaWZmcGg4Tm1teUdTa2JRTEQ5WHRUVEFGaC1nWWpfZ0dXbDFjbHI2YzFjUnFlVTBwbmx2STJOTXBjZUpGUk12ODNEYkpOc0lJci1fSEhNRWg5Mm1DcnZjUWVyZWRVYm5aVFQxc3AyS1hzVnFPd21uQXpmZUh6Y1pDVFlsMlF3Z2d1?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHlOVmQ0ZUVSMFNuUXlZbTVtVFJDb0FSaXNBaWdCTWdZeE5KYVBIUWs=-w400-h224-p-df-rw",
+    "source": "pwc.com",
+    "datetime": "2024-05-22T07:39:06.000Z",
+    "time": "May 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Breville Launches the Oracle™ Jet, The Latest Innovation of its Signature Award-Winning Oracle™ Espresso Machine Line",
+    "link": "https://news.google.com/read/CBMi_wFBVV95cUxPU1NKYUJFNnRTZFhJVmotSmpxNmxwVWVkZlV0aU1VTzA1Y3lhdHgydnBsdUx6Nzl6RVIxbWlPTlJNTThIdy1pSW5XZmFQZWQwNE43Y1FpbWY3eFhFSHBSd01JZmJUMW92cUppaHZyQ21FS2JEcXpmSWEtZ3NzQllwbkc3YldQbk14OXppNVpaN1hDX0hLNVhqY0w3Q0FsaVRSb0ZmbXZvYnBOaWU1MTBaTWtfSVFOcThnSTZ2SGVydGVOVnJQaGE4bWp4aC1xaFV6cHV6ZjYxYmltakVxWXc5RmF3NFBWS1ROSnZoRWQ1SnZoaDdnWTI2dE1SUnlQZnM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTVOSEpVV1hGTFdtdGpOSEYyVFJEQ0FSaURBaWdCTWdrQmdZeWp5dVE4Q3dJ=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-08-01T07:00:00.000Z",
+    "time": "10 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "What's New: April 2024",
+    "link": "https://news.google.com/read/CBMie0FVX3lxTE9SdWU5eE1zMW9GTExNMmowdUVaUEx3a2QyZGZYRFljeTNnQ0JyMlVpVkNRY0ZLQ2ZQekctbHpla19zTy1sZ3hiR2NELUpiOXNUczJQRVFtelNqV1JFcWdrWS02T1dqZlpsLVJISGgtY21zZUUyNGVkeXV1dw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTFkMU5mVURnNGExRnhTMGwyVFJDM0FSaVRBaWdCTWdrSkVaSXNKV2d0NHdJ=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-04-26T07:00:00.000Z",
+    "time": "Apr 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Database 23c: New feature - Direct Joins for UPDATE and DELETE Statements",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxOM1dJVWswdGZha2pXSTUyUEJDTHRmYW90STI0YUhUcjNDWEdwNUZxdk1tMHBIckNYeFV6czYyUElzcXZsWFpLdTJQM3dRYjlfSGcyNi1jSHRHN0xOX0pfTFFySk1KclRESG1temUwanZzOUpKVGxhdk92Slg4cm5WV1lqS21kN0pHSWp6Wm4taWg4a1d2bldxenBpRHJFaUVsWTlTSDMySzl5SXFsd0Zsc1FXYWUtb2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXlWMmx5VVV4cmRESldaRzVWVFJDUkFSamFBaWdCTWdNTkV4QQ=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-12-16T08:00:00.000Z",
+    "time": "Dec 16, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Enterprise Manager 13c Release 5 Update 20 (13.5.0.20) is now available",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxOXzlEcmx4UzRmM0tBcU03aUFPMjF4WE1zOVlfeHl0dGs5WWc3eUwwdVpvUjJpOEhVcGNVTV9pNlYxQVVUR2pWT2dvR21qcFhTMlJkWFR0aDRsTHBCdHA1U2piaWF6WHYyNUZLYjFhblYwVlBlUE1rTlBWMElNZ1paNkdJSVZ2TGxKeHhsYzlwcDF1azJmQWNmMFY2SQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUpVVzF1WkZGWFZHSTJhblJTVFJDb0FSaXNBaWdCTWdrVk5ZZ0owbU5yREFJ=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-02-23T08:00:00.000Z",
+    "time": "Feb 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle to settle female employees' equal pay case for $25 mln",
+    "link": "https://news.google.com/read/CBMiqAFBVV95cUxQSUw0Q1lWeUZoanB5WDhjYmxBWU9wXzlNUXJjVGVfNXV0T285SnZhZHJ3MWFOalRtVUFLaks5UGF1XzNWR2dQNGUwNXctaVJORXhVcl83XzFWSG9qNmpnVlJfTWwyMWVrRkRVcnRaeXMtalZVeWgzM3dnd25sbzRkb0RWYjJ2bmpNRHE0ZTVhdmh0a3FBNEFnS09WblNCYTNURkVsZmdud1o?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNVpTVk5IZGkxRFprZGlTV1ZHVFJDM0FSaVRBaWdCTWd1Qm9ZNEl1ZVkwVEdvbVhR=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-02-14T08:00:00.000Z",
+    "time": "Feb 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle reaches $115 mln consumer privacy settlement",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxNQWEyZHZaVVhkMnM1cXROT0xjbUtYOEZDMXdyYWVsVTgxY1hkRWkxSzgybVFGdkMxQmNWSE9VczV2VmxMSUZoMC1odW9xcWdLQ1ZCdXJXMlhKZWZ5Q1ZRTFR2MXg4a3VURjMwYVNmQU5PTnZUdkd1c0xYbkxNc0VhOXA1V0VCVE4yLUZxUzBCQ2tzcWtBQTJ3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhhamhJTm5Sc2NtSndjbkpLVFJDeUFSaWJBaWdCTWdZQmNJSzMyQU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-07-19T07:00:00.000Z",
+    "time": "Jul 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle's move to Nashville for its world HQ signals broader ambitions for healthcare",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxOUEl4bktIOGdOX2c2WDFfc2VQZVFRODYwakVvLTRCRm5ncHg2V0tibFhjazZiZ0FpUW9XSVl3cXFJRHpaeFMtQ1NtTUZTRkhjUVAtSWpYN3RsaHVCLXdmNHdZUkhwYXVJYjlwdE1qNmJfVTBxWGlkUVJfYTRQRGVnRE5oZ0NlUjA4T04xdkRBUE9MUmxDa0hQVi1DQi1VY2lVQXRweEN0LUw2RkFsYW1kcXdRa3BKdXNJ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJTMGRSVlhSS1pqZE9iMTlrVFJDb0FSaXNBaWdCTWdhUlVvcHBwUWc=-w400-h224-p-df-rw",
+    "source": "Fierce healthcare",
+    "datetime": "2024-04-29T07:00:00.000Z",
+    "time": "Apr 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle makes its pitch for the enterprise cloud. Should CIOs listen?",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxQVnU4NnkwaXpMeWNzY2J5ekhvVmxjS290MTI4YXhlMGNtRWF2OVN3VHFjWmthbElHY3picUJPcDBpdXljVjJ5dVJQTGRQYnA2ZG5iT1NXdk9zSnAwUWF1ck4yZFhrOF9hekxmWlVDNFN4aUxGR2VBbWY0ajhSWHkzSjlnZjVNWTRyWFlxdk5kNDdTcml4ZWRzc3pHX1RTbEhxMFpfMFY2OGpCQzjSAasBQVVfeXFMUFZ1ODZ5MGl6THljc2NieXpIb1ZsY0tvdDEyOGF4ZTBjbUVhdjlTd1RxY1prYWxJR2N6YnFCT3AwaXV5Y1YyeXVSUExkUGJwNmRuYk9TV3ZPc0pwMFFhdXJOMmRYazhfYXpMZlpVQzRTeGlMRkdlQW1mNGo4Ulh5M0o5Z2Y1TVk0clhZcXZOZDQ3U3JpeGVkc3N6R19UU2xIcTBaXzBWNjhqQkM4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZhVlpEVTNGVFVrOUVXV2g1VFJDb0FSaXNBaWdCTWdZMVlKU3lMQWs=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-04-11T07:00:00.000Z",
+    "time": "Apr 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Circulor offers transparency for minerals sourcing with Oracle Blockchain",
+    "link": "https://news.google.com/read/CBMiVEFVX3lxTE0wY0F4Y1NjU1RMZ3I4WTJWcmtmRDNCb1BvdENjYmRUWTkyRmdqZzh3U1kwblBoWEJmaFNLWGh4VjZqRE1JVU9GMGNqLVBfUWlqWWFwUg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iKkNnNVdha05MTFRSaVgxOUJhVzVRVFJCM0dLZ0RLQUV5Qm9HQ2xDaTFCdw=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Inside The Fall Of Oracle’s Advertising Business",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxQZFJWYXJyWV9pd1pJaGhFTnBtSDVqLXNseFZvTHdqZDBMWnNHSGNQb3loTnIxQXhKSlFxWGt5MVdIdmVFRGJ4Y3RHaTZ2OWJVTDU2aU9aUS01VFMyZC1TcGFmV1lMQVgxdjJIajl2ZXh6ekRxanR0N2t6TFk1SkRTZm9fM2tLQW5ZV3ZqZWtGdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVdUVEEwV0VoTWRXRmtRakp5VFJEV0FSanNBU2dCTWdtTlVvTFBLZWhjcmdF=-w400-h224-p-df-rw",
+    "source": "AdExchanger",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Opinion: Why Oracle Advertising Is Really Shutting Down",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxPOWplY3pjM3dDRmRnQXhEelhGc0R5bDhZMVRiOGY3MEtHQ2hRYTlZWGg1Y1o4emhGQUtYRm5BSENHNkZBb2JHTjRzc3Y2bTM5bmM1RF9LLVNtZExHOGh4eFJGcWV4eUVaTmtyQkhIcEhEY1RhdlVJVUs3SU80SHBUcnlDQ0pZb2dNSEJv?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWpNWFJPT0Y5d2FsZGFkV05WVFJDb0FSaXJBaWdCTWdNQjhBQQ=-w400-h224-p-df-rw",
+    "source": "Adweek",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Using the Operating System's certificate store instead of an Oracle wallet in Oracle Database 23c",
+    "link": "https://news.google.com/read/CBMi0wFBVV95cUxQTVJBby04R0dPdHEwcV9oTXdpcFlQdVFMWVlmWTVscXlzdy1jVzM1QXc4dUNBdU03bTNSTkFHaDdnWThyMnVtNGhRd2I5ZDdoTEg1aGwwVTFsX0hKc3lrRzdzdXlfZDZLOFJ4QnVhWE9wYjl1eDhXU0lTTGFESWxISVNoN0xzRlJXcnVpU1N1bjl6YldEemtEU0NUY0JEZmQ2ekhKcVRDa3NFeFZIN2pLTHNEalhYbE1jR1RqWkJ3cDhtZXZrcTlEZVpxY3BzV2ZZWVNZ?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "Oracle",
+    "datetime": "2023-09-26T07:00:00.000Z",
+    "time": "Sep 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "As Oracle’s ad business collapses, layoffs and uncertainty ripple through the industry",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxOQmJwVzNFcUFqRndJM0MzZzVYazVfNUNXTzdRYVI2bFRzaFk2WG9ZYVhKM0ZNUFNFcnN4dXpWdDFHdC1saEdTbjAtRl9lS3JwaDFzdy15R3pxaFkzWWRsTFI1dWI2MnUzWjYwcGVEZGdUVTU5RVZkUDNRWlhlZkhGQm9VQUZLQmJnZ3NiQ0JjdTRXOFltNFZ4UFdyQmpILU5zUnNyckdtaHkxMEFzVkE5NkdfRVhOdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxOV1EwTTBkVmRWRXhWakJOVFJDb0FSaXNBaWdCTWdZdFZaU3VwUWc=-w400-h224-p-df-rw",
+    "source": "Digiday",
+    "datetime": "2024-06-25T07:00:00.000Z",
+    "time": "Jun 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Musk's xAI, Oracle end talks on $10 bln server deal, the Information reports",
+    "link": "https://news.google.com/read/CBMi1gFBVV95cUxPQ29xMFhTYmtwaUZNMDlwSndwSFZpUGxVVnF3NWRHa0lyTnJKSGZIYTVhSk9zZ1lqUFhnc2N6YUg0UVZoVDQxNlBKZHJGd01XNFR5eGZGY1FaemxRQWdzRnMya19lcTBjOEN2VjAxeWtZT2RoRDFLSlh0ME9CT0UxcEE3MzlEd0dfSkstN21TcHJ1OW0xS3ltSWFxV0o0dG1zZVA3SnkxbDA3QUNrcklIdkZUQnA3WjlzUXJGQ3UyNDFubXZ6dkNjazFsSzcxUi0zbzhNU1NR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFZekZJZWtkUE1qbFFiekJVVFJDNEFSaVNBaWdCTWdZZFZJTE5vUWc=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "Jul 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Vs. Salesforce (2024 Comparison)",
+    "link": "https://news.google.com/read/CBMiekFVX3lxTE50UGtmbjRYMjdfOWdPVFJ0Q3NIUUxJWC1VTHByQXFYVXRSak50ZWxoSE14R0RsdHJiRllZNTEtR3gxS2RpUFJPWjNhbzAwQVBqLVlSUjdDMkg1THBuYm1qRnJELVllams4UDc3ZFJFR3huTHRSbVd6b3JR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXFkbEZ4VkVGRWJXMU9SVGxxVFJDb0FSaXJBaWdCTWdraFFZNk1KZWhVa0FF=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle to colocate database services and network interconnect in Google data centers",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxPb1g2bTZQdG84eFA1QW9YQ2ZFLUZ0dzEzNHI0bngyYl9La2FnejlFQUZQZ1d5SEFJaWZqRHFYMW1BSkZUZXZfZmJfckVWcEdEMWhmUVV6T1FzdGE4OTJoS2o5U0hBemJ6NlJ5cHBkQXFqeXRIQ0h4Z3JUMWt1UHgtLUF3RWVXd2lPNEx5MmQzNFB2QWQzWEVjeTBEbm1sX0NoX3Z5QWItbnFGUk83LUI5SF9maC1XbzFSQ2hzblJINFk2eGhqalVj?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWlOUzFNUlhsRU5rcHNNMnBMVFJDb0FSaXNBaWdCTWdhTm9aUUh1UVk=-w400-h224-p-df-rw",
+    "source": "DatacenterDynamics",
+    "datetime": "2024-06-12T07:00:00.000Z",
+    "time": "Jun 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "If You Can’t Beat Them: Oracle Cloud Infrastructure Joins with Azure AI, OpenAI, Google Cloud",
+    "link": "https://news.google.com/read/CBMi4AFBVV95cUxOM2g2TkV5dTBPYmNIeEpTUmZpRlNjTGtpcE5yWXZQcmVfTmI4em1pcDA4REFpd2pGeGdYcnJMOHh3ZHBtWWhDSmM4TEN3U1FJaG14NGdPT0I1eVZfeUctSHY2RV9PUTFwNG9vQks2U29RbWlmWFV4RThJQUhDWVFRMldCYUZ5UWZEMml0ZEp4QUZvMnphMjFsVEg2emtXTVJKWm9WZV90UTRGMU5tTGZHaHF4ZXJtV2FZUW9EemF4dTRIaHp4R3FYUFNEekljeFhZLXJ6bHI0YWV3SWVPNVhnNQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVlVM1pFUWt0MU1tbE9iVGhSVFJDakFSaTJBaWdCTWdrTlVZYnVwQ0tUOGdB=-w400-h224-p-df-rw",
+    "source": "Data Center Frontier",
+    "datetime": "2024-06-20T07:00:00.000Z",
+    "time": "Jun 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Expanded enterprise-class support with Oracle Audit Vault and Database Firewall Release Update 11 (20.11)",
+    "link": "https://news.google.com/read/CBMiXEFVX3lxTE1nbFFLOGg2eTFkcXRDMnUtUTlxQWlXaTBWZDNfcHJzdjdFa0szeFRpZHItaE03UkdreWRSRDA5Wk1acllIVWNNbmREdHJQdFRtYlFOMnBhTGFfR3Bw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxjV1IwWW1rd00wZzNOVEJSVFJDb0FSaXNBaWdCTWdhSm9aTG1PQVk=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-02-23T08:00:00.000Z",
+    "time": "Feb 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Enable the Free Flow of Data with Interoperable Systems",
+    "link": "https://news.google.com/read/CBMiUkFVX3lxTFB1VWN4QmZGb0hCWURtdThFV2Znb0xmQURRMy1MMFdkcUZGc3VwUVZoLUVuRjZUU3dyM3ItcjJ6ZXBVOF9WVi1Sa1NrckQ0X2xFR2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMENnNXpaMHBKYVRWSVJGWTBORGw0VFJCMEdMTURLQUV5Q3dVZ2hLNUVvNW1vLXBnZQ=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-20T07:00:00.000Z",
+    "time": "May 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Taylor Swift USF course to be taught this fall",
+    "link": "https://news.google.com/read/CBMijAFBVV95cUxPVXlMLWp1UkxHaVd1LUtRZE95ZlV0cGFDc29KSnFjSHI2UGtZbHRNZF9wZWhERy1oYl9LT2NnS0Y3ZHdFS3FRQ1dvWkhQS0ZqZHVBZ3lVQy0wWUZacVpzaUotMUdWbU1BTVFJbkxibWNYREpFYWtkSTJjTFlDRlIzOFAyZllfUEw3a3R3SA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxZekZNY0hOdFR6TmpNRzVMVFJDeEFSaWNBaWdCTWdhdFJZN09uUWc=-w400-h224-p-df-rw",
+    "source": "The Oracle",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "​​Ad tech companies vie to fill Oracle’s void after shutdown",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxQeTBZS2otRlBrRk1RT0Z6SVZFR184UW1MUWxoeU9UVWZZWktFclU5bUhKdlZRU044RGpVdnQ3MFNqVlc5NjBNUGppYXBkTnpNOUxaX3ZwbHpOVkt1Mll6S2VMZVl4LVRVejF4R1hhYU11N2RZeFNHb1kwTG51bU11bHlwQVBNY0h2Ukx0aGEzQU9WUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNVMVIwVUhWaFVVVk5RV1pUVFJDb0FSaXNBaWdCTWdhWlJJU0xvUWc=-w400-h224-p-df-rw",
+    "source": "Digiday",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle to invest $8 billion in Japan through 2034",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxNS0xsclVQVXhYSnpfbkhNMkRlb1puYXNRbUt0d2JGekNldXh1Z1doQmNxZ1V6NGI4RHR3YzVsSlFiVGhSR1ViQXI2Tzh4MmlqTGstQzRYcExlN3h4WWo0RG9RVTNyQmRuc1dSY3dGRUxHc2pOSWxzOERubzBEZXRfMThXRGI5VDF4YUdVdHVGaHVFekXSAZMBQVVfeXFMTUtMbHJVUFV4WEp6X25ITTJEZW9abmFzUW1LdHdiRnpDZXV4dWdXaEJjcWdVejRiOER0d2M1bEpRYlRoUkdVYkFyNk84eDJpakxrLUM0WHBMZTd4eFlqNERvUVUzckJkbnNXUmN3RkVMR3NqTklsczhEbm8wRGV0XzE4V0RiOVQxeGFHVXR1Rmh1RXpF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUllRzVsZFZKS1ZIbG1SV0pCVFJDM0FSaVRBaWdCTWdZQklJelN0QVE=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-04-17T07:00:00.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Database Performance Tuning - 5 Steps to Resolve Issues",
+    "link": "https://news.google.com/read/CBMidEFVX3lxTFA3SUFPeVpjMkxFY1JxUjBNbFdOQjd6ZXEzRTh6SVpvN0NtRXR6YV9nM1VfUnYxQTMzZjVQb2xQWXVDc2oxanlaSVlFYjVWQ0dXZkdJSmM3S3h1M1lROTNfVFNDOG5YT1dJVnlQeGtlRUQ0SGVK?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUdRMFp6Ynprd01rc3RRMUJXVFJDb0FSaXNBaWdCTWdPQkFRQQ=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-05-22T07:00:00.000Z",
+    "time": "May 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle touts AI as major driver of Q3 gains",
+    "link": "https://news.google.com/read/CBMijAFBVV95cUxQWVd4OGRoOENOSnhvUW56RVp2WUhCZGxlZHVZeVBlb1dQaEJHMGEzakZIZjlZN2xUMmppOTVUcFMweVB4Rkd3NVUwYVAybGVDUEkzajdzWm5xMXA1dTVybmVkTEdGUlFiUHRfeDA4dTRLeGZ5SEQwamQwN1hZVEFWUHJHQ1NERERxaGxXR9IBjAFBVV95cUxQWVd4OGRoOENOSnhvUW56RVp2WUhCZGxlZHVZeVBlb1dQaEJHMGEzakZIZjlZN2xUMmppOTVUcFMweVB4Rkd3NVUwYVAybGVDUEkzajdzWm5xMXA1dTVybmVkTEdGUlFiUHRfeDA4dTRLeGZ5SEQwamQwN1hZVEFWUHJHQ1NERERxaGxXRw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpjMTkxYUdsWlNUWk1PVVJmVFJDM0FSaVRBaWdCTWdhRk1ZR3A0UUU=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-03-12T07:00:00.000Z",
+    "time": "Mar 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle in Nashville: What to know about the software company and why it picked Music City for its world headquarters",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxPR2RsZi1rODNYaTBzb3FHSjZVZjJnZ2lueThEQ3Z3MUcyejhwTndaLTA3SDdSTGV3bmZEZFBpSVRaVnp5eHZUV1BkMWItUHFrWmpabmF0N2N4X2VmNGZVQXRrRU5iS0hQRm5wNGkxZHlJREZROTItRXZTdU1QOFpidGlZTHNVUVNsc0E5UHRsWUFuSUdWeGFqbnZ3b09qYVNQWUVxMVRxQU4zcWI0YW1Z?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWllVE5oVTNkQlpERkVkR2RSVFJDb0FSaXNBaWdCTWdZQmdJWkh5UVE=-w400-h224-p-df-rw",
+    "source": "Tennessean",
+    "datetime": "2024-04-24T07:00:00.000Z",
+    "time": "Apr 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "RFDS builds a life-saving IT architecture on Oracle Autonomous Database",
+    "link": "https://news.google.com/read/CBMiU0FVX3lxTE1zMV95U1Z3WjJWS29tV1I3dy1TeUY0ZUFmS2Z3Y3gzN3VJMnByUlZCcXFid1FvSUx1UGpqckphbmswLWNNR19Dc0xISlBOTjIwX3lB?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "Oracle",
+    "datetime": "2023-08-29T07:00:00.000Z",
+    "time": "Aug 29, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "What is Oracle?",
+    "link": "https://news.google.com/read/CBMiSEFVX3lxTE9VOEVhMzU2VDlObzZNVDRUa3lDMHNJZlI3cDZSdXNTZURwaGdsTDZoUHpmNlFfWDJ5cEk3Q01DNDRnQmJxcFRjRg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWtTMGhTWldKRlRsVlNiRVY2VFJDT0FSampBaWdCTWdhNWtwSXhOUWM=-w400-h224-p-df-rw",
+    "source": "IBM",
+    "datetime": "2024-06-05T07:00:00.000Z",
+    "time": "Jun 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing the Oracle APEX Sample Document Generator App!",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxQOHJVcWw1Umh3ZzE0WklIMnVMUUpmOGdZbUJiSFJlLTNqMGVRRi0tOE9WZVU2cmhRZGR6eEdxYmJvN1VHX1FCMGgxRy1Wbzk2RHZSVkFwUEcwaDl3cXVmZnJxbVdQR2JFbm9yZ0VtYnRuSGFyQjYxTEM0T1NfOEZQeXRheUd2MXN3REhFV2gxRGE3N1F1c1poSG5oYw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVTMEU0VG10Mk9EWTNjbEl3VFJDaUFSaTNBaWdCTWdZQmdKU2xOUWM=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle to invest over $1 bln on AI, cloud computing in Spain",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxNV0JGSHktdTFPaWZnZ2dIelI3YzQyQUFFUGJPcTcxR09UQ3ktZmZYQnkteHJlNFN0aXNPTDR0dmlBTTdPcy04SVZCR3Z6V0o1SVRTbXVkZVVUb3lWQWZzd0E5NXBSX0FrZWVlYmlNTTRPam9tRmRNZmtCWjJiQlpRb1BVaGdfcldyZzlyQkxjejFubWdubmd6WkN3ejNuSDhoMW56VE42emdhdlFUMDJtZ1ZVdnhxVnhQcTVxYw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhhamhJTm5Sc2NtSndjbkpLVFJDeUFSaWJBaWdCTWdZQmNJSzMyQU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-20T07:00:00.000Z",
+    "time": "Jun 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Cloud Has Achieved Momentum Through Differentiation",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxQNEhLb19zLS1fQ09VaXZ5V0hKejkzTTBRSnRBdk5vUk5RWTRXZ3B5NEI3VFd0VWxTTElOSEhqRU5qdlNGOUFzVmlyLVY2Znk4dEdtaHh4RTYxZTFaTzVfNC1mRTcyeloxRlNZMnc3cWh1M1pKYmNPUTN5SFZiS2twaXhUVFpZQUREeUJoZnpmeE9pekc2NkZlMkp3TWpmbi0tYzZCOEdfZEthcUJyNk9jeTNB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJTbTFNZEZvNWF6QTRiRmRuVFJDdkFSaWdBaWdCTWdZNThZclR5QVE=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-02-14T08:00:00.000Z",
+    "time": "Feb 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Top 7 Oracle GoldenGate Announcements at CloudWorld 2023",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxONFhMQlYxTFdyLTUwSndUQ0hWUzFPZzh4VDhtTHVheFMxQkZ6NndvVDN5bWJDQTdsMXhPcUprMEFnQWQ1Nnh5d2JDNF9rbUFqMUpQakRuWlhXUWdUZFpqaHBITmdEeHpWNnIzSHRVVjV1VExKNzdBZDZ1MmpEMUpoY2FzNzJDWlFLNXJaOHJYWjBxVmdmcVZMQ3VTM2hybkhYZG9RaQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUphVjlzZVhFM1QwOWtVbEpmVFJDZEFSakJBaWdCTWdhVkVvU09WUU0=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle CEO Safra Catz Exits Disney’s Board",
+    "link": "https://news.google.com/read/CBMigAFBVV95cUxNWHpEVUVJWVRWUmY1RWlqaUVJODlMSFlfakhSRlZETkFnYzJaUUZFRHc5bDR1enVKdklwZEVqWU5FUWlqQ0JheEdBVE5NWjA2TXRMNHRNdDlkY01aQXFTWTdjbUw1cl9EdWlCaGN2MDhfRXF4c3d0MmdCZUFPa2NkX9IBhgFBVV95cUxQSHd0VndjY1k0WkFHVjBiNlRJaFhxMU1CR1Nvb193T0I5MjZMX3ppeWRHUnk5clhWZmhfendNaENBaDJJNUZpVTU5MzR3NEE5cFdPQnJVbHRXQzBlcUoyZUU5OGNtYThoZzdUd0s1M1pWMERKLUNha0Nfa3plSFlMSGZYSnVfUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVhMkZzY1UxNFVWY3haa1kyVFJDM0FSaVRBaWdCTWdZdFZZak9wUWM=-w400-h224-p-df-rw",
+    "source": "Variety",
+    "datetime": "2024-07-19T07:00:00.000Z",
+    "time": "Jul 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Q4 Stunners: RPO Soars 44% to $98 Billion, Google Cloud Is New BFF",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxNRlZVUE1RNVB4ZVNoS3Q2QXk4LURWRzhvSy1yaWk2czFBVFJWVmZ0ZWhHb19lUTRXQU1XOXQ0V3o3b2lqS3NBRWswRlBGek9Pci1nUmNRMERwTGdRbnV1dnlKcEdWMzFoVG9ST2hJU3VTN1h3N0RBSzdZelNwRVFvNDlBcG5GREt5QVlvSU00OGpXbzM3d1FxUlBSWlVBYXZZdHBYUGNsazdBVG9yWUdPaXJTWQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpka2QzTFhWRGNXNVNhWFYxVFJDb0FSaXNBaWdCTWdhSnNvckhRUVU=-w400-h224-p-df-rw",
+    "source": "Acceleration Economy",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Larry Ellison's AI Vision: An Oracle Cloud Data Center for Every Customer (and Submarines)",
+    "link": "https://news.google.com/read/CBMiygFBVV95cUxNa2hJZVEyNUhWUHIyT3Q0Y3ViYkF2SG9wdmprdkNIVjNIZGVPcmlSZERWY0Nub2lxVlFEbHN5X0V3UDlNRmF1RWNpZm1CSmYxU0dmNnEzNTI4RkxJSHBZSlM1X1ZGeVFtU2JoX3dYSWhPM2p1MG5fYy1ZZVpJck41Zkl4bnhSUU5QTWFMbUdhSmhtOTdjYXlqREEwYUVRU1FvU0xXQUtlU0taRHpPT0otQW1NOE5QMlI0bW1PaUJSdGVEUUs3OU5Od1ZR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXNVRnB5U2twWFpIUmFWR1V5VFJDb0FSaXNBaWdCTWdrZFFKQVprS21DNndF=-w400-h224-p-df-rw",
+    "source": "Acceleration Economy",
+    "datetime": "2024-06-17T07:00:00.000Z",
+    "time": "Jun 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle And Google Partner To Deliver Multicloud Offering To Enterprises",
+    "link": "https://news.google.com/read/CBMiwwFBVV95cUxNSHZtVko5ZTFzcmdlSzBfREN3SElWdnZwM1F4cUZ5Ym1Mc2Z1MndjNlJ1U0NWWWdSUE55eWxsbUw0VXRzREJHNmNoZXE4cXlvQ1JQVVk0SDcyRjRFcHdWdVU0Y21nVkx6ZkJDMjBmX2dvOUVnZm56Z19hd2d3TVJsMnhYWFVzcU5wdTM5SW5TX1d0Mzg5WUJGRnpBdnRiN0ROY2ZVRVk3bzhZdW96Tldab3c1M3hYNFJSRTNSZzMtQUkyRWM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZUV0pTUzFkVU5DMDNNR1p4VFJDb0FSaXJBaWdCTWdZSm9aYkZ0QVk=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Navy Federal Credit Union taps Oracle for cloud and account servicing tech overhaul",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxNcEI0cWxMb3g3TzZOQ1Bqdm9HSlBWLTVvR3U1aW40eERFTzRTTVV5X0JZbGt0T1JQeGtFb05hM2NMYkQ5WU9RNTFSRDN4M2JjV2RFOERXUmlHQ1ExSS1lUzVqNTVEQ3RWTU1FSUwxa3JiUjFEZWJBai1kckc4eEZaV2FGV0ZRRWFvbnIwWW1ra2xNc2VlOU40a3lqTF9TNXlwcVpRRWtQN0VGM3lNYVVHLVB2ZEkyTlFaQTlXa1cxYk8?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRTMUpWVFhwR1l6aHRTVTl4VFJDMEFSaTBBU2dCTWdZSmNvd25zUVU=-w400-h224-p-df-rw",
+    "source": "FinTech Futures",
+    "datetime": "2024-01-24T08:00:00.000Z",
+    "time": "Jan 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Database Security Assessment Tool (DBSAT) 3.1",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE4zbTNUa2drc0Q0YTVuQTNldGNWczZZRDlrWVNSTmxWSjdKTFc0WmhMUHZPQXpWVHg2Q0ZENXN4VGg3dEZReGR2OUhZdTJFUTU1bUg5UUtEcFZZMFlqdGhyWGI0Ukdfb0py?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFSVkI1YWtoeE9EQXpieTFEVFJDb0FSaXNBaWdCTWdhSm9aTG1PQVk=-w400-h224-p-df-rw",
+    "source": "Oracle",
+    "datetime": "2024-01-15T08:00:00.000Z",
+    "time": "Jan 15",
+    "articleType": "regular"
+  }
+]

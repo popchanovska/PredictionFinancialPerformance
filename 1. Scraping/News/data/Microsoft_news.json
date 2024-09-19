@@ -1,0 +1,890 @@
+[
+  {
+    "title": "Helping our customers through the CrowdStrike outage",
+    "link": "https://blogs.microsoft.com/blog/2024/07/20/helping-our-customers-through-the-crowdstrike-outage/",
+    "source": "Microsoft",
+    "datetime": "2024-07-20T15:23:34.000Z",
+    "time": "5 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Staying ahead of threat actors in the age of AI",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/02/14/staying-ahead-of-threat-actors-in-the-age-of-ai/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5XVkpYVHkxaVptRlBkRmxwVFJDM0FSaVRBaWdCTWdZRm9vd0l2UVU=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-02-14T08:00:00.000Z",
+    "time": "Feb 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "With a systems approach to chips, Microsoft aims to tailor everything ‘from silicon to service’ to meet AI demand - Source",
+    "link": "https://news.microsoft.com/source/features/ai/in-house-chips-silicon-to-service-to-meet-ai-demand/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdOVkJ3ZDJvNWRqRjRPRmhKVFJDM0FSaVRBaWdCTWdZQklJNTN2QVU=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Microsoft Copilot, your everyday AI companion",
+    "link": "https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVdkV2xhTFhGWmJUSlljWGhVVFJDb0FSaXNBaWdCTWdhdFZZN09xUVU=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-09-21T07:00:00.000Z",
+    "time": "Sep 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Mistral-Large on Azure in partnership with Mistral AI",
+    "link": "https://azure.microsoft.com/en-us/blog/microsoft-and-mistral-ai-announce-new-partnership-to-accelerate-ai-innovation-and-introduce-mistral-large-first-on-azure/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRjV05tU1RoTVZGcFZhRjlJVFJDb0FSaXNBaWdCTWdZTm9wUUhPUWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-02-26T08:00:00.000Z",
+    "time": "Feb 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft announces new Copilot Copyright Commitment for customers - Microsoft On the Issues",
+    "link": "https://blogs.microsoft.com/on-the-issues/2023/09/07/copilot-copyright-commitment-ai-legal-concerns/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpkRkU1WTJkcU1FMHpjR3hMVFJDM0FSaVRBaWdCTWdhbElwZ3duUWs=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-09-07T07:00:00.000Z",
+    "time": "Sep 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Copilot+ PCs",
+    "link": "https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHhWMjlXWmtKWlJrbHNkakZUVFJDb0FSaXNBaWdCTWdtQmNKUzJzQ2V4N0FF=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-20T07:00:00.000Z",
+    "time": "May 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and Activision Blizzard Restructure Proposed Acquisition",
+    "link": "https://blogs.microsoft.com/on-the-issues/2023/08/21/microsoft-activision-restructure-acquisition/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZaazVWVGt4SlUwTTJXazVqVFJDM0FSaVRBaWdCTWdZQmNZZ3dOUVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-08-21T07:00:00.000Z",
+    "time": "Aug 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Delivering Copilot for everyone",
+    "link": "https://blogs.microsoft.com/blog/2024/02/07/delivering-copilot-for-everyone/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdURWx4VEdFeFdDMU9aWFZJVFJDM0FSaVRBaWdCTWdhZGM1UnNOUWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-02-07T08:00:00.000Z",
+    "time": "Feb 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Copilot for Microsoft 365 general availability and Microsoft 365 Chat",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/09/21/announcing-microsoft-365-copilot-general-availability-and-microsoft-365-chat/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZabWxST0VSMFVYbE5UMlp0VFJDb0FSaXNBaWdCTWdZZFZJNnRwUWM=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-09-21T07:00:00.000Z",
+    "time": "Sep 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Discoveries in weeks, not years: How AI and high-performance computing are speeding up scientific discovery",
+    "link": "https://news.microsoft.com/source/features/ai/how-ai-and-hpc-are-speeding-up-scientific-discovery/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZVMTkwYlc1NFVsaEVWblF3VFJDM0FSaVRBaWdCTWdZQlE1SXhvUWc=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft Digital Defense Report 2023 (MDDR)",
+    "link": "https://www.microsoft.com/en-us/security/security-insider/microsoft-digital-defense-report-2023",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNXFOMEZTVVRBeGJscFBOakpsVFJERkFSaUFBaWdCTWdzQkVJaWpuS1JTOXdoOGN3=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-10-05T13:21:19.000Z",
+    "time": "Oct 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Unlocking a new era for scientific discovery with AI: How Microsoft’s AI screened over 32 million candidates to find a better battery",
+    "link": "https://azure.microsoft.com/en-us/blog/quantum/2024/01/09/unlocking-a-new-era-for-scientific-discovery-with-ai-how-microsofts-ai-screened-over-32-million-candidates-to-find-a-better-battery/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlZelV0VlVSd1dua3pZbFJ6VFJDb0FSaXNBaWdCTWdZTlVZNjJLQWc=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft Mesh is generally available in Microsoft Teams | Microsoft 365 Blog",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/24/bring-virtual-connections-to-life-with-microsoft-mesh-now-generally-available-in-microsoft-teams/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHpkVlZYUldkNmVrTnlNMUIxVFJDb0FSaXNBaWdCTWdrQmNKSzB0T2FoQ2dJ=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-01-24T08:00:00.000Z",
+    "time": "Jan 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Celebrating the first year of Copilot with significant new innovations",
+    "link": "https://blogs.microsoft.com/blog/2023/12/05/celebrating-the-first-year-of-copilot-with-significant-new-innovations/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXlURWhrY1c1NldVdzBVV3BTVFJDb0FSaXNBaWdCTWdZUmRKTE9NUWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-12-05T08:00:00.000Z",
+    "time": "Dec 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "AI-Powered Low-Code Tools | Microsoft Power Platform",
+    "link": "https://www.microsoft.com/en-us/power-platform",
+    "source": "microsoft.com",
+    "datetime": "2023-11-15T16:30:25.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Press Release & Webcast",
+    "link": "https://www.microsoft.com/en-us/investor/earnings/fy-2024-q2/press-release-webcastR",
+    "source": "microsoft.com",
+    "datetime": "2024-01-30T08:00:00.000Z",
+    "time": "Jan 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Midnight Blizzard conducts targeted social engineering over Microsoft Teams",
+    "link": "https://www.microsoft.com/en-us/security/blog/2023/08/02/midnight-blizzard-conducts-targeted-social-engineering-over-microsoft-teams/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtaWHB5YjJKdFJWOVFUMHRQVFJDM0FSaVRBaWdCTWdhZFVZcktKUWc=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-08-02T07:00:00.000Z",
+    "time": "Aug 2, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Expanding Copilot for Microsoft 365 to businesses of all sizes",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/01/15/expanding-copilot-for-microsoft-365-to-businesses-of-all-sizes/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBYM0ZyYnpaek5sSnRjWEpEVFJDb0FSaXJBaWdCTWdZQmNKRE5yUWM=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-01-15T08:00:00.000Z",
+    "time": "Jan 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft announces new steps to help protect elections - Microsoft On the Issues",
+    "link": "https://blogs.microsoft.com/on-the-issues/2023/11/07/microsoft-elections-2024-ai-voting-mtac/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHdUWE0wUjJGQ2JuZGpjVWxtVFJDM0FSaVRBaWdCTWdPdFlndw=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-11-07T08:00:00.000Z",
+    "time": "Nov 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "New passkey support for Microsoft consumer accounts | Microsoft Security Blog",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/05/02/microsoft-introduces-passkeys-for-consumer-accounts/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXFORjlCYVRWRk1DMW5iMnhQVFJDb0FSaXJBaWdCTWdtRmc0NVNxZWVwN2dF=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Midnight Blizzard: Guidance for responders on nation-state attack",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNNRGhLYjFsbFVIaERZV3RTVFJDM0FSaVRBaWdCTWdZVmM0aHdyUWM=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "What Can Copilot’s Earliest Users Teach Us About Generative AI at Work?",
+    "link": "https://www.microsoft.com/en-us/worklab/work-trend-index/copilots-earliest-users-teach-us-about-generative-ai-at-work",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTJORmxEU0RCVWRWSk5SemgwVFJDb0FSaXNBaWdCTWdrSlVZeElMZWc5Y0FF=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft Build 2024",
+    "link": "https://news.microsoft.com/microsoft-may-2024-events/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdhalpHZVhCSlRsQkNURFEyVFJDM0FSaVRBaWdCTWdhUllwTE5yUVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Octo Tempest crosses boundaries to facilitate extortion, encryption, and destruction",
+    "link": "https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHRhR2RtTTNjMk5FOVdibFJLVFJDM0FSaVRBaWdCTWdrQlpZeXVKU2l4alFF=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-10-25T07:00:00.000Z",
+    "time": "Oct 25, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Turn your ideas into songs with Suno on Microsoft Copilot",
+    "link": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2023/12/19/turn-your-ideas-into-songs-with-suno-on-microsoft-copilot/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRXWGxJVkZsdU5sSlJOamRPVFJDOEFSaU5BaWdCTWdZbE5aVE9IUWc=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-12-19T08:00:00.000Z",
+    "time": "Dec 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and Epic expand AI collaboration to accelerate generative AI’s impact in healthcare, addressing the industry’s most pressing needs",
+    "link": "https://blogs.microsoft.com/blog/2023/08/22/microsoft-and-epic-expand-ai-collaboration-to-accelerate-generative-ais-impact-in-healthcare-addressing-the-industrys-most-pressing-needs/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBiSFpCZEhSNVRFdFlaUzFGVFJDM0FSaVRBaWdCTWdZMVJKQndIUWc=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-08-22T07:00:00.000Z",
+    "time": "Aug 22, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft Ignite 2023: AI transformation and the technology driving change",
+    "link": "https://blogs.microsoft.com/blog/2023/11/15/microsoft-ignite-2023-ai-transformation-and-the-technology-driving-change/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVaMVJaU1cxVFJuSm9iR1IxVFJDb0FSaXNBaWdCTWdhQmg1SmtNZ2M=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "AI at Work Is Here. Now Comes the Hard Part",
+    "link": "https://www.microsoft.com/en-us/worklab/work-trend-index/ai-at-work-is-here-now-comes-the-hard-part",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFjRVJDTTA4MU1sTTBUbUoxVFJDb0FSaXNBaWdCTWdZNVE1SlNwUVk=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft announces changes to Microsoft 365 and Office 365 to address European competition concerns",
+    "link": "https://blogs.microsoft.com/eupolicy/2023/08/31/european-competition-teams-office-microsoft-365/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUJSazFsV1hoQk5YSnJSMmhUVFJDM0FSaVRBaWdCTWdtUklZaUhLaWQ3cFFJ=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-08-31T07:00:00.000Z",
+    "time": "Aug 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Microsoft Copilot for Finance – the newest Copilot offering in Microsoft 365 designed to transform modern finance",
+    "link": "https://blogs.microsoft.com/blog/2024/02/29/introducing-microsoft-copilot-for-finance-the-newest-copilot-offering-in-microsoft-365-designed-to-transform-modern-finance/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWpSWFl3U3pKNWVreEVka1kyVFJDM0FSaVRBaWdCTWdtVllZaElOcVk5Q1FJ=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-02-29T08:00:00.000Z",
+    "time": "Feb 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft announces $3.3 billion investment in Wisconsin to spur artificial intelligence innovation and economic growth",
+    "link": "https://news.microsoft.com/2024/05/08/microsoft-announces-3-3-billion-investment-in-wisconsin-to-spur-artificial-intelligence-innovation-and-economic-growth/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVMWFZSTUhSdWFEVjZkRmswVFJEWkFSam9BU2dCTWdZTm9wVG91QVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Siemens and Microsoft partner to drive cross-industry AI adoption",
+    "link": "https://news.microsoft.com/2023/10/31/siemens-and-microsoft-partner-to-drive-cross-industry-ai-adoption/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRlbXRtVWxJd1ptUldXVGxPVFJDM0FSaVRBaWdCTWdZSmNZeTF1QVU=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-10-31T07:00:00.000Z",
+    "time": "Oct 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft lays off 1,900 Activision Blizzard and Xbox employees",
+    "link": "https://www.theverge.com/2024/1/25/24049050/microsoft-activision-blizzard-layoffs",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVVTVEJ4YXpSVVVUbEhRVmh5VFJDb0FSaXJBaWdCTWdrRlU0UkczcUpqYVFJ=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Khan Academy and Microsoft partner to expand access to AI tools that personalize teaching and help make learning fun",
+    "link": "https://news.microsoft.com/source/features/ai/khan-academy-and-microsoft-partner-to-expand-access-to-ai-tools/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9ZbGhwTlhoVVJHSlpkWFpIVFJETEFSajRBU2dCTWdZRlVJN1ZHQW8=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft to invest US$2.9 billion in AI and cloud infrastructure in Japan while boosting the nation’s skills, research and cybersecurity",
+    "link": "https://news.microsoft.com/apac/2024/04/10/microsoft-to-invest-us2-9-billion-in-ai-and-cloud-infrastructure-in-japan-while-boosting-the-nations-skills-research-and-cybersecurity/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJkbE5PYW1ad2FXSXdhbnBWVFJDM0FSaVRBaWdCTWdhTklaclJIQW8=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-04-10T07:00:00.000Z",
+    "time": "Apr 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Expanding Microsoft’s Secure Future Initiative (SFI) | Microsoft Security Blog",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/05/03/security-above-all-else-expanding-microsofts-secure-future-initiative/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFXRzVhTlRkRGFqSnVhMTlTVFJDb0FSaXNBaWdCTWdZcFJwVHRJUWc=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-05-03T07:00:00.000Z",
+    "time": "May 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft’s AI Access Principles: Our commitments to promote innovation and competition in the new AI economy",
+    "link": "https://blogs.microsoft.com/on-the-issues/2024/02/26/microsoft-ai-access-principles-responsible-mobile-world-congress/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdTa1pOU0hnMVNFRllTME4xVFJDbkFSaXVBaWdCTWdZQk1KQ3ByQVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-02-26T08:00:00.000Z",
+    "time": "Feb 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Microsoft Copilot Studio | Microsoft 365 Blog",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/announcing-microsoft-copilot-studio-customize-copilot-for-microsoft-365-and-build-your-own-standalone-copilots/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW9XRGczYkc4dFNIVlNTMHBtVFJDb0FSaXJBaWdCTWdZQmtJNnN1UVU=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Who’s Harry Potter? Making LLMs forget",
+    "link": "https://www.microsoft.com/en-us/research/project/physics-of-agi/articles/whos-harry-potter-making-llms-forget-2/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNU9kMVJrWkhWclV6aEdhbmxQVFJDSkFSanZBaWdCTWdOWllBNA=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-10-04T07:00:00.000Z",
+    "time": "Oct 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Vodafone and Microsoft sign 10-year strategic partnership to bring generative AI, digital services and the cloud to more than 300 million businesses and consumers",
+    "link": "https://news.microsoft.com/2024/01/15/vodafone-and-microsoft-sign-10-year-strategic-partnership-to-bring-generative-ai-digital-services-and-the-cloud-to-more-than-300-million-businesses-and-consumers/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXdUbU5SV2psc2VIZFFObk5RVFJDakFSaTJBaWdCTWdrQm9KUmp1bVkxendF=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-01-15T08:00:00.000Z",
+    "time": "Jan 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft’s Surface Pro Is a Capable 2-in-1 That’s Outrageously Expensive",
+    "link": "https://www.wired.com/review/microsoft-surface-pro-11th-edition-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNHpUamh6T0ZWMWIxTjZWSGh6VFJEQ0FSaURBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "WIRED",
+    "datetime": "2024-06-24T07:00:00.000Z",
+    "time": "Jun 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and NVIDIA announce major integrations to accelerate generative AI for enterprises everywhere - Stories",
+    "link": "https://news.microsoft.com/2024/03/18/microsoft-and-nvidia-announce-major-integrations-to-accelerate-generative-ai-for-enterprises-everywhere/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRNRmR4UW5ZdFZtNXRVVTV6VFJDb0FSaXNBaWdCTWdhbFZJNk9KUVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-03-18T07:00:00.000Z",
+    "time": "Mar 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing the Microsoft Copilot Copyright Commitment",
+    "link": "https://www.microsoft.com/en-us/licensing/news/microsoft-copilot-copyright-commitment",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZORkZXZFhJMWNHMHhUQzFDVFJDeUFSaWJBaWdCTWdiSklZN1ZGQWs=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-09-07T07:00:00.000Z",
+    "time": "Sep 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft introduces new data and AI solutions to help healthcare organizations unlock insights and improve patient and clinician experiences",
+    "link": "https://blogs.microsoft.com/blog/2023/10/10/microsoft-introduces-new-data-and-ai-solutions-to-help-healthcare-organizations-unlock-insights-and-improve-patient-and-clinician-experiences/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHRlWG8xV1ZNdFJrMU1kMk5rVFJDM0FSaVRBaWdCTWdtTk1weW5uaWxGcGdJ=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-10-10T07:00:00.000Z",
+    "time": "Oct 10, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Microsoft Copilot for Finance in Microsoft 365| Microsoft 365 Blog",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/02/29/introducing-microsoft-copilot-for-finance-transform-finance-with-next-generation-ai-in-microsoft-365/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWlORVJsUTA1WmEwdHpiRTFhVFJDb0FSaXNBaWdCTWdZTlVwRDFIQWs=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-02-29T08:00:00.000Z",
+    "time": "Feb 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "New models added to the Phi-3 family, available on Microsoft Azure",
+    "link": "https://azure.microsoft.com/en-us/blog/new-models-added-to-the-phi-3-family-available-on-microsoft-azure/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVTRUl6U1ROTFMxQTBUVE5YVFJDb0FSaXNBaWdCTWdZbFk0aU9MUVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft expands partnership with Oracle to bring customers’ mission-critical database workloads to Azure",
+    "link": "https://blogs.microsoft.com/blog/2023/09/14/microsoft-expands-partnership-with-oracle-to-bring-customers-mission-critical-database-workloads-to-azure/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJZa0p2T1ZCUU1GOWxOekpZVFJDb0FSaXNBaWdCTWdhQm9KU2tPQWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft is finally making custom chips — and they’re all about AI",
+    "link": "https://www.theverge.com/2023/11/15/23960345/microsoft-cpu-gpu-ai-chips-azure-maia-cobalt-specifications-cloud-infrastructure",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZUa0psVXpOcVNGZHNaWGhEVFJDb0FSaXJBaWdCTWdZaGM0b0xxZ2M=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft announces US$2.2 billion investment to fuel Malaysia’s cloud and AI transformation - Microsoft Stories Asia",
+    "link": "https://news.microsoft.com/apac/2024/05/02/microsoft-announces-us2-2-billion-investment-to-fuel-malaysias-cloud-and-ai-transformation/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdXRmh4VWpOS2QwMXBhRFpoVFJDM0FSaVRBaWdCTWdhVlVwaHJwUWs=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft’s AI Safety Policies - Microsoft On the Issues",
+    "link": "https://blogs.microsoft.com/on-the-issues/2023/10/26/microsofts-ai-safety-policies/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXlNWGczYjAxRGFGaHZTa3d6VFJEQUFSaUhBaWdCTWdPSkFRdw=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-10-26T07:00:00.000Z",
+    "time": "Oct 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft delays controversial AI Recall feature on new Windows computers",
+    "link": "https://apnews.com/article/microsoft-ai-recall-windows-6ba8df3f22e9fca599d20f2d5770cd95",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHdjRVZXU0ZsMFJVbDBRblpIVFJDM0FSaVRBaWdCTWdtQlFveHVxYWE1aUFJ=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-06-14T07:00:00.000Z",
+    "time": "Jun 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "New subscription structure for Microsoft 365 in Europe",
+    "link": "https://www.microsoft.com/en-us/licensing/news/microsoft365-teams-eea",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNDRRMUkwVkVnMVduWlJUa3ROVFJDeUFSaWJBaWdCTWdPcGxRUQ=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-08-31T07:00:00.000Z",
+    "time": "Aug 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Microsoft and Quantinuum achieved reliable quantum computing",
+    "link": "https://azure.microsoft.com/en-us/blog/quantum/2024/04/03/how-microsoft-and-quantinuum-achieved-reliable-quantum-computing/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVaRWRwV1ZFM2MzWkdOV05CVFJDb0FSaXNBaWdCTWdZWm81RE11UVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-04-03T07:00:00.000Z",
+    "time": "Apr 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Microsoft Copilot, your everyday AI companion",
+    "link": "https://news.microsoft.com/september-2023-event/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVjMVpGU0ZNeWMzRllRbVpDVFJDM0FSaVRBaWdCTWdZQlFKd0RGd28=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-09-21T07:00:00.000Z",
+    "time": "Sep 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "“Dirty stream” attack: Discovering and mitigating a common vulnerability pattern in Android apps",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZiVWRmUVdveVpVcExXbkJYVFJDM0FSaVRBaWdCTWdZMVZJcHdvUWc=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-05-01T07:00:00.000Z",
+    "time": "May 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft AI Red Team building future of safer AI",
+    "link": "https://www.microsoft.com/en-us/security/blog/2023/08/07/microsoft-ai-red-team-building-future-of-safer-ai/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBkazh3TUdWdVdqQlpaMGhqVFJDM0FSaVRBaWdCTWdhVjg0UW96Z00=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-08-07T07:00:00.000Z",
+    "time": "Aug 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Bringing Copilot to more customers worldwide—across life and work",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/03/14/bringing-copilot-to-more-customers-worldwide-across-life-and-work/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5VVjl1ZW1SdE0yVjJlREJwVFJDb0FSaXJBaWdCTWdZbE5JNnRtUWs=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-03-14T07:00:00.000Z",
+    "time": "Mar 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Mitigating Skeleton Key, a new type of generative AI jailbreak technique",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFZbU16UTBSaGFXYzJSRzEyVFJDb0FSaXNBaWdCTWdhZHRvd3FQZ1U=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-06-26T07:00:00.000Z",
+    "time": "Jun 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and LinkedIn release the 2024 Work Trend Index on the state of AI at work",
+    "link": "https://blogs.microsoft.com/blog/2024/05/08/microsoft-and-linkedin-release-the-2024-work-trend-index-on-the-state-of-ai-at-work/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVPWGR5YlhoSlUwRkVOVE5oVFJDb0FSaXNBaWdCTWdZUlVvUk9VUU0=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and Oracle expand partnership to deliver Oracle Database Services on Oracle Cloud Infrastructure in Microsoft Azure",
+    "link": "https://news.microsoft.com/2023/09/14/microsoft-and-oracle-expand-partnership-to-deliver-oracle-database-services-on-oracle-cloud-infrastructure-in-microsoft-azure/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVhazlsVXpsaVdFTTFjbU5PVFJDb0FSaXNBaWdCTWdhQm9KU2tPQWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Garnet – an open-source, next-generation, faster cache-store for accelerating applications and services",
+    "link": "https://www.microsoft.com/en-us/research/blog/introducing-garnet-an-open-source-next-generation-faster-cache-store-for-accelerating-applications-and-services/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBUVzV2V21RME5VNTBXVFZSVFJDb0FSaXJBaWdCTWdhSlFJelhJQW8=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-03-18T07:00:00.000Z",
+    "time": "Mar 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft’s 2023 Diversity and Inclusion Report: A decade of transparency, commitment and progress",
+    "link": "https://blogs.microsoft.com/blog/2023/11/01/microsofts-2023-diversity-and-inclusion-report-a-decade-of-transparency-commitment-and-progress/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRjVjg0ZGpVeFFtTkpNMWN6VFJDb0FSaXJBaWdCTWdZQmNJeUVMZ2M=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-11-01T07:00:00.000Z",
+    "time": "Nov 1, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Adobe and Microsoft partner to bring new generative AI capabilities to marketers as they work in Microsoft 365 applications",
+    "link": "https://news.microsoft.com/2024/03/26/adobe-and-microsoft-partner-to-bring-new-generative-ai-capabilities-to-marketers-as-they-work-in-microsoft-365-applications/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWlNWFZsV1hORVMyZzJOak5ZVFJDZkFSaS1BaWdCTWdZRnNaYUdQZ2M=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-03-26T07:00:00.000Z",
+    "time": "Mar 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Orca 2: Teaching Small Language Models How to Reason",
+    "link": "https://www.microsoft.com/en-us/research/blog/orca-2-teaching-small-language-models-how-to-reason/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNVJVR3RMU0hWVVNEaEJSbVpKVFJDb0FSaXNBaWdCTWdNQmNBbw=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-11-20T08:00:00.000Z",
+    "time": "Nov 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and LinkedIn release the 2024 Work Trend Index on the state of AI at work - Stories",
+    "link": "https://news.microsoft.com/2024/05/08/microsoft-and-linkedin-release-the-2024-work-trend-index-on-the-state-of-ai-at-work/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVphV1ptY2xNMVFtTlRlbW8xVFJDcEFSaXFBaWdCTWdtQlFaSWxPbWM5clFF=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft Places: Using AI for flexible work | Microsoft 365 Blog",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/05/13/ai-brings-new-life-to-flexible-work-with-microsoft-places/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpaWFZXY1RCSFdtUlJhRGt3VFJDb0FSaXJBaWdCTWdZQkVab3BIZ2s=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-05-13T07:00:00.000Z",
+    "time": "May 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Microsoft’s open automation framework to red team generative AI Systems",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhXbGRHU2xveVdYVkZVRFJoVFJDb0FSaXNBaWdCTWdZQmhZempOUVk=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-02-22T08:00:00.000Z",
+    "time": "Feb 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tiny but mighty: The Phi-3 small language models with big potential - Source",
+    "link": "https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1WbTFWV0hGMGNtaFNURWRtVFJDM0FSaVRBaWdCTWdhNVU0eFJvUWc=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft collaborates with Mass General Brigham and University of Wisconsin–Madison to further advance AI foundation models for medical imaging",
+    "link": "https://news.microsoft.com/2024/07/24/microsoft-collaborates-with-mass-general-brigham-and-university-of-wisconsin-madison-to-further-advance-ai-foundation-models-for-medical-imaging/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxURk5FTUY5TGJWSmpjRTVEVFJDekFSaWFBaWdCTWdZWk5JanFvUWc=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-07-24T15:13:41.000Z",
+    "time": "23 hours ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Skills in Microsoft Viva, a new AI-powered service to grow and manage talent",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/10/10/introducing-skills-in-microsoft-viva-a-new-ai-powered-service-to-grow-and-manage-talent/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWhVblZGUkZJeWFXVlRTMGxzVFJDM0FSaVRBaWdCTWdrSklKb0xMbWdlcGdJ=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-10-10T07:00:00.000Z",
+    "time": "Oct 10, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Threat actors misusing Quick Assist in social engineering attacks leading to ransomware",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9XbGxuV0hCbVFVSmpaVWQ2VFJDM0FSaVRBaWdCTWdZWmRJeXVxUWM=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Microsoft Clipchamp: Unlock the power of video at work",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2023/07/31/introducing-microsoft-clipchamp-unlock-the-power-of-video-at-work/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJXREZVUW5FMVNFWkVWalZEVFJDb0FSaXNBaWdCTWdhWlU0aXNwUWc=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-07-31T07:00:00.000Z",
+    "time": "Jul 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft unveils new generative AI and data solutions across the shopper journey, offering copilot experiences through Microsoft Cloud for Retail",
+    "link": "https://news.microsoft.com/2024/01/11/microsoft-unveils-new-generative-ai-and-data-solutions-across-the-shopper-journey-offering-copilot-experiences-through-microsoft-cloud-for-retail/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpaRVJHYWw4dFZWcDBiVUZGVFJDM0FSaVRBaWdCTWdhaEk0N3NGUW8=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "A new world of security: Microsoft’s Secure Future Initiative - Microsoft On the Issues",
+    "link": "https://blogs.microsoft.com/on-the-issues/2023/11/02/secure-future-initiative-sfi-cybersecurity-cyberattacks/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJSVVZUWXpZNFpGZGtUbHBmVFJDM0FSaVRBaWdCTWdZQmc1UXZNUWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-11-02T07:00:00.000Z",
+    "time": "Nov 2, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing new Copilot in Microsoft Teams enhancements | Microsoft 365 Blog",
+    "link": "https://www.microsoft.com/en-us/microsoft-365/blog/2024/03/26/ai-powered-collaboration-with-microsoft-teams/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWtaRzgwTkdzNVVWRktPVVE1VFJDb0FSaXJBaWdCTWdZUlFJaDJ2QVE=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-03-26T07:00:00.000Z",
+    "time": "Mar 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Advancing science: Microsoft and Quantinuum demonstrate the most reliable logical qubits on record with an error rate 800x better than physical qubits",
+    "link": "https://blogs.microsoft.com/blog/2024/04/03/advancing-science-microsoft-and-quantinuum-demonstrate-the-most-reliable-logical-qubits-on-record-with-an-error-rate-800x-better-than-physical-qubits/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlWblZZUVVka1JteHFlRFpKVFJDb0FSaXNBaWdCTWdhbE5JcXVuUWs=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-04-03T07:00:00.000Z",
+    "time": "Apr 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft Copilot for Security is generally available on April 1, 2024 | Microsoft Security Blog",
+    "link": "https://www.microsoft.com/en-us/security/blog/2024/03/13/microsoft-copilot-for-security-is-generally-available-on-april-1-2024-with-new-capabilities/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtZM3BSWVRNelJrOUhRM2hCVFJDb0FSaXJBaWdCTWdZZFZJeU1xUVU=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-03-13T07:00:00.000Z",
+    "time": "Mar 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft says Apple’s new App Store rules are ‘a step in the wrong direction’",
+    "link": "https://www.theverge.com/2024/1/29/24054943/microsoft-apple-app-store-dma-rule-change-response",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFZWFExU2s1Q1ZuQmpaRzlJVFJEaEFSamhBU2dCTWdhbGhJek5NUWM=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-01-29T08:00:00.000Z",
+    "time": "Jan 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Prepare your data for AI innovation with Microsoft Fabric—now generally available",
+    "link": "https://www.microsoft.com/en-us/microsoft-fabric/blog/2023/11/15/prepare-your-data-for-ai-innovation-with-microsoft-fabric-now-generally-available/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZVMHh2VDFnMFFXcFRZbGhRVFJDb0FSaXNBaWdCTWdhQkJZNklyZ2M=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft announces significant commitments to enable a cloud and AI-powered future for Thailand",
+    "link": "https://news.microsoft.com/apac/2024/05/01/microsoft-announces-significant-commitments-to-enable-a-cloud-and-ai-powered-future-for-thailand/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZURGhwTkRSNUxYQXdia1Z4VFJDM0FSaVRBaWdCTWdZUmNwTHBzQWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-01T07:00:00.000Z",
+    "time": "May 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft announces US$1.7 billion investment to advance Indonesia’s cloud and AI ambitions - Microsoft Stories Asia",
+    "link": "https://news.microsoft.com/apac/2024/04/30/microsoft-announces-us1-7-billion-investment-to-advance-indonesias-cloud-and-ai-ambitions/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXlhbGxqV0VkUmFUWTFkemd4VFJDM0FSaVRBaWdCTWdZVmc1WXBzUWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-04-30T07:00:00.000Z",
+    "time": "Apr 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Automatic Conditional Access policies in Microsoft Entra streamline identity protection",
+    "link": "https://www.microsoft.com/en-us/security/blog/2023/11/06/automatic-conditional-access-policies-in-microsoft-entra-streamline-identity-protection/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJkbkl6Vlhjek9VRlJlalJYVFJDM0FSaVRBaWdCTWdZQmg0cEJ1Z1U=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-11-06T08:00:00.000Z",
+    "time": "Nov 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Unlocking productivity and personalizing learning with AI",
+    "link": "https://www.microsoft.com/en-us/education/blog/2024/01/unlocking-productivity-and-personalizing-learning-with-ai/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBiVVpUU0hSVlozWnBkbUZrVFJDckFSaW5BaWdCTWdZSmdKUkZyZ2M=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Copilot & Other AI-Powered Features",
+    "link": "https://www.microsoft.com/en-us/windows/copilot-ai-features",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUliVUl3UVRWa05URmtNSEI0VFJDSkFSanZBaWdCTWdZNW9JQnlRUVk=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-09-26T17:21:03.000Z",
+    "time": "Sep 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "The lessons from Microsoft’s startling comeback",
+    "link": "https://www.economist.com/leaders/2023/09/28/the-lessons-from-microsofts-startling-comeback",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNWREpCZVdkM2VIWllkREYyVFJDb0FSaXNBaWdCTWdhWmc0ek5NUVk=-w400-h224-p-df-rw",
+    "source": "The Economist",
+    "datetime": "2023-09-28T07:00:00.000Z",
+    "time": "Sep 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "From vision to reality: Microsoft’s partners embrace AI to deliver customer value",
+    "link": "https://blogs.microsoft.com/blog/2024/03/20/from-vision-to-reality-microsofts-partners-embrace-ai-to-deliver-customer-value/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZSMlpaU1ZsS1pubExNV1owVFJDb0FSaXNBaWdCTWdhWmdaWktzUWM=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Meeting the moment: combating AI deepfakes in elections through today’s new tech accord",
+    "link": "https://blogs.microsoft.com/on-the-issues/2024/02/16/ai-deepfakes-elections-munich-tech-accord/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNW5TbUpIZVhsUlducHVUM1JPVFJDM0FSaVRBaWdCTWdNQndBUQ=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-02-16T08:00:00.000Z",
+    "time": "Feb 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Russia is trying to disrupt the 2024 Paris Olympic Games - Microsoft On the Issues",
+    "link": "https://blogs.microsoft.com/on-the-issues/2024/06/02/russia-cyber-bots-disinformation-2024-paris-olympics/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1TV3hMVDJKdFIwOTBhbXMzVFJDM0FSaVRBaWdCTWdZQlVJak5vUVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-06-02T07:00:00.000Z",
+    "time": "Jun 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft and G42 announce $1 billion comprehensive digital ecosystem initiative for Kenya - Stories",
+    "link": "https://news.microsoft.com/2024/05/22/microsoft-and-g42-announce-1-billion-comprehensive-digital-ecosystem-initiative-for-kenya/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRhems1VmpCNGVGTXhXR2hRVFJEYUFSam5BU2dCTWdZTm9wVG91QVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-05-22T07:00:00.000Z",
+    "time": "May 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Announcing Microsoft Secure Future Initiative to advance security engineering",
+    "link": "https://www.microsoft.com/en-us/security/blog/2023/11/02/announcing-microsoft-secure-future-initiative-to-advance-security-engineering/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpYMWh0YjJsWlpWSmZZbXgyVFJDM0FSaVRBaWdCTWdhQlFaZ1RHUW8=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2023-11-02T07:00:00.000Z",
+    "time": "Nov 2, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Microsoft Azure Incubations Team launches Radius, a new open application platform for the cloud",
+    "link": "https://azure.microsoft.com/en-us/blog/the-microsoft-azure-incubations-team-launches-radius-a-new-open-application-platform-for-the-cloud/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJkRlpwZDJvNFFuUkxlWEYxVFJDb0FSaXRBaWdCTWdZTk1ZTEZ1QVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-10-18T07:00:00.000Z",
+    "time": "Oct 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft Cloud for Sovereignty now generally available, opening new pathways for government innovation",
+    "link": "https://blogs.microsoft.com/blog/2023/12/14/microsoft-cloud-for-sovereignty-now-generally-available-opening-new-pathways-for-government-innovation/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXFOR1ZTWlZoTlIxUlFhMmRCVFJDb0FSaXNBaWdCTWdPWnN3Zw=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2023-12-14T08:00:00.000Z",
+    "time": "Dec 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Northrop & Johnson sails to exponential growth with Microsoft Dynamics 365",
+    "link": "https://customers.microsoft.com/en-us/story/1724179703426565113-northrop-johnson-microsoft-dynamics-365-customer-insights-united-states",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNZMEpMVG5KclRWRjFkakZGVFJEaEFSamhBU2dCTWdZQm9KQ2xQQVk=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-01-12T08:00:00.000Z",
+    "time": "Jan 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft Copilot for Sales and Copilot for Service are now generally available",
+    "link": "https://www.microsoft.com/en-us/dynamics-365/blog/business-leader/2024/02/01/microsoft-copilot-for-sales-and-copilot-for-service-are-now-generally-available/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNUbWRSUkZOVE4yTm9lbFJqVFJDb0FSaXJBaWdCTWdZVk1KQkpHZ28=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-02-01T08:00:00.000Z",
+    "time": "Feb 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft quarterly profit rises 20% as tech giant pushes to get customers using AI products",
+    "link": "https://apnews.com/article/microsoft-earnings-profit-stock-8235a4e1ebc50c0568b863f5ea2a19e4",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUdXbDlmZW1Kdk4yd3lla2RDVFJDM0FSaVRBaWdCTWdrSk1vWm1WdU5NaGdJ=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-04-25T07:00:00.000Z",
+    "time": "Apr 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "OpenAI’s Misalignment and Microsoft’s Gain",
+    "link": "https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlObnAzTFRsMWVqSkVhWFF6VFJDb0FSaXNBaWdCTWdZQkNhempCZzA=-w400-h224-p-df-rw",
+    "source": "Stratechery by Ben Thompson",
+    "datetime": "2023-11-20T08:00:00.000Z",
+    "time": "Nov 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Realigning global licensing for Microsoft 365",
+    "link": "https://www.microsoft.com/en-us/licensing/news/microsoft365-teams-ww",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNDBVM0ZDT1VsNlFVbDNURTlJVFJDeUFSaWJBaWdCTWdNRk1BUQ=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-04-01T07:00:00.000Z",
+    "time": "Apr 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Microsoft to invest $3.2 bln in Swedish cloud, AI",
+    "link": "https://www.reuters.com/technology/microsoft-invest-32-bln-swedish-cloud-ai-2024-06-03/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRhR3ROUlV3d09VaHNZekJaVFJDNEFSaVNBaWdCTWdZUkU2U3BrUXM=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  }
+]
