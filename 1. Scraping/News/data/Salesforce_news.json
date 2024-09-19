@@ -1,0 +1,819 @@
+[
+  {
+    "title": "Salesforce shares tumble 20% in worst day since 2004",
+    "link": "https://www.cnbc.com/2024/05/30/salesforce-stock-fall-earnings-revenue-miss.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhXVlZ0TTNOeFJsUjVUak5mVFJDb0FSaXNBaWdCTWdhQllJYXROUVk=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "AI is the thorn in Salesforce’s side",
+    "link": "https://www.morningbrew.com/daily/stories/2024/05/31/ai-is-the-thorn-in-salesforce-s-side",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVURWR0ZFVWS2RYcFhYMmREVFJDM0FSaVRBaWdCTWdhbFZKNk1JUWs=-w400-h224-p-df-rw",
+    "source": "Morning Brew",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce kicked me out after I left my desk to play ping-pong",
+    "link": "https://www.businessinsider.com/salesforce-ping-pong-work-flexible-2024-7",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWtaa1J5ZGpkdU4xTndPWE5MVFJEQ0FSaURBaWdCTWdhdEpaek9sUW8=-w400-h224-p-df-rw",
+    "source": "Business Insider",
+    "datetime": "2024-07-02T07:00:00.000Z",
+    "time": "23 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce hits silver - a tale of two towers a quarter of a century apart",
+    "link": "https://diginomica.com/salesforce-hits-silver-tale-two-towers-quarter-century-apart",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9ja2hWWXpJd1kwTTNVMFpoVFJERUFSaUJBaWdCTWdZSlFJQU9IZ28=-w400-h224-p-df-rw",
+    "source": "diginomica",
+    "datetime": "2024-03-08T08:00:00.000Z",
+    "time": "Mar 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce out as LA28 sponsor",
+    "link": "https://www.sportsbusinessjournal.com/Articles/2024/04/15/salesforce-out-as-la28-sponsor",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVOa3BQWlRVNU0zQklkVjh4VFJDbEFSaXlBaWdCTWdZQkFwVHNBQTA=-w400-h224-p-df-rw",
+    "source": "Sports Business Journal",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce debuts gen AI benchmark for CRM",
+    "link": "https://www.cio.com/article/2151993/salesforce-debuts-gen-ai-benchmark-for-crm.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtOSGRJVW1acFZ6WlZUWGRJVFJDM0FSaVRBaWdCTWdZaGM1WkxxUWM=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-06-18T07:00:00.000Z",
+    "time": "Jun 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "SF's Salesforce loses $50 billion in value, worst day in years",
+    "link": "https://www.sfgate.com/tech/article/salesforce-worst-stock-market-day-19486484.phpR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHlUUzFmZHpWM1JqQkhkM0ZhVFJDM0FSaVRBaWdCTWdhTkNJS0hFZ3M=-w400-h224-p-df-rw",
+    "source": "SFGATE",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce",
+    "link": "https://www.nttdata.com/global/en/about-us/partners/salesforce",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNVMnRaTFVGeFprdDFZbFZ4VFJDdUFSaWlBaWdCTWdaTlVZeTJwQVk=-w400-h224-p-df-rw",
+    "source": "NTT Data",
+    "datetime": "2024-07-08T22:08:06.000Z",
+    "time": "16 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce open to large acquisitions, but analysts have concerns",
+    "link": "https://finance.yahoo.com/news/salesforce-open-to-large-acquisitions-but-analysts-have-concerns-100213959.html",
+    "source": "Yahoo Finance",
+    "datetime": "2024-05-31T07:00:00.000Z",
+    "time": "May 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce shares tumble as soft cloud demand hurts forecasts",
+    "link": "https://www.reuters.com/technology/salesforce-forecasts-second-quarter-revenue-below-estimates-2024-05-29/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpaREpWVUdWMFJEUmZkRUZYVFJDNkFSaVBBaWdCTWdZZFVwZ3JJUWs=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-29T07:00:00.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce California Innovation Day",
+    "link": "https://insider.govtech.com/california/events/salesforce-california-innovation-dayR",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVOa1ZhTURaS2JrRlZiRTFZVFJDcEFSaXFBaWdCTWdhQlVJNHZ0UVk=-w400-h224-p-df-rw",
+    "source": "GovTech",
+    "datetime": "2024-04-24T07:00:00.000Z",
+    "time": "Apr 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce's Einstein Copilot is Here: The Conversational AI Assistant for CRM that Delivers Trusted AI Responses Grounded with Your Company Data",
+    "link": "https://www.prnewswire.com/news-releases/salesforces-einstein-copilot-is-here-the-conversational-ai-assistant-for-crm-that-delivers-trusted-ai-responses-grounded-with-your-company-data-302072143.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdNbWgzWlZreFJtNTVVM2RqVFJEQ0FSaURBaWdCTWdZQmdJNWp0Z1U=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-02-27T08:00:00.000Z",
+    "time": "Feb 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Backs Out of Informatica Deal, Reports",
+    "link": "https://www.cxtoday.com/crm/salesforce-backs-out-of-informatica-deal-reports/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNW5jR2RtY0ZaTk4yVXdjVEJVVFJDZkFSaS1BaWdCTWdrQlFvaE9wZWZJMVFB=-w400-h224-p-df-rw",
+    "source": "CX Today",
+    "datetime": "2024-04-22T07:00:00.000Z",
+    "time": "Apr 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce revenue grows in fiscal Q1 behind AI push",
+    "link": "https://www.digitalcommerce360.com/article/salesforce-revenue/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1hRVpFZWxwckxXOU1VVVpXVFJDb0FSaXNBaWdCTWdhQm9vYm5QUVk=-w400-h224-p-df-rw",
+    "source": "Digital Commerce 360",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Salesforce virtual table support for Power Pages (Preview)",
+    "link": "https://www.microsoft.com/en-us/power-platform/blog/power-pages/introducing-salesforce-virtual-table-support-for-power-pages-preview/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVkV3cxY0U5TldUWkdjRGxFVFJDb0FSaXNBaWdCTWdZQkFLaUFsd3M=-w400-h224-p-df-rw",
+    "source": "microsoft.com",
+    "datetime": "2024-04-12T07:00:00.000Z",
+    "time": "Apr 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce shares plunge 16% on first revenue miss since 2006",
+    "link": "https://www.cnbc.com/2024/05/29/salesforce-crm-q1-earnings-report-2025.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZlalYzZVVkMVgzUXhUVTlIVFJDb0FSaXNBaWdCTWdhcEZack5rUW8=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-05-29T07:00:00.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Genesys and Salesforce Start to Onboard Customers for Their Joint CX Platform",
+    "link": "https://www.cxtoday.com/contact-centre/genesys-and-salesforce-start-to-onboard-customers-for-their-joint-cx-platform/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDRja0pGV1c1dExXeFlWbUpIVFJDZkFSaS1BaWdCTWdrUk1aS21GcW90aUFJ=-w400-h224-p-df-rw",
+    "source": "CX Today",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "My take - digesting Salesforce’s Q1 and what it means for it and the tech market’s future",
+    "link": "https://diginomica.com/my-take-digesting-salesforces-q1-and-what-it-means-it-and-tech-markets-future",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVhVTExV0dKZlpsZG1Za2hXVFJDM0FSaVRBaWdCTWdZSlFZQVZuUWs=-w400-h224-p-df-rw",
+    "source": "diginomica",
+    "datetime": "2024-06-04T07:00:00.000Z",
+    "time": "Jun 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Cuts San Francisco Office Footprint by 45% Over Past Year — And It May Not Be Done",
+    "link": "https://www.costar.com/article/1145439868/salesforce-cuts-san-francisco-office-footprint-by-45-over-past-year-%E2%80%94-and-it-may-not-be-done",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdTbEIxYVhwcFp6UTNXV2RFVFJDM0FSaVRBaWdCTWdZQmNJQU96Z1E=-w400-h224-p-df-rw",
+    "source": "CoStar Group",
+    "datetime": "2024-03-14T07:00:00.000Z",
+    "time": "Mar 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Software giant Salesforce in advanced talks to buy Informatica",
+    "link": "https://www.reuters.com/technology/salesforce-is-advanced-talks-buy-informatica-wsj-reports-2024-04-13/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpaREpWVUdWMFJEUmZkRUZYVFJDNkFSaVBBaWdCTWdZZFVwZ3JJUWs=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-13T07:00:00.000Z",
+    "time": "Apr 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "LA28 loses top-tier Salesforce sponsorship",
+    "link": "https://www.sportspromedia.com/news/la28-salesforce-sponsorship-ends-olympics-paralympics-team-usa-nbc/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpNRWh3VWpsaGRERnVSbUl5VFJDdUFSaWlBaWdCTWdZMWc0eFJzUVU=-w400-h224-p-df-rw",
+    "source": "SportsPro Media",
+    "datetime": "2024-04-16T07:00:00.000Z",
+    "time": "Apr 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Q1 Earnings: CEO Benioff Calls AI Models Commodities, Data ‘The New Gold’",
+    "link": "https://www.crn.com/news/ai/2024/salesforce-q1-earnings-ceo-benioff-calls-ai-models-commodities-data-the-new-gold",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUZiVlJHY1VOdmQxaDNUMnBmVFJEQ0FSaUVBaWdCTWdZaEJwRHREUXM=-w400-h224-p-df-rw",
+    "source": "CRN",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "ERM, Salesforce, NatureMetrics and Planet launch NatureTech Alliance to address biodiversity loss",
+    "link": "https://www.erm.com/about/news/erm-salesforce-naturemetrics-and-planet-launch-naturetech-alliance-to-address-biodiversity-loss/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUlSWHBSWjBaU01GaFRXRVZ1VFJEQ0FSaURBaWdCTWdrWkVZTFRVT0o2UlFJ=-w400-h224-p-df-rw",
+    "source": "ERM",
+    "datetime": "2024-05-14T07:00:00.000Z",
+    "time": "May 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce plummets as weak forecast sparks concerns of AI competition",
+    "link": "https://www.reuters.com/technology/salesforce-plummets-weak-forecast-sparks-concern-ai-competition-2024-05-30/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNiMnhSVFhFd2VqUTFOa3BHVFJDM0FSaVRBaWdCTWdZWmNwWUtxUWM=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Accenture and Salesforce Collaborate to Help Life Sciences Companies Create Differentiation with Data and AI",
+    "link": "https://newsroom.accenture.com/news/2023/accenture-and-salesforce-collaborate-to-help-life-sciences-companies-create-differentiation-with-data-and-ai",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1lWE5xYVhWVlFYVnFPVk51VFJDaUFSaTJBaWdCTWdZQlI1UkZJZ2M=-w400-h224-p-df-rw",
+    "source": "Newsroom | Accenture",
+    "datetime": "2023-11-06T08:00:00.000Z",
+    "time": "Nov 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Stock Tanks On Weak Guidance Amid Hopes For Artificial Intelligence Boost",
+    "link": "https://www.investors.com/news/technology/salesforce-stock-salesforce-earnings-news-q12024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpjRmcwTkV0d1gybGFVbTl1VFJDb0FSaXJBaWdCTWdZcGRZS3R1UVE=-w400-h224-p-df-rw",
+    "source": "Investor's Business Daily",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Government Trailblazer Summit 2024",
+    "link": "https://guidehouse.com/events/2024/06/04/salesforce-government-trailblazer-summit-2024",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVdOa3RrWlZoUlZFVnpSM1JEVFJEaEFSamhBU2dCTWdrQk1KUkFHLXByU2dJ=-w400-h224-p-df-rw",
+    "source": "Guidehouse",
+    "datetime": "2024-06-04T07:00:00.000Z",
+    "time": "Jun 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Pacers Sports & Entertainment and Salesforce Announce Continued Partnership",
+    "link": "https://fever.wnba.com/news/pacers-sports-entertainment-and-salesforce-announce-continued-partnership",
+    "source": "Indiana Fever",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "McKinsey teams up with Salesforce to deliver on the promise of AI-powered growth",
+    "link": "https://www.mckinsey.com/about-us/new-at-mckinsey-blog/delivering-tech-powered-growth-through-generative-ai",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUdWamh4T1haTWVVZDZkbGhaVFJDdEFSaWpBaWdCTWdrRkFZYUtEU1pWYlFF=-w400-h224-p-df-rw",
+    "source": "McKinsey",
+    "datetime": "2023-09-07T07:00:00.000Z",
+    "time": "Sep 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce, Zoom Law Chiefs Get Nearly $26 Million in Total Pay",
+    "link": "https://news.bloomberglaw.com/business-and-practice/salesforce-zoom-law-chiefs-get-nearly-26-million-in-total-pay",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRRVk5CY2xSZlQwMXFVVlZWVFJDTEFSanFBaWdCTWdZZFpaYXFxUWM=-w400-h224-p-df-rw",
+    "source": "Bloomberg Law",
+    "datetime": "2024-05-03T07:00:00.000Z",
+    "time": "May 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Decoding Salesforce’s plausible $11 billion bid to acquire Informatica",
+    "link": "https://www.cio.com/article/2092247/decoding-salesforces-plausible-11-billion-bid-to-acquire-informatica.html",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXhkMlJqV0dOQ05uazBWRGx3VFJDM0FSaVRBaWdCTWdrQmNaQXBzZWFKY3dF=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-04-17T07:00:00.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce seeks competitive edge with its climate and nature action",
+    "link": "https://www.mckinsey.com/industries/agriculture/how-we-help-clients/natural-capital-and-nature/voices/salesforce-seeks-competitive-edge-with-its-climate-and-nature-action",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVUM2hyUVdaWVYzaEpaRmwyVFJDdEFSaWpBaWdCTWdhVk5aTHFvUWM=-w400-h224-p-df-rw",
+    "source": "McKinsey",
+    "datetime": "2024-04-12T07:00:00.000Z",
+    "time": "Apr 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Welcomes 1,800+ New Employees, Expects to Hire More",
+    "link": "https://www.cxtoday.com/crm/salesforce-welcomes-1800-new-employees-expects-to-hire-more/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXdNakZWTkdkWVdHd3hOV2RDVFJDZkFSaS1BaWdCTWdrQm9JcVd0T2FaTWdF=-w400-h224-p-df-rw",
+    "source": "CX Today",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "IBM and Salesforce Team Up To Help Businesses Accelerate Adoption of Trustworthy AI",
+    "link": "https://newsroom.ibm.com/2023-08-31-IBM-and-Salesforce-Team-Up-To-Help-Businesses-Accelerate-Adoption-of-Trustworthy-AI",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhNMDFsYUhOeGVuWnpNWGRwVFJDSkFSanZBaWdCTWdZTm9aUzBNQWM=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2023-08-31T07:00:00.000Z",
+    "time": "Aug 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce announces new AI-enabled copilots at Connections 2024",
+    "link": "https://www.digitalcommerce360.com/2024/05/23/salesforce-einstein-copilot-features-connections-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZVR2xyYlRkVFJHSlBSR1JCVFJDb0FSaXNBaWdCTWdZSmhJQ0h1UVU=-w400-h224-p-df-rw",
+    "source": "Digital Commerce 360",
+    "datetime": "2024-05-23T07:00:00.000Z",
+    "time": "May 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "AI investments aren't boosting Salesforce yet",
+    "link": "https://qz.com/salesforce-earnings-stock-ai-1851295633",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpNekJyVGxReWRGSjZhbk16VFJDNEFSaVJBaWdCTWdhWlJwd0puZ2s=-w400-h224-p-df-rw",
+    "source": "Quartz",
+    "datetime": "2024-02-28T08:00:00.000Z",
+    "time": "Feb 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Agrees to Settle ERISA Lawsuits",
+    "link": "https://www.plansponsor.com/salesforce-agrees-to-settle-erisa-lawsuits/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5iV05GYjBKSmRsSkZRbWh4VFJDb0FSaXNBaWdCTWdhQklZaXRsUU0=-w400-h224-p-df-rw",
+    "source": "PLANSPONSOR",
+    "datetime": "2024-05-07T07:00:00.000Z",
+    "time": "May 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Selects Ironclad for Contract Lifecycle Management",
+    "link": "https://www.prnewswire.com/news-releases/salesforce-selects-ironclad-for-contract-lifecycle-management-302107230.html",
+    "image": "https://news.google.com/api/attachments/CC8iJkNnNHdhRWhwYlU5dVIza3pNRlJOVFJCOEdKWURLQUV5QXdHaEVB=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-04-03T07:00:00.000Z",
+    "time": "Apr 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce debuts Zero Copy Partner Network to ease data integration",
+    "link": "https://www.cio.com/article/2095136/salesforce-debuts-zero-copy-partner-network-to-ease-data-integration.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJTRzVTUkV0RmExZHBiSEpsVFJDb0FSaXNBaWdCTWdhaG81SnN0UVk=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-04-25T07:00:00.000Z",
+    "time": "Apr 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Is Salesforce a Buy?",
+    "link": "https://www.fool.com/investing/2024/07/06/is-salesforce-a-buy/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRMVU4xWjI5T1RWbG5TemxNVFJDMUFSaVhBaWdCTWdZZHM1SktPUVk=-w400-h224-p-df-rw",
+    "source": "The Motley Fool",
+    "datetime": "2024-07-06T07:00:00.000Z",
+    "time": "19 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Salesforce Stock Plunged Today",
+    "link": "https://www.fool.com/investing/2024/05/30/why-salesforce-stock-plunged-today/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWtOekJFTlRaQmRFSnJVRlJPVFJDb0FSaXNBaWdCTWdiQlFaRHpvQWM=-w400-h224-p-df-rw",
+    "source": "The Motley Fool",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "4 Key Takeaways From Salesforce's Earnings Call",
+    "link": "https://www.investopedia.com/4-key-takeaways-from-salesforce-q1-fy-2025-earnings-call-8655533",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRVRVJxUW1oNGQySlVTR0owVFJDMUFSaVdBaWdCTWdZZHM1SktPUVk=-w400-h224-p-df-rw",
+    "source": "Investopedia",
+    "datetime": "2024-05-29T07:00:00.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce adds Contact Center updates to Service Cloud",
+    "link": "https://www.cio.com/article/2074693/salesforce-adds-contact-center-updates-to-service-cloud.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFSV010T1ZsVWNuQmlTV2syVFJDb0FSaXNBaWdCTWdhaG81SnN0UVk=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-03-26T07:00:00.000Z",
+    "time": "Mar 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce stock just had its worst day in 20 years",
+    "link": "https://qz.com/salesforce-stock-just-had-its-worst-day-in-20-years-1851510447",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFka2xTVEhsNU5IUkplSFUyVFJDM0FSaVRBaWdCTWdZQmNvYnB6UU0=-w400-h224-p-df-rw",
+    "source": "Quartz",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Stock Sinks on Weak Outlook. Time to Buy the Dip?",
+    "link": "https://www.fool.com/investing/2024/06/02/salesforce-stock-sinks-on-weak-outlook-time-to-buy/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUZTVVF0U1VjeVVsSjNka1pQVFJDM0FSaVRBaWdCTWdZQk1Jb011UVU=-w400-h224-p-df-rw",
+    "source": "The Motley Fool",
+    "datetime": "2024-06-02T07:00:00.000Z",
+    "time": "Jun 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce-Informatica acquisition talks fall through: Report",
+    "link": "https://www.cio.com/article/2093946/salesforce-informatica-acquisition-talks-falls-through-report.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhkMnRIUWpoa0xXWkxSVmd3VFJDM0FSaVVBaWdCTWdhUmNaSUpyUWM=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-04-22T07:00:00.000Z",
+    "time": "Apr 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce: Your Job’s at Risk If You Sell Less Than $400k a Year",
+    "link": "https://www.saastr.com/salesforce-your-jobs-at-risk-if-you-sell-less-than-400k-a-year/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBkekJYVEUxRFlUUnZNa05PVFJEUUFSanlBU2dCTWdhRkVaSUhGUXM=-w400-h224-p-df-rw",
+    "source": "SaaStr",
+    "datetime": "2023-12-12T15:57:42.000Z",
+    "time": "Dec 12, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Informatica Co-Founder: The Salesforce Acquisition Is \"a Bad Idea\"",
+    "link": "https://www.cxtoday.com/crm/informatica-co-founder-the-salesforce-acquisition-is-a-bad-idea/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDFWSFV3ZGxvNVdsZHFSMVkzVFJDZkFSaS1BaWdCTWdtbEFZaTIwR09EcHdJ=-w400-h224-p-df-rw",
+    "source": "CX Today",
+    "datetime": "2024-04-18T07:00:00.000Z",
+    "time": "Apr 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Here's Why I Just Loaded Up on Salesforce Stock",
+    "link": "https://www.fool.com/investing/2024/06/27/heres-why-i-just-loaded-up-on-salesforce-stock/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlTRVZPV0MxTWQzTTBkMEpWVFJDM0FSaVRBaWdCTWdhZFJvSktIZ2s=-w400-h224-p-df-rw",
+    "source": "The Motley Fool",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Dow Slumps 330 Points As Salesforce Stock Suffers Worst Loss Since 2004",
+    "link": "https://www.forbes.com/sites/dereksaul/2024/05/30/dow-slumps-380-points-as-salesforce-stock-suffers-worst-loss-since-2008/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRjVkYyUldwbVprVmxhVk5uVFJDb0FSaXJBaWdCTWdZQmdvRHFYUUk=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce’s stock tumbles as earnings provide latest dose of software-sector pain",
+    "link": "https://www.marketwatch.com/story/salesforces-earnings-outlook-comes-in-light-and-the-stock-is-tumbling-6bae9c30",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJPWFpaWDIxQmQyMXlUMk53VFJEaEFSamdBU2dCTWdZSklvYkdHUXM=-w400-h224-p-df-rw",
+    "source": "MarketWatch",
+    "datetime": "2024-05-29T07:00:00.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Crowned King of CRM for the 11th Year Running",
+    "link": "https://www.cxtoday.com/crm/salesforce-crowned-king-of-crm-for-the-11th-year-running/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhhVWh1Y2twaWQyWjZUbXhVVFJDZkFSaS1BaWdCTWdhQkVvd0RFd3M=-w400-h224-p-df-rw",
+    "source": "CX Today",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Marc Benioff acolyte Sarah Franklin left Salesforce to lead $3 billion Lattice",
+    "link": "https://fortune.com/2024/05/06/sarah-franklin-lattice-salesforce-benioff-ai/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJOVmx0TldkUExWOVRXbTAyVFJDM0FSaVRBaWdCTWdhdFpaU3VLUWc=-w400-h224-p-df-rw",
+    "source": "Fortune",
+    "datetime": "2024-05-06T07:00:00.000Z",
+    "time": "May 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Workday and Salesforce partner on AI, Data Cloud and Slack to automate cross-platform processes",
+    "link": "https://diginomica.com/workday-and-salesforce-ai-data-cloud-slack-cross-platform",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVkVjl2Y2poUVRrZzVhbDlXVFJDdkFSaWdBaWdCTWdZbEZZTE5IUVk=-w400-h224-p-df-rw",
+    "source": "diginomica",
+    "datetime": "2024-07-24T13:48:07.000Z",
+    "time": "Yesterday",
+    "articleType": "regular"
+  },
+  {
+    "title": "Filing shows Salesforce paid $419M to buy Spiff in February",
+    "link": "https://techcrunch.com/2024/05/30/filing-salesforce-paid-419m-to-buy-spiff-in-feb/R",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWlaakZZYVVOdlFVSm9hMWhpVFJDM0FSaVRBaWdCTWdhcEZJcU9sUW8=-w400-h224-p-df-rw",
+    "source": "TechCrunch",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Work-From-Home Party Is Over, Employees Required to Be in Office Three to Five Days a Week",
+    "link": "https://sfist.com/2024/07/17/salesforce-work-from-home-party-is-over-employees-required-to-be-in-office-three-to-five-days-a-week/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRUSFJ1VGxSVVdrUk9SM1ZvVFJDM0FSaVRBaWdCTWdZQk1ZQTFtUWs=-w400-h224-p-df-rw",
+    "source": "SFist",
+    "datetime": "2024-07-17T07:00:00.000Z",
+    "time": "8 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce drops after reports it's in talks to acquire Informatica",
+    "link": "https://www.cnbc.com/2024/04/15/salesforce-drops-after-reports-it-is-in-talks-to-acquire-informatica-.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVPWGxSVWxsRldWQldhWGt5VFJDb0FSaXNBaWdCTWdZZEFvcnNEUWc=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Access Amazon Redshift data from Salesforce Data Cloud with Zero Copy Data Federation",
+    "link": "https://aws.amazon.com/blogs/big-data/access-amazon-redshift-data-from-salesforce-data-cloud-with-zero-copy-data-federation/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXRUbTFCTjAxYU9HVkpiVzUzVFJDb0FSaXNBaWdCTWdNQlZRNA=-w400-h224-p-df-rw",
+    "source": "AWS Blog",
+    "datetime": "2024-06-25T07:00:00.000Z",
+    "time": "Jun 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce looks to reinvent itself again with its fledgling AI business",
+    "link": "https://www.marketwatch.com/story/salesforce-looks-to-reinvent-itself-again-with-its-fledgling-ai-business-35638ac4",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRTRFJ3Ylc5aVJGRTJOR1JwVFJEaEFSamhBU2dCTWdhMVFvb3luUWs=-w400-h224-p-df-rw",
+    "source": "MarketWatch",
+    "datetime": "2024-03-25T07:00:00.000Z",
+    "time": "Mar 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce laying off 700 workers in latest tech industry downsizing - WSJ",
+    "link": "https://www.reuters.com/technology/salesforce-laying-off-700-workers-latest-tech-industry-downsizing-wsj-2024-01-26/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpPVVIxUVVGRVRGTlhValZtVFJDNkFSaVBBaWdCTWdhZFVwZ3JJUWs=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "How to Access Salesforce Hyperforce Securely and Reliably with AWS Direct Connect",
+    "link": "https://aws.amazon.com/blogs/apn/how-to-access-salesforce-hyperforce-securely-and-reliably-with-aws-direct-connect/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXdjVVpCU0hsVmFIaDZSVVp5VFJDZkFSaS1BaWdCTWdNSndRbw=-w400-h224-p-df-rw",
+    "source": "AWS Blog",
+    "datetime": "2024-01-29T08:00:00.000Z",
+    "time": "Jan 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce plunges 21% after it reports its first revenue miss since 2006",
+    "link": "https://markets.businessinsider.com/news/stocks/salesforce-stock-price-crash-q1-earnings-first-revenue-miss-2006-2024-5",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFiMUpmVTIxdmJtNXFjM2N3VFJDZkFSaS1BaWdCTWdZZGc1WktNUWM=-w400-h224-p-df-rw",
+    "source": "Markets Insider",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Stock Gains as CRM Software Giant Holds Its Annual Shareholder Meeting",
+    "link": "https://www.investopedia.com/salesforce-stock-gains-as-crm-software-giant-holds-its-annual-shareholder-meeting-8670733",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRVRVJxUW1oNGQySlVTR0owVFJDMUFSaVdBaWdCTWdZZHM1SktPUVk=-w400-h224-p-df-rw",
+    "source": "Investopedia",
+    "datetime": "2024-07-02T07:00:00.000Z",
+    "time": "23 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Executive Leads With a Beginner’s Mind",
+    "link": "https://www.nytimes.com/2024/03/07/business/clara-shih-salesforce-artificial-intelligence.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1kbE56UXpkaVFsUlZOVFJqVFJDM0FSaVRBaWdCTWdZcFJwanNJUWs=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-03-07T08:00:00.000Z",
+    "time": "Mar 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce CEO Offers Jobs To Any OpenAI Researchers Who Resign",
+    "link": "https://www.forbes.com/sites/britneynguyen/2023/11/20/salesforce-ceo-offers-jobs-to-any-openai-researchers-who-resign/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdUa2M0VEZZeE1FOVdVamt6VFJDb0FSaXJBaWdCTWdhbEJvZ0xFZ3M=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2023-11-21T08:00:00.000Z",
+    "time": "Nov 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce May Acquire Informatica For More Than $11B: Reports",
+    "link": "https://www.crn.com/news/cloud/2024/salesforce-may-acquire-informatica-for-more-than-11b-reports",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHlObFpLUW5VM1pUaFNMVTFaVFJEQ0FSaURBaWdCTWdZRmdvNnNyUWM=-w400-h224-p-df-rw",
+    "source": "CRN",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce plummets as weak forecast sparks concerns of AI competition",
+    "link": "https://www.theguardian.com/business/article/2024/may/30/salesforce-shares-ai",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNDBXWGRYT0ZOQmIzVk9iSFZxVFJDakFSaTJBaWdCTWdNWm9RUQ=-w400-h224-p-df-rw",
+    "source": "The Guardian",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce stock plunges by 20%, erasing over $50 billion in value",
+    "link": "https://www.sfchronicle.com/bayarea/article/salesforce-stock-plunges-20-erasing-50-billion-19487120.php",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRWakJvUkhBd05VeEVXbFZZVFJDM0FSaVRBaWdCTWdZeE5ZeXZHUW8=-w400-h224-p-df-rw",
+    "source": "San Francisco Chronicle",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce reportedly orders staff to return to office ‘four to five days a week’",
+    "link": "https://nypost.com/2024/07/21/business/salesforce-reportedly-orders-staff-to-return-to-office-four-to-five-days-a-week/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBkQzF0VWpRMGMzVnphMnhtVFJDM0FSaVRBaWdCTWdZQlFJYUdIZ2s=-w400-h224-p-df-rw",
+    "source": "New York Post ",
+    "datetime": "2024-07-21T22:25:00.000Z",
+    "time": "3 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Enterprise Connect 2024 Spotlight: Salesforce Service Cloud AI-Powered Contact Center",
+    "link": "https://www.nojitter.com/ccaas/enterprise-connect-2024-spotlight-salesforce-service-cloud-ai-powered-contact-center",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUZhVXhIYzNsSk1WaHpiWEJpVFJDM0FSaVRBaWdCTWdhWmtaSUp0UVk=-w400-h224-p-df-rw",
+    "source": "No Jitter",
+    "datetime": "2024-03-25T07:00:00.000Z",
+    "time": "Mar 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Marc Benioff Unleashes Salesforce 2.0",
+    "link": "https://accelerationeconomy.com/cloud-wars/marc-benioff-unleashes-salesforce-2-0/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZNazB3VjNCaFYzVTFabTVQVFJDb0FSaXNBaWdCTWdhVmM1Sm9MZ2M=-w400-h224-p-df-rw",
+    "source": "Acceleration Economy",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Bring your own AI using Amazon SageMaker with Salesforce Data Cloud",
+    "link": "https://aws.amazon.com/blogs/machine-learning/bring-your-own-ai-using-amazon-sagemaker-with-salesforce-data-cloud/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHlaMWcwYmxOcGIwUnpiMFl0VFJDb0FSaXNBaWdCTWdhQmRvNG11Z1k=-w400-h224-p-df-rw",
+    "source": "AWS Blog",
+    "datetime": "2023-08-04T07:00:00.000Z",
+    "time": "Aug 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce stock value plummets, company loses nearly $50B in value in one day",
+    "link": "https://www.ktvu.com/news/salesforce-stock-value-plummets-company-loses-billions-one-day",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhZbHAwWlhGRlRrWklaWGQwVFJDb0FSaXNBaWdCTWdZaGxJWnJzUVk=-w400-h224-p-df-rw",
+    "source": "KTVU FOX 2 San Francisco",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Inside the Salesforce Tower's 62nd floor overlooking San Francisco",
+    "link": "https://www.sfgate.com/sf-culture/article/san-francisco-salesforce-tower-art-installation-18682884.php",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXpSRlpGZERaa1h6bEtRMjFpVFJDM0FSaVRBaWdCTWdPSmdRQQ=-w400-h224-p-df-rw",
+    "source": "SFGATE",
+    "datetime": "2024-02-26T08:00:00.000Z",
+    "time": "Feb 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce and Slack to pause all hiring in technology and product",
+    "link": "https://fortune.com/2024/01/10/salesforce-slack-pause-hiring-product-tech-leaked-memo/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxUWEJPT0hKRk5FaFpVMWxvVFJDM0FSaVRBaWdCTWdhdGRKQ3VMUWM=-w400-h224-p-df-rw",
+    "source": "Fortune",
+    "datetime": "2024-01-10T08:00:00.000Z",
+    "time": "Jan 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "OpenFin Announces OpenFin for Salesforce on Salesforce AppExchange, the World's Leading Enterprise Cloud Marketplace",
+    "link": "https://www.prnewswire.com/news-releases/openfin-announces-openfin-for-salesforce-on-salesforce-appexchange-the-worlds-leading-enterprise-cloud-marketplace-302041217.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXVjSGczV1d0bVJXMHpNRFJTVFJDaUFSaTJBaWdCTWdZQmtKTGlPQWM=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-01-23T08:00:00.000Z",
+    "time": "Jan 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Economist explains how Salesforce's return-to-office policy could benefit San Francisco as a whole",
+    "link": "https://abc7news.com/post/salesforces-return-office-policy-expected-boon-san-francisco/15065774/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlWaTB4VDJoV01qWnlhMWR4VFJDb0FSaXNBaWdCTWdZQmM0NXZxUVU=-w400-h224-p-df-rw",
+    "source": "KGO-TV",
+    "datetime": "2024-07-18T02:03:46.000Z",
+    "time": "7 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce pressures more of its workers back into office",
+    "link": "https://sfstandard.com/2024/07/17/salesforce-pressures-its-workers-back-to-the-office-as-layoffs-continue/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFkVWhFWmpSdFZHOW5abGhEVFJDM0FSaVRBaWdCTWdhQlVZWUxuZ2c=-w400-h224-p-df-rw",
+    "source": "The San Francisco Standard",
+    "datetime": "2024-07-17T07:00:00.000Z",
+    "time": "8 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "San Francisco: Sweeping Salesforce changes are on the way",
+    "link": "https://www.ktvu.com/news/san-francisco-sweeping-salesforce-changes-way",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxjSGxLWDI5bU1GWTVSbmxTVFJDb0FSaXNBaWdCTWdZQkVvaHNEUVk=-w400-h224-p-df-rw",
+    "source": "KTVU FOX 2 San Francisco",
+    "datetime": "2024-07-17T14:56:07.000Z",
+    "time": "8 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce and other software stocks are expected to bounce back in a big way",
+    "link": "https://www.marketwatch.com/story/salesforce-and-other-software-stocks-are-expected-to-bounce-back-in-a-big-way-e4e62e11",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNZbUpmVmpaYVpsa3RTUzFZVFJEaEFSamhBU2dCTWdZQmtKU2dzZ1k=-w400-h224-p-df-rw",
+    "source": "MarketWatch",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "16 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "After revenue miss, Salesforce CEO details the 'measured' buying environment for enterprise software companies",
+    "link": "https://www.cnbc.com/2024/05/29/after-revenue-miss-salesforce-ceo-details-enterprise-software-landscape.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlaMnhmU1dGeGNXeHlSbU5OVFJDb0FSaXNBaWdCTWdhcFpZck5MUVk=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-05-29T07:00:00.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce and Workday CEOs explain their new joint AI venture",
+    "link": "https://www.cnbc.com/2024/07/24/salesforce-and-workday-ceos-explain-their-new-joint-ai-venture-.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZSa2xvYzFCbk4wTjRRMFI1VFJDb0FSaXNBaWdCTWdZZFFwQ09wUWM=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-07-24T22:59:37.000Z",
+    "time": "15 hours ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Spring ’24 Release Highlights",
+    "link": "https://www.forvismazars.us/forsights/2024/02/salesforce-spring-24-release-highlights",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTVVWGhZU1UxVU5sbDBNRFZEVFJDb0FSaXNBaWdCTWdrRkFZaXR1ZVF0SVFN=-w400-h224-p-df-rw",
+    "source": "Forvis Mazars",
+    "datetime": "2024-06-04T22:09:53.000Z",
+    "time": "Jun 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce-Informatica Deal Appears to Have Fallen Through",
+    "link": "https://www.datanami.com/2024/04/24/salesforce-informatica-deal-appears-to-have-fallen-through/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRUbmRoUzFKc2VXWTFWelZGVFJDdUFSaWlBaWdCTWdhQk1JUU9xUU0=-w400-h224-p-df-rw",
+    "source": "Datanami",
+    "datetime": "2024-04-24T07:00:00.000Z",
+    "time": "Apr 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Cuts 300 Jobs in Year’s Second Round of Layoffs",
+    "link": "https://www.pymnts.com/personnel/2024/salesforce-cuts-300-jobs-in-years-second-round-of-layoffs/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFlazh3TlhwaVREaHRYMHRqVFJDdUFSaWlBaWdCTWdZWmc1UnBzUVk=-w400-h224-p-df-rw",
+    "source": "PYMNTS.com",
+    "datetime": "2024-07-15T07:00:00.000Z",
+    "time": "10 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Is Close to Acquiring Informatica, Reports",
+    "link": "https://www.cxtoday.com/crm/salesforce-is-close-to-acquiring-informatica-reports/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxXVlZHYlZGTFRVaFpiR2xIVFJDZkFSaS1BaWdCTWdhSkFZckdvZ2s=-w400-h224-p-df-rw",
+    "source": "CX Today",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce’s Einstein 1 platform to get new prompt-engineering features",
+    "link": "https://www.cio.com/article/1306845/salesforces-einstein-1-platform-to-get-new-prompt-engineering-features.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtOSGRJVW1acFZ6WlZUWGRJVFJDM0FSaVRBaWdCTWdZaGM1WkxxUWM=-w400-h224-p-df-rw",
+    "source": "CIO",
+    "datetime": "2024-02-09T08:00:00.000Z",
+    "time": "Feb 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Stock Plunges on Q1 Revenue Miss, Soft Outlook",
+    "link": "https://www.kiplinger.com/investing/stocks/salesforce-stock-plunges-on-q1-revenue-miss-soft-outlook",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNTRlpHWjBwaVlWSlpSVVJ5VFJDM0FSaVRBaWdCTWdhaGs1SnJ0UVk=-w400-h224-p-df-rw",
+    "source": "Kiplinger's Personal Finance",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Stock Dropped More Than 20% In One Day, What’s Next?",
+    "link": "https://www.forbes.com/sites/greatspeculations/2024/06/03/salesforce-stock-dropped-more-than-20-in-one-day-whats-next/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpYeTFTV1VwalZEQmtYekZWVFJDM0FSaVRBaWdCTWdZbGRZQ01xUWM=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Salesforce Layoffs 2024: What to Know About the Latest CRM Job Cuts This Year",
+    "link": "https://investorplace.com/2024/07/salesforce-layoffs-2024-what-to-know-about-the-latest-crm-job-cuts-this-year/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFTVXh1ZW1WM2JFbGphVlJ2VFJDb0FSaXNBaWdCTWdZZGc1UnBzUVk=-w400-h224-p-df-rw",
+    "source": "InvestorPlace",
+    "datetime": "2024-07-16T07:00:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oracle Vs. Salesforce (2024 Comparison)",
+    "link": "https://www.forbes.com/advisor/business/software/oracle-vs-salesforce/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXFkbEZ4VkVGRWJXMU9SVGxxVFJDb0FSaXJBaWdCTWdraFFZNk1KZWhVa0FF=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-06-28T07:00:00.000Z",
+    "time": "Jun 28",
+    "articleType": "regular"
+  }
+]

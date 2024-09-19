@@ -1,0 +1,839 @@
+[
+  {
+    "title": "On The Fence About That Tesla Model Y? Public Charging Misery May Change Your Mind",
+    "link": "https://news.google.com/read/CBMixAFBVV95cUxNdi1PNzA1ZVduVUo3eHN5UTdCQ1dzTy02Wjd5N3YyTU1Ma3daNTRrWjBpb3psVmRsSE5aQXVKNVhnTzdCUkZuQVc2NEdiSEhLUUhZVGhRLXhYTGdUVkt4ZU9yN1pWZW5LUGtwaENCRl9LRW5LQjZqcnhmYmhtUU5GRVk2ZnhCa2tVR1FicEZsRFFRSk5NeGlvVm16eXVmSFo5QkhtTzZKckx2WUk3V2RucGhCa3pkTl9COVJkUm54VVhQa0Ey?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUNjelF4ZGtGV05UVklYMVJrVFJDM0FSaVVBaWdCTWdNQndCQQ=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-08-04T16:00:18.000Z",
+    "time": "7 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla, Volvo Car pause output as Red Sea shipping crisis deepens",
+    "link": "https://news.google.com/read/CBMi0gFBVV95cUxNX0JfWXFROFBWLWJTcHAzblRHWnVvSlBGOVk5VEhmVGt5VGwybFlGRE1sWWtuQzNKNWZYOWZnWWdfd05yUGZQby01SVRxY2NETlFJUjNUNGUwRjhadWR2cEF0SlFzbUlqbV9QYUE5VDJUYVR4dWU1bDl6RE9yUm85OHdkdnJJSEZvR0g4ZHJkWTZ1eVo1bGdSNGhsckpSdnh3cFAzVDREcjFzRk9ReFFRMVBlMlJ5WWh2UGtfZ0NGNnE5WXhpZmRsWFN2R0l1WmdHbUE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNVhXVFIzVUhwS1dXMWpYMFJLVFJDaUFSaTJBaWdCTWdNVmdBUQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-12T08:00:00.000Z",
+    "time": "Jan 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla sales plunge far more than expected",
+    "link": "https://news.google.com/read/CBMib0FVX3lxTE9MREN1MVcxa2w0RTVraXE0ZU5OMEFZLTVOODNMbW12U3hMVlBybmF5RkppbFFyX1BILUhJX0RCNGpKSkpaVXcwV2hqMGh3eDFiZng0aWpZLVhXbmFFQ1NXczlxUEJ4aFBLS2pUQ1lNONIBZkFVX3lxTE9vSmZiT3oxTkxlWjJmVU8tWlFTeVVTN1VzRFBza0xtSWZrcndaMWVZdFoxWFVnUzNvdmloTUtLQ1FsamZkTEkxWjdHa1J0aDlvLWtNOFY2NW9iazdNeHJOMVEtN281QQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVlRE5mYW5SdGNFUlZaMnhqVFJDb0FSaXJBaWdCTWdZQlVvd3VLUVk=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla recalling nearly 2.2M vehicles for software update to fix warning lights that are too small",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxNWlJhT2QtTkVEdWNyb3NYMGx6cmRCTnJ2dUdBNVRkd0tUak43VUJaRkdaLWUwdTRKSjFKb3hsNVdudVVXQVl2cW5zREM1V0hKRHZmS2czRUhGV3IyMWJCMl9vRTBYQTRONXpmQ1pNNk9wMWNlU0ZEZmVPTHNwb3RiYnRqbEFISGwzdEl1SXV0eHdvQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhkbGx4ZUROWFVWQlpOMHBNVFJDM0FSaVRBaWdCTWdZSmdZaXRNUWM=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-02-02T08:00:00.000Z",
+    "time": "Feb 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Samsung Announces Collaboration With Tesla at CES 2024 for SmartThings Energy",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxOX1ZSMWsxaUE5MzkwcVNTcnMweElIOFlTeWNBS2JYVXJRRW9mZlZrVEQtYkJocFZMX3hJSEIya2ZueFFEclZKZXpjeHpvYVNqZ2otT1ZZNWxRYk1RQVdYNEZOWjZYZUs5VlhTZmx4ZDM0emUxWEpXUTR1eWlJN3VjMXFkcTRzVm56bnFBU2FFQ25sYk1TOURfWFR5THd1X09ySFltYVoyUXZXTnpMQWc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpUWGxaWTNwS1VFRm9ZMW8xVFJDM0FSaVRBaWdCTWdhRmNaRGtuZ2M=-w400-h224-p-df-rw",
+    "source": "Samsung Global Newsroom",
+    "datetime": "2024-01-05T08:00:00.000Z",
+    "time": "Jan 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "We drove a Tesla in Silicon Valley and Detroit: Wildly different experiences",
+    "link": "https://news.google.com/read/CBMinAFBVV95cUxPQmhJVWtGQWFVVVhkWEdmVU9CWTdWRHdXcVR2NUVZd3BQa0tvcnMtZHJHdm13dWtkVTFYWkJ5ZWpsbmhGTWFEWkc5cUFWNVNxT3FKTFZTT04xd1NCR3EzYjJNZ0gxVDJlZXFYTUdzNnBJNE0tdFFMVGNDS1dXM3VjTmNxMWFXRU51U045Z0Z2RGJBODIyZGQ4aG54MGvSAaIBQVVfeXFMUHl4MHRlZGVtMEp2QnpHekhJaWVhS2ExdjZMREhrWWc1RVM2NTd5S1NJRFlVaEhHcFpGMWVfYmJ5VlVQOWw0d2pOakVUNmZyN0poMUtjQTNzY2laajQ4aTFhX3lWNWRzMzVnNEo2QkkzZ3RROFQ3a1JqVm5Yb2tVMlppS2UwWkxlekdjWGNONWp3SG8zZWowZHgyT0RBcWtsSFBn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTNOazkzY0U1d2VHZExORzh5VFJEQ0FSaURBaWdCTWdrQk1KSzBKS2VwQ2dJ=-w400-h224-p-df-rw",
+    "source": "Business Insider",
+    "datetime": "2024-01-13T08:00:00.000Z",
+    "time": "Jan 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla: EV giant cuts prices in major markets as sales fall",
+    "link": "https://news.google.com/read/CBMiWkFVX3lxTE5QNjJ2NEJuWHJmTmZYeGpnUVRXVWVWNC1uWmVmZnB6UjN3d29ZakdlcFdlZHA3UGs3NFFSWHEwTnJfeHMyUzU0SlY5MHFmRmJWN3FCT2l2cmdmZ9IBX0FVX3lxTE1SaEx2VWJ6TGdKUUtreHBGODhfNUxrcVRRTGtGRUFDNng5OURhdndoVV92dGF0MDNqQTlWV1NqdmUzcW5xZmZQNXpBM0hhT3JzLURodXc3OXczZnFFZFI0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdXakJIZEdkVFREVklRa013VFJDb0FSaXNBaWdCTWdZQkFJRGszQUU=-w400-h224-p-df-rw",
+    "source": "BBC.com",
+    "datetime": "2024-04-21T07:00:00.000Z",
+    "time": "Apr 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Exclusive: Tesla scraps low-cost car plans amid fierce Chinese EV competition",
+    "link": "https://news.google.com/read/CBMizAFBVV95cUxQV21SVjhyY2FJckxiYnl0WGVkd0Rkc1NSakZFQ1E5VXpYU01yRHZubzM2RDhqOGpjZjViYXNfSlozMmRtTlVZV29jcEdWcjZPUnVLaG5UMUZrQ0RMWVRob3NzUEJkZFJtUjBmNzA2Q0dKTzNwM1hNT3JWRlpGRWxUd0VjVmtCZDJIWEZjR3d5SUx1TjhLOXJGY0xILS14WGFHV290NjdiVy05ZWdYeTNxeDN0YU52eEJKNW5hZFdxZnA1OHZGZVBCUHRYQi0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTBNMmhuTlZjM2MwWkpMWE5mVFJDM0FSaVVBaWdCTWdrUkJZak54ZU9aSXdN=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-05T07:00:00.000Z",
+    "time": "Apr 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla 1Q profit falls 55%, but stock jumps as company moves to speed production of cheaper vehicles",
+    "link": "https://news.google.com/read/CBMiuwFBVV95cUxNRE5EVWJTMlFuZnNXLVRoSGNOMnBuVU1ndF9BYlR5d2FzdGRleG9CTk10dm5nSldtMTJkMG90RXJKTHN2NTg0dFJSR2dNQkRNWUZodklvUWh5T2xuTTNtQmdjaHV5RWJ5QkdxdzRieElCOVJjSmZmcTBJNmJNN0JKVVQxdWxkckttOG4wNlhLZGVsd0xUUUJpY1g4dmg5YXR5b0RIMkh4T0tXenNha1I3QUExM0w4QU01M1ZF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHRielF4VFZWQ2NVZHpNbFZIVFJDM0FSaVRBaWdCTWdNSmd3NA=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla recalls nearly all 2 million of its vehicles on US roads",
+    "link": "https://news.google.com/read/CBMieEFVX3lxTFBpUnNydGNkd3Bud3BQdUdvSjNCaTZNR04tbTFLX0tadGlnYmVZU25ONGFWUVlWTFBMVHNfS0ZtdjIyZGJhTnFSYktET0ZkcVJTbVNDLUozRmMzcWVwQl9ac0hDaGFoRmJLNHdVV1ptTlExQ3NyTGZYYtIBb0FVX3lxTE12Y01iaWNuZENmTTNSZ3RqYnVLS2t4YmhvS2Y3akNOcGlTR3pYb3VzZ3dDYlR1c3lyWDZEdzdtTmJHS3lwQTlXQ2w0MDdQeldEZjZTS2ZxaVd2SkVPcy05a3RmcEFNYTkxWHFCQk5Taw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNHRURGRCUTI5Wk1rcHhRMXBKVFJDb0FSaXJBaWdCTWdzTk1JeW9vZWRMVVRtVGV3=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Review Of 2024 Tesla Model 3 Highland",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxOWkl0RmhpSW1JTUJoT2g1RWFJd18xRXhkcHpjb2c4V1FoTFRHTHVjb1ZvMkEyZjViOUh1Q1dWZkZ4ZnNDX0dtX1BxdmlGSUIybmZnSjcwQUFlVS1GM01xZ0pnUDlIVmpYUWp6d1ByTTg0WlJDTTFRXzA4UTlrRG12cWNyTVRINHp4ZGNpWkQzbzBzbEk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUNRbTkzYnpCcVNUazJiVXN5VFJEREFSaURBaWdCTWdNQkVSUQ=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla blamed drivers for failures of parts it long knew were defective",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxNTnVRZExSSlhYeXpuRzVaMjVkLWZpV2VJR2FGWUh5Y25VYzloYTBVZ0RCYWdWcWM2TXBobk9sQkQ3VHM4TU9KcklpdjRQdUkyNWpjbnY0NmZqOFlUZkJJWVZudmhOcEhILXItb1hOZmd4RzZzUE1DWDd5MkhLcV9BZmRLdHNUbXM5Tkpv?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpha2hsWW5nMU9XOTRRVUZOVFJDekFSaWFBaWdCTWdZQk1Jeml2Z1E=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-12-20T08:00:00.000Z",
+    "time": "Dec 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla sales tumble nearly 9%, most in 4 years, as competition heats up and demand for EVs slows",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxNSm85LVE2aDVZR3BmNjFtYWljYlBEYW5rcDd1VnI1c2tFOGwxWGZ0QU53SkdBLW9fUkFfYk4zY0FtZGozNXlFUmtybzhvUHE5UkRtWXVYUklQbVpQMmR4OW1aTFNna3cybzlYM05tLVZreXZ4MHJfYVVOcHlTN2t0ejlLX2VEbTVFLWFrWWszUDJub1Y5NGJ2Sk9CczRsR0NXUHpTd2FMbW1LUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRSV1ZDWjJaTVREaHdhMWxzVFJDM0FSaVRBaWdCTWdZQklJZ05RZ1k=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla’s earnings plunge, but the company promises cheaper car model",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxQZm12TUFXckJYUkIxay1mU2h2ODBJVVhyXzNUaTJTMkpNVldQMDQtZDYxeVg4bkg4QnJkSVZydUdzR2FWck1yUjJEXzVjVVBVWEgxdEpnWElpWmlMYWMwcFN6elgyY28wOGpWTGV5NTJWVmt1U3lFMkhkMTRlZERET0FSbWVNQdIBfEFVX3lxTE0xZXpyRW0tQzBBMUhzWWpIWm5kTThzdVllTzVQRGtmanNZNEJCNlBjUzljM0pLRGR0VHFkZ3RiWF9XMnlzNlNMOGwwM2ZNS05SWnNvemJJS2N4M0JCZDFDUGplSFQwMzktOUpjSGN1bmJHek1jNUpUQ0ZYWlY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpTWFZaTVZCUVVIZEtRakpCVFJDb0FSaXJBaWdCTWdZQklJUkFtd2M=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla recalls nearly all vehicles on US roads over lack of Autopilot safeguards",
+    "link": "https://news.google.com/read/CBMizAFBVV95cUxNejdIQ0pWYkU3dDRkbmJuWjQ4NmowOWE5Vm5NaHk0WkNjYmZZWVdaMnl4R09KbTRjOU9XS05TWXFTX25nc2otNEl0LUxRV0pCUVhxeGVnS3VoZF8xeDhsT1lycUJjZUpEZUZWN3JMYUlvQTV6Yjk3d18zWjVhNERLcnEwakNQV2Z3eGtTTkRWZ29lc29aVEFMMkFFMTlkSjcxcjhQMjV0emd2MjhaeWMzMV9FNDlDVi1zdkNjRlBKOE9EdVBYN0N2Tm1vWTU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNWbU54YVVWbmRGVnBUR013VFJDaUFSaTNBaWdCTWdhQklaQ01vUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "TSLA Stock Quote Price and Forecast",
+    "link": "https://news.google.com/read/CBMiUEFVX3lxTE9qejEtbzhHOHJnMXJRWUVEbUxyUFF0RnJuNEtEN0U4Mk4wTlIycHNTejNyYTJYQlRDMFRCMllMcGJtNV81S0RNME9IZFBSZkRJ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNSVFZQU25CTFZYTlJialE1VFJDb0FSaXNBaWdCTWdhQnFKU2l1Z1k=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2023-08-30T16:07:59.000Z",
+    "time": "Aug 30, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla releases refreshed Model 3 with longer driving range in China",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxOY0lhaFdRYU5NV1lUV2MyMGk0SVAxaFdGSW5iRDNYNU9Rc21Jd21kbkkzYmJGSTFfLV9HRWV2NzZfZzY1NnBrRXRBYTlPZzVUVDNULVVFdWNfdUptbzJsVlBQMjk2bTFKUzNja0Q3QklsOWYxUWx1Mk5KY0plVWRQaF9oZlFRckZmZ1ptREtGZURjbXpxMnZmZ3ZSRUgwOTgwaEVOTDA4RnFZTno0OHBjMHdLcC1LdzJoLWxHXw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRVM0ZZV1VOWU1tbFlja3g0VFJDM0FSaVRBaWdCTWdZQkFaSnNtUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-09-01T07:00:00.000Z",
+    "time": "Sep 1, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla deliveries set to fall for second straight quarter",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxQSzUzNU5NRWV2NFljWFRSUDZGbXNnbFlzTEtOdklUS2t6Y2czOFVtX0d1MHExQlBDTDdwMVM4SGl4Y3FQblBCT1h4dEFjUm5qemNHclV0ckh3VFBRbDdfcVNGcTlPWk9KU2VSLW5KTTQ1ZXB5MUstekNKRVF5QnQzc19vMXlLQ0tGekJ5LTVramg3SnUwVVNjVF9IRFhOU3VZdGtHbE5IR2NCZm9kcTBIdjhhTkplUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1RbGRsZHpkR2NEQjFVRkZZVFJDM0FSaVRBaWdCTWdZQndJWW1WUU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Elon Musk cannot keep Tesla pay package worth more than $55 billion, judge rules",
+    "link": "https://news.google.com/read/CBMiqAFBVV95cUxNSG5RY1FQNHg1Sm1BLTVmTGVEenZocGIwallMVEVoLWNZR2dLSVptbUFtR3dPUUkzd2JyakpON2dYZi1zRG9aTG5rRmlDaXp2YlNoQ2NGNWZXY0lUbThRME4zeDNIVk9IRmp6LUc4UktPUnhfdHJrNkxOaDA3MEZZMnhKRlg4aWYxVzQtalRYVlJWMzNCSGFqZWlkc3Eyd0hEN2l5VkY0UGk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpWamxpT1ZKUVZXbDZOR1pSVFJDM0FSaVRBaWdCTWdZVllwaEpwZ2c=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-01-31T08:00:00.000Z",
+    "time": "Jan 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla promises 'more affordable' cars after shelving all-new Model 2",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxQbktqdmlfendjcDh2UTRVbXBJOGFvUVpxZWR3WW9sZE5XS1E5ZnZpd3R2Qk52a1gxNU5rYW5nY3NXaFZ0ZXYtY2FBMUFHOEhZSFpYUlRSajNfSkJqUmp4N0VLWHRtWVU0Y3E2RGVzaS1MM211Z1h6OXpZaWs4bFFJOTd1dklkQUZOY0thUV8yaDF5MG5IY3pCdVdkMjlLMnVYbmZwckxxSWJpbWlhckpQQ1lLdGxEZjk0X3c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVljbkJsZUVOUU0wZGxVVGRpVFJDM0FSaVRBaWdCTWdhVkVZYnJ3QU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla puts German factory production on hold as Red Sea attacks disrupt supply chains",
+    "link": "https://news.google.com/read/CBMiqAFBVV95cUxONU5pcmZneXJnWTdZcXBCd3B3MWp1bFhlMUNtYURhYTMtS1FVVlZTcjV1VEExOGgxczI3MTU5Y2ZCRExweEZYT1otbk1TbnE2QWh5QVBydUs4c1hwRG0xYlVrOWRsOE8wSGJZcWFRS1gzMVI2RUdzQ0l6akd2aDA0bHFWNDQwckdmVV96SUFCTjJqS3ZxdFVIMld1QjNnNk52YlpEdG9SQXM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNSVGcxUkVGME1EVkphVlIyVFJDM0FSaVVBaWdCTWdZUkJZak54UU0=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-01-12T08:00:00.000Z",
+    "time": "Jan 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Focus: Tesla braces for its first trial involving Autopilot fatality",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxQLTVISHdJZGw1VDNyX0Z4bHRvckZDZ0FvTlU1cjM4SXFvOG9LbUlOWEU0WFZEZVMyNUdiOTFsYVhLVWZKZEotZW1xVl83b2dHdE5mbUFRd3N3aUswTXVqbTZJZ3BqWFNraEdJRTJhSFRJOG9HOUtDZDN1UlU4LUd5eUR2aFpkQXlwS28wTGJ6N05BN2ViZW0xTGk0MVFrZHFuTmRyNk1rakN1UTdPZmxiaExZZ05jbzIwb1hrUHZXTGY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNWVGt4UXpOd05GaHdURVp5VFJDM0FSaVRBaWdCTWdhQkVKQVFIUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-08-28T07:00:00.000Z",
+    "time": "Aug 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Is Tesla On the Road to Irrelevance?",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxPR0JOeGhpOHZBUjhTQUg0STdwdVdqSENjWUxOaWtGSXBzVE5ReVNZRFJDZld5WlcwenlDWHRGYVdQSG9zNm9IT09DU3ZSWHBpQ2sxX1ZOd3pyZTRfdnVEUkR0cDRGbmpwemdGVkZaeno1dFZtRE1xM1JrWjN6MVJiMUMzR2F2WW1hV25idG9uUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWxlWGh2U0d4TE0xSkxZMFZKVFJDM0FSaVRBaWdCTWdrQmtJWmd0NlVPYmdF=-w400-h224-p-df-rw",
+    "source": "Bloomberg",
+    "datetime": "2024-06-05T07:00:00.000Z",
+    "time": "Jun 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla cars for first time on Chinese government purchase list",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxNSF9iTGNhblh2bXpDX0JEU2NhRXdHc2FleFhzRVlJZGNsbjVCa3pSLXZTVlJKUXdvWXhnd0ktbXFqelkyalFIb0xsWmIyQUtWVFVQSC1jSVRVNTRnb2hwRXhKdk56bGVueDZZa2N2S2FEd016SGtDTHdCVUhWclhUVGxDZlZhdlVlN2hkZ0t0ODFvajk5aFNDaDhoMHVkMUhsOFF1SW9SYVF3R1gwMlYxeWdJNmVKejUtQ05WYg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVhRGxzTlRKdGMxbFZaVzFGVFJDM0FSaVRBaWdCTWdZQlVJNGlOZ2c=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-07-04T07:00:00.000Z",
+    "time": "Jul 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "45-Minute Tesla Full Self Driving (Supervised) Test Drive — 3 Interventions (VIDEO)",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxNYVJuSmtISDduMlUxc1Jxd2hDaVdLSVhPXzlSbDAzOXVxQ0ltNFJXeHBsN08yNTM0UUdIZjZINVdCNG9EVmFPbEZGYS1vNnc4TUE0ajhSaDUzdVNWdnpVcHp3LS1JSlhYNzQ1aXNOTWV3WGtfdnNMcXlvWnhZbjNFRFJjX1d3M0dFX2tZbFNPbE1ieGg4RmFtaUcyNERFbEc2NnFnZy0tVEF5TWo0dzBPMk8tMmp1QdIBuwFBVV95cUxNdVpFMzkyU3hlejk1M2Mxek5Yc2FBcExtLWZoNHVyZ18tQ2pUdWh2UnlLNm5xbDBxaF9lVUJOR3F0akNjXzhLUW4zX1JPRWZPUC1sS0VJcFlxUzhKdk1EYTRRS3hzQm94cDZJcjhxTUl1RkUtdE1TNFJpZmgtTC04bE9yYzFZZlotRWp1d09aTGprdUdJeWsyZHY5c0RPS0ZEZjVuNmdxUld1TU5EZnEzcVFHc0xOV2JNS2c4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNU1UMVZNTmpseWVGaHRVMmx0VFJDbkFSaXRBaWdCTWdtQlFZWWlJMmxOcndF=-w400-h224-p-df-rw",
+    "source": "CleanTechnica",
+    "datetime": "2024-05-21T10:06:21.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla cuts prices in China, Germany and around globe after US cuts",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxQZVQ2QzNvaG1rUU1QZVR4Rk9ObmI1OEpESDJ1WVBxQXdicEVEY19RblVXUUNkVFVxdmg1S0xLcmFNQkNmM3NLbDlEaDVYcEdhTDFjcVdVSURQX1RSdWhzNFVlUFcyQUlLcVF3VFowcTMwTW9IcXhrRUtJOXlnOFVWUTd6cmZRN0p3cVowOERybDd4ZXc5bFBLdEw3UkwxbVh6OXBnbGFJZkkxSWZl?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUVSM056U0dGd2MwWjNlV05HVFJDM0FSaVRBaWdCTWdtbGM0Yk1JYU5reVFF=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-21T07:00:00.000Z",
+    "time": "Apr 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla shares fall after deliveries drop 8.5% from a year ago",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxPZFFBaW1JNE9RMDQyYVpNb2dGUmNDR3VGUmRmdTloLUtYbmVzTG1IMWZZM3BfTHIwTHhxMF9QQnY5NEVXME4zUlVDa21tOGZlYWYyWlhmenlpRHBjTlVLaUswTDlsQ0JkM09vZ0k3aGVQcGpuX3FQZG1SZVRpMjBuYklxQ2lTdlpJdGFMYUotZTVqQ2tLR1hQb3dTVdIBoAFBVV95cUxQQWY5UUFfczlPT0xzUVBPLUxuMXBjX0JwMmJpVTNjUXhHcC01Z1daV2Q4Y3hUblozT2RFa0N3aEFDTmJtdmlWWTRIcFZ5cVZTWV9GOGkya0VqeGxia0p0UlJqX3dvVThOZVU5OXdMbFdyQVhtV1RpbUhRYkdxOS02TjdZLThCQlQ0SEtxeGU5WXZzSlJzNkw3Nk5Fb1lacXJu?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhZVlpqVm5KeWIxTldWamRVVFJDb0FSaXNBaWdCTWdZQklKWVBzUWM=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla recalls nearly all vehicles sold in US to fix system that monitors drivers using Autopilot",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxPbC1ZRDM4Mi1PLUZZbHBjOVhrUXVGaE1DS3pKT0EzcGxmcnhoSkZjWEF4RUV5cndoVUVHTXRubDBhSk9PcVRQSUk5MlMwRkJTTzFUNkdBNjA0NnVRaTluSzZnSkY3SEJVazZpYlY5eVJNVHhBa0ZXbWlMTXBPWFIzUjJuN3kyam9jZHRSS3BtRGJmUUVWSTAxU2h5RXJvSEhqODlBdlBFVmltckk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNVFibGRFVjI5cFYyazRaVjltVFJDb0FSaXNBaWdCTWdPQk5BZw=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla delivers record Q4 cars, but China's BYD steals top EV spot",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxQUmRZV2QtWEFJeVFac2NNWkl0QzRfbWxzR1RlT3FvbTczV2F4a1djc29YRTNZU2hBWFdCTWZ3TWxtSmFNU2lqMDNLOFM3QlEwZi1idTF0NzUxSVZ3UlRXMGphc1NZQXFxTkNUY2pYS2lhUDZ6Zlp6eEwzZWZ1Uzc4TjBnYmltdkhFQ3N6TE5uRW1vQXkyZkVwU1hNVVdhOHZWTU9BQmNJRVNPOEVXLXZ5ZWt6RQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNURUM1pJVTI4MU4yNVZTR1J0VFJDM0FSaVRBaWdCTWdrQmtJenl3Q1M1cmdF=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-03T08:00:00.000Z",
+    "time": "Jan 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla quarterly deliveries decline for the first time in nearly four years",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxOUVVqZ1JxdF9FV1lUTEg0UUREWGVjYXNxNTd0R1Q1WnpXMi1Zb3ZmYlQ2Y1BhUGFoTzNoQVlFMEkwOUhubVJNa1BVdDAzSmlVTGwtZEtOak9ibjFORDdyOXFqTnMzRVBmcFgxa0xjaGppNVRPOVlReDR6SWxDN2E5REZ4WGR5bFZZREFPY1lqcFpMNGZLQU1ab3E3Y2lhOE9LazY5bFRnNGZOb0NCSFZmREpKVzd0dw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJaRkpOUzFNeFZHUkljVVl4VFJDM0FSaVRBaWdCTWdhVkVZYnJ3QU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla reinvents carmaking with quiet breakthrough",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxQR1lBM2w0Q0JidUdIQkFZNnkxTm9KZWp3SDhRM3dSZWpLVy1LaXBTZktIS0xGWUlUZFo2QkM3dzVwZnRMV2djcnRnTHZ1YnhfY1ZNZmZhQVB5RUxFMFFSVUYzM2NnckIySU9VcG4tM3BtUlVtSnh5WW1QdVBsbzBrLXRnTEw4SC13alQ2WXpqbEY5cVc0eWRLVlItbEdmbDBfYnc5Z1JUSFdtT09fRngwMw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUlTRWQwU1ZrNWVrNW5iMHBMVFJEQ0FSaURBaWdCTWdNQmNBQQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla cuts prices in US, China and Germany as competition heats up",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxPZkplNF9KRnZpRGRFN25LNnZqY0FrSzlCczlVaG1YVU5qVG4teS1VQTRZSWU5RklwSGM0Z2lsLXoyZEFwd0dXcHJoanBOc2xVbzExaWpUTFlER2RjOWhxdzhRWTRVZENYeXE3dENTc3E0X1kzeG94ZENySjFSZnNfT0tlcmlrRmdwUnN5WFp1akp2Z9IBiAFBVV95cUxNRzBUbTJyc3dQRS04X0RzcWo5dWNtR09tLXBIcjd1Tmh0d19Ib0RlZ3hPYnVvaGFZOVMwOGx1OHNqclVQUDdLNHExMWJQQ1g0LW5RUDZiRHRDUDg1czhDemhMN1FjbnoxbzgyeFM5enlCTTFTNm9ldW02RHFVazVoWWRONWQtbG9S?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBabGsxVkd4SWRqUm1WVGx2VFJDb0FSaXJBaWdCTWdZQmNJSnZOUWc=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-04-22T07:00:00.000Z",
+    "time": "Apr 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla CEO Musk raises alarm on interest rates, hesitates on Mexico factory",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxQMkh5TEgyRkJkdzNhUFVpaHBlalFtUzN3T1Q4VTdmUnhsUHRwcll2ZThic0NJUm1ueXZyZkVvYS1uTGdfQTQ2TzJ0b25YaVZzWUd0MHNEdWZmcnpXZVF4RmFHbGU5Q1BoMFUyUlVhTEtfOGRCU1ZFUi1sNWdiVEVUa2hEZWY4SUVQVWlBekE0NjVrTlhpS1YxcERkSUJPc3g4b2tyTHBkcmJYUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNWpXbUV0YWxVMk4zRlROSEJxVFJDd0FSaWVBaWdCTWd1TlZZaEpMdVM1TXVsZ2ln=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-10-18T07:00:00.000Z",
+    "time": "Oct 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Tesla Model S Has Lived Long Enough to See Itself Become a Villain",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxNeFhzYnU1d041dzVEeXVkbTd3bGQxMEF2MlRYUWFfejlEOERNbkgyTWdiX20xdHRkVkxidVo0UUNQdy0tLXZUck5WUFVEYUtsRm5paTIzT01HTlE3bkwxYWZvVjBxN1B5cWpIRlRCSjBoR3hZYl8yMkJWNUdCbXpXWWVyWllBcGtpN3ZyMkUzMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpiR0kwZWpoclVEUnJkWGN6VFJDb0FSaXNBaWdCTWdhSllZZ290UU0=-w400-h224-p-df-rw",
+    "source": "Road & Track",
+    "datetime": "2023-11-03T07:00:00.000Z",
+    "time": "Nov 3, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla's recall of 2 million vehicles to fix its Autopilot system uses technology that may not work",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxNSjl6RlI1MzFEQWoyVC0zSDFDbnJoejRxMzd5dVB6QjNHMi1XMzkwOUVuclFrMkVTeGFMM0dCNVFWMFRDYUZDMUF0dGVqTmNhTllCVi05UnZ6X1lfaEtTZ09mV29iX1FYVlJkUUlzLWVuVUVfYTg3OTlBSFVDcXU1SjBqaWNPTm1RQmJheEpyRHltZzVMN1Jfd1Jyaw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNDJiM1k0Umt4Vk4xWjFiakJVVFJDM0FSaVRBaWdCTWdNQmdRUQ=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2023-12-19T08:00:00.000Z",
+    "time": "Dec 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla's once-stellar reputation is running out of juice",
+    "link": "https://news.google.com/read/CBMidkFVX3lxTE9uZVp0em5WYVZiS0t5Y3Q4VE40c3RFNjJRVmRrcm1lMWU0TGdjRUNfSC1KV3l1cGM1dlNxTzN2Mjl2SDY2bGJmVlAwZlpYaU5qVVFmLXFUUDAxSmVtZXQxbmhoOXRKWnA0SC1yUTRTdmduaUhrc1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVORTluUjJWb1lUQllVblowVFJDb0FSaXNBaWdCTWdZQkFwemtnQTA=-w400-h224-p-df-rw",
+    "source": "Axios",
+    "datetime": "2024-05-23T07:00:00.000Z",
+    "time": "May 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla warns of slowing growth before new model launch next year",
+    "link": "https://news.google.com/read/CBMiqAFBVV95cUxPUnVoRUtLTjhDSG1Vak9wZWFJekVsay1iSS1QbUhzbDFnZG9RQmhQdDhUQjk1QktjQkdyZHlkc2hXZVFxbzNRbEtYd3ZOQnFHM0xBMUZqNnVISTBNUExyeGhYUHVmWHVwdXZNN3lfVEdKMzBfOWc1dW9Tc0UwcGhqdmdrWTBMUkdjQVNhRmlwQ2hZblZrSHd1RDdfbkxHWHFGTDNBbzV4S2o?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJVWEoxY0VkZlRsSTNla2N6VFJDM0FSaVRBaWdCTWdhQkVZNHVuUVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-24T08:00:00.000Z",
+    "time": "Jan 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Scoop: Inside Tesla's decision to build a $25,000 \"global car\"",
+    "link": "https://news.google.com/read/CBMifkFVX3lxTE1naGpvdk9rM1R3TV90U0x5Y3RYdEpQMGt5T0xyakthcER6Qng3RC10LU93RWgzYnB1Y3ZIVlF5UTFiemN2QkdXbElxVkxiQm5UUzdKOFZBaWp4VFgxWjlkSEt5bThWRlFFbERjTGlNSng3TEs5akZmX05XeENpZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTFjVU5tUm5OWVdtOWZVa050VFJDb0FSaXNBaWdCTWdrSk00QUY0MkJjcHdJ=-w400-h224-p-df-rw",
+    "source": "Axios",
+    "datetime": "2023-09-08T07:00:00.000Z",
+    "time": "Sep 8, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla's plan for affordable cars takes page from Detroit rivals",
+    "link": "https://news.google.com/read/CBMiuwFBVV95cUxNb1pZS0hURFpGdkhaa1lONEl0ejQzWWNpQXg1RUtCMkstMzdJdFdxTlFaNVBlajg1R25PcGlObWNzNVlHR09XWGUxNndTUml4N0NOeW01RU9TanJYQ2ZmcktyMTVOMFFkb2kyMi04SjYxVlNpQUtTVFo3a3BCT2FhdHlKQU1yZFpSNVpzZ1ptczlRYjBQMWQ3Mm1SdFFWR1NxZGhfV0NQbDhkSV9ZUWJ4V08yVkJ3TFhzVS1B?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHdjbWhqY0ZOcVZXcHBTWEEyVFJDM0FSaVRBaWdCTWdrQklJN3dIQ2F3U1FJ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-25T07:00:00.000Z",
+    "time": "Apr 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Elon Musk and the Decline of Tesla",
+    "link": "https://news.google.com/read/CBMic0FVX3lxTE9yT1k0cUdrV0g3NmdGNzMzVFNxd2RrVzQ2eFVqYl9rcDRZaWtObERFZmhoUXZYeVRWTDd6ZXRGeFJFeXlnS0NTR2oyZFg2ZlNjN3M0VHRhdjEzT2wtTHdpOVR5MTZfQUdxTW53VjZCd1BqTVk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxUVEoyTkhSS2VtUm1OR2h2VFJDM0FSaVRBaWdCTWdZaFZZYVBJUWc=-w400-h224-p-df-rw",
+    "source": "The American Prospect",
+    "datetime": "2024-06-17T07:00:00.000Z",
+    "time": "Jun 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Wall Street wants answers from Elon Musk on Tesla's Model 2 car",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxQOF8xOFRvcG1MZ3U2b1Ixemg5Uy1jb1JtUFJwREZac3dST0poM1JBa0gzRWlVMWFBZlNMN19kWmxRQXFSQzRDNEVBeXVsVGVvZ1o3ckxseDdlcUpEWmlXUldnc05ub1F4S0RxTy00dXhHSlJXQS0za2xUMm5PcVVnenlVSUQ0R2pJYzlUTkpMc2VMZUFncEk1UE1OMjV3SEFYSHVWUUtXa2JHelZwbHhhamhaWnpDb1hHWnc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXphV3BTZUdGSFRYUjFNVEZxVFJDM0FSaVRBaWdCTWdZaFpvd0xLZ2M=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-17T07:00:00.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Exclusive: Tesla doing damage-control, discounts for European fleet buyers",
+    "link": "https://news.google.com/read/CBMiwgFBVV95cUxPVzZBU1ZXeXFJdXQ1Y3dkdElFS0E3aWhfVFBiX3QzQ2RfWno4QXBPMzhzcHNWbW1zamdYUDdFQm5TMmoyUGRmM0xmOHBmcUMtUUNUSXZMTE5zbkI2dWFDTUhGa0NuUDcxVDk2aEpuTzJINUhHYTVPMmxvNE55WUJidUN5c0FuOXZHRGtWQzYxVjlVV1Z3VTFQVzFWbTRYdW5pTUxtaklQakdnbl9KX2ZtNHpRQUhKWHhmcF8xNGhHLWxhdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFORmMxWkc0Mk9UY3diazlDVFJDM0FSaVRBaWdCTWdZQlVJeUF4Z00=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-20T07:00:00.000Z",
+    "time": "May 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "US Justice Department issues subpoenas to Tesla in ongoing probes",
+    "link": "https://news.google.com/read/CBMizwFBVV95cUxPb3ZxSm5jSHU2ZjBabkVNTmNjWmhzSGNoMkw2T0lOV01SMkVxdFFnaHp6Y3hONnNIYXFSbm8tblVjd09uYXpFeEg1N1VKbFJudWxmSWJLWWxtRWl0UFk1YlJLRFp2ZmFnUDliVkVrSXFPS0F5OW5rNkhNMW9wMVNReTZsY0pvbEc5cjZKbzcxZ0o2Ql9Sb2tGdG1CdG9Hd291MWpnZi1iaXVNUVlYOEpseGZhZ09MMTB3VGRCa0RHbXp3Q3lkS0RuSTJpMTJOQ2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURNRzk1YlRSeFVHRkRjbUZrVFJDM0FSaVRBaWdCTWdZQmNZd1N2UVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-10-23T07:00:00.000Z",
+    "time": "Oct 23, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "What’s wrong with Tesla?",
+    "link": "https://news.google.com/read/CBMihwFBVV95cUxNM2Y1ZVZRQ1pDeUNtUjRESWFOajd1ZC1BdEVyRGFydnF6cm1nNWc1eFlJTndQcGFFSnVYZHZrTDk1Yy1CaDktak8xemRydnRfUnRETDhfTzRfUFcxaF9LOU93YnJwUGJkaFd1MWFaVjh4OGtjVEljbFIyR3FqRzdGc1pQX1VHRFnSAX5BVV95cUxOM3pfdzFhYU5IM2wydmZUMmVXTkhnWmdUcTBmYUZIZkViS05GdHJnOG95S19YYUgyd1VnbVduaUZhbzlWSUpsekJYc1VMbThfVmdSSnozemJlQzBmOF9tODBZUVlsOFp2S0hnRUY1OEF5RTJhcDRwWFJIVldTaEE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHhiazV0YmtKR2JGOXRhR1UwVFJDb0FSaXJBaWdCTWdtQm9JcURSaVJEY1FF=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-04-07T07:00:00.000Z",
+    "time": "Apr 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla laying off more than 10% of staff globally as sales fall",
+    "link": "https://news.google.com/read/CBMiuwFBVV95cUxOck5McVVRNUVNam1LVDZlTzBqTGRPRjd1eldjZDA0YURGaWNMb0swQnVGSUFJcC03QTFjc0FhWFlBT2NSVnhmTFdKV3I0Ti1SdDhLWWFZYXd4OVoxTkNRY2VmdGNuckw3MGRRTGVQQjNaQ0dmd2dFaEZZUUJuWnpSTWhJRFF6R2FfalhwaXdRTDlOWkZSMkFjaDJnMHBkQ2ZINl9iY1JZTkNlSE53Y1FJZ184bDF4Yk1MMTJZ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRaekJqWlZORFoxTlFZVkJKVFJEaEFSamhBU2dCTWdhWkFZanl4QU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Exclusive: Tesla plans to build new electric vehicles in mid-2025",
+    "link": "https://news.google.com/read/CBMivwFBVV95cUxNRXMyY1NsU0Z6dzRRLVVWS2gwYWVhVmFscmx3ODh6YWh2aXhTbHUtdUgxQW5tMEp6NlNmNjVvc0xCT3U5NjhGQXlSclpSekFjdzQzTjJpWTRyTFNXNm5NWVBHVzdpMkpUeDJTUEpJSWRFMUxmQW5XRDd0WkRsMm8yS25LOWZiXzREZkZRSjJ4ZFhsczBZcG1LNmRYMnVlcUtwekpKYlUtdGI0TnJyQ0xiZlctX0RYTjlLV2Y3Qi1mOA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdPRmRVYjFadFdsUmpWbFpQVFJEN0FSakpBU2dCTWdhQnRvcEdRZ1U=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-24T08:00:00.000Z",
+    "time": "Jan 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla reported 485,000 deliveries for the fourth quarter, bringing 2023 total to 1.8 million",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxNUmZnSi1nR0ZEWHZCc1BuU29mWXZSYVRaUFhwWlZNdU5YelR5aU1QeUh0RzBKbkdzbk5PalFLb1JDQTI4ajNjQjMzUmJZVnZ6Y19iVmlfU21sc2VoR2xrX25sQmxzTjFxRmxHQUtISXMyV3NPWXpPTWJ0bDRsMmtwYnI4UHZyZjhXZUpLcnlXRGF4dHNsbHYyeGZyY9IBoAFBVV95cUxOYk1RS0JLbG1uN1g4azgzMlVqWTRNLXRZblJObUFCXzY4Njk5ZzVaOGlZR0pyOXBoTzdScEtoRUJ5M0NSdTVOdEVDejdFWHFxb1k5WFdWVFJYQXMwUXNQT1JfTlZKWWRhaGdsdXlxS1U1dlpPRW1HaTJXc0J4NFVIYy13S3AtZXlDQkMzZUpzdm9QYkxIU0RETmRhdHJyc3N2?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUdkSG90YlRKcWR6UndUbXBLVFJDb0FSaXNBaWdCTWdrVkFvNU5uZWFhWmdJ=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-01-02T08:00:00.000Z",
+    "time": "Jan 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla slashes Model Y production in Shanghai, data shows",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxNNXN3NUJfNWFiY1RGSlFxZUpCMUVNcEhtTWVfVkRGdWhoSlQ1R3JUZEpWcF9qTWdPWGRLOHpsUzB6TTlBNDNSbzBMNFZkdTNhaFBXRGZEMmJOMTFUNXBSbmw0elBhVjRpcGYxOFlRV3o0b21RakFjXzFUTlljQlJhUmRkWHBlYzM4RU9WZjIyYlBhbWtlQ25SOEhZOTRGbEw5RVdPVjNXNnVQOFNYamZDdDV1MVk5MS1qVlE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNWWFV4WmpaRmNHMVJTVnBJVFJERkFSaUFBaWdCTWdZUlVJb0p3Z1E=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-24T07:00:00.000Z",
+    "time": "May 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Elon Musk Says a Cheaper Tesla Model Is Coming in 2025 as Chinese Competition Intensifies",
+    "link": "https://news.google.com/read/CBMieEFVX3lxTE1YVU5PNnczRnAtZDhoNWVFOU04WXpwOXhXdGJHeVhIb3dGNWxoZ0tNdFRUUWZvUm01SHN2WjY5bnFpcEFvX1UyVGZIZmFkTTFlSkVpbjZhM3Z4bWZHUHZmT0dHUDRlakRLOFFtNXRDcWt4cjJMTlRVeg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBSV3QwZW5aS2NqZFRlbFIzVFJEQ0FSaURBaWdCTWdZcGRZeXRMUVk=-w400-h224-p-df-rw",
+    "source": "WIRED",
+    "datetime": "2024-01-24T08:00:00.000Z",
+    "time": "Jan 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "History of Tesla & its stock: Timeline, facts & milestones",
+    "link": "https://news.google.com/read/CBMib0FVX3lxTE1keGZIT0xjZ2lrOWJjRFRNQ2pITW9STWM1OURTZlQzb1RjSTgtSnJ2VjVidFViNkMzXzRkYnpmM05ObGY0ckRMOFY5Tk53Z2RULVV0bFp3Y1dSSUJ1TE1BYjV6RFdkWWppb2h0V3VDQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJhMkZEVTE5VmNreDViWHBFVFJDb0FSaXNBaWdCTWdZUldKS25wZ2c=-w400-h224-p-df-rw",
+    "source": "TheStreet",
+    "datetime": "2024-04-30T07:00:00.000Z",
+    "time": "Apr 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "This Is the Most Controversial Thing About the New Tesla Model 3. It’s a Stroke of Genius",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxNWDJqUWd0Q3NVSWhsclo5V1I5YWhsZFdsQmZsZmJhU2hOUUNtTjlGODZXYzlxRzdWVHRFXzFWRUkydS1yZHlkQ2Nicl9SU1BEWFFBYVlQRjNjTVFrQmhQVWRZRzg2LUY1MUJidElkam95TXVqajZ5THpsTzV6U05ySkl5SDhKR1hkMjN1dkthZlpmQ3JYVy14UG4tU1N2M3JWMWt2ZTFTam0zOTZDb1NZNEVlWEU0QQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUpVelZGTTFoVFVHeE1UMFY2VFJDb0FSaXJBaWdCTWdrQklJcU1NU1F1NUFJ=-w400-h224-p-df-rw",
+    "source": "Inc.",
+    "datetime": "2023-09-02T07:00:00.000Z",
+    "time": "Sep 2, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "US seeks answers from Tesla in Autopilot recall probe",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxNTFhuTzlranJGTjRzaXZGZUJMb0g2TG03dWxnUTdRTkRpem5EZnhJaFQtMGpWUDJETFhIeUt4LS1yU3FOeXdVNHVyLUZCdHRDYnFvblBGTXNaY0NrY1RGUnBDMU1FMUZZVUpOakhlTXcyenZ6WUY2Mm1fV0VUZlZUVkM2YlBqcFN2TkNNZl9mY0J1bGY4V0x0UTdLWDUxa0NZNXdPbHNUQ3ZEelhNUEx2dg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5NRWRSUm5Cb09IUmpTVjgyVFJDM0FSaVRBaWdCTWdhQmNZd1RTUVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-07T07:00:00.000Z",
+    "time": "May 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla's self-driving bid for China faces rivals racing ahead",
+    "link": "https://news.google.com/read/CBMivgFBVV95cUxNUnY2VGphOG5hLUFVTmxEZ1RPZ19hYUtLbWxlSW9SejdTUFZsN2dnRkltcFJBOVpyRmwzVnBUYlR1TUxCdTJqVlF3WFlWRnpQLTEzX19YdGVqbHMydWdfOFhfX2F0RkF4bnNneG1hOXY4aHR3RkxNTnZQVkJhbTl1VUJoMnBuZWlkeGxQNEo1VUJkX3BQc2tGR3FMM2RDRkJUdlYzOXR4WWpSaFF5V3o3UjhXVm51ajVJNjFlNmV3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW9RMFI2ZVd0Qk1UTnNNMjluVFJDM0FSaVRBaWdCTWdZQlVvckt1UVE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-30T07:00:00.000Z",
+    "time": "Apr 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Recent Tesla Full Self Driving Fails — Just A Blip In The Progress? Or Endemic?",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxNWXlnYnBLWWVURE9XT0xZU2dhWkRYTmluUVNHOFBTODV2bEZ0NGZXVzB6RmtqV01IbGE1c2kzWWZwMmlxX0VuVDhvcm9obm5VOHBtZUpEbHRtd2hUWVk4R3NrSDFVLWdSYkpqUWoxWmtoZHBSODNJdV9IbTRfRGlHSFktSTJZTGFBcFRXelNKa1ZNLUozbTZBcXJoMG9sTWtFWmhJSFlZaHU5YVlNTVA3N3RtY9IBuAFBVV95cUxQYTRTTXBGY1BqdmdqRTV2dWMxY29JUmRRS0FnQm93ZmpSdTV0VWJHT3F2Z19tWjdpZjhjTHoyajFuOXR2eFRLdEVEdVBYS0xBUmRhVVFDVWYtbnF4LWxFMnJGOTA3aU4xWkRQTF9LTWZZbkhzaWQ2MXROOHZaWDNIYjVGMXdPakFIMWFLV29LNDFxZGFBSFk4Tk50Vk91N3QzNnVxdmFpd25KQk9kN3lUOFhYc0QweDlu?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWpMV2RUZVVKVFdsSjBTWGxoVFJDbkFSaXRBaWdCTWdZQllJN3VMQVk=-w400-h224-p-df-rw",
+    "source": "CleanTechnica",
+    "datetime": "2024-04-16T14:31:02.000Z",
+    "time": "Apr 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Exclusive: Tesla retreats from next-generation ‘gigacasting’ manufacturing process",
+    "link": "https://news.google.com/read/CBMiygFBVV95cUxPVERGRGpKa2pNLXdrQmVGMEVxd1h4RVQtMnpyZVQ2Z0lDMU9HVTF3amFwV2gtOXVERkRjR2dRYnd6WGttcmV5emZfblJiazV6dWZEVHRTOUo1M2J2ZTZoT1RKN2YyUTJuQURQd2hfRXpQR1Yya01mVFA3QW9DMHRjNVNOSmUwbW96Y19Qd2M4QmRaaEZ1RDJBMkM4OXRfcXNVR2Z4alBWdHRqdTQyNDUwUnEwVk9WQjlCcUFlWVgxWUVJVDNSanY3X2Z3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWtXbVozTWxGV2NHMU5XVm8wVFJEQ0FSaURBaWdCTWdZQlVJVEtwUWM=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-01T07:00:00.000Z",
+    "time": "May 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Tesla and its Chinese competitor compare, in 4 charts",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxPb0o3dllJTE1maVhfMDZtc1o3LWhudHJ4cE9lSjNxN3E2Z0xWVFRHZXlPWU1iRnB5UVpOUHJKTXZQaXlOLUVMUUtVdm5hWlpmT21RZC02R2dTeUlaX012eU5FQk5GclpKNjJ3RWF3QW43NWNSVzhNUW1RZE45cUJGRTV1ZXgzTkdBNEFJYjNIUdIBhgFBVV95cUxNd1FqcUExU2sxWl8xU1pfZUNUOWs2RGx6SWl4Z0U1MlZqX0lrSElvdk5iUkhhSGFKOFZJaTVkbzlzQkFPVWxlSTBzclNfWkZENzJUak1SYmFvWXFIU3RrWXkzWUh4cWlxR1lRU1FEN09OUXBSLTRmY2cxSjRjc19WakJlWjZMZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNhRlpGVDBSVFRVbERla2hxVFJDb0FSaXNBaWdCTWdZbFFJVE1UUU0=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-04-03T07:00:00.000Z",
+    "time": "Apr 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "The history of Elon Musk's Tesla",
+    "link": "https://news.google.com/read/CBMidEFVX3lxTE90MlFsN0JyMnRSa1Awa3NlYTFWZmRSYi05cTFlVFdTTnpBQ3pZbVRadGNOTWJDN0taX2pKeWVjMG01enNyLVVIMkhiYVBXZGJiX3lhZm4yMXBZRy1GM2xiTXdsWnNWaS0zYktjcWlxZm1fblk4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHhUR3d0TFV4bFNreHhhM2xaVFJDM0FSaVVBaWdCTWdrdFZJS3ZLV2hjdHdB=-w400-h224-p-df-rw",
+    "source": "Quartz",
+    "datetime": "2024-03-28T07:00:00.000Z",
+    "time": "Mar 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "In China, Elon Musk scores wins on the path to self-driving cars",
+    "link": "https://news.google.com/read/CBMiuwFBVV95cUxNY3Nyd0lYb3FwdlNhZmlYN2RJeUVmWmFTUExMQ3luRldlejlET3o4c19jaVNvRFdINUU0NDJCakMzaVBndWVYdWRvNm1JTDBaQnJ0YzQwSml2ZGh5N3RIQVRfTHFiVW5lUTRJMmRnMExfZklmNGJGcGt2S1Q1bTFPVFc0SGRIVmVKaFhZZ1FwSGs4bXNUSk96WHB1ZVFQd3hkM1BmNFhhdFVBQkFRSEktSWN6T0pYZUpUV0hJ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBObXd4VldWRFgwcFFjemQyVFJDM0FSaVRBaWdCTWdhdFZJYk9KUWc=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-29T07:00:00.000Z",
+    "time": "Apr 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Think Tesla is in trouble? Pity even more its wannabe EV rivals",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxNZnQzUkUxT0k4b20zMmY1c2FCeWJDZ05UNFMyQXlFdTQ4Z29iV0lRWmoxSVdfUGpuLTVNRWZLU3lRa2praVpJUEpqMXVabXJCOEtzcVU1NXBQRlREcEJ6c281dWhjMnBzXzR3aEI2R2tIZXRsVGgyYmhBRXZyZ3FtbjBNN3hDNjQwMkU2WkkwR2ZPTjNETl9jdDdhVnZrVk1nTWhFWklPcnZFeHBX?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWxiMWxLU0Y5UVNYZzFTa2QzVFJDb0FSaXNBaWdCTWdNQk1CSQ=-w400-h224-p-df-rw",
+    "source": "The Economist",
+    "datetime": "2024-04-07T07:00:00.000Z",
+    "time": "Apr 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Successful Is Tesla?",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxQTGFQRU54cU9yMjJ0ZklNaWdOS1ctLXR5ZXF2X2FzUEFRMWkydlVNdWFUalFLVjZjeXZnX3hiMHBQSkhfTjdCdHE5UFkzY3VkOWVGaGhsZUM1TDk0WjBYeUY2TWpFdDRmOE9zeTFTaDZud2djNDVMX0JjVVJTSGxRR19n0gGHAUFVX3lxTE0wUHZ0cHJ0VEVCLWJ4dXVZekZpMGZiU3BIbEdiTEtPRExPbHNZcy1ZQ2dDaFlzTHBYN0JuOU5yNnlDcm8zTmgzSlJOYWFBX2t5NHBqZm9oWjdaRC1vM2Z6ejFkYXgwcko1ZDNWUWJCMGhDVms5c0FqX244WkFfWWtSSmZnOXZjYw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBkRmd5Y0hOSVYwRndlUzFQVFJEaEFSamhBU2dCTWdZRkJKeG5EUXc=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Exclusive: In Tesla Autopilot probe, US prosecutors focus on securities, wire fraud",
+    "link": "https://news.google.com/read/CBMiygFBVV95cUxPRl82ZzVjX2ZhSHkyT1pRMXRaSU1LV3lTOEVvTmRlYVE5NWV4VkhsOEJqWElEUkRTdDV0anhlM04tb2pwVVBRbm9idGNwYnJzVHF6RjFCcEdOTmhwM3RfcTlUSVhRWGRYOUpJQjlEQUZ3dVpsSGJYUDlMVWFlVHFWY1NPNWZ5eHlsWWxKT2VnbUxiVXN2SlRuMlY1YTB3TUpINlVSNXVGdHUwcUZ4b09Fc2Y0Y3dlelpPODlyelZfMzk5RGJFYm5CQnVR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5ValpPZW5KV1dVUjZhMGh6VFJDM0FSaVRBaWdCTWdhSmNvcHJyUVE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Elon Musk insists Tesla isn’t a car company as sales falter",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxPcjh6LWJkaFBVQXdXVUQ1RW5IWW1wOXJDOWw1MzloeXo3NHMtSFNVYVQxem5IOXdJbEQtVVI0SUxwbF9JQzUwTnV2Y2xsNEFQQjZuWm9fdFdEVFhpYVY5T3RWSFllOTlWYzZpdF9GLU5CN1JMZVNCV3NjcXg1T2ZzX3hsZU5WcnpWZ2N5cEEwSnFtS2g0NnVRcTdwOV9aZHNHUFBURmM2RQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBNbFJMWDBwWU1FSkJOM1JaVFJDX0FSaUhBaWdCTWdZcE5vYnRuUWs=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-04-24T07:00:00.000Z",
+    "time": "Apr 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Exclusive: Two US senators call for Tesla recalls after Reuters investigation",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxPTnVmemRNV3pHMlVYcjBRZXRMY1hpZlplVVoxOEFuUzVFUS1uLXo3bGM5ZW9CdE5hN0xENW5kRi1XY3Z1VC1neV9yMWFmaFlVZUdsbkljSmcyeWszZFFCYWZsVkl1eWhZOXZWRThrbElyWGxEMTB0djU0eFQ5bkhFd0lzMXVhVWdha0ViUDNoNm9NQ1kzdUMwaU5EME1fSGxiWjlkSzVFRll1OXE1azNndTc5U01CbW5lME1yaU5tNEgtNXFQdXpv?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDNNMDFmVkhwNVMybHdhRzVNVFJEQ0FSaURBaWdCTWdrQlFaUUlvYWMwc1FF=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-12-28T08:00:00.000Z",
+    "time": "Dec 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "6 reasons why Tesla is failing, and they all have to do with design",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxObV92Zll4RkxMa2dNeU9ORjh4LXduS0FaQUxoWnkyUkJWT09vcFFzeHpCR25UaEQ5NHd5UWtiaGI0UWFCY3RoOXB3dnZxS0dTdGI5MjVBTzZfUHFSN29YSVhsSjEwSUp6NjFqZG4tTHpTaDBESXlaQ0pJVHNnWnlOVHFLV3l0NXE3M0lmemFlbDlTbzFDb0RlWlZUVUkzY0c0dDZWN2tB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXVlRE4wT0daNFNteG9aMXAyVFJDb0FSaXNBaWdCTWdrQkVJemxsR2Rya1FF=-w400-h224-p-df-rw",
+    "source": "Fast Company",
+    "datetime": "2024-04-05T07:00:00.000Z",
+    "time": "Apr 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Would-be Tesla buyers snub company as Musk's reputation dips",
+    "link": "https://news.google.com/read/CBMivwFBVV95cUxPZ0xXdUtGSUdlcWVCWGR2blFaR2R4YVJUaVM4LWJoX3p5cEJDVWhaaUZXTmVnNlAwMXg1ZDZjR0R2TDR1VWxDbnpOdkNZWG1sZ0t6ZWlTbUZSMGo4MWp1X1M4NUZmVnpjWWdmTkJjMXMzZkJGb0UzR3JYYzVXQ3M0N3N2Mm5lSXRtWUk3MEZRYWpHNUlfS1hLcGVxVVJKcS03YUs5RWVGTk9iZ3BpaGJmT2VjTEJxYnBBdlotOGlHTQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTNPREpZVDJSd2FrUnJkVUl6VFJDM0FSaVRBaWdCTWdZOVk0d3lLUWM=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-01T07:00:00.000Z",
+    "time": "Apr 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "An abused wife took on Tesla over tracking tech. She lost.",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxQMktDVW9SM0poaEc4dkgyNnhzREl3SVY5dXgtLVlSb3l2bGREd2dyUC0wbWUweXVyNHF1RVJTREpUdl84R0hsaXljb2lvcGxCYjF5VkdnYkdmX3ZJalNxN011YmEyLW45OU5Scm1kWjlJT1ZOTU5GQjRUcjZfaXVOQkU0NVZGa2lqWGhYNUxGZnJaelAyTElfeTFaQ0ZWT0dzR2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlWVGgxTUhOcldXWlVkVWQyVFJDMkFSaVVBaWdCTWdZUlVvVHVLUWs=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-12-19T08:00:00.000Z",
+    "time": "Dec 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla wins first US Autopilot trial involving fatal crash",
+    "link": "https://news.google.com/read/CBMitAFBVV95cUxNazY1RDNmbnZ5VUwwT2R4WWNaM0JWYXVra3BCSXJ3UlVNMTB5OUNZbV94ZnpxMlEtZlcwSGZRWDVfVkQ3emtRUkV1QkpPVXNCbDJoZWR4czM2TVNWay05UjA4YnZXUFNEOUJtclhfR1hnT0hReHpSa0hxUjN0c3ZkU1JOQnl3UmlueF9lOFoxSEc3MV84bE5DMmt4SGlteVJ5S0I3YWIzWVFnZEljb1FIeVdVSzQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpjWEowVTJaaWJYRm9TblZHVFJDM0FSaVRBaWdCTWdhZDA0RE94UUE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-10-31T07:00:00.000Z",
+    "time": "Oct 31, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Elon Musk's Tesla recalls two million cars in US over Autopilot defect",
+    "link": "https://news.google.com/read/CBMiV0FVX3lxTFBhZWhZT1dFczJQTFlOV0sxUlZ4X05HbTZhZi1YdTQ1Y05sSXF0V3AwbGZOWTY2RDF5ZXFMelNMaHNlWl9BcGV4NkpBN2s4b1VZdGlyTU1ic9IBXEFVX3lxTE1McFdiU1ZCODh4VVBDcnhEcnljUXV3amZHZVhHOU4yOXZ2SnIycDVrN0RrWWZPQ2s1Q2h3MnVsVm1OZXphbFA1dnFpLUMxUjdFRXRCdW9VeHBINnhS?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNVdRVUZaYUZCTlNpMVVWa2gxVFJDb0FSaXNBaWdCTWdzQkFZWkZpcXBFekNsMFZB=-w400-h224-p-df-rw",
+    "source": "BBC.com",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla price range, cost of automaker's electric vehicle models",
+    "link": "https://news.google.com/read/CBMiZEFVX3lxTFBJSS1Obl91Q3hKMWIwWjhzV2czRW9rMUIzRk5xX2kycnRZck1ac2gtX212T3VlQXUtMkxma2o4VkRIcW50R2NvU1JTdlZoUWxwNm9idjBfX0NYcXBjSzVKS0R3OFDSAWpBVV95cUxPOUsxYmNyV05pTWxSWWQ1TjVRV21UMTlySUZFSXIxTTNnLUNwRndmeWlEQmh3Tlp1a2dERldEUmxSXzBPbG95d2pQbmZHX1A1cVpES1FJMnlhMTFZODRwQ2NIdTBfLTU2cERB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFiMnBrUzBSYWJtVkpPR05UVFJEQ0FSaURBaWdCTWdhaHdvNk9RUVk=-w400-h224-p-df-rw",
+    "source": "Business Insider",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "Jul 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Next Autopilot trial to test Tesla's blame-the-driver defense",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxNcDZqVVdmaWxOV0wzcDVMREE4Ri1SbGViMTFMeFZyY2hHbE9YZ1NZOHd2dF9QZVk1SEsyYVFDaGN4UFRES3dlQ0ZHcV9mSXhsV2lHMktHcTlRTW9YRUR6bjRzZXpnSHdaWHBSQzZvREI4NGJsVE1UVzY0TkctM3ZhUmJ5Mmt4UjUyTnBPMThwa0NKMThrOGVLZzRTT191SEs4cHJaWVB6LURkREFoSGNLaXIxeUxWYVMzSF8tc25fcHM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTZhbkI2TW0xdlpFZzNTRXBVVFJEQ0FSaURBaWdCTWdtQlJJeXZuV2ZZVVFF=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-11T07:00:00.000Z",
+    "time": "Mar 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla’s next-generation vehicle: all the news about Elon Musk’s next big EV bet",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxQSHlCazUtOVcxMW9Pbk1SY0JFVXYzdW1JaUNZNUlDOWNDVzBoT3dnS2YzcUpGXy11cnJ6bkowMGhkQ0k0YVh2bGMyMjdlNHhuWU4yVmxVYkdISVRvMFVkd2hxaFBad3RBRzFNVkFHOHd0M3Q4UmtwbDZSS1BpQWdNeEdn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRURFJOUkRFelJuRnlTVXQ0VFJDaUFSaTNBaWdCTWdhWnM1WnJ1UVk=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla car that killed Seattle motorcyclist was in 'Full Self-Driving' mode, police say",
+    "link": "https://news.google.com/read/CBMi3AFBVV95cUxQWGFFc3RWYVE0RnI0VXEwNGY2NGN6OHg1Y1VodnM3Qlk5THVoWWdQTVJhOEdTVTF2TFBNVzRGM1FDVGpSa3FXVmpMbE9rVG9HZ2ZGQkh1a3JOMkp5VmtoRkZEaklKSkRwQVg5bTMydDYxc1dGUmhLcTMtaGVMRXdZNVM4OTNlbGdkc0NWYmVaQ0FqdUpLTmh3TzdvQThwMkZVRzY4MWFXY0FoRGRWWDFyLWtvdXZMWVpJbUlreFY5SGF1anNmWFVidnlOTHdBSE5EQ2N5elBOTEluaUho?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUdia1V3VldSM2JuUjVaRWxKVFJDM0FSaVRBaWdCTWdrTlFJYlB3S09TS3dJ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-07-31T07:00:00.000Z",
+    "time": "Jul 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Judge finds evidence that Tesla, Musk knew about Autopilot defect",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxPcUdUTXlBbUJmYXNadXdrZkZ0V2ctRUtyQkF5bDAySUJJblhjQzhKdDZrREZhRGRlYWlIS1VTWmVNY1pXZllfdXpFdlJKNVVSaEx0SVpSWVZNbkpwUjdTalpkSGF6SlBWdUlwTXFKdTJYS1RhSmgxZmN0Q0dQZGR4YU9SQXBiS01lRHU0dHJZSldob1NlQ21uYXFZWDZVZm53VEgwbER5TU5OUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHpkVTFIWkV0aVdVRmFkQzB4VFJDNUFSaVFBaWdCTWdtQllvQWlNMmRVT3dB=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-11-21T08:00:00.000Z",
+    "time": "Nov 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla Fires Many on Charger Team, Raising Doubts About Expansion",
+    "link": "https://news.google.com/read/CBMihwFBVV95cUxQcXAtdDhmYUZWV3JRak5mM0trTjNKa0x1MjJuUWJHbXhZR3lyR2ZMUThHZkF5aXpKMXVMY1pveGZqS0hhdE03ZUtVb0tyYlJYN3dzRzRMcDBreXRmZUJvb0gwdndYY2FSZHg0d3Z1cEhCYjA4Y2xtZWxQZ0dfOXZzOS1lWmhiR1U?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUlSVmRQWld0WmF6a3pjMmxaVFJDM0FSaVRBaWdCTWdNQlFBdw=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-04-30T07:00:00.000Z",
+    "time": "Apr 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "The self-driving safety concerns that led to Tesla's recall of 2 million cars",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxQb2diTlFVXzNxOWpjaXVnbl9qR2lOUWNCSFoxSDN2Sk91d05hM0tNLXZTa0lxTDhPUF91NWZMSXZXV0xOd01ObHpzazFjVEdsdHFhVHBPS2wxU0tHREJYY1V0Y2pHbU0yb2taUHZxbWFnMEM2ZkJOZWZ6T2ZrWHVtVVZyZWcxTDJxR3FqcXdydHBleXhKa3hxb2RYYnE4dGdEZGk0ek9qVTNJZmRkcEM40gG0AUFVX3lxTFBaUzJ6UjY5S3ZvZTE0bzdGRWZIZ2tFSElXV0dRejM3YmN3UW9qcXNkZ19DQUtNdUZiV21UbnByTmwwR2JxcE5tbVZXUDFqUHE1MXRSTmh4azFWRVB2QXgxd25Sb2g2YXlfLThrbmNCVjd5M0FxVUNvYUR5Tm5WTHFIZ1d0RmdlNTJqU054V2N6c3lGRmROTXpHV1FwUC1UQzgtaHQ2eFVnRlBaV0U2bDQwUkU3Vw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUdZaTFtUzB3NWVrcFhSVkpvVFJDM0FSaVRBaWdCTWdPQjRRQQ=-w400-h224-p-df-rw",
+    "source": "PBS NewsHour",
+    "datetime": "2023-12-13T08:00:00.000Z",
+    "time": "Dec 13, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla asks shareholders to restore $56B Elon Musk pay package that was voided by Delaware judge",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxNM3ZrMkVvZWtobHN5N2xNTndXcFEzQkhZd3M1a3ZmZVU1MmxCYnp5S2tmQ21DZHdhZzFUREhTUW9NQ1lkQi1xUUlJaHhhN256emgxT3VkbUxTQUJVSC1OOEtTVU9kQmFIRklHTGdMZWM4T0c3WmRQVy1wSHZVSXlNZjY5QXVBcVpHVWVOcmloLXZGTmhTQ2k1dUhER0YyWVhIbEhiVUJ3UQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRSMmMxZWtKd2EyOXlRVmxqVFJDNUFSaVJBaWdCTWdheGhJeVBOUVk=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-04-17T07:00:00.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla’s Cheaper Long-Range Model 3 Is Back",
+    "link": "https://news.google.com/read/CBMiekFVX3lxTE5jZnRZdWhfZnlwTHFMNFE4QUFjRXVKNXZ1Q0JnMS1sdzJRcm1SSGtEY19NdFZlNGFoQ3phb2RyVEM2LWo3Q25VTnUweUx6Nkhza0ltOG9PTHFZeGdLaEFkbVVoN2IzWHhuaEpuSmItOVhpTV9rbHVsaFJ3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNXVkV1ZNZGxKNFJYZExaa2wxVFJEQ0FSaURBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "WIRED",
+    "datetime": "2024-07-13T07:00:00.000Z",
+    "time": "Jul 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Elon Musk visits China as Tesla seeks self-driving technology rollout",
+    "link": "https://news.google.com/read/CBMi0gFBVV95cUxQenBrSzE5SWJ5QkZmMzNLbWR1ay13eFBRemhHeHpaQ2pHcGlkd3BFUzFLXzZXTUdweFM5VTNSWEFMWjFkVk1NdTB5anRNUE9wNWVZem84NmNfZE0yRVhqODhfTmVBRUxKZHNsLWE4Yk55RXpEYnRSVUplVDJxLWxtU2FBcVJVUkNpY0hUc2JzTkh6aGZlQ21JdjVxLUFFUDBhU2pWcHY1NTFmbjVfY1loV2V1czgyUDF4TkJqdTY1RHBBeWZnOXBnUUNDWC0yX1F6ZlE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtha053YmpkNVRWOW1YMUF6VFJDb0FSaXNBaWdCTWdZQjFvZ0Z4Z1E=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-28T07:00:00.000Z",
+    "time": "Apr 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Toddler trapped in car when Tesla battery dies in Scottsdale",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxOWWptekxUbjhwemU5bC1nU2FOQ1pSMmU2ZndYekZBdVItcWRXR3ZyWFdYT0ZJeFpUR29YSGtESVNFZUdNYUNLMjNMaTVwTm01VWkzRUtrNktfbGVFREpkVy1aOWp4RE1PQzdJcXUxV1dDYVA0cmVYRlhvbGh3dHk1SUVPVFNFTnZzbG82MENjTGJyUFV4cEHSAaoBQVVfeXFMTmw3XzBTejV5S2xVYVNvbkJZVDBneFBvZkNVTDZfY21RRGVSS0JOcnpRN01KSUs0cXN2eEZyMVp4Tzc2XzdDOUhfVEZkcUZ6Rnh3WEJzNUV6bUV0eU1GRWFfRzdZTU5PSm1hMGlSOXI2aW9jcEdNaUxQREE1WkYwcjBfbkNIUzl4OFAwUDdGdFNvS2pkNGJmT2x4S1N2T0hXLURxNTRtaEpWUEE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNU9Sa3RvVEVKVU0ycHlRVTlQVFJDZkFSaS1BaWdCTWdNWkFBSQ=-w400-h224-p-df-rw",
+    "source": "Arizona's Family",
+    "datetime": "2024-06-19T07:00:00.000Z",
+    "time": "Jun 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla CEO Musk: Chinese EV firms will 'demolish' rivals without trade barriers",
+    "link": "https://news.google.com/read/CBMi2AFBVV95cUxNNE4tZlEyTXNub2RmMXVRUGJBUW9jaUVNcTlhSXdoYUhtd1dlWF9lb2o3MHdrY1JZcEVMNGxjVGt1Z2xsY0pucl9QcC00TkwxeWptXzhoSmY0Uk9JUWVfX1RhNXZtZ2ZqM2syZTJQYWRtN05LU0RqVkFZcU04azg0a0EtdVJVUjhUYzBicUtaMjg2dFpNcGpVdTlvYzBsN1BVNHZoQWpIQlE0aVNfMTRodWRlTlp6cGY4SUVIbG16SEN2MzJGaTZ6RDVseVg1RmtXVVp6NmhMTXI?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNU5kMEZyYXpWV1NHRlNjbkY2VFJDM0FSaVRBaWdCTWdrQk1KcXdJQ253NUFJ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla's China-made EV sales jump 68.7% y/y in December",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxPc1QyakRzck9yeElPeG12ck1ia0VqbjRSakEzWUhaYXpQak4ya19kWjZPOFBrSVRIc25aMTdmZEd4TEhjWEpFVnVMaEZRWGd3a05xWVYtcG1vdDk0N19YSlJtME1xWnZRUGZ6N3lJUTI2dFBNQzZaZzhPdEdsZW5JVnNZWHNfNHpta3JvZTNxeUJDZ0pRWllJRWh2VERiSVZIY20waHotWGZ0VGtuQnh4SjQzMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNW9jWEZoTTJWZk9WVTBSMmhEVFJDM0FSaVRBaWdCTWdrQm9JcU54ZVRBc0FF=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-03T08:00:00.000Z",
+    "time": "Jan 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla erases $80 bln in valuation after Musk's sales warning",
+    "link": "https://news.google.com/read/CBMiwgFBVV95cUxNZjh1OVN2MTg3NFM1OE81TlQ4cS1CZmJyMmRHZElNSmFEcjA1Yk1RX3ZHNlFtSnNVamZiRHRYS255MjBwY2FfSkxXVkQ4cGZoSlZDNnhaTGcyYVdoV3BiZV92LXhCQ056MFZ5TTdDMkxqVnpmaG1tUF9QOFphTjFpTVpGaF9xWkdERzNyNlJic3RmajhKLUZSVEh1ckstOVl5LVZ0VVJlRnphYml4RWx3cFhxV0lGVHZPS2QxYnZmS1lKQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVhRkV0T0RKWlkydGlNQzFTVFJEQ0FSaURBaWdCTWdZQmdZcEt3UVE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Musk said Tesla cars would rise in value, but the opposite happened",
+    "link": "https://news.google.com/read/CBMihAFBVV95cUxPYXlkX1VIVFVfcUEzWlU3MGl3cjlIeUROdlhmZEJ5bzRTVUEwLWVvdVNkMTZMbDRyamxKZ3RpTU9ldFF2LVUtYUkzeXM1WlFOb2VmME9CLXNsMXNQWk9hRDd4cnBobU5vTElnUFZsMDJEaG5EWkxRT2tXRktKek8zdmtDRnHSAXtBVV95cUxQcnVFd3k1WHNyZ3RDN3U2anZFN0ZaVHZjeVlpcDVjXzc3NlA4YmVIcmh6a2MzMnh5Qmg4M2VRT0ZKUTNzVnRLdlRydEZIR29adnY5TDBCZnBPaU1qSVBMZkVZcDBxZjJjY1MwRmJTOG1kUnY5b2l6UlcybkU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVhTMG80Y1hGS0xWbDRTR3RhVFJDb0FSaXJBaWdCTWdtRlFKRG1KV2RjandF=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-03-03T08:00:00.000Z",
+    "time": "Mar 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla's vehicle production by quarter Q1 2024",
+    "link": "https://news.google.com/read/CBMihAFBVV95cUxOTnFjVDdaa3AzWVVjV1pRZWdDc01YVWJ2YktmZ0ZXYzBCY2MtS2ZfNVk5aGlidDV3ZG1YMmlLRWk2Q05zME4tdEZZM1pBb3pqMDdRVTIyejZqQTJyRkxFM2pDdHVHT0VXTUdVZkZqcHpQWDkyZVMtVzk1VEE2MUlMSC12Y3o?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHRNVGRVTld0bk1HNDNiaTFPVFJEQkFSaUZBaWdCTWdNTmtBUQ=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-05-24T07:00:00.000Z",
+    "time": "May 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Let’s speculate wildly about Tesla’s three mystery vehicles",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxQMnM1NXpibW0zbjgyQjRCdE1Mc011cXBwSlZuSlRVeXo3YWd0RXBjbDJORGNOZGFvTXdCV3pfMl90S1k5c092TVZFcDJvbi11bTlxWWVfYjNUeXJlT25DSnZXckpTSkYxRmNQb3VJM2hBOXJRdGd1TEJHV0VWRWVjZThBTVVGNlk3SHlIZXZ5WHVzbl8xa21mR3ZyT0hVTEw4T3c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFUamRNZUc1eVVGbFRVVEU0VFJEQ0FSaURBaWdCTWdZQkFJN3lPQVk=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-06-14T07:00:00.000Z",
+    "time": "Jun 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla’s Troubles Raise Questions About Its Invincibility",
+    "link": "https://news.google.com/read/CBMifkFVX3lxTE45NEtPc01GNXV3Q3hYX0YzejZPNE1GSDdYUjFELUVFMHRRbWJZNEpWdzM3Nkh3VmxnNTJMREpjV2JZeGtnYTN2N3JDTHFWZFEwUGREVlBrcG1DY2d1bW5xRDd1dXUybjdDWXh4Nl9PSVI1M0hFVkRvWUJod2ZWZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBkMU5YZGpkdFZXMUhWMDVUVFJDNEFSaVNBaWdCTWdZUlU1SklwUWc=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla Promises ‘More Affordable Models’ and a ‘Cybercab’",
+    "link": "https://news.google.com/read/CBMigwFBVV95cUxOOUpZVU5YSkstME13TWRnQmVkREh4ZWlqZTMxbXBqZlkxTWNyTDhsOC1xaXYwcWFIUXdIMlJ0MUl2U25JZWRuYVpWY1Bzai0taVpPTDFnSkc4Y0RIUjNiZndNSXJPbHVsemJYUDlONy1pYkFPSXlzRTQtRTc5M0Fnc2NjWQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXFTRFZJVDA1bGNVdGpjekJLVFJDM0FSaVVBaWdCTWdrUkJZak54ZU9aSXdN=-w400-h224-p-df-rw",
+    "source": "WIRED",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "This is a Tesla Model 3… no really",
+    "link": "https://news.google.com/read/CBMibEFVX3lxTFAySkVCYXRzVnFXeUg2ek1ycXZqMUk3RTN5eDNabGJOamhidjFtdDdQSS1WZEVaWWVhRnVxY1F2Zy1ibEtpWnlENHlsNURoWjFZMjYyV2tPSTdTOVA1NkJQQklKekhJblZ2b0ZkMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRXSFYwVlZOVWJUQmZaa05QVFJDZUFSaS1BaWdCTWdhWklZenRuQVU=-w400-h224-p-df-rw",
+    "source": "Electrek",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Tesla’s Sales Drop, a Sign That Its Grip on the E.V. Market Is Slipping",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxOeVUyTG54V0h6Q3NlSG0wdVoxWl9qU1BpcjFvUVppSmlpZlY3OGIwX204ZWctTnRISGNiZnVqSzJwQ3h1VkJ2NVlTSXBjUDZESzBWSGFTdy1SM29ldEtucHZqYmpRN3JBQ25DX0o1eHExUlJ4ZEZXRjZjdTBFLTBDSHQ2azQ2UQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNlbHBvZGxNd1NVWlBXRTlhVFJEQ0FSaURBaWdCTWdhQlVJaTFvQVk=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why I no longer crave a Tesla",
+    "link": "https://news.google.com/read/CBMicEFVX3lxTFBnaHRNNjFtUzg4TEgtMmNZMkRNbU8zNkpZTGo4T0VfY0hIb1J5Nk0yaDdhX0xReWFyNTdpejBpOFZiRmktall2bERUUHdCcVBycGhTV0RiVXBjUG5lN0QtWGtCMmlSWGh1NW9DanpuT3Q?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxURmQxZHpkbGVsUnZVaTFSVFJDb0FSaXNBaWdCTWdZUlE0eUlvZ2M=-w400-h224-p-df-rw",
+    "source": "Financial Times",
+    "datetime": "2024-08-11T04:01:40.000Z",
+    "time": "7 hours ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Tesla isn’t unionized",
+    "link": "https://news.google.com/read/CBMifkFVX3lxTE50X1hubWRJUUZ3OEMwUmY4T0NMdC1kb0RtWkZUVWdSTkNxTC1HNlRVQzFaM2w1U0g2eklZMTZ0RGlNVEl3bnl1eFN0ekxCa0J4UWszNHh3TXF6QWMyUzRFVlpSa1ZGam1wc1dnVDczRHBOLWUzME1LWThNdjFkQdIBdEFVX3lxTE9BMUk5ckNRa2tHcnQ1dEFOSzRKYzZlcEhZc09UbElMRDlqQzNuT3hSVFA4YXlZdWNNZmxYWDF0NTJIZ0pPLUdOaXdTOWUya2dwTC1kV0hwTmt3cDN6UlBhVFlrRmxISkRaT04wbjJqVmdOYW1u?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZUSEJ2Y21sdVZXcE9kSE5IVFJDb0FSaXNBaWdCTWdZQmtJS3R0QUk=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2023-10-12T07:00:00.000Z",
+    "time": "Oct 12, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "ARK’s Expected Value For Tesla In 2029: $2,600 Per Share",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxQRE00dlpxV0NQb0N1TzlzNmZMNzVDRDFidWFWUldBZm0xNTJDcDJCRVZUSzZhcXhmckx1WXRHODJPTXh0NDNTVmJfU2dodEVNUkp1eHhuZUJzQlBBVFJ5ZEpxZ3dVUVcwNWsxVERJMUYzT2pGOWNFdktTeHVYSFg5c3NqTS1sa3ls?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhhR1ZhZVZCNGVEZE1kR1ZHVFJDaUFSaTNBaWdCTWdZUlJveExJZ2M=-w400-h224-p-df-rw",
+    "source": "ARK Invest",
+    "datetime": "2024-06-12T07:00:00.000Z",
+    "time": "Jun 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Has Tesla Peaked?",
+    "link": "https://news.google.com/read/CBMickFVX3lxTE03ZllnM09HTTE1bHdfSjRXbDZuN0hGOXpKQ0ZtSll0OVZYMl9CVk5sUVBpWGJ0RVVsRkNsTnBWNFNsU1pHanJuRGxHcDlyOEUtSm0zNkFBRVJubFlHOUxxMWxiclB6QXVLVEdQLW9aLU5GQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNkRWxyTFhrNU1sOVhibmhPVFJDM0FSaVRBaWdCTWdZQkVJaEhvZ2M=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-04-16T07:00:00.000Z",
+    "time": "Apr 16",
+    "articleType": "regular"
+  }
+]

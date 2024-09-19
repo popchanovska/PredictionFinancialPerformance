@@ -1,0 +1,810 @@
+[
+  {
+    "title": "Coca-Cola® Creations Imagines Year 3000 With New Futuristic Flavor and AI-Powered Experience",
+    "link": "https://news.google.com/read/CBMiwgFBVV95cUxQcXJVeW1zZnJfbV9CbGNvUlQzTjdvZzMyekFTancxLTlSaUNfQWRad2J6M0dYX2hPYjk1TWZxZmt1VWg3U0RUdXkzcXNXSG90VDdlb1JSYXk1dUUtVUMzZ3ZkbHVHSzlmaWd1WG1yUWZQY3Q2bG5yNHBOWmNrLTZBaHdONlBGY19UbWstbXdWbm5zTEpoSmNxZmF4MEFpWmR3Ym1SYzRBcHJRaWRTcmF5alcyWEt3aG8tendlVHo4U0tYUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXRSRTlGVUdGVmJEbE5PVTAxVFJDb0FSaXNBaWdCTWdrSlFKSUVvMmRGQ0FJ=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2023-09-12T07:00:00.000Z",
+    "time": "Sep 12, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Governor Ivey Announces Coca-Cola United to Invest $330 Million in New Facility, Creating 50 Jobs in Birmingham",
+    "link": "https://news.google.com/read/CBMi7AFBVV95cUxORHpUYWdVV0xhV0tZdC1wNkUzWnBPaDZybEhKRTViOHFkRmI0M1I3LWljc2pWWG9YS01pU29ZTzRybDJlanEtV3JfV1RwM1pZckFjdVdHT2NoRjJ0WnF5dEQ2QXJ4cVVCNTFPMDBVMmxKbHNNZlBwRHo3Y3JMNUF3ampaa0Z6V0h2S0ltaUpVbmJycTJvTUpUT2FZNTljdVplUUR3TE9SMlgycnU3S3dwZjFPSWtLck5MV0tiVHp1c2J2c2lCZ3VoWEx2ZGdibnRCZHdWNFVNSnhOY2JlcFUtRE9pQVlvRTdiWTZrQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWpNVUo0TFc5b1RrNURhVjk2VFJDb0FSaXNBaWdCTWdNQjRBbw=-w400-h224-p-df-rw",
+    "source": "Governor Kay Ivey",
+    "datetime": "2024-05-23T07:00:00.000Z",
+    "time": "May 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Beverage Review: Coca-Cola Spiced Zero Sugar",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxNcENjTjRrOE95VUVnXzZmNG12S1JGZEFJaTJRakNmWGN0MFY5eE82WDBsQXpNdVRlNlZGOV8yRk4xSVo0Rk5IUWF3eEVMV19scHYtNFh4ZWo5TWJtYUFEdDVkczNrRFlGeTBpanhHdjg3U1l0cV9uSTY4eDA1TTRrcXRfdnNwWVBneG9r?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVJUaTFPYm1kVExYWnNXakp4VFJDREFoakRBU2dCTWdhWlFveEtJUVU=-w400-h224-p-df-rw",
+    "source": "John Scalzi's Whatever",
+    "datetime": "2024-03-07T08:00:00.000Z",
+    "time": "Mar 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Amazing Ways Coca-Cola Uses Generative AI In Art And Advertising",
+    "link": "https://news.google.com/read/CBMivgFBVV95cUxNYVRLVUIzTWFzc0QweTBhZTloYllueGxSNm5sLWs3eXV4RGRVdU14UU9ZU2h2UEZmUUladjY5NkNuRy1RajZub0FfTXo3RlB3Y3pydlNuUVcyWFhidmkxTUpHcXVYLXlSa3lTX2JDaHBjRklaRS1lY3VJeGJpMzE0UTBYZUNwZnNEczMzTTVneFlyaE92S2ljMzNWZ1NKQkg5MmVwZERXQjUzNlJlMld6bEVfVi1mTHhpNVkwV253?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVlVkpoZFZGRk1FbG5ZWHB5VFJDM0FSaVRBaWdCTWdZRmdvNmx2UVU=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2023-09-08T07:00:00.000Z",
+    "time": "Sep 8, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola set to continue generative AI efforts with holiday-season marketing push",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxPY2poMjFoVjdfRE5fQmQ1bmc1UVQ4NE1McTZ6cmxuLTFNdzdrc2ZWbVhIVUxuWlEwRXJFbTVuNWRmRUc2QU5YbjltT2ZIdV9BVk5LcUx2NzF3TWdEVExsTnVfM2FYMFhvZW1ESjJOV3Y5bGpoY2hPZzFud0Q4aG80U21pRFpmZXptNlFiMFlxaE9rUkxHQ0J6M3BSejJTWW1veUtPLS1teVdHTkdJdGVnZTRYQVc4RUhVWmNaTQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBVMjlYYVdGTFJuYzRUMWcxVFJDb0FSaXNBaWdCTWdhWlZKTEtJUWc=-w400-h224-p-df-rw",
+    "source": "Digiday",
+    "datetime": "2023-11-30T08:00:00.000Z",
+    "time": "Nov 30, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Marvel and Coca-Cola Assemble for an Unprecedented Global Campaign",
+    "link": "https://news.google.com/read/CBMicEFVX3lxTE9lWmxCOEtTTC1lcWVLc3ZOZzdHMWk5cXVMN3FUd0pvS2xsOF8zalVLdDVldWpzNkkzOE5iMzdoZS1ER2wtX1N3TTA2RXVlOGhUVWZYdDdycU9sbjZoRV9DRDdWVDNLeFROQUVESDNqMlQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWtkMll5UVhGdWVEVktVRTVhVFJDb0FSaXNBaWdCTWdrQlFZVHZ2S1JyaUFJ=-w400-h224-p-df-rw",
+    "source": "The Walt Disney Company",
+    "datetime": "2024-04-08T07:00:00.000Z",
+    "time": "Apr 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "I Tried Coca-Cola's Two New Flavors—Here Are My Unfiltered Thoughts",
+    "link": "https://news.google.com/read/CBMifEFVX3lxTE5MdFI3NzU2MFZLU1N0dFpmU3g3QURXdHh1d0hzdjN1VzRGSG5RVE9ISmtIenQ4N2JQaFNKSUtfVHJGd1FQcXlIcFhLRnVwRExwRnFOZ0pYYzc1a2s4cGx6em43eVRaMW1DSkxRMUgtRGhCYzl2YXpELWw5WjI?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5ka0paY1d0cVZFMXdRMmhIVFJEZ0FSamhBU2dCTWdZWlFaUzBJQWs=-w400-h224-p-df-rw",
+    "source": "Delish",
+    "datetime": "2024-02-07T08:00:00.000Z",
+    "time": "Feb 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coke’s first new permanent flavor in years adds a spicy twist",
+    "link": "https://news.google.com/read/CBMiekFVX3lxTE0yZ1VkOExjdHdpTUpkSWlTejA0U1ZTVWNfTmF2cy15YXYtX2F3ejZCZE1qUUxycWtiZXd1MDdqVmJWTUFLZDRxV25FblJXcU5ScjItcThvSzZHeVYyb29WNEpDOEZydjBRSEdBS1VyRzBNM1JiWUgweWF30gFwQVVfeXFMT0JmSWhQZTdGUHctTVUxRW1ockN5blpVYU4tanJQUTRuR3RTX01qQ081cUdpNFkxbmduaXEtNXd0SmJhelMtSUotZ3EtcFVHWDhDTW1hdVlVcTVndzNxbnl6M09Ed1hkcXhqalEyVEZxMQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFUekJqVTBwdFVGZFZTbEpoVFJDb0FSaXJBaWdCTWdhWmM0cHByZ1U=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-02-07T08:00:00.000Z",
+    "time": "Feb 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Governor Hochul and the Coca-Cola Company Celebrate Groundbreaking of New fairlife® Production Facility in Monroe County – The Largest Dairy Production Facility in the Northeast",
+    "link": "https://news.google.com/read/CBMi1AFBVV95cUxQcmlfdU9sR25JRFdmLWN4X1NkTHNib3pGeUx6VDdpSmx4cUQ2QXNNSlV2NWljSlQ5Z3hxUWtVZ01rbmxrZmcyNU9oM2ZYdHUyaVFZeUNnc2lPYkZEMVRJd0s2dkJ2LVp0VHNJemNIYzg1ZDdIM3dvY00xSVU5cy1fNEdUcUdYYkl2ZC1RQ0RHU3Nxd1FNeXI4b3hlQm1Yb1hra0pOV2gxRkpPd0tmX3Qxa0dNVEpGdlU5Q294bk16NGhSUnMwTklFUXZfQ2N1Znk5c3ZRYw?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "Empire State Development",
+    "datetime": "2024-04-18T07:00:00.000Z",
+    "time": "Apr 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oceana Calls on Coca-Cola’s Largest Bottler to Commit to Reuse and Plastic Reduction",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxOa0JHZVVvVU1FVlczY2p5aWljUHpBMURZUTc5N2U3d1BDQ2czcjk4Y1JwdTRta25hWklNQnA5dVg4ekpkY3BuV3JJbFVWeEc5eXZoTEdVWDdoc1hKQmFFSzNwNFdacmg5XzJNTGZxd1FrZldsQUJfNG96VERFZXg5S0VPY2dJWEVKRUxjNjllMkltdTdITHJoRFJNZnBBZmw2cjhsclVQcmNaSXo3Qm9TY0NJbF9jVEFTN1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZkbGxWUmxoMFdYSjVOV3BzVFJDM0FSaVRBaWdCTWdhVnhvZ3B3Z1E=-w400-h224-p-df-rw",
+    "source": "Oceana",
+    "datetime": "2024-05-22T07:00:00.000Z",
+    "time": "May 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Dividend Aristocrats In Focus: Coca-Cola",
+    "link": "https://news.google.com/read/CBMiY0FVX3lxTE5TM0V5djJyYnZ2Y0VMV3VYeUtmV2p2LVlwX3paZmh5Ql9RdXZYdHVMQTZhc3J5NXl4Zi1reVB2QzVzQ0w2UnU2eUpHT0thWmF5QV94M0NIMWk5N0Ryc29LX2xEZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTRhR2xVVkhnNU0zbHdWMEowVFJEVkFSanRBU2dCTWdrQkFJcUdET3VnTUFF=-w400-h224-p-df-rw",
+    "source": "Sure Dividend",
+    "datetime": "2024-05-22T07:00:00.000Z",
+    "time": "May 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "My American son says Coca-Cola is better in France than in the US",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxQd3BQUEprb1BQZ0JJWWRUOW5odFRZR3lRMUxpdzlVTjBFSVJObU9SelFhWlI1TUUyZWVONGs0VGtIS2pWNXdpQnRSZXprZTZLaXVHNHlTc2s1dlljNC1JbWhIT2xGV3ZZTm9TU1l1ZExSaXN2WExDaDBSYW5qRXhUSW42SE1sT2JUaGZKV08wbVZURFHSAZgBQVVfeXFMTnFSMUwtczNteTY0ZjItT2lMdk9rMlhCWUIybGNFV2NlbXd3Y0FHZ3RNVnpHZ3p0UU1FeVFTeVo4Y3h6cWVrLWdLUnJCSkxWQ0ljWk54YjdpVm1ZZjBGenJsNG5xd1lGbzRsTmgzUHFEMFRSU3lQb2k4RHo5MUktcXJ1MzFySHFhbHFlckctZHpYcWstUWFCMWY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWpNRlF4VHpGTU5YWmZWbkZqVFJEQ0FSaURBaWdCTWdhZGhvNHJMZ2M=-w400-h224-p-df-rw",
+    "source": "Business Insider",
+    "datetime": "2024-07-16T07:00:00.000Z",
+    "time": "Jul 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Everything you need to know for the Coca-Cola 600",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxNSlVOaVhQNUZQVVZHMGd0SFhEUzFuVWthTEFWbjE0WWxwQTVXT0dtQjkwa2FvUXZqdUhwbnN0dDR3YkxaQ2JyZ1ZaM21LWHRoaGlOM3EtN01tdGs0Yl9ZX3lJWGN3V0cwU2o0QU9NMUN1dmF4djdKbVhHZndUNG1XYmNkaFFXcjVWLVYxclpJWUdLVWJRZ2d1bi1YbWZkMVgyZTRLSzZKcmxkUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJRVWhTT0VKdVRXWlFaVEY1VFJDaUFSaTNBaWdCTWdZTkZJS1BsUWs=-w400-h224-p-df-rw",
+    "source": "Hendrick Motorsports",
+    "datetime": "2024-05-23T07:00:00.000Z",
+    "time": "May 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola North America Debuts New Lightweight PET Bottle Designs",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxNY05GdjdQc0FDcWdHd0FnM0dhVGcyOU9adVRpN1F4bm1lZjBod2I1dHBZSGRqOWJjOTcwRGdIYlkwcFRpX1REcHdTSG50NGwzMU9tcEk1dVRFVmdOY18xVHNxdnF2MlFIeDRRbEYtYWxSOUpDUGNLVE9GZjd2b0lmdXhVLW9FMXBlaXRSZlA4N1RXby1GeDFBSWtDRDNiQ21GZEJiVnRQWG5FOGxnYXdnNQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFNSFJ1YkZwdWN6QlZaMUpsVFJDdUFSaWlBaWdCTWdZQllKSmpNQWc=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-03-28T07:00:00.000Z",
+    "time": "Mar 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola Launches 100% rPET Bottles Across Canada",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxPYUlnMGdQR0F4ZTVjNnhDMnBiVWQyWUt0QU1NdTdxeS11c0h6VEtKWldvM1hTWmJxZ2RPeTRDNEdBOFQ2clBudmVZcEVpSUFfa1BuQjlZVVZBNGVsZHZUMzVnUVd6RzNsc0lxdGtQeVRxVDVOQWdRSi0tRWV4X0dQRjJKQVNzTU54ME5rYWRGNFVBbGo4MDhOaVktMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpjVnBaTTFWeVQzVlFNVEZUVFJDM0FSaVRBaWdCTWdhQmRJeXVzUVU=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2023-10-25T07:00:00.000Z",
+    "time": "Oct 25, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "New Platform Offers Retail and Restaurant Partners Data-Backed Insights and Industry Trends Through a Uniquely Coca-Cola Lens",
+    "link": "https://news.google.com/read/CBMigAJBVV95cUxOaXR2UGUzTmtsVFlBRmRfajVPSHFJaVhOTlFoMTQxNWdIakNmYVg0RjVRM0JzOGhnalJWVkUzNkJhaVUwY000VzJFenlUbHByUFBzaWlCQzlYcjUyV0FFb004cWNZLTZfTHBWdE13NmdNOWtKSFA2NjlYMFY5Tm9YWkczeWhnMDN3c01xVnRIZWluOUFKWXhpWTloU0FYZHRCOU00Y3I4dTBGLWhGOGFsU0FrN0ZfR3ZSN2R5TE0yU0hqaDIxSmJXeGZkOHR3TUpuTDF1OFBvWE1TaFNGNEJqUEFsbkVueDlKb0lpY20tYUhnTjlhMzhMVTI0aFVFUFZX?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVBSbE5PYVROUlVFbElXR2R3VFJDdUFSaWlBaWdCTWdtQkU0WWhqNnRjMHdB=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-05-13T07:00:00.000Z",
+    "time": "May 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "‘It’s Magic When the World Comes Together’: Olympic Athletes and Fans Alike Embrace in Global Coca-Cola Campaign for Paris 2024",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxNYnd4WV9LX1R1VUZxNmotcXlpVE80dms3bEk4RlJPR1YtOHNxZE1Vd1Q0Qk1vLXRIdld5b0phZ0F6bTg2dXdIdWM1TGlvaFdhd3cxTjJaMWxDNHc4UlI4d2hybjBQaW9ZcWpFMV93QkF2Qkk1SFRHTTMyTjlzaVhnME5rVmFRLTZCS2tFempBNXFxRTZ4d1pMY3REVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iLkNnNVNWbm81U25jNVNEVndPVkZ2VFJCd0dNRURLQUV5Q1lGQWhnSXVKRVhyQVE=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-07-08T07:00:00.000Z",
+    "time": "Jul 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Coca-Cola Spiced",
+    "link": "https://news.google.com/read/CBMif0FVX3lxTE9VX1czN1pENzNjbW1TZThnSlFJMVRwUHQ3SjVja2lydEpiNHVKaGhkTHBnZWwyUnB1bTlsN0hnUjRfNGY1YWEwSXNNdUFiNDRfZWJ6RTJKT0NUUTZLdEFONnRJYzNUbG54djh2Q21vQmk1N0owZjR5X3N4Nmhkck0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1NMWRaUW1abU5FMXBTV3B4VFJDb0FSaXNBaWdCTWdhSlU1WkZKUWs=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-03-14T07:00:00.000Z",
+    "time": "Mar 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Hello World",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxOVE9JZWlNZllpU2RRVjMwSWs1QVdsTWVlQ3RuLTFZMkJXbEpIMF9XbllHUVNFekFjb1RONmhtYThDZnpiaFZuNUM3LUZYMXc5SGxjOE9rVjdjanpael9IRFp5QXB6RkNoa3lhcmlfY0t3RDZJWFFubHJvMGdWcHE0QVNYSkdOTUlza081ZnZUcmRMT1VFU0hZdkd1Smx0bzc5dk55OV8zUkZtdm1fZUc0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBSbmt4TFhVMVVFVlhRM0pwVFJDdUFSaWlBaWdCTWdZUkE1Q05KUWc=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-07-25T07:00:00.000Z",
+    "time": "Jul 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Oceana: Coca-Cola and Pepsi’s plastic packaging use increases by hundreds of millions of pounds",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxPODVsdmpKUWRBeG5rYkNDU1dsX2IwMXFqRWE5RlRuYmhfRlRJNExyM1lLbkpFQ01OWDBXejctTXZQZm5USHJaY25fTWF1NVptSktscE0tUEFPVUhKOUpQZjhYdXZWRnVsS2lnS0JWSkZYc3hSc1FOWWMxNmViVW55ZjR3ZXNaa1ctRlVtOGpsZXBvWUdTMHhaWXVVcEM0UUtNY0FOZ3pnaEhYUkVhZ2xXZUZUUkk5YjdMNEdmeWZvblpudzRvMUhv?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNhbkZ0YVhGbVdVMXBhV3RSVFJDakFSaTJBaWdCTWdhRktJeGtHZ2c=-w400-h224-p-df-rw",
+    "source": "Oceana",
+    "datetime": "2023-11-03T07:00:00.000Z",
+    "time": "Nov 3, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "2024 Olympics: Swimmers are fighting bacteria from Seine River by drinking Coca-Cola",
+    "link": "https://news.google.com/read/CBMi3AFBVV95cUxPbm1manctNnNzTWVOMG5veWNtb0I1dkc1c0lORTEzdnZEeUU0V0lMaHVvQUg3TXE5SWRSUzBZQWtxcGdILV8zNnVuck5YckpPV3A4dWItTkdNcTVqV0VFWVVhZVRJVkgzX3BTOFRUc1AxSU1kenlIQ0FCVjktQTQ3cFUwbkNRNHBHbEtvd1BTV1BFWXk5NjZQcEJOMC00UzJpTjk5NHRMSVVTUXRrYjFPRERwalJ1VzYzZjg0SWtmZUI0LWlGb2xkYlo3WHNvVUNHeC1KMWhrV0VDdEZp0gHkAUFVX3lxTE5RLWJtbzIwTGhha09ObEJESlpCSFQ3SkMzVVBaa3F6bjBsQmFfTmNFWlNtNDZ6dzFHdFp0cHozbFQ1RlhsU2x5bWZBSDY1a2JKZHdycDZiZVNnM2VTb1dtUVFqMmFqd3MxUG5sc19xUXJ5dVF5LS1HSzV0a25yUkVyR3VBMUsyYjI3Y2Z6X3N3QURSZG5sLWxtM2gyVENOT0t5Mlc4cHN3RkFRYXROMWtVVmZlRWR5dmFqNksyX21oeUxCSWE3MUpqYjVMWDFBZUtMbWxWVU1YTkFEMl9XcDBoc1loMg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFhRGRoUzNaUVIzTTJUVlpWVFJDb0FSaXNBaWdCTWdZOUFJeVRDQVU=-w400-h224-p-df-rw",
+    "source": "NBC Miami",
+    "datetime": "2024-08-08T18:06:25.000Z",
+    "time": "3 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola Harnesses Power of AI to Deliver Holiday Magic",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxPYW5OS2xFUWdJdUhSSVVMS0dBbE9TSmNiYlZyankyU2s5MTdJTmpsbHVVWDdXQzhHd0xrREdQdHZiV3F6Mkp6Q0pkR1V2ZGNNU3lIUjhQZjNUc25idzlGd191T2xrMTZXRDV1LWFfTGNia1FLb3EyWnhwMnRwZnFINVdMZjhVbGd2aVkzQ29wRnUtMm5jcjJUakxzS0JBazFSVU50Qg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRja05oUm5OUFEzY3dPWEJoVFJEaEFSamhBU2dCTWdZUk1veEtJUVk=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2023-12-07T05:50:01.000Z",
+    "time": "Dec 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola signs $1.1 bln deal to use Microsoft cloud, AI services",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxNbUlqeW1CbDZKaWNWOUthSmcyNGwyZHo5amsxMWZxeTZWcG5wWWtXUHQ2UjdxUm9Qb1otTnZSQ0hZSk5Tc2ZYYlpYd0o1c253MmZidkpycHI1emFERjg5LXVYc1prbkgwMmI2NURmby1MQl8wUDRyazRtNVJ3LUY2R1FLdy1UTU1FSzFMLWoybGJPQUc1ZmpuQVJQNmF3aUp2MmZQZ2FQZ2pMdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWtNbkZsVm05dlpHZEJNMmxNVFJDeUFSaWJBaWdCTWdNRnNBNA=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Recipe for Magic: WPP and NVIDIA Omniverse Help The Coca-Cola Company Scale Generative AI Content That Pops With Brand Authenticity",
+    "link": "https://news.google.com/read/CBMid0FVX3lxTE14VGtsWHhwQ3J3YTEtdFl1Z0pxem5LRXlKTWxnRUxVaTdsQm1xbDZMWjVrQS1MdlVLd1d5QlZ0c0luM1pnU0NyNEdPaHhUb3VHQUQ2VmFMMmU2eld5cUgtUF8yanJyc3l3U1U4S003TWFMUl85MUs4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhTbEozYW1adVQzbGlVSEJhVFJDb0FSaXNBaWdCTWdZWlVZd05PUVU=-w400-h224-p-df-rw",
+    "source": "NVIDIA Blog",
+    "datetime": "2024-07-29T07:00:00.000Z",
+    "time": "Jul 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Coca-Cola Company and Microsoft announce five-year strategic partnership to accelerate cloud and generative AI initiatives",
+    "link": "https://news.google.com/read/CBMi-AFBVV95cUxOVnNZdVl1aEFxVGZjc1oyQnJtNEFvWkhDT2dDTk93QzZRYkdyOTZEb2pYTUlLSlNSWU1DdkNFWG80ZlVzYjVrUEhKcmRLbkE4aks2NXdUNHBYVDBrVmIxNUE0NTl0a1NrN1JCRk9BdnFHaV8wOXZZaTVGOWpSQnkzLWhIZGtRdkRfeXNCaHFrSVNYOWtNTmxRTEdQV2dtZmR6bnJLalh5UEE5S0N3dHdWOWJJbjBaSFZYT3VXS3k0MjJfNUE5THQ5TnFhT2lXRjhCeHFzTTRFSHMyRDFLVXFSZTl1dTVKNzlDSW50LWxJSi1TeU1rU2ZabQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWZVVWMyUmxOTGRrdHdPVTlLVFJDb0FSaXNBaWdCTWdrSm9aU0Z1bVkxendF=-w400-h224-p-df-rw",
+    "source": "Microsoft",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "‘Masterpiece’ Collection Fetches More Than $500k in Coinbase Drop",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxQdWgtal9hbi13VkRKOUdHRWhYS3BqX2N2Q1pDTlVUSHV2bzQ5cFZnT0pBTTdhMTJ3QnlrbXRvc1pKbFZld1k5bW04VXkwSzNaOHd6YkUwQ1FqZXpJRVBGVDdBeVhhVGl5VWZOY21vdVZtUW5oNlpIRnRSbkJuemd6UUxDbENrMlYwalB4TVJzUElaaW05b2U1Q0phSE9heXRVWkZmZGN1dHItcEVyeG5z?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1RV3h1T0hGdVNVbDNObEZRVFJDb0FSaXNBaWdCTWdZWlU0NXFyUVk=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2023-08-18T07:00:00.000Z",
+    "time": "Aug 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola unveils all-new bottles — sort of",
+    "link": "https://news.google.com/read/CBMid0FVX3lxTE1tRzVNUUhPd196X3h6N05oR05UWUJJd0w0aU50aEZ5SnVBQjFmZ29OWF9Ja0NubUdfUWYzMmZWY2hWNUZrTkNudC1iUFdiNVh1VC1tbE5jM1N2bnNkVElWM3pjYlpYYjN4VjR5S3ZFdm0xM19aNWlN0gFuQVVfeXFMT1hLTlZuc01wc05ES2l0WjFrMTJiRHlGdUZZR1I1NEhSV0MtWnNQTjlLT2g3VHVaMjROa0prSnpWUnctYmJ4VVdNaDV2OTVhNUY0SGhnaEVZd29ObFV6Smg3TFhOSEJIR1VVSGdSVGc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhRM1EwU2s5eVUyVjBWVGxEVFJDb0FSaXJBaWdCTWdZWlU1UkxxUWM=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-03-19T07:00:00.000Z",
+    "time": "Mar 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "From campus to cinema: BYU students win Coca-Cola Refreshing Films contest",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxOUW84OTVGamZfcEpFdVhyTndISzJWaHNTbmZNWXg5cjY3MXJpNUxtNFVhWWk1S3pkQzJncmRGZG1NT2NUak9YQl8zZXlBYUo0QnRBZ0dwVTVjZEtmMG02ekN0TFpnb3VzUktmNm9sUTZxNHU3aklRaUNSbFVvYWZIbUx1YlVKTVk3VDlMSVZJQV92MWt0Q3dGOHJOdGxUQVRsVW5aQ2dnbw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXBWaTF2YlhobVdVeGxWV0V0VFJEQ0FSaURBaWdCTWdrQmtvNkxOU2JnandF=-w400-h224-p-df-rw",
+    "source": "BYU News",
+    "datetime": "2024-04-17T07:00:00.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola heads to Marvel universe for new spot, packaging campaign",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxPTmJCT2tlOTNmTHVzTUlqNk9jQ2R1NGtIZlVEcllfaG9GOGlVOFBPRmp5X2EzYWNEeFA5OG9Zc052UDdCdmt6WmIzWEdkVzF2STNoTzdfeFZlbllxZTVGb3JIR3ExOUFWM19qM09IMTBhSkNpY0cyZGFnN2plSkR4NUtWVlZ2QVc1VGdCMGY1VzBDRVN4M1ZUVWM4ZldNUkxjbV9j?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXlWbFYwUlU4NFVFSXRTbkJ4VFJDb0FSaXNBaWdCTWdrQlFZVHZ2R1JyaHdJ=-w400-h224-p-df-rw",
+    "source": "Marketing Dive",
+    "datetime": "2024-04-08T07:00:00.000Z",
+    "time": "Apr 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola Foundation Promotes New President From Within",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxOaVZSQndUa3ZkdlpiVGxMOGhWUVJQMlZXLUNuNzZuRmMtOTN5Rzh1dXZwc2tiZjA3eFBVY29GT0pWMjJVTVczQlp3RmtZT1dTcEphSVhxRnpYbVVaeGZxSFJuUG1WYWRoLUtHZ2ZJMFgzYlZHd19UaERzb2hmYW9iei11M3FGb1UxZHN3dGJQNWdubnNzOWFJ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFXbUp4ZGxSUU4wMVdlR3RxVFJDM0FSaVRBaWdCTWdhcFZaVHRKUWc=-w400-h224-p-df-rw",
+    "source": "The Chronicle of Philanthropy",
+    "datetime": "2024-05-17T07:00:00.000Z",
+    "time": "May 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Byron earns third-place finish at Coca-Cola 600",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxQUFZiQU1RZjU4MVJ4cjdNbWRZOTZydnYwcmE3VVNaQXVWTElBT2diZVRVcWJMNTZpNzFhRUFsY05Wdi1NUmE3M3ozWWFPcnhzeXNnYVVTTXp6SDY4VGpSaGJmWjRuOGhnZGlBaF9qRWtQc2M1aHFrZ1hWZXNfU0RPSU5nTkY5VjNPMV9fWktpZXBLYUxITl9iQ0hleUZCcF9FM1QwVzI2RQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVRVXAyY0dZME9FRlpkbVJGVFJDaUFSaTNBaWdCTWdZWkE0UlNHUWs=-w400-h224-p-df-rw",
+    "source": "Hendrick Motorsports",
+    "datetime": "2024-05-27T07:00:00.000Z",
+    "time": "May 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola Zero Sugar launches first-of-its-kind, interactive augmented reality giveaway campaign inviting fans to '#TakeATaste Now'",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxOa3dIdU82NDN4aWFzeGctU0c4RUIxcE9pNFVESjdFaU9sdTBRbkVVUzItX3VFOUpra0NvZ08zR2hoWlA5bEs2N1dUVGc3ajlsMHkyYTRGWWNKdno5Y0p3dG1DeW9CUFBhTWZkVmp3aDlWVFI3c25pZnhHQVBBY00xSzExcmt3dHdKaTdNTzhoUVJtZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNRbGhpTUhsYVoyOHdUV0kxVFJDM0FSaVRBaWdCTWdhaFlJYXZyUVE=-w400-h224-p-df-rw",
+    "source": "Coca-Cola.com",
+    "datetime": "2023-09-25T07:00:00.000Z",
+    "time": "Sep 25, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Baltimore sues Pepsi, Coca-Cola and others for alleged role in pollution crisis",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxNTUpXcHdPQUpfaUJsZVR5ZjFzSFdVajJ5cHhlQ0JPV1JvZndGZ0szQXEyd0U2NXRZX241Zm9RWWlyUzg1Tm5SUGVybldoVnhTZ3NYZjhyVXNWVXZqQzJyaTBqNG0tY0k1Q2RkakFIQVBVWW1Mb1lOeGdsN2did05RRVoxMVFicWYtZmxveG5BNDZBUXZmRzRJSUk3X3FWLUsyUkVWYUlhWlZGNmNfOVpZ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWpOMnhTTVc0eVVWQmlSbXBVVFJDb0FSaXNBaWdCTWdrQk1ZcXNNZVV0Q2dJ=-w400-h224-p-df-rw",
+    "source": "wmar2news.com",
+    "datetime": "2024-06-20T07:00:00.000Z",
+    "time": "Jun 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "What Coca-Cola’s generative AI experiments mean for the brand’s future",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxNUFZWZVplbTlaV0EyXzRDaWNDQTgyODU0U1FsTE5UQ014d3N1YkpFTUdNVjNTYVdNU0hTRFdVVzJha21rS29fZG5XSW16MU5yMXZfc2dtSGZyd1RLQm1PdzBWd0Q4VDdJa0d4N3lmOHFCWWh5N3BGamFCdDZ3UWtQbEZQU001V0VQeUFSYTBqNHFsVkxOTVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFRMmxKUWtWZlVIaERXUzE0VFJDb0FSaXNBaWdCTWdhcEJZak9rUW8=-w400-h224-p-df-rw",
+    "source": "Marketing Dive",
+    "datetime": "2023-12-05T08:00:00.000Z",
+    "time": "Dec 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola turns to Microsoft’s AI services for its supply chain",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxOQjNiMXQ2TmdwcGdiMExDOTRTaTJNTDRSQkhpcWhCY2xSMF9pWVRmUXdJZjRaaVFJZmNZVnlpOUhsc19yRzJlU0F0NXE1dVpyYjBhaktGUkYxU0dxNTFsb1JtZmF0RUF6bWtuWFdkc2VVN0xZclMzR0g1bkxPaXp2Y3liM2txbXVrZ2dSZC04WE9SaS1kWFE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNHdPSEJ1UzJOb2FVOWpOVVZVVFJDb0FSaXNBaWdCTWdzQkFJQW9CZVRBeEVyd1l3=-w400-h224-p-df-rw",
+    "source": "Supply Chain Dive",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "SeaWorld, Coca-Cola team up to feature new 'Celebration Sundays'",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxQVXp6OGtnNFItbHJOYVp6MHVNaWlFY3JweDNrUzU0WnFyb0Zwa1hOaFdlNklCNVdUT0JYNUhHNTFqZEV6TFNleEFOYUF0ZmdYZmNWNjR4cmkzYjhvNDIxTGhmOWk4RmJ3aHN2TTBQSUtyXzhuSExreTJGaVRUX2hxQ0dUOFpZbVBQWkZwWFNlUExoSEI1WUU1NTFB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVROV3RtTmxSMk9ITlpWR1pEVFJDb0FSaXNBaWdCTWdZVkFJQ0tGZ3M=-w400-h224-p-df-rw",
+    "source": "News 13 Orlando",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Coca-Cola bottled the vibrancy of Africa for its latest creation",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxPM3FpUUlmaGRGWVNISDl2YTBMVlZOaENuZ3dPWnhrclpsVkNCVElYMDVrb2VwT2h3eGxzRXNab3ZPRWZnaWhVYk1ZZ25iZjJOWkcwcy1HR3JWU0hMX3pEd2c4TUs0XzFGelVtZm1DcHRiS3ZfUkNxaXRfZzgwdmFHcEp2QUR1eExHdDhsRzFzNXI1VE9UdG9iVTJZRFF5Vk40aWc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVVhekl0UmtkbGFuSlBRVFpIVFJDb0FSaXNBaWdCTWdtTlFJeUdNaWROU0FJ=-w400-h224-p-df-rw",
+    "source": "Marketing Dive",
+    "datetime": "2024-05-23T07:00:00.000Z",
+    "time": "May 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Race Results: 2024 Coca-Cola 600 at Charlotte",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxObjlRaGhOYkFNSEJlN3k1czVLcWhWSkRlMEVyTWd0RS1GRFd3djl4X2xKUGdVM3lnaEhIaVpBMjhqOThRRGdvYllzVi0yWUpwNVAyVmVsaWYweG45a2J4c0gwYmlPVVpaaklQRENWVzQ0NnFjbnZBellkOFBLQ1dzcDNuVWFLdWxXc2RpSnFYMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1jM2hrZWs5eGNuSjNkRzV2VFJDaUFSaTNBaWdCTWdhdEJJS3VsUWs=-w400-h224-p-df-rw",
+    "source": "Racing America",
+    "datetime": "2024-05-27T07:00:00.000Z",
+    "time": "May 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Is Coca‑Cola Zero Sugar the ‘Best Coke Ever?’",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxPbmF6ai10MFFLdlZfMnNzd3NGb2lTd0VDbGY0WmtxS29aa043Z3B0OVpadnBQTTRKTkdNdWp5elpnNGYwUWVoaWhWR1owNDh6MlpLbmJBdDV4Y1V1UGc3SG9tdnlLLXBJT2g5MWRPOW1sYVd0bzhXR2ZfdE5qLW1Wal96aGw5RE5zWng3VngtQWlEZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhibkEyVkU5UU5HaGFjRE5XVFJEQ0FSaURBaWdCTWdZUllwQUlMUWM=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-02-14T08:00:00.000Z",
+    "time": "Feb 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Great American Blast Returns to Coca-Cola Park on July 4th",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxPMlk5VUNTbVB2empGWDFydi1iTE1aY2t6bzdvb0xGN0lVQ3BreHJsQ3c0T2pqSkwwYXQ0TGlZNUp2MW10M2tOQW5DTjZoQnJ2dmVYWkVhYmhOWEEzcFdWcDhaRmczb3VGWHA0VUtsRlo4NWZUTkFIQXN5bWVoTTVaNzJ1M0pzTXAwV0xYbWQzY21TZzdFZTdtLWdSMWp2NlE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNTV1JZZW13eFIzTkNabDlIVFJDb0FSaXNBaWdCTWdZcFpaQ3RMUWM=-w400-h224-p-df-rw",
+    "source": "MiLB.com",
+    "datetime": "2024-05-29T16:49:27.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola uses AI to envision the year 3000 on Las Vegas Sphere",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxOWGttNzF2bkdGUVB3blpWVlhSSDF4bGRBdE9hUHVDS2dMUHpydjBadXBQa3g1cld0TjVFYVZkeDZ5eEJiemNBM2FVbGdhTzRYYkFlMXhCeHFLbHRDSWRCWnMxMGpOWTRRVWdmU0pWNlRNTTJXLUdvbG9ZcWllOThfa1I0bXRwTmJRRVRlSG14ZjdfaXhyZ0d3SlJMSTczelk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhNRFk0TjFnMlJrRXdObUpoVFJDb0FSaXNBaWdCTWdZWllvN3NJUWc=-w400-h224-p-df-rw",
+    "source": "Marketing Dive",
+    "datetime": "2023-11-09T08:00:00.000Z",
+    "time": "Nov 9, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Starting Lineup: 2024 Coca-Cola 600 at Charlotte Motor Speedway",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxPRkljZVFqNWllYUczNUlmNGpaR0tqUGV1cXdwZUJkQ3RDLS1yVHIwOHdjMy1aU0NxdWJrc3Npbnc4WUg0eTdOdWRuX3l5aDIxZUk3MUN0RWk4T2dOc3dSZWNGUnJGYm9kV0M4NHhtZzFsdllSNFQ0dkRVQjlLb01ESjIyX2p3SXF2aDk4NHR2bWtzSXdMd0pSVmRjeGRGNjkwSWdhcW96bw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFYMFkwTFZoaFMxUXhiRjh5VFJDaUFSaTNBaWdCTWdZQmtKUXJ1UVk=-w400-h224-p-df-rw",
+    "source": "Racing America",
+    "datetime": "2024-05-25T07:00:00.000Z",
+    "time": "May 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "PepsiCo, Coca-Cola sued by Baltimore for cleanup costs",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxOaHRiME9UWGM5azBJTzNoN3k2TFdJa184TWl5aFNxQU5vZzlhZ2VHaVdDLUN6bGxZelVmbldJMU1ValktTUpNRUlxUjlwTTVFaHRqYVBteWZoYzBXUDdxMHcwSVZ4bHNvMkxER1RaT0ZwejRMeS1hbVhrOTZmbnY0dkZGOHpFYnZEeFBoekItN1lndE5CM0xFamNBdVJ4YjQzSTBmbmVaSE5sQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVVja1p3TURWNVRXTXlVRXBxVFJDM0FSaVRBaWdCTWdrQk1JaWx1Q1ExMXdB=-w400-h224-p-df-rw",
+    "source": "Resource Recycling",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Coca-Cola Company Announces New President for ASEAN & South Pacific Operating Unit and New Chief of Staff for Chairman and CEO",
+    "link": "https://news.google.com/read/CBMiigJBVV95cUxONXFYS2dHV2d5b0NNTldPWjVZXzBqd05xc0I3bkUxeGZ2aWJYV1diX2xaVlM4OHBLSWZXT2I2aWpKdWVuQWxueTVJZ1N2Ui03Q040R1piVnE3UWxiT1RyUHB5VVpJSDZlOWNwbW80SUk3NUhyOXRFMWFwQjJXQVJtQlgyWkM3aFVGWTh1TTJfdi0xU05yV1RXdHJMd0lBOVprUGljdjhnS0VBQmYyQmFNdUZKWmhYeENSS2UtcFh0MnBuc3ZXb0dFdzViYWV3TzI5UFZXUjF3bnhyY1JHVUU5eEhFaVhUbVo4TFN1eWt0bTRYS2FWTjRKZk55REpPZjJVRzNBOG1tZHpKdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUpSekZoZW5WaGJqUlhUamhhVFJEaEFSamhBU2dCTWdZcFZaS3VwUWM=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-03-12T07:00:00.000Z",
+    "time": "Mar 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Lehigh Valley IronPigs are excited to announce that everyone’s favorite Australian pup, Bluey, will be at Coca-Cola Park on July 3rd for the first game of that day’s scheduled doubleheader, with the meet and greet beginning at 12:30 p.m.!",
+    "link": "https://news.google.com/read/CBMijgFBVV95cUxPSTBUU1NKWk5Gdk9IY2pNcHVCVVVpdXRHNVlVNWhFdThWVWwzS3l5bEVad1E5dTlUOUNSTWIwT01QZHloNGgzZFZCMFRpNDRoeUxYM21iTnJfcF9uMy1mN1ZRM0pJZUl1OGhEOVZtOTctd1B5QUh5NEhpWnZKRUFyRm9VUlFBUGxCaTF0QnZ3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNUZRV1JHYVZwT1dXMW5RbVF4VFJDZkFSaS1BaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "MiLB.com",
+    "datetime": "2024-06-14T15:54:01.000Z",
+    "time": "Jun 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Coca-Cola Company Breaks Ground on New fairlife Production Facility in Webster, NY",
+    "link": "https://news.google.com/read/CBMiywFBVV95cUxQNzdVTG9qQXdiQTg4RUJYd2hVcUxEbnktUFRIeFFNa0wzWGNfVDFsTXloQ2N1dDNLeVpCaE5NUWJMaGtLVHpvaE5hUGZnSmlBSFdVb0hvZlNfQlBybDdiRFZsY21tdUFacW1ySzRuYW9GczI4aVNYNU4zaUkyNUdSTW1Yem0wUnltSzZJT09FX0ZCbDFjenQybzVjZ0ZWRTQxWWtqNGRYOEJvZjlwS3RnNWhBZmhPb0N5VzJnNWVjS0U3ODlmR2hDWC1Zaw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUpOakJGVlhwWGIzcE5OMlp0VFJDM0FSaVRBaWdCTWdrQmtaVFVOS2VwN2dF=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-04-19T07:00:00.000Z",
+    "time": "Apr 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Team Coca‑Cola's Global Athlete Roster Revealed Ahead of the Olympic and Paralympic Games Paris 2024",
+    "link": "https://news.google.com/read/CBMi3AFBVV95cUxPbzdvQUM2NHFMbElGcVRpbWd3dm9MQlpjbjZsUGhFdjRPZFFMVDIwd1Rxd2ZWQ3FFbTV2c2pfTndmQjRaZEl4X0xlYnBjMHg3d2o1RXJMNmxXZjl6RGdWcjlZSHZpQ3l4WEhFNHl1aGFaMnNhRGxNelc3NzVVNEdleVRKT2loSG9TNXE3RjhZMFRzMHl1TW9sbDlQUE1SUXFWZ09UemdHcUF6eTFIYWlTOHVNLWI5VmFObkU5Yk5FWXRaOW56dThWM3h2VzRqRThqM2lyUXlfZlRFUVQt?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhOMkZpYVZSSmNYbDBkVEY2VFJDVUFSalVBaWdCTWdZaE5JNk9KUWM=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-04-10T07:00:00.000Z",
+    "time": "Apr 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola gears up for IPO of $8 bln African bottling arm, Bloomberg reports",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxPQ2hGLXZvMkNNeWh0X1I1OThzb3lacGZLY1o4bHNycF9EYUcyaFIydVRBdWVXUDZZZFNsWmJ2UERZZUJXV1dfVENEVlNjWjF3aGFoUUZUZ1pERlJOYjNONGY5ZENkVS0xYXpzRFhlbTNTblFBLVZKS2ZYa0t6WVdXUkR1a3kwWGZBZzVndUd0RHdHOG5VRnQwWkY1UHV4Tm5IT1FfWEFRejlZbjJ6Z1J6WkVCTG85S1RW?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZVbXhJUTJ0eFgxVmFSRGhRVFJEaEFSamhBU2dCTWdZQmM0Z3FMUWc=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-29T07:00:00.000Z",
+    "time": "Apr 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Hillenbrand, The Coca-Cola Company, and Net Impact Announce Second-annual Plastic Case Competition to Drive Circularity",
+    "link": "https://news.google.com/read/CBMigwJBVV95cUxOR1BEbHYzS25GV0NvRW5RLU94Y18yTFVOckRfTzNOQjBXYW5lTjU1YzRvbHRfMlE5NzFtSzR4bWNkODhKS1JFanNkZUlpZl85Q0JMdEladEJwYjlfSU1VVW9ubkRvSktIYm15RTQxdkFfOXg0WkFCZUp0RlJENUN1T1lfdHlmbXZyQWQ3WDNRaF9aSmdKaU5lTkJJYUhjdlhCTUhzbURPX0tBd3BCUXlqMnlSZ0VTaHQ4ZUkzNG5kWmhnR25KSlJQaGxQU2xuX3lJdmtKbURYY3dqeUU1SlpBWFlmbjBZWERMZ0liQzNNTlZaSnB5QlRUdjJOTDNCZHRiNzlr?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBZekl4VDBKM1EwdHNTbXB3VFJDakFSaTFBaWdCTWdZQm9KUk51UVk=-w400-h224-p-df-rw",
+    "source": "PR Newswire",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola extends sponsorship of Special Olympics",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxQOC1NTnFFakZVMHh5THRraWluZVpRVDNiR1pBRUV4RXNRcS1Rd0ZDeHRMR29EcG1ET0VtcUg1LUprQXRzX0VUajdSbkdVRDlpaEJ6dk52cmhKNUhtZkJGc21Ja0l0MVJkLTV5NXROS3luaTI5UGpTVWxXMGxYN1pJcEF4YWFEZVhIdERnSGU5ZGxqbnlxSTJIY0FoM1owdEMyRVBBRXVGNA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJSRloxUm1aTFJIWjFkV1pUVFJDM0FSaVRBaWdCTWdZVk1wcm9vQWs=-w400-h224-p-df-rw",
+    "source": "Sports Business Journal",
+    "datetime": "2024-06-26T07:00:00.000Z",
+    "time": "Jun 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola strips labels from Sprite on-the-go bottles in Company’s first UK trial of “label-less” packaging",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxPU1R6ZERPelYyc3F5bmN0ejlTdmI4UUI1QmNiMU1JNUhyTE9LTURKN3hEdnRfRkV2V2pwN1ZmR3N3V05MRVo2bFFZdDRjSnBkYUlWckhZRlQ1OVVNVUx5WDRTNWNScm5DRHRCc0ltam1iMjVGaTRIb0FLXzVYYjJncFlaLU5Pd1ZpSjFDWV9MaF8zeFBaVHlmTkJJVHZTb2ZGMGJPRTVFVE15aXFR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdhSEJPWWsxc2FUTnJNa3BYVFJDZ0FSaTZBaWdCTWdhaFZZakxNUVk=-w400-h224-p-df-rw",
+    "source": "Coca-Cola.com",
+    "datetime": "2024-01-29T08:00:00.000Z",
+    "time": "Jan 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Turkish parliament dumps Coke, Nestle from menus over alleged Israel support",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxNVlcyYnQ0YXhaS3Y3ZVl0T3RERmc3MnhRYkFyV3lnMkRrWHc5U3hWWkFvMkI2YjlZOVNyQ09pSFJWem9RemVBSXRucHlzMXVpbEdkNXA0TGNXZTQ2bmJ3azlmWTBsVm1VQ1BUREVkRDByUXJBdlN5NzFCcDcwLWFyWmhfVHZCbVpTUDRhMVJoV0xPMVlWUGNBUjJmbElOTTJPNVZHTlBpV0w5MFhYeGZPV3lBWFdFVktwSGVLZQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iNkNnNVNSalpyYzFOMWNXTnBRelJhVFJEN0FSakpBU2dCTWc0QkFKQ1FsQ1VQSjNxZ3NRYk5JQQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-11-07T08:00:00.000Z",
+    "time": "Nov 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Coca-Cola Company is always innovating and exploring the future of best-in-class brands and experiences",
+    "link": "https://news.google.com/read/CBMi6AFBVV95cUxNbmdjaGZtMkNGakZtNDFoa0RjU3MxRVUyeWxjWTMzcjhRZ25PVGpob21zZFpPdWNxT25SeXNzbmxmNTdYRFhGS09sZG92LThtd1hhNjlzeThuUDZvbXBxRDVJdF9qbUZmdFZoa19MeXBCaE03clhVLTQ2UXpuYlRzMVpyTTJGRmd0MVVyeHI0TnNVYnRfT2RraDJ1ZGc3VjV6Qi00aHZKZzFFNVEzemIyaThYVDNTVTlmeDJJbkxFdFpvSm5TdmxCTkxCa3M1OE9kcTBscFktSmdQa0R3cXpCMC1MSkMzVWRw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdSM2syTlVWMFh6azNObXBUVFJDb0FSaXNBaWdCTWdZQlJKNk9uUWs=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-05-09T07:00:00.000Z",
+    "time": "May 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola, Starbucks file to extend trademarks in Russia, newspaper reports",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxNOEJNYll5ZU1MOUxKZXdFMXNNWm5uaG1zMHBCX0ZWUl92WllqbS1kSjVfN3BNSVNNTkMta2Z4QkVGaDFELWZTZTY1LVkxVWNLTV9XX19CWXpMV3VIUjNMTU1aTm1MbnVycHZ0QVNIb0tIUGh3T1BNUXJPdFlJRVF4enF2SzhkZnlENzlrVjVaN21jU1FTamttSkxwZXFiRldIcUg1YUtNeEsyWEY3ZHpVLWsxTkVzSWN1cE5wWmF1SU5xbTViWkg0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUNjRE5OUjNGWmFWRkdRWFE1VFJEQ0FSaUVBaWdCTWdNQkFBUQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-14T07:00:00.000Z",
+    "time": "Jun 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola UNITED celebrates start of $330 million Alabama growth project",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxNbWJCaHFBcHZuTlhxS2Y0ZXJpVlpxZ3lGY283aWFwSjI0bzZDNnVET2syVm1zXzNwNU8tVzRGcXl4UUpraFVUOHRpXzdSMGEyUlFlclQ1ZGsxOWZXSGphMk5zZ2c2RHU0Qy1GcUV0WGNaQmhrSHJlLUxWSnljaDBSSjA2Y0ttUnZYNzAtY3JFS0F1Sjc5TEdsWl9VMHZVblBxUDI2NFVsSW15N0lHY2ZF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRRbXBWZFhwUFZFRmhRV1pyVFJDZkFSaS1BaWdCTWdZQm9Jcm9QQVk=-w400-h224-p-df-rw",
+    "source": "Made In Alabama",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Bell takes rain-shortened Coca-Cola 600 in N.C.",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxQdmVWVWMtdmQtVlRaQk1BM0diNEFTX256dm1qSUFPTkF1b1o5cW11YWk2TS1Fcm5fUmFRc2lsV2tobnFDek5pNng4dDlhMHBoZVNvb21lX0IyR3JGQ21ZMmlPOTFEemtTMldRNGU2UDc3SnlMclpjUktTUUhRejBMejZ4aEs4WWNyRTFFVUFvYmlHNHpwTW1aRlRUbjNHYWs?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpPRE5EZGpOMVZVTnFNWFF5VFJDb0FSaXNBaWdCTWdZZFZKS01wUWM=-w400-h224-p-df-rw",
+    "source": "ESPN",
+    "datetime": "2024-05-27T07:00:00.000Z",
+    "time": "May 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola Puts People and Pets Over Product in an Ode to Spills",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxNQkxhMkFiMGYyU0FvYlNIRV9nWnZvbDRhVEpsRzd2X2tla3hnRVg0cGtjYXFzWmt2UVF1MURCMEMyV1lpR0laNW5nSlc5bGlhZGgtZ3Z0Y2xodGMtbk1YSXMwVlg0UVlaNTRwaEpsSDVJZmJZdGRFc19lN1BBOWRHWTA1RjF3OTIxRDFfaktaMDk5aU1pWGtBRzNaLTl1eXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdXRzVqYzFsNWNsVkZYMUZNVFJDaUFSaTJBaWdCTWdhcEZZenRrUW8=-w400-h224-p-df-rw",
+    "source": "Adweek",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Marvel & Coca-Cola Bring the Marvel Universe to Life in New Variant Covers",
+    "link": "https://news.google.com/read/CBMiekFVX3lxTE9hVmtSMXpueXdnbUptQUtUYmNIbkJDVzdoeGdsY1NEWkJZZnoxcG00bGRsMkFhaFo0MXI4ZUJXM24zc25WM1RZMm43a2ZSbGEtX1U3Vm01LWV4ZGZVRG9RX0xjR0Raa3BMTzFJWjEycFNGck1pMkhxdF93?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNjRmhOVG5abU5WbzRURXh0VFJDVkFoaTJBU2dCTWdhQklZcnp3QVE=-w400-h224-p-df-rw",
+    "source": "Marvel.com",
+    "datetime": "2024-06-12T07:00:00.000Z",
+    "time": "Jun 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola’s BodyArmor launches zero sugar offering in battle with Gatorade",
+    "link": "https://news.google.com/read/CBMijgFBVV95cUxNREQ5Ukk4b0hhRE9OWWhnbHZxWGM5SklmckxmN2swWXR6a0FvbGhYYWhRUWxmTkZ6RlJlM3RJcXhpU0EwcTExWW9pWUZrdDlNZXJDT2JsS19Tb09NQUN5YnpmTnRzTGN1UGtrdURnVTZaSTJUd2xqV00yOW5lTnZrbTJDTjBUUXN4Wkxka0JB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlORGRTYUVOU1dUQlJTalpWVFJDb0FSaXNBaWdCTWdZSk1ZYWxJQWs=-w400-h224-p-df-rw",
+    "source": "Food Dive",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Christopher Bell wins the Coca-Cola 600 after race called with 151 laps left due to wet weather",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxQb0ZmLVZVX2lVSWpCWjU5eUpjOXJaZ0xpbVJETXJsd2poY24wdkZSQjFhSld1TDlzVkp4X01kNXJlT0U0eFoyNktKUll3Sll5US1iY1lMSXNjRWZoTHhqdkVleTc3THdDSW91MXRKWndfZ1pNbE15dWgxSElqMi1CZWl3c0l1QzYwOXhTa3dhX1Z4T0FnT0tqaFFZUkQtRHpxQWfSAaoBQVVfeXFMUGNuMmc3ZU1IdkdWTmpvNGl4OWpKZ3ByY1lvaHhSOEZTbkx4aWdJNGN1S25YZXVlaDNaSU1CaFQ4a19zRzhOZUo0ekR3bXYtNmVTV2kxUmdiNk8yVkhuQ0dDOE9iY3FTWG1Ic0pWdEJ5R2xoYm5ydWZwams3ZmVDM1hfWVN6UGNhTjB5TWV6QVF0NTlxRzFHRGJHZUxRU1BCLXZ2ZTI2VUFBX1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5XSE5rY25sVlVsRkdXRFJyVFJDb0FSaXNBaWdCTWdZUk40cG5IZ2c=-w400-h224-p-df-rw",
+    "source": "NBC Philadelphia",
+    "datetime": "2024-05-27T07:00:00.000Z",
+    "time": "May 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Graduate students selected as finalists in the 2024 Coca-Cola Refreshing Films program",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxQdXhNbnhCb0g3S0R2aTZ6aWJvdFNLY2VpaENZakNCdERJYml5V0xRSWdCQzBRemN5V3FNeGg5U0NNMlk2TU9KcjJzcV9hUzE3Y3lib3ZZZ3RFM1B3TzhSb0ZFeC1nWDVRU1JHOE5uQjRnYmlETF9QU0JSYjFSaE1YZnFWRlpMVUJyenJjeHR6c0Y0ZXY4TzlEdDZhRURnQmYzbzdGZDRhcw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUlXQzF6YkVrellVSTNkelpxVFJDM0FSaVRBaWdCTWdrTlVwTDFwS2l4WndJ=-w400-h224-p-df-rw",
+    "source": "Rochester Institute of Technology",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca‑Cola Reports Fourth Quarter and Full-Year 2023 Results",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxQMl9XbVRxUzQ3OXhUWmJ1UGFiYjB3TE9ZRDhyZWJjRGM4bWhJaWxKN085NWwxRWhkeXJZc2hDdE1SczRMZFU3aTVfc1NnSFdBdjFBbzFwRXlYOUEzRlU2YkRkb0hXa2hIc01PemRGNjI3M1BFdl9UTEFMOFhDcWl2N1cwVmZKM0ZwRVZn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRWQzFLWjFKemMwTkxSbkZOVFJEYkFSam1BU2dCTWdhSk1ZcHh1UWM=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-02-13T08:00:00.000Z",
+    "time": "Feb 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola UNITED to invest $330 million in new Birmingham facility, creating 50 jobs",
+    "link": "https://news.google.com/read/CBMivgFBVV95cUxPTVVPYU5lT09tanFOdlNfM2hhSmJuTFI2UVU2dTFDcW00VmJIXzlXS0pWTXo5YzZDNTRUcFlIYVc4NFBmdnc0NnlueUItM2kxWlY2UElRMV9EYkJqS19MNm5QdXpta2QwQ3pTenBSeEtWY3NYbVFFSDc3RnFrbjZoT2Mzdk9iTHdvVDlqbTdWUnRHbmpJa2c0M2pvaDV0RTl5c1dMS2p0RTlQdzhIeGJyaUp1TTQwMjRSU0U4SkZB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXNSMDVJWVhwZlNWbEhkVTV4VFJDb0FSaXJBaWdCTWdNQjBBbw=-w400-h224-p-df-rw",
+    "source": "Made In Alabama",
+    "datetime": "2024-05-23T07:00:00.000Z",
+    "time": "May 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "US viewership: Nascar's Coca-Cola 600 struggles against Indy 500 as F1's Monaco GP hits record audience",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxQREpnTE1HaDRVamI0VlBScGg2MFhoZ2pXeVFTQnhNY1BiOTNzYWw0Y1gxbVlyRjNRZXlDSUE1eTBPUzNQbUxQWXNEMDRVdkRrT19YbFppWHhIb2pyNE5sYzJBcDRNSGJxTFNUWHNQRmZvdkhMWWlIZ0E2VFlBdU9iZEtPa1JMcW5GNnkyMW9VN2sxWnBvVmJpc0hTYUFFdlQ5WFNRWHd6ekVZQVpvVDJzSHZuNWpxZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUpjakJLYzFRemJFbEpXVE5pVFJDdUFSaWlBaWdCTWdrQlFJNTRuS25BWndJ=-w400-h224-p-df-rw",
+    "source": "Black Book Motorsport",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola® Drops Limited-Edition Packaging and Immersive Storytelling with Characters from Across the Marvel Universe",
+    "link": "https://news.google.com/read/CBMi9AFBVV95cUxORENrNU9COWthdW9CUnFGVDZOX2JfTFQzcVFRN1ktQjJuOEtyWUg1TTA4Y1dyOUd0SHczVlJ4RDdSMGdHLWxqWjhqclJhSU1ZaUI1RjVWODhDd3FZdnNjTUNaS2RRby13eGtWQ0FzUjRBS3JvMXUtNkJiZVZzYVYyVHpxc1JkQWF6RUNCZGJUa2ZmTnVVVUJaSVNUOVJwUEVINUppTGRDUGx1VFJlWGdEaFFuaGxKT3RrOTNINW5oRnh4TTZ3QnJOa0x1MkpHcWRwem5meWswekZJbHQ0d1hmeXV4WHZFc3AwTHBhRlZsOEl4N0J0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVBUemxaTW5kSlVtNUdlbDlsVFJDYkFSakZBaWdCTWdtVlFvUXZ2YVJ6cUFJ=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-04-08T07:00:00.000Z",
+    "time": "Apr 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola Under Pressure to Protect Employee Health at Annual General Meeting",
+    "link": "https://news.google.com/read/CBMiwgFBVV95cUxOTG0yMWZmMHBjTDJwYmlqMk95YXA0VDBqQ2VBazJwcDJiUjNXVm5DVmNSQXA4YUhzc0ZCaGJ1bUgxRG9OWWQ1SjZWcVpBUGpLZjlndXV1TjVyVkFPemdpUGwyV3l3cGx0cU9JcVJLZEVWbjZJR3ItMjN3OE1KeWZZOFl1QnhFXzRUUXB4VVdxN1o4UlVsS2l3VGRJWlVaSVZIbWJfVVV1VVliajVMdEprUF8tMzBVNzRaWjVBWmw5NXMzUdIB0AFBVV95cUxNTmwwZGtEbTZSbG15NmdHZlU1OFR4YWY4Y2RFU3ZoSkdackRyTDVrdTBqTzNwRFVYV05xT25iMXUtQWtRNzlwQ0Q1SnFDZDNBZmpPVkl4RUFjMEJvaENMQWRHWUFMaFp4N0x5V0tyTERMUVo0RjdCNE9aX09NYVNVbE9UTjl4QWdEc255aU9ab0p0ZEp5d1VzMjRjT3pEZmVGWlRBbE95ZjBTYzExdTJuejNBd2Nybm9LY3FoSmhmZWk4b3o2SmFFWjF4LVhVZWtG?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhMV1UxUnpoNVpGVk1PRjh6VFJEaEFSamhBU2dCTWdhQk5Zb0twZ2c=-w400-h224-p-df-rw",
+    "source": "As You Sow",
+    "datetime": "2024-05-01T07:00:00.000Z",
+    "time": "May 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola products will soon be served at Skyline Chili, Gold Star",
+    "link": "https://news.google.com/read/CBMinAFBVV95cUxPVDdlaXVxd0RZdHdNZ0xxelc3ZHhydlFYUWs4MzMzLUZERGhYMzd0WHoyYU9ZVHI0UWROMG0xZVZSc2NlX0ZMWTlfUmk3UzdpZ2ZGbjhCTWpoM0t3c1B5dFpZOXRMZ2pBeWtQSlZQUFN4OERpbUw0LWV3TkNUZjFaVTdJT2xxMXlzbmQ0dFRFUWtXTlJzU1Q3QWozVXY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhUMXAxUlhnMlUycDZhVmRZVFJDb0FSaXNBaWdCTWdZQlk0eUdzUVU=-w400-h224-p-df-rw",
+    "source": "FOX19",
+    "datetime": "2024-03-18T07:00:00.000Z",
+    "time": "Mar 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "How to watch the Coca-Cola 600 tonight: Full TV schedule and more",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxNTHFGaVNaaUlsb1NDN3drNDhMTFVYUzJvODhocWpCQWVRT2JCTzFEdURoaUdFVV9DcXUyWUJCNUlab0U5QUdYamh6T2dkajl5cHlmeHRiVUU0bXVoT3J5UEZOZTZtNlBHdVlmTDRmeHJkSU51M0ZQeWVpUjlZV2lxMDA2Uk52YmJvSFgtYloxOXIyLUVqcnc5bnFJZDBfRVV2SjN4MmFjTQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHhjVVZCTW1vMWJHNVdkREJTVFJDM0FSaVRBaWdCTWdPQjFRbw=-w400-h224-p-df-rw",
+    "source": "Yahoo Sports",
+    "datetime": "2024-05-26T07:00:00.000Z",
+    "time": "May 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Coca-Cola turned to ‘The Bear’ to bring together its family of brands",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxNb1hTSjloRTk2STFNSkdyN3Z4RTFSbVlKcFVFeGxReGZZaGRyTjRaTHZURmVVenBCWWFDeldQbVloR1h6LTlrOTRzR0N3eHo3M090bnJGSjljV1hZTmN6WVptRkdDZHlobHluWkc2N1QtR0Z4TUg4UDZSNnRoVkxNY3g3aDRGc29ZTDBfU0FGcGtsdFVCbHI0NG42Mm1LWnc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHhVVlU0VEhVd1RsWlRXbEZCVFJDb0FSaXNBaWdCTWdrQmNJenJPQ2JnS0FJ=-w400-h224-p-df-rw",
+    "source": "Marketing Dive",
+    "datetime": "2024-01-02T08:00:00.000Z",
+    "time": "Jan 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Pacific Northwest gets new Coca-Cola bottles made entirely out of recycled plastic",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxOXzh5QVNMV2JlNTR3eHBURUxjZ3lVZFpzc1F5NGVUR2RteFhxV2prRml3OXJvMmUzSGpsQzhORGhjUS12TjY1TXh5YTVhZDBPV01ORmNsV0czTWJMa29ydUxoWUU2WGFFLUFHZmNSUE13SDVleV9ySk1zdW1lN29RZGpIMnRuMkd4MEdfeGtqanJwTkhjWlFDbm1rVmRFelBMUWZpLTlzdnFsY0RLT3lvR21n0gHGAUFVX3lxTE5xMTc2T0NJZGR3T1BZTG5qR0hQTVl1bXR1aW56Y3l6d2VGVzVCSnFnOGN3OHpueFRqQ3pfeTlwRXVsaE96NEJFajJyZnlZTkNwamtGOGJPSVlKSlAtRnV5NjdjMGttOWIxOGZvand4V080X0VSQ2ExcHZGYmtMaTZxMHZzdFVrTzRQOF9UMWJQMGZWVkFoOWtXbUFGdXJlc3RxSmFRRnNqX0tMQ2MyTjZBVkNXQjFURmFsOWIwdVBwYlZYSWxoUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHlPVzlQWVRoMVdWQTBXV2R5VFJDZkFSaS1BaWdCTWdZdFpJQncwUUk=-w400-h224-p-df-rw",
+    "source": "Fox 12 Oregon",
+    "datetime": "2024-03-26T07:00:00.000Z",
+    "time": "Mar 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "A Historic Collaboration: Special Olympics and The Coca-Cola Company Extend Global Partnership Through 2031",
+    "link": "https://news.google.com/read/CBMi5wFBVV95cUxOYUVKSks1alh2dVZpa1dSbHRocUxiZy1adUtvSUczTHA5cF9TbUQ1eDA3ZjZnRUVIY3RrTDVpNVVCeXFDZ2pHT05vNWRQdENMRjIxMzJldDl5M3J1Qm8yU1JkYUtjZkZrTThKZkZzVzFoTjJOZjg0Rnk2Q25JZ1YwQnlOdDRlaGtGVFhNMWJjU2xWOFJIc1NVbXJwak5EaGpJbEdrdHF4b0lYRlNsY2lUQmJfaDhPT252U3pUNVN1ZjRQbDFNRm0wdVdVUF9qV1l0VmNGSUJCN0tKVVgwRXhjLUdqQjlWd0U?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iLkNnNUNMWGg0VWtzMmVrdHdZbnBxVFJCNEdLSURLQUV5Q1FXUWxOVXdwNkh0QVE=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-06-26T07:00:00.000Z",
+    "time": "Jun 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "City of Birmingham providing Coca-Cola UNITED with ‘robust’ incentive package for headquarters development",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxNRHpCYUtER0hBOXg3RFVIOXJMbFlodHhNbmxfSlJIR3ZWdHo5S1RjY1Z2RW1YSDN0VHg0Vl8zempMVVdVa25rdnJfNkluUG02NHYweXVBcGZBMkRBUkhLQW1BUFM3cE91MWhMYUpqbFNqTkVCUXE5d1VQems1Y0x2cHNPODFINHc1alNEMTRHUnB3TnduaFpTR3BKMmU0enI1LUxFVXNBSlpUU2tQbnFDRXo4aG9NVWE4YnfSAc4BQVVfeXFMTTkzOUtCZk10ckhVcldkdEF5QmhnTElhWUtDVmJEVE5oWDBuQTZFZzNJV0RKc0x2OFRwY3JwNlNEMDU1aktEM1JiZC03QV9xVktlRzhISjZqbkwtRElpajgyZFMzSFpxQzBlZnBab2Jvb19YeGE0cHRpX0RlZ25MNFNkcldzN0VtNERGWkdtNEFCUWhrVnU3enVhdFRZV3RqYm10bG5xVUZ5dm5BTjVxTldmWXBobHEyV0tCb1VtWUE3bl9fWVFqUE9ndWkxc0E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVdiRE55Vm1Vd1MyNXdibEJ0VFJDZkFSaS1BaWdCTWdZRnVvUUVRd1U=-w400-h224-p-df-rw",
+    "source": "WBRC",
+    "datetime": "2024-05-14T07:00:00.000Z",
+    "time": "May 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Mrva Fires Final Round 67 to Win ABARTA Coca-Cola Collegiate Invitational",
+    "link": "https://news.google.com/read/CBMiyAFBVV95cUxONDloZzRzQVBsa2ZZNWhCUHJSOVk1WlFxdU14X3pvUDhndXFyWEpxMkw1a0NrWXY4RkpvdEl0cE9vaWdfV0FmcTRMTnRHNzZFaHhNUFB4WVpFVm91cU9sMEFiX2pITzFSQUpKQjBjN3hUMl9WLXZ5NUlNWTdta3FsLUxhY2JoTmxaSU8xOC1ROWlFeXVkRENnVk9NSDUxVXQ5ZFo5dWNiTkY4Y0lVVjZpZWpZS1hWcnhhZ0JENTNpX25mMXloa21xQg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdXbUp0YURCcVNVaDRjV3gzVFJDb0FSaXJBaWdCTWdZRlFaVEZwQWc=-w400-h224-p-df-rw",
+    "source": "Fordham University Athletics",
+    "datetime": "2024-04-15T07:00:00.000Z",
+    "time": "Apr 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Coca-Cola Foundation donates $10 Million to Help Reduce Plastic Packaging Waste in 7 African Islands through IslandPlas Project",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxNTFNPX2R0dVU4NGwzTnZ1OWpCNU5lYWx4UlpVazRRaVhzY0JFQVdDbE9ZSUROSnBpN0RRWGlhZnNSOG54QUZfOHZLa1hnYkxXN0NUSGFwdTdYWkxGN0tYZWh4NFVfRm5nVzFQejdPbFZBdjJzRGZJN2dxR0l1NEVrcDNyeFdYX2l0YmVsLWdVbTFJM1hOdzlUUlFPM0g5MW1wM3ZOQ2RKVW5fakJra0s0SHVoclV3UQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlTR2hEUzBkclVrbDFkRlZ4VFJDMUFSaVhBaWdCTWdZcEpZVE5GUW8=-w400-h224-p-df-rw",
+    "source": "IUCN",
+    "datetime": "2024-06-12T07:00:00.000Z",
+    "time": "Jun 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola’s CFO Says Drinks Giant Focused on Portfolio Over M&A",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxPSXhsbGs4MkZWazUyME1jcG5GV1pTZzdDMU9VV3pZYVlxamM4OFVIeFgzQkJhNTc1QlVTQzFCZkRnZkt1RGdQYm5nZnJQZ2VmVTN6bWhRQkVSNHNpZXRlV1BaNV9JU2ZWVXJjN0RRQVgyR01kWElFR2NVTnJyR2t6ZGczbG55ZGlRTW43YjMwQktRcC10RldWbnJHYkY2TzFpWjNEYVEzQk9uQzgwOEVuY1VCSFBKVXBq?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdMVEk0VG1wNVkwczRNRTVwVFJDM0FSaVRBaWdCTWdZQk1JWkFJQWs=-w400-h224-p-df-rw",
+    "source": "Bloomberg",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "USWNT to Face Costa Rica in 2024 Send-Off Match Presented by Coca-Cola",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxQTlRKTWxqc2ZFaGxpWEdyYy1Cd3BWcWx5R2dfZXJvOWRON21hU1MxYkVoN1NYMGgxSjQ2LWVzejB3emRuYkJPTFZ4ZVBHSmZCTzFhcklQVnFMVmlfYnFfRHVPbjJXTFQ3TW4wdFdUTDI4czQzaUhXYjhLSEJudEZrYlA4QWsyMmlNX3JnTFB6TmJpVDRBbHJneQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXpaVUoyT0c1dFpYcHZjRzlDVFJDb0FSaXNBaWdCTWdrTkU1aW1GcXBVcGdJ=-w400-h224-p-df-rw",
+    "source": "U.S. Soccer",
+    "datetime": "2024-07-16T07:00:00.000Z",
+    "time": "Jul 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coca-Cola & Microsoft Partner to Accelerate Cloud and Gen AI",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxPUVFYOFBWXzhFYmFCYkdBZkpsNFlHZUItUEJQRWkwOWEwWXRkU1ltMVMtQk9fY2NPWGUyQTNvRW1TSmZ1ZGctUzQ4Rk14X3RRdlI4MXp0OXFFR3o1dTlUNDVYY2s4VVFHb0ZxbmlrOE00R0VabHMxcjVueGx4bXU5R0RZanA1UjJDd3lHd1NPRjBIZEpkUjZtZ1ZVaFVpR0E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iLkNnNVpRelp6WWtOSFJEbDVNR0kzVFJCb0dJb0JLQUV5Q1FHUWxyUzRKN0hOQVE=-w400-h224-p-df-rw",
+    "source": "Technology Magazine",
+    "datetime": "2024-04-23T07:00:00.000Z",
+    "time": "Apr 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Temple Terrace residents worry for ‘Coca-Cola’ gator after gaping hole found in fence around pond",
+    "link": "https://news.google.com/read/CBMiyAFBVV95cUxPMjd6UGZPZFBGYVRfaXp0TENjOENvR1ZCSEJxdURaeGxWSFJHS2hFdHM0UHlyaWNWN0hTdG1CR2dWVFI1eTlBRkFFRmRmN2tyZ29KejJtZmhNb1h4Zm9MX3ktclQ4bkduQXlqSDhZa2lPN05LQTRCY1VuLXViZGVlcURxQWItZTR2TDhyTFR2THpkcGVEUGpOc3h2d1VpaVpfdnVFb2xJNWtWN0lEZXh5WUhrX21WM0ljamlWam1KdWZvVW9NcThmQtIBzgFBVV95cUxOVjdUbk1XRFFqNGZibVNETm1BMmd6b0plb0RiX1ZBRmJ6YzJKekJfbnJkOUk0RU1ITFJITm1Xd1p3QlpvMF9SbDJjcUJUMzBnaE11cU1XX042bjBvbFpLZlhOa1BXZnVqZ3JTb25jZFFLbE9oOS1CYThjQ1VodDJvS3gzTlltYy11SEREUnI3dmh4YmMtNHNnYW9qSzNKSHZ6eFB2S29fZUEwTjNFTkxZRHdfdjV4eEZ2VS1rc2g0aGZsY1ExUzhiSFFDblg4QQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1VR2sxUjB4ek5ETlpjbmxWVFJDb0FSaXNBaWdCTWdZRklJNU9wUVU=-w400-h224-p-df-rw",
+    "source": "FOX 13 Tampa",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Coke hopes to excite younger drinkers with new raspberry-flavored Coca-Cola Spiced",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxOR3pUNUNTT0lGQW9VbVZhM0lyMFlaaVNPSVRJem9PV0p5cHJOelQtTVBMUjdXbFJ6Y1FfN2k4b0JuMlZlS05OcnJrODY5TnZXZXBDNEJvYS1jQURIRVJMbEFzLUF5UnRhdUdmTkJkeEpaWjF6TmNPSG5sQUpOVHdpN3J4M1JpX1JqSEg5UEV5QjlkQU4xNFE?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "The Associated Press",
+    "datetime": "2024-02-06T08:00:00.000Z",
+    "time": "Feb 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Kyle Larson: 'I hope it’s not the last opportunity I have to try the Double.'",
+    "link": "https://news.google.com/read/CBMi_gFBVV95cUxQckx1SHgzOFA2UFI4dmJKLUM2cXhDNmJzVmlGR01JOEZKVFBmaWRzXzRDbWpxOW4tS1V0SWhvWmhqMHVjS1Q0aXhzcEo5NU1tWUdhUm16M05sMElNcDlRM01wOWJNdjlsdkRrMDlkNWp6YU9xSTRhdXVLTW5udFBhYmYwTDh5U01LOEt1UGdyMDA5Snp2OEdaQ1VsbTg2TTNFWjRhcG1QQVJ4b2ZOcWs4VHJkNzd1WVZsV18zOXZ6N0NoUG5rb1JxRXdwN2c4U1NEd3QtMEI5SFhmbzlYanhGUU9lT3JTOWdzeERWSUFuanRRRzdZdlpEb2ZxUllFdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhhMFJmVWxCMU1VaGpXVU5rVFJDb0FSaXNBaWdCTWdhaEE0NVFuUWc=-w400-h224-p-df-rw",
+    "source": "IndyStar",
+    "datetime": "2024-05-27T07:00:00.000Z",
+    "time": "May 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "New Coca‑Cola® Creations Flavour Celebrates K-Pop Fandom with Limited-Edition K-Wave Flavour",
+    "link": "https://news.google.com/read/CBMi3wFBVV95cUxNTURnMlZGcEZuMVFrQ3pUaWVPTkRvT0hKYzBaOVVLSTVaS1l4bkIwOXRLdEtqdXJrOVNqX0sxb0Q0U1R4bnZ1V3RkWVVKbkNITXpjSjVzb3ZUVm40VFlaR1JGVjAyT19UaUhBck1KTGlWdnpoNzRWY21ITnJCeVpDeXVJN0xRMTZKT01mMFRWT2trTmhRSUhuLTdDVDBRMmoxRW9ha3EzYXVFYzh2Y1hOckZVbVBqUTVnSWtKbUJWOWlGZ3JZUFlFUWdtLThFanBlWEhZeUd2dGVHcl94QUV3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBkM1E1VjBoUlkydHRORkpKVFJDSUFoaV9BU2dCTWdhWkpJZ3F3Z00=-w400-h224-p-df-rw",
+    "source": "Coca-Cola.com",
+    "datetime": "2024-05-03T10:18:55.000Z",
+    "time": "May 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Ahead of Paris 2024 Olympics, Over 100 Elite Athletes Ask Coca-Cola and Pepsi to Ramp Up Reusable Packaging in Face of Plastic Pollution Crisis",
+    "link": "https://news.google.com/read/CBMiiAJBVV95cUxNa0dhT1d0azhYOTFRSi1JX3VZaUxudWN1MDBaZ2Z5c1g3Q0JyLWgzV0VwcXc3X2pLazJRc1F3WXpnclBuTEJDUTdxSDdaUjNOblBvdGkyVjduTnZIMHBhMUNpSUwtZ0pkZFpYeHNBVGJlNDdILVY2QzFVLW9TVlNFMEJRUzhlSVU5Wl9pa1dEMVlpWnNBUXlEV21tME0zM0RCOHN2eGQ1eExibTczRHpvbWNNWFZUenBBWTVHNUducnlPTG1KNi12akl1THp3YkVnVmhyS2RObTZjVWlPaTBvQ1pwOVNkakZ1UFNDbWVkV2I2bzBCRVFaNFM1NVp6Nzl2NkFodGRMZTQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxaME51WWtkc1MyRlFYMlF5VFJDakFSaTJBaWdCTWdhQk9JaGttZ1k=-w400-h224-p-df-rw",
+    "source": "Oceana",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Birmingham seeks to help Coca-Cola UNITED move to new home",
+    "link": "https://news.google.com/read/CBMijgFBVV95cUxPTDJnNFJHUkVOLWx2Qnh1NDg2M2RqMG1YM3IwTjlHMVhCZVhlQm9obWNwakY5U3JVaGtWVXNuLUV1UkJoaWFvc1ptd1lsNFR1WVR5V3ZqeG1NQlNRN1N1RzRKUWU2bVpkWERueDR3S2hDUmkxMXdWbDZRYk45TXl5czJEVElWNG1OellGT3Nn0gGiAUFVX3lxTE5oYnE2Rzh4a1o1c3ZtbS1yNUlHVkdYcGpOT0hPTDdUdE1WMVlIWnFXOFk4WWpRLUk0MlRyWFNEaDh4cmYzQXlER2xraDAwMnBMUElBUE5ZOUU4QXFYd1dUN0tEUVVydDM4ZXNWSDNyRjNFS2dMQ3NucE1TRU9PUklqQkNWS0ppNEZ0LXFtdjduNGplV2M5N1dBNGRmbERldzlXQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVFUbVZVUjNkcFQyOUJPRWRVVFJDZkFSaS1BaWdCTWdtQkFZcWpBQzJEMXdB=-w400-h224-p-df-rw",
+    "source": "WBRC",
+    "datetime": "2024-05-08T07:00:00.000Z",
+    "time": "May 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Visit Quad Cities hosting 50th anniversary of The Coca-Cola Collectors Club Annual Convention",
+    "link": "https://news.google.com/read/CBMiuwFBVV95cUxOc0VkamtnZnpiMzVjclA5QVNvOGIzNkZEYTFGSTlSLXhRM18tYmtNelpVdjdqNS1Na2NOR1ZWcVFvcm1RN3RMWUVxNEJvUUJnWmRSZnV3dTJkakVBX0NPLWFlaGVFMThEZ0xwd01rR3p0bnhIb3kzWTZVSnBVRUozWC1hQWhkbENRQmlfQnB1R0RvQU8yb2xZYzgxT003V2JUb1FPYjFVY0hLdGRndGdfVEt2WG5TUDR2bm9J0gHPAUFVX3lxTFBkNE55U2dCeUcxZ09yVnFtczFhelpWYmNldU1IazlIOV8yRDcxYzVjODBuUVpRRVNhTGg5eDlIQnhEbVJZVWJ0VFo5VzJsSkF1MkR4cW9UVzJTR3R5ODFMUUtDYW02S2VXSHlrS2dQMVBMUWhmQ0Rka0RiOFBnS3VtbmZxSWVVRlpsM2JsV0FDUy1pamdVbVNwTDdGZFJQUmx1WnNmWHBhdkx5UXUxalhwdlZ0azhDT0NTUWFUMDBPQnRyZnduVlM3YjdFOUlUVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVRSMUJoU0haMFFqWmtVMEkyVFJDZkFSaS1BaWdCTWdrQklKVERuS2dzN3dF=-w400-h224-p-df-rw",
+    "source": "KWQC",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "How The Coca-Cola Company is Refreshing Hoops Fans + Putting a Slam Dunk on Waste at NCAA® Men’s & Women’s March Madness Tournament",
+    "link": "https://news.google.com/read/CBMiigJBVV95cUxQOHIwS1VjT2hUT2VBNXRTYlQ3dnFaRTF0UDFTSjlZLWVCcXlyVkFhTmxRUmhSRlhoWDltdlFRYllQZlp2OGFnSjFDWkNDWFRsLUFFV0VaSzcwNmI2UjJYdERIblBSMGF3LURjd1FDaXNKcW1BejlsQ1k4ZkIyUmYzX3VITldaLS1YclFENU1zZl80MVRyTEllT21FNjJaUXpTLWhjdjA2Nlk1dmN3S1Z6Vm40SDBtemRkMGdNdnVSeG5fc0JDZXZKOElWSWJoVC1qMlo1YWdfUU43aE4xNUFGX0RBVVBDMkEtMnFHSDZhamg3ZHdJaVFYRVk4LVpaNlFscDY4dXMwWjB6dw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVdkV3BNUzFWSVZGaEpUMEpyVFJDb0FSaXNBaWdCTWdtQk1veUdJbWhNclFF=-w400-h224-p-df-rw",
+    "source": "The Coca-Cola Company",
+    "datetime": "2024-04-05T07:00:00.000Z",
+    "time": "Apr 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Ty Gibbs Secures Pole for Coca-Cola 600; First Career Pole",
+    "link": "https://news.google.com/read/CBMioAFBVV95cUxQeVJNYlBmRGVSV2hpQWhER2Z0MkJtaVEwUVB0NnA0QUZ6SVhyWkpycGNYeTAxY3V0ellGX19LaXR1UHZKb09sQlJ0bFMtQm83LUE3MWdZR3VoWGxfcE41cmJRY0xuOUpLVV9Vb0VhcWxicXFrQjVUMEFYd3RHREhJRDlvMFd5M1pVVEVGTHNKRjc3V3JuXy1NSFhsQW91cnRs?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpXSFJJTFV4Zk0wNVlNblJEVFJDakFSaTJBaWdCTWdZZEE0UkxJUVU=-w400-h224-p-df-rw",
+    "source": "Racing America",
+    "datetime": "2024-05-25T07:00:00.000Z",
+    "time": "May 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Pittsburgh Penguins Announce Coca-Cola as the Official In-Arena Beverage Provider of PPG Paints Arena",
+    "link": "https://news.google.com/read/CBMi0AFBVV95cUxQb2M1OVBzdFdROUdHT3ZQeE0zaFhuY0Y3dUJpTmN1YXdMaHFCQ1NRbEFSem44S3pHSUJzTTM0SGtpVDFrMThZMEh5R195Zy1aWE0zamJUcTBOUTFkRkh2MkZCV3UyancyTmlkOXBMUG5XRXpwQ1A5RGZXajl1azdQdGZHVXFUeEFhQzE5ZXVaYmdKWXJjYmpzQXRwXzQ0aW5wTWUwbklDYXE2dlh0X1d4ZTRlYzZiY2ZDLXQtVzR2MGJyZE1QQTNnTGhiQWpXX050?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVXVWhMTms1eldVNDJkblV5VFJDb0FSaXNBaWdCTWdZMUU0aVJxUVU=-w400-h224-p-df-rw",
+    "source": "NHL.com",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "NASCAR Coca-Cola 600 sells out for third year",
+    "link": "https://news.google.com/read/CBMikAFBVV95cUxQSU5CN0ozeHRFeWdDUHdUbHZ1bWI4Z1lUNy1LbTNIc1c0N2R2d0tnZHlSZEhWY2JFc0Y4NGpUNGdkcDdnT1RET2xWTGgzMThERlRIeU1ZWTlQNDVwTnVqdmFNVjIzTFVzcHRvSWdrTHZCNXJkVnROcDFBU3BKeTF5V09GZG43RVBqUmc2LW55bWE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdORUpsZEY5UmJVaHFhMU5MVFJDM0FSaVRBaWdCTWdhQm9vaHJ5UVE=-w400-h224-p-df-rw",
+    "source": "Sports Business Journal",
+    "datetime": "2024-05-22T07:00:00.000Z",
+    "time": "May 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "NASCAR at Charlotte spring 2024: Start time, TV, streaming, lineup for Coca-Cola 600",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxOb0ZJeTVyTmdtZlpBZmF5MlJKQ0N4SmFUNlhfM1VLQ0Nyb2g2YmlHMW1RVlFnZko0ajZQU3d5bnFRT2p2YUZZUHRUaG1BMExpeDZ2U0VSeXFpZ2duZWhObUgzTmlIa1p1ckU1X2ZPRDVXaVprRHVhNnZ3aS1haFh4RG93ZWtRcVZjbGgwY01jU2RpRVVhdHlzODBQTHlrazdCZHkwWVl6Y0ZER29lNlBxVnhlaVhxNFhKbUlKWQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRRVzVEY2pOclRIVlFjV0ZXVFJDb0FSaXNBaWdCTWdZSlVJTEhyUVU=-w400-h224-p-df-rw",
+    "source": "USA TODAY",
+    "datetime": "2024-05-26T07:00:00.000Z",
+    "time": "May 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Is Keurig Dr Pepper Stock A Better Beverage Pick Over Coca-Cola?",
+    "link": "https://news.google.com/read/CBMivwFBVV95cUxON0I0UmdGN2xmUFNJckwwMnVKQWx6ZVJxWlNWOWFsck1YVnlzYlZmTS15R1o4Wm42N1o5Ym5WSUp3cTNmR1h0ZmpVWTFxQTE3clNIV2xOX25WVncxZWpId2hjaHRoMFl6Ui02ME9qMjR5SEpidWlabW5KVlYyQVZzSmpLa0FyN3JYNXVMZjR0M0VJbnB2d2xlSm9PT0x3UXRIU1R3V0x2MEVQVnEycW8yWHViQ0JabWF1TnZjdHVOSQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNU5NSEpLYWkxNWVGSmZSbEZvVFJDMkFSaVZBaWdCTWdzSlVJcUdMT2FacVRvTlZR=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-07-08T07:00:00.000Z",
+    "time": "Jul 8",
+    "articleType": "regular"
+  }
+]

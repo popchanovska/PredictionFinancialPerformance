@@ -1,0 +1,878 @@
+[
+  {
+    "title": "Programs and Events",
+    "link": "http://research.google/programs-and-events/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVBVM1JDY21GVGNFODVTRzFmVFJDc0FSaW1BaWdCTWdtQk1JZ0VrNm90RWdF=-w400-h224-p-df-rw",
+    "source": "Google Research",
+    "datetime": "2024-04-08T23:31:12.000Z",
+    "time": "Apr 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Generative AI in Search: Let Google do the searching for you",
+    "link": "https://blog.google/products/search/generative-ai-google-search-may-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXNjbEZHYkcwd1JtNXhSbWhvVFJDb0FSaXNBaWdCTWdNbEJDQQ=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-14T07:00:00.000Z",
+    "time": "May 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "New Gmail protections for a safer, less spammy inbox",
+    "link": "https://blog.google/products/gmail/gmail-security-authentication-spam-protection/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBiVnBTZWxweGVHZHFiSGxKVFJDUkFSamNBaWdCTWdZQlU0eXRMUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-10-03T07:00:00.000Z",
+    "time": "Oct 3, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Passwordless by default: Make the switch to passkeys",
+    "link": "https://blog.google/technology/safety-security/passkeys-default-google-accounts/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNU9NRUkzWTJkVlMwdzFNVzV3VFJDb0FSaXJBaWdCTWdNRk13dw=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-10-10T07:00:00.000Z",
+    "time": "Oct 10, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "7 new Android features to elevate your everyday",
+    "link": "https://blog.google/products/android/new-android-features-may-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTNhakV3WkhSV05WRm9kMmRNVFJDb0FSaXJBaWdCTWdZQmNZNk9wUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google Keep reminders will be saved to Tasks",
+    "link": "https://blog.google/products/keep/google-keep-reminders-tasks-update/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURaVFpsU0ZoUmVuTkVlRk5mVFJDb0FSaXJBaWdCTWdZQlE0cERPZ1k=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-04-25T07:00:00.000Z",
+    "time": "Apr 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "5 new Chrome features to help you search on mobile",
+    "link": "https://blog.google/products/chrome/chrome-mobile-features-june-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdaMFYxUVc5b2RGQTFjRXM1VFJDUkFSamNBaWdCTWdhQklvaktHUWs=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-06-26T07:00:00.000Z",
+    "time": "Jun 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Experience Google AI in even more ways on Android",
+    "link": "https://blog.google/products/android/google-ai-android-update-io-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxSVnBSVXpWR2JqTTFjek00VFJDb0FSaXJBaWdCTWdZQlVZN09zUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-14T07:00:00.000Z",
+    "time": "May 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "AI Overviews: About last week",
+    "link": "https://blog.google/products/search/ai-overviews-update-may-2024/",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Passkeys, Cross-Account Protection and new ways we’re protecting your accounts",
+    "link": "https://blog.google/technology/safety-security/google-passkeys-update-april-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNjRU5tYVdsRlFUYzJORmQwVFJDb0FSaXJBaWdCTWdhZE00aHhuUWs=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-02T07:00:00.000Z",
+    "time": "May 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Browse safely with real-time protection on Chrome",
+    "link": "https://blog.google/products/chrome/google-chrome-safe-browsing-real-time/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXBlbEJSZERKV1FqRnlUSEJrVFJDUkFSamNBaWdCTWdtVmNwQVRMU2VpeXdF=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-03-14T07:00:00.000Z",
+    "time": "Mar 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "110 new languages are coming to Google Translate",
+    "link": "https://blog.google/products/translate/google-translate-new-languages-2024/",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Bringing Project Starline out of the lab",
+    "link": "https://blog.google/technology/research/google-project-starline-hp-partnership/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1ZbXh4VG5kTk5rOUNjRGx5VFJDUkFSamNBaWdCTWdZTllwajFwQWc=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-13T07:00:00.000Z",
+    "time": "May 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Changes we’re making to Google Assistant",
+    "link": "https://blog.google/products/assistant/google-assistant-update-january-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVhSE5TVERkNGNrZzJjRVk1VFJDb0FSaXJBaWdCTWdZcGhaQ3RzUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google I/O 2024: An I/O for a new generation",
+    "link": "https://blog.google/inside-google/message-ceo/google-io-2024-keynote-sundar-pichai/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNSRFEyTVZaa1RuQldkR1JmVFJDU0FSalpBaWdCTWdZWkFKQ1dyQWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-14T07:00:00.000Z",
+    "time": "May 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Android’s theft protection features keep your device and data safe",
+    "link": "https://blog.google/products/android/android-theft-protection/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFXR3BzV0hKbWJ6ZHpRVVZFVFJDbkFSaXRBaWdCTWdZWlU1RExyUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Reaffirming choice and openness on Android and Google Play",
+    "link": "https://blog.google/outreach-initiatives/public-policy/reaffirming-choice-and-openness-on-android-and-google-play/",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-12-18T08:00:00.000Z",
+    "time": "Dec 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Meet Pixel 8a: The Google AI phone at an unbeatable value",
+    "link": "https://blog.google/products/pixel/pixel-8a-launch/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBaREZWYTA1WFYwcDVjM1U0VFJDMEFSaVlBaWdCTWdZQkVaUUdMUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-07T07:00:00.000Z",
+    "time": "May 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Get more done with Gemini: Try 1.5 Pro and more intelligent features",
+    "link": "https://blog.google/products/gemini/google-gemini-update-may-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZaVTVXU21SeWJ6bEpPSEp2VFJDb0FSaXNBaWdCTWdhcFE0cU5vUWs=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-14T07:00:00.000Z",
+    "time": "May 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "What we announced at CES 2024",
+    "link": "https://blog.google/products/android/ces-2024-android-updates/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRka3BZWnpjeU0zSk5OakZEVFJDb0FSaXJBaWdCTWdZQllKQ1BwUWc=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "The next chapter of our Gemini era",
+    "link": "https://blog.google/technology/ai/google-gemini-update-sundar-pichai-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpiWFJQYzNOeFNGbEpORGN3VFJDb0FSaXJBaWdCTWdhTmtwSUpOUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-02-08T08:00:00.000Z",
+    "time": "Feb 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "More than a store: How we're evolving Google Play",
+    "link": "https://blog.google/products/google-play/google-play-july-2024-new-updates/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJOamRSWW5SMGFHRlhlbmQ2VFJDb0FSaXNBaWdCTWdZOVVZclZKQWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-07-24T13:27:37.000Z",
+    "time": "Yesterday",
+    "articleType": "regular"
+  },
+  {
+    "title": "Generative AI in Search expands to more than 120 new countries and territories",
+    "link": "https://blog.google/products/search/google-search-generative-ai-international-expansion/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtTR3hJY25Bd1RXMVZXbTF1VFJDUkFSamNBaWdCTWdhSk1ZeldIQWs=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-11-08T08:00:00.000Z",
+    "time": "Nov 8, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Buying Spying: How the commercial surveillance industry works and what can be done about it",
+    "link": "https://blog.google/threat-analysis-group/commercial-surveillance-vendors-google-tag-report/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtYMFpyT0VKbk56SklRME5UVFJDb0FSaXJBaWdCTWdZQk00eXVuUWs=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-02-06T08:00:00.000Z",
+    "time": "Feb 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "New ways we’re tackling spammy, low-quality content on Search",
+    "link": "https://blog.google/products/search/google-search-update-march-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHlkVmxqYkVGSlNFeEtXSEEwVFJDUkFSamNBaWdCTWdrRkFJU3VoZXZBTVFF=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Bard becomes Gemini: Try Ultra 1.0 and a new mobile app today",
+    "link": "https://blog.google/products/gemini/bard-gemini-advanced-app/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJkMnhoUkRscFNrb3hORE13VFJDUkFSamNBaWdCTWdZTnNwQkdQZ1k=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-02-08T08:00:00.000Z",
+    "time": "Feb 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Introducing Gemini: our largest and most capable AI model",
+    "link": "https://blog.google/technology/ai/google-gemini-ai/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhMWEpvTUVoRU5FcFViblV0VFJDb0FSaXJBaWdCTWdZbGhKaU1yUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-12-06T08:00:00.000Z",
+    "time": "Dec 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Gemini breaks new ground with a faster model, longer context, AI agents and more",
+    "link": "https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/R",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhRakZxWkMxWWNHeFlha2N0VFJDb0FSaXJBaWdCTWdhSmtJVEd2QVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-14T07:00:00.000Z",
+    "time": "May 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "100 things we announced at I/O 2024",
+    "link": "https://blog.google/technology/ai/google-io-2024-100-announcements/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFhRzFJU1VvM0xUQkVlWFV0VFJDb0FSaXJBaWdCTWdheEFZTHhGQVU=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "New AI tools for Google Workspace for Education",
+    "link": "https://blog.google/outreach-initiatives/education/workspace-gemini-classroom-iste-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUlZMDlUT0Y5WGNHRnNjMUozVFJDb0FSaXJBaWdCTWdNQk1BZw=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-06-24T07:00:00.000Z",
+    "time": "Jun 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Bard can now connect to your Google apps and services",
+    "link": "https://blog.google/products/gemini/google-bard-new-features-update-sept-2023/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVNSMjlwVURKSGVISmtkWEpRVFJDb0FSaXJBaWdCTWdhaGRKRHR0UVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google Cloud and NVIDIA Expand Partnership to Advance AI Computing, Software and Services",
+    "link": "https://nvidianews.nvidia.com/news/google-cloud-and-nvidia-expand-partnership-to-advance-ai-computing-software-and-services",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxiRlZoTkZCSVpGOVNkSFJqVFJDeUFSaWJBaWdCTWdZSlVaTG9wQWc=-w400-h224-p-df-rw",
+    "source": "NVIDIA Blog",
+    "datetime": "2023-08-29T07:00:00.000Z",
+    "time": "Aug 29, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google",
+    "link": "https://www.theverge.com/google",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9XakE0ZFhSS2REaEJRWEZUVFJDM0FSaVRBaWdCTWdZSkVKQnF0UVk=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-07-23T22:03:05.000Z",
+    "time": "Yesterday",
+    "articleType": "regular"
+  },
+  {
+    "title": "A new, scrapbook-like Memories view in Google Photos",
+    "link": "https://blog.google/products/photos/google-photos-memories-view/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZiV1pyYjJsS1VVVXpUWEUxVFJDb0FSaXJBaWdCTWdZZE01QnRtUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-08-15T07:00:00.000Z",
+    "time": "Aug 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Launching the AI Opportunity Initiative for Europe",
+    "link": "https://blog.google/around-the-globe/google-europe/google-ai-opportunity-initiative-europe/",
+    "image": "https://news.google.com/api/attachments/CC8iKkNnNVBkMlY1VVdOcFRHazBka3hTVFJCNkdKd0RLQUV5QmdGZ2lndXVCdw=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-02-12T08:00:00.000Z",
+    "time": "Feb 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Updates to Location History and new controls coming soon to Maps",
+    "link": "https://blog.google/products/maps/updates-to-location-history-and-new-controls-coming-soon-to-maps/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJWVVphVm1wTGEyVm5SRFZ6VFJESkFoaVpBU2dCTWdZUlFvcnp3QVU=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-12-12T08:00:00.000Z",
+    "time": "Dec 12, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "How satellites, algorithms and AI can help map and trace methane sources",
+    "link": "https://blog.google/outreach-initiatives/sustainability/how-satellites-algorithms-and-ai-can-help-map-and-trace-methane-sources/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtRV04wWjJKaVVGZG1ibTV6VFJDb0FSaXNBaWdCTWdZaE00cFJHUVE=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-02-14T08:00:00.000Z",
+    "time": "Feb 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google Cloud and NVIDIA Expand Partnership to Scale AI Development",
+    "link": "https://nvidianews.nvidia.com/news/google-cloud-ai-development",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZkWG90UkRWT2MwSTRZa3BUVFJDb0FSaXNBaWdCTWdhTm9aYUhPZ2M=-w400-h224-p-df-rw",
+    "source": "NVIDIA Blog",
+    "datetime": "2024-03-18T07:00:00.000Z",
+    "time": "Mar 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Get more personalized shopping options with these Google tools",
+    "link": "https://blog.google/products/shopping/google-personalized-shopping-tips/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDFSbTkxV1RacGJGOU5lV1pWVFJDUkFSamNBaWdCTWdtaFlvS3R1U05ON0FF=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-03-27T07:00:00.000Z",
+    "time": "Mar 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "New ways to find just what you need on Search",
+    "link": "https://blog.google/products/search/google-search-november-2023-update/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXFaa2xHWXkxQmJFdG9OVVIxVFJDUkFSamNBaWdCTWdrSkVZZ0R4Nk5ycEFJ=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "What’s new with Android for cars at CES",
+    "link": "https://blog.google/products/android/android-auto-new-features-ces24/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRTRzVtTFZSTk1XVTVkbVZpVFJDb0FSaXNBaWdCTWdZQk1JZ1N4UVE=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "A new modern look for the Android brand",
+    "link": "https://blog.google/products/android/modern-look/",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-09-05T07:00:00.000Z",
+    "time": "Sep 5, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Chromebooks will get 10 years of automatic updates",
+    "link": "https://blog.google/outreach-initiatives/education/automatic-update-extension-chromebook/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHRMVFJRZEd4ak5sUTRTSFJ2VFJDUkFSamNBaWdCTWdhTklvcXNKUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "AI editing tools are coming to all Google Photos users",
+    "link": "https://blog.google/products/photos/google-photos-editing-features-availability/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxaRzV4UkRGb1VXNURRbGR3VFJDb0FSaXJBaWdCTWdZQmtKQ21OQWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-04-10T07:00:00.000Z",
+    "time": "Apr 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Chrome is getting 3 new generative AI features",
+    "link": "https://blog.google/products/chrome/google-chrome-generative-ai-features-january-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXNRbFpQZFhvMmJWUnhUM0p4VFJDUkFSamNBaWdCTWdNQlFRZw=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-01-23T08:00:00.000Z",
+    "time": "Jan 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "How AI is helping airlines mitigate the climate impact of contrails",
+    "link": "https://blog.google/technology/ai/ai-airlines-contrails-climate-change/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDROVzVuWjBVNGIyVllWV3RTVFJDb0FSaXNBaWdCTWdZbEVvU3Z6UVE=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-08-08T07:00:00.000Z",
+    "time": "Aug 8, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "New ways to search in 2024",
+    "link": "https://blog.google/products/search/google-search-ai-january-2024-update/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNHRka0ZUVDBRMGJtUlNjV2s1VFJDUkFSamNBaWdCTWdtVklZSnlHV3BGMWdB=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-01-17T08:00:00.000Z",
+    "time": "Jan 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "The next step toward phasing out third-party cookies in Chrome",
+    "link": "https://blog.google/products/chrome/privacy-sandbox-tracking-protection/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpVMXBJZW04MVNtZzBXQzFLVFJDUkFSamNBaWdCTWdZVlk1Q1BLUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-12-14T08:00:00.000Z",
+    "time": "Dec 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "3 new Chrome features to get more helpful suggestions",
+    "link": "https://blog.google/products/chrome/google-chrome-update-february-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJiVEpUT0hwTlNGRTNjbWhKVFJDUkFSamNBaWdCTWdhSllZcUxNUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-02-29T08:00:00.000Z",
+    "time": "Feb 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "How to find holiday shopping deals on Google",
+    "link": "https://blog.google/products/shopping/google-shopping-best-holiday-deals-2023/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDRSMkp1U2tkbVZrWjJWbTVaVFJDb0FSaXJBaWdCTWdrVlU0cElMdVpNNndF=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-11-07T08:00:00.000Z",
+    "time": "Nov 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "New performance and safety features are coming to Chrome",
+    "link": "https://blog.google/products/chrome/google-chrome-december-2023-update/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZWVUp6Y1dScE1FcE9iSE5vVFJDUkFSamNBaWdCTWdhWmtvcXRPUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-12-21T08:00:00.000Z",
+    "time": "Dec 21, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Meet the Google TV network",
+    "link": "https://blog.google/products/ads-commerce/meet-the-google-tv-network/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFUVkJ1VDNBdGJrbEhjbFpPVFJDUkFSamNBaWdCTWdhZFk0aHNMUVE=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-06-07T07:00:00.000Z",
+    "time": "Jun 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "New AI tools to help merchants market brands and products",
+    "link": "https://blog.google/products/shopping/google-generative-ai-marketing-features-may-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJUREkzUW1kU1dWTkhaRXRvVFJDZEFSakJBaWdCTWdhMUFZWXhqUXM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-21T07:00:00.000Z",
+    "time": "May 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "How we're working with utilities to create a new model for clean energy",
+    "link": "https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXZkVUZ6UjJwUVdtSXdibFJoVFJDb0FSaXNBaWdCTWdNaFFRSQ=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-06-11T07:00:00.000Z",
+    "time": "Jun 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Exclusive: Reddit in AI content licensing deal with Google",
+    "link": "https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhSa1J6UnpGaGNqbFNTMkU0VFJDNkFSaVBBaWdCTWdhSndveWx2Z1U=-w400-h224-p-df-rw",
+    "source": "Reuters.com",
+    "datetime": "2024-02-21T08:00:00.000Z",
+    "time": "Feb 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google Pixel December feature drop: New Gemini AI-powered updates",
+    "link": "https://blog.google/products/pixel/pixel-feature-drop-december-2023/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZURlpNVmxCRU9GbGFXamRwVFJDb0FSaXNBaWdCTWdZQms0b0V6Z00=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-12-06T08:00:00.000Z",
+    "time": "Dec 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "How we built and tested body temperature on Pixel 8 Pro",
+    "link": "https://blog.google/products/pixel/google-thermometer-app-body-temperature/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZSMFZhU1daMmFVeEdVblk1VFJDUkFSamNBaWdCTWdhQlFZeG51Z1U=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google is combining its Android and hardware teams — and it’s all about AI",
+    "link": "https://www.theverge.com/2024/4/18/24133881/google-android-pixel-teams-reorg-rick-osterloh",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9XakE0ZFhSS2REaEJRWEZUVFJDM0FSaVRBaWdCTWdZSkVKQnF0UVk=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-04-18T07:00:00.000Z",
+    "time": "Apr 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Circle (or highlight or scribble) to Search",
+    "link": "https://blog.google/products/search/google-circle-to-search-android/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUthMVE1YkZNeFRHWkJMVXhzVFJDb0FSaXNBaWdCTWdhTllvNXRMUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-01-17T08:00:00.000Z",
+    "time": "Jan 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "4 Google updates coming to Samsung devices",
+    "link": "https://blog.google/products/android/google-updates-samsung-galaxy-unpacked-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNXRRbGhNUWxOVlRIUkdVRVJUVFJEaEFSamhBU2dCTWdB=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "15 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Complying with the Digital Markets Act",
+    "link": "https://blog.google/around-the-globe/google-europe/complying-with-the-digital-markets-act/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUlNRmhpTW01cVpsUk1Zbmc1VFJEaEFSamhBU2dCTWdrRm9KTFFQT2FCMEFF=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-03-05T08:00:00.000Z",
+    "time": "Mar 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "3 ways unknown tracker alerts on Android help keep you safe",
+    "link": "https://blog.google/products/android/unknown-tracker-alert-google-android/",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNW1WVXhYZFZKNFZXRnlTR05JVFJDUkFSamNBaWdCTWdzQkVJWjRER3pRU1VvdVBR=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-07-27T07:00:00.000Z",
+    "time": "Jul 27, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "New Maps updates: Immersive View for routes and other AI features",
+    "link": "https://blog.google/products/maps/google-maps-october-2023-update/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBRWE42TTFjMmVIUjJXbVZyVFJDUkFSamNBaWdCTWdZUk1Zd0lvZ2c=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-10-26T07:00:00.000Z",
+    "time": "Oct 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "4 Lessons Businesses Can Learn From Google's Evolution",
+    "link": "https://www.forbes.com/sites/johnhall/2024/02/18/4-lessons-businesses-can-learn-from-googles-evolution/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTBjbkpxVmxJemVEZDFMVzQ0VFJEQ0FSaURBaWdCTWdrQk1JTFVsS2xTMVFB=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-02-18T08:00:00.000Z",
+    "time": "Feb 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "5 ways to use the new Find My Device on Android",
+    "link": "https://blog.google/products/android/android-find-my-device/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBVRTF2TFZwa00wNU9SbkZ5VFJDUkFSamNBaWdCTWdZUkVJcW9GQXM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-04-08T07:00:00.000Z",
+    "time": "Apr 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Our 2023 Ads Safety Report",
+    "link": "https://blog.google/products/ads-commerce/google-ads-safety-report-2023/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFkWFo0V1dSbVYzWlVaamhoVFJDUkFSamNBaWdCTWdhcFpZek9MUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-03-27T07:00:00.000Z",
+    "time": "Mar 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "A first-of-its-kind geothermal project is now operational",
+    "link": "https://blog.google/outreach-initiatives/sustainability/google-fervo-geothermal-energy-partnership/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJORnBRUmtwcGMySktXVVp4VFJEQ0FSaURBaWdCTWdZaEpJV3RWUU0=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-11-28T08:00:00.000Z",
+    "time": "Nov 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Attorney General Bonta Announces $93 Million Settlement Regarding Google’s Location-Privacy Practices",
+    "link": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-93-million-settlement-regarding-google%E2%80%99s",
+    "source": "California Department of Justice",
+    "datetime": "2023-09-14T07:00:00.000Z",
+    "time": "Sep 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google lays off hundreds in hardware, voice assistant teams amid cost-cutting drive",
+    "link": "https://apnews.com/article/google-layoffs-alphabet-amazon-tech-1de7e1a6b806a3252cfbb25fc4c5b2e3",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDJXbk4wT0RaTk5XaDBlbWRxVFJDM0FSaVRBaWdCTWdrQmNJcktQS1d4N1FF=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Our next-generation model: Gemini 1.5",
+    "link": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlTVzlIUkUxZlZtRnRhaTFQVFJDb0FSaXNBaWdCTWdZRk5aSWtOZ1k=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-02-15T08:00:00.000Z",
+    "time": "Feb 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "What Google’s trial means for the company — and your web browsing",
+    "link": "https://www.vox.com/technology/2023/9/11/23864514/google-search-antitrust-trial",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXRUbUZyVEdkd1dtTkNiRWgxVFJDNEFSaVNBaWdCTWdZTllwYVBJUWs=-w400-h224-p-df-rw",
+    "source": "Vox.com",
+    "datetime": "2023-09-11T07:00:00.000Z",
+    "time": "Sep 11, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Passkeys are now available for high risk users to enroll in the Advanced Protection Program",
+    "link": "https://blog.google/technology/safety-security/google-passkeys-advanced-protection-program/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUZPWFZ5YW1wMWRXVjJVRFJEVFJDb0FSaXJBaWdCTWdhaFU0eXRKUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "15 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "“Google Vids” is Google’s fourth big productivity app for Workspace",
+    "link": "https://arstechnica.com/gadgets/2024/04/google-vids-is-googles-fourth-big-productivity-app-for-workspace/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNXbGhvTVRKZlJtUnVjSE5mVFJDb0FSaXNBaWdCTWdhaFk0UnZyUWM=-w400-h224-p-df-rw",
+    "source": "Ars Technica",
+    "datetime": "2024-04-09T07:00:00.000Z",
+    "time": "Apr 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "New Maps updates and tips to navigate the holidays",
+    "link": "https://blog.google/products/maps/google-maps-updates-november-2023/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRSVFYxV0dwYWFrRkxhV1F5VFJDUkFSamNBaWdCTWdZUmNvaG92Z1E=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google lays off hundreds in Assistant, hardware, engineering teams",
+    "link": "https://www.reuters.com/technology/google-lays-off-hundreds-working-assistant-software-other-parts-company-2024-01-11/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWlaalJUV1hZMGFWOW1TamxVVFJDaUFSaTJBaWdCTWdZTndZekpRQVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Gemini and Google’s Culture",
+    "link": "https://stratechery.com/2024/gemini-and-googles-culture/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNU5UVVkyYWtKclUyODJTSGhmVFJDbUFSaXdBaWdCTWdrQkVaZ3JuYW5RNWdJ=-w400-h224-p-df-rw",
+    "source": "Stratechery by Ben Thompson",
+    "datetime": "2024-02-26T08:00:00.000Z",
+    "time": "Feb 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "The latest Titan Security Key is in the Google Store",
+    "link": "https://blog.google/technology/safety-security/titan-security-key-google-store/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBPR0ZFVFZVMWRuWXhhRWwzVFJEQ0FSaURBaWdCTWdhbGxKQ01OUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-11-15T08:00:00.000Z",
+    "time": "Nov 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "New ways we’re helping reduce transportation and energy emissions",
+    "link": "https://blog.google/outreach-initiatives/sustainability/google-transportation-energy-emissions-reduction/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVjUzFRWjBsMVpVcDJNSFJVVFJDZ0FSaTdBaWdCTWdZQlVJb1B3UVE=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-10-10T07:00:00.000Z",
+    "time": "Oct 10, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google: annual advertising revenue 2001-2023",
+    "link": "https://www.statista.com/statistics/266249/advertising-revenue-of-google/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNTBkRkJCY25WQmRIQk1ZM28xVFJDOUFSaUtBaWdCTWdNVkFnSQ=-w400-h224-p-df-rw",
+    "source": "Statista",
+    "datetime": "2024-05-22T07:00:00.000Z",
+    "time": "May 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google I/O Highlights: Unpacking Gemini Updates and AI Overviews",
+    "link": "https://www.cnet.com/tech/services-and-software/google-io-highlights-unpacking-gemini-updates-and-ai-overviews/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWtka0ptZG5obGQwZFFPRzVCVFJDb0FSaXNBaWdCTWdZVkE0U01HUVE=-w400-h224-p-df-rw",
+    "source": "CNET",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "New generative media models and tools, built with and for creators",
+    "link": "https://blog.google/technology/ai/google-generative-ai-veo-imagen-3/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFMVzlRVlZVd1MxVkNSMjl2VFJDb0FSaXNBaWdCTWdZeFE1UlJIUWs=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-05-14T07:00:00.000Z",
+    "time": "May 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Bard gets its biggest upgrade yet with Gemini",
+    "link": "https://blog.google/products/gemini/google-bard-try-gemini-ai/",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNXJZMEoyV1ZveGJVMXFkRkZmVFJDb0FSaXJBaWdCTWdzQkFJSzFVR081MW9oTHlB=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-12-06T08:00:00.000Z",
+    "time": "Dec 6, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Evolving Google Analytics for more insightful measurement",
+    "link": "https://blog.google/products/marketingplatform/analytics/evolving-google-analytics-for-more-insightful-measurement/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJhVXhoYUdOcWNGbElTbmhRVFJDb0FSaXJBaWdCTWdhUllwUUpxUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-03-21T07:00:00.000Z",
+    "time": "Mar 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Access Locked Folder in Google Photos across your devices with cloud backup",
+    "link": "https://blog.google/products/photos/locked-folder-cloud-backup/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJaMnBCTUMxYWNYZFdaRmsxVFJDb0FSaXNBaWdCTWdZSm9aUUZPd2M=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-08-29T07:00:00.000Z",
+    "time": "Aug 29, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "How we built Immersive View for routes on Maps",
+    "link": "https://blog.google/products/maps/google-maps-immersive-view-routes/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW9YMFpMZWt0bFNUSlRWM2xyVFJDb0FSaXJBaWdCTWdhVk1vcXRIUWM=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-11-02T07:00:00.000Z",
+    "time": "Nov 2, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Put Google AI to work with Search ads",
+    "link": "https://blog.google/products/ads-commerce/put-google-ai-to-work-with-search-ads/",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUtjVVZ1ZEZseGJURm5iR04xVFJDb0FSaXJBaWdCTWdNRmdSSQ=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-01-23T08:00:00.000Z",
+    "time": "Jan 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "Enhance visual storytelling in Demand Gen with generative AI",
+    "link": "https://blog.google/products/ads-commerce/enhance-visual-storytelling-in-demand-gen-with-generative-ai/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXFXbU5zZFhKQ2FIWkhkV3hLVFJDb0FSaXJBaWdCTWdZTmNwTEZKZ2c=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-04-16T07:00:00.000Z",
+    "time": "Apr 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "3 Maps updates to make summer travel a breeze",
+    "link": "https://blog.google/products/maps/google-maps-updates-summer-travel-2024/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBWRVpoUTFwaldXaFdjSGRsVFJDb0FSaXJBaWdCTWdhdFZZcnVwUVk=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-03-27T07:00:00.000Z",
+    "time": "Mar 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google DeepMind C.E.O. Demis Hassabis on the Path From Chatbots to A.G.I.",
+    "link": "https://www.nytimes.com/2024/02/23/podcasts/google-deepmind-demis-hassabis.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9VbkZNUm1vNWRqQk5OVkZ5VFJDM0FSaVRBaWdCTWdhdGRKU1FMUWM=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-02-23T08:00:00.000Z",
+    "time": "Feb 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "New features to celebrate Messages' 1 billion RCS users",
+    "link": "https://blog.google/products/android/7-new-messages-features/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWFhekJwWlVsS1ZHVkxaVjkzVFJDb0FSaXJBaWdCTWdrQlVJcm1PU1VtWndJ=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-11-30T08:00:00.000Z",
+    "time": "Nov 30, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google cuts hundreds of jobs across engineering, hardware teams",
+    "link": "https://www.cnbc.com/2024/01/11/google-layoffs-hundreds-of-jobs-cut-across-engineering-and-hardware.html",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5aWEp0U1VvMVFrOTFaa05pVFJDb0FSaXNBaWdCTWdZQk1KYTBtQWs=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-01-11T08:00:00.000Z",
+    "time": "Jan 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Gemma 2 is now available to researchers and developers",
+    "link": "https://blog.google/technology/developers/google-gemma-2/",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google agrees to invest up to $2 billion in OpenAI rival Anthropic",
+    "link": "https://www.reuters.com/technology/google-agrees-invest-up-2-bln-openai-rival-anthropic-wsj-2023-10-27/",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUdXSGMxWDBOME9VcEJhMms1VFJDcEFSaXFBaWdCTWdtQmNJNkZ0Q2FaYkFJ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-10-27T07:00:00.000Z",
+    "time": "Oct 27, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Meet Pixel 8 and Pixel 8 Pro, our newest phones",
+    "link": "https://blog.google/products/pixel/google-pixel-8-pro/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpZa3BOYlhSV09YSTVOM0ZwVFJEQkFSaUZBaWdCTWdhZGc0eU5zUVU=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-10-04T07:00:00.000Z",
+    "time": "Oct 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "7 years of software updates for the Pixel 8 series",
+    "link": "https://blog.google/products/pixel/software-support-pixel-8-pixel-8-pro/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZiRWh2T0RkTWJpMXhSbVkxVFJDM0FSaVRBaWdCTWdZZFFvWUxzZ1k=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-10-04T07:00:00.000Z",
+    "time": "Oct 4, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Audioplethysmography for cardiac monitoring with hearable devices",
+    "link": "http://research.google/blog/audioplethysmography-for-cardiac-monitoring-with-hearable-devices/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXBjMjEwWlZWQ1lUVXdWMEp5VFJEaEFSamhBU2dCTWdhQm9aTG1PQWM=-w400-h224-p-df-rw",
+    "source": "Google Research",
+    "datetime": "2023-10-27T07:00:00.000Z",
+    "time": "Oct 27, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Commute around the world with Google Wallet",
+    "link": "https://blog.google/products/google-pay/commute-around-the-world-with-google-wallet/",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWZNblY2WTBOQ09FNVZXbGxKVFJDUkFSamNBaWdCTWdZSlFZN0dwUWc=-w400-h224-p-df-rw",
+    "source": "The Keyword | Google Product and Technology News",
+    "datetime": "2023-10-26T07:00:00.000Z",
+    "time": "Oct 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Google commits to invest $2 billion in OpenAI competitor Anthropic",
+    "link": "https://www.cnbc.com/2023/10/27/google-commits-to-invest-2-billion-in-openai-competitor-anthropic.html",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUZlbFZhWVRCRGVFcFlTblZ1VFJDb0FSaXNBaWdCTWdtZEFvS01WYUk4SkFN=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2023-10-27T07:00:00.000Z",
+    "time": "Oct 27, 2023",
+    "articleType": "regular"
+  }
+]

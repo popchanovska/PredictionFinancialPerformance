@@ -1,0 +1,811 @@
+[
+  {
+    "title": "I bought all my furniture at Costco for $5,000: Take a look inside",
+    "link": "https://news.google.com/read/CBMitAFBVV95cUxQT3Y3QUx6bTlpejJiemQwNmJQWWRlQjl3SlJWb0xTRHR4UFBrZzNSbkk1a3pSUkM1NEtqc1Y3em1HUGV0SkFvaE9RLW9tcnZDbElKbXEwS2NZQmJNSUluV09wbldOUTlNR2ZfaVBJRWllbkRobFdOUkRhWm1ZUkgxOHZFU18tMnJERVA4VzVYQW1ta0lkbDBFZHBZaGZiT0IzdlJ5c01rd29CZ2tvcHA1YTVxblQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBTbVpmU2tSdFNrZHNXbkJpVFJDb0FSaXJBaWdCTWdhcE1ZN3RJUWc=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-06-30T07:00:00.000Z",
+    "time": "Jun 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "I'm Still Kicking Myself Over This Horrible Costco Fail. Don't Make the Same Mistake",
+    "link": "https://news.google.com/read/CBMif0FVX3lxTFBTY3c5Tmd4al9DYkdwaU9NVEFVZzk1NWI5cFBtQTZON2hXQXMwaUhsQTR5VV82Z2FvZ1RoZEZERk9ndHh2U05EZWp4Y3g5bkotSmNFTGpVR1RzUHVZOGQ1dWFZT3F5QXNyUjNrZzQzWk40TmJJbWFuYjYwdDhWeVU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWlhblpGVUVGS2Vrc3liVU5JVFJDM0FSaVRBaWdCTWdhUkZZN3FGUW8=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-06-25T07:00:00.000Z",
+    "time": "Jun 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Review | Costco’s emergency food kit makes us dread the apocalypse even more",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxOM0ZTUmtITmE1WlRUcEJNRFpSWkdGZkRHREFwZjNHaU4tZ1pKUldCUnlfTUc2QjVRTWNBdWdISDNjai1pM3JoQ3QxQUd2ekZTdFA3REtTejd6VS1sZGZEQ1RUTGhWeGZTbXVMSmN5TGZ4aGdzYUJZNjY5bHhHVWRvMlhuN1J1bXJ6QUdrUW5zOEJCMzctZXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNU1hR3hSZFhFdE1rRk9TRkY0VFJDM0FSaVRBaWdCTWdzRkVJU0ZvaVlNaGlwUFBR=-w400-h224-p-df-rw",
+    "source": "The Washington Post",
+    "datetime": "2024-08-09T18:15:39.000Z",
+    "time": "2 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Costco Pantry Staple I Turn to When I Don’t Feel Like Cooking",
+    "link": "https://news.google.com/read/CBMigAFBVV95cUxON0gtb2tUSlg4X3FHOHl5X252QUh4U2ZDczhuaTlEZ1FTSXEyTDliRnphOVZ5X2FVaVF4bW1xU2xDWXB6OUFjUk9hWkZrNDEyck1ENFpPT0ItaGh4d1RDNk1MYlg2WXY0Vmp4X2lrclNZMzAwRkJtQVV3dlVtVjdNVw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFiRmRwZEc1SmNraHJaWEJxVFJDNEFSaVJBaWdCTWdhUmM1U3RxUWM=-w400-h224-p-df-rw",
+    "source": "EatingWell",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "These $8 “Cozy and Cute” Costco Pillows Are What Your Sofa’s Missing",
+    "link": "https://news.google.com/read/CBMibkFVX3lxTFBTNjNzQzlKNFc3YVc4cndyeWw1STVWTUw5M1JQZWhvLW9ROUlGUEk3ZV9oc3FKM2FLMVU5bkhVWThRYkdVREJMZEgydDBMay1oYlFfYmFwUTFWak13a1MxNHk5LVlHRXR5bkprcHB3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxORVJOTkRFMU5qY3RVbGhmVFJDM0FSaVRBaWdCTWdZQmtJS3RWUU0=-w400-h224-p-df-rw",
+    "source": "Apartment Therapy",
+    "datetime": "2024-06-27T07:00:00.000Z",
+    "time": "Jun 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco expands healthcare footprint, teams up with Sesame to offer members $29 virtual care visits",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxQdVM4NWp6dnl3QlJyLXVmLVdXWHZFS29XTWRHTUJaYy02WFpxSGF4YzM4UE5RdFVNVm5jN1l0QjA3cEs0aXdyZDl4VmU2S1lyYW1iek1yaVhIaWlBUUZNbWZFS1ZUWUJ3VGhOem9hRXlxUHlfN05ENjZpSExtLTJscnJuMU1QZ3UwUEtuNEpZbWs1ZERQVm02dFRrbmQtQlU1blNkYWpqT1hQS28tZlo2cDhXWnJZYWFfT1NqVWpHeEswNGZ3RFZF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1TVFJNZWt0dWRFNUVVSEp1VFJDb0FSaXNBaWdCTWdZWlVZZ3NLUVU=-w400-h224-p-df-rw",
+    "source": "Fierce healthcare",
+    "datetime": "2023-09-25T07:00:00.000Z",
+    "time": "Sep 25, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco Raising Membership Fees For First Time In 7 Years",
+    "link": "https://news.google.com/read/CBMitAFBVV95cUxQczRZWHVOREFyX2VjVEwxTFlDMC1aa2trS2pkUVZRN0lGSXRIZldpSkJNeDZJSml5eHczWWhqRWo2czdxTEZpYTZTa2FHUEg0aV9rWGxTUGJCN1NXNWNudGlXdlhOUUJFTkJrOGdLaWxwRGxKOEZIanY5ajlJdjY2ZjZhYjRyMmVaUkdYdVgyNWYwNFhpUWJQUk5LakE1T2VuTXUybnprMXNpMk44ak5PYWN1Y1g?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlReTFsVVVkYVMzbEpTWFJ3VFJDM0FSaVRBaWdCTWdZWllKYXFLQWc=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco to raise membership fee for the first time since 2017",
+    "link": "https://news.google.com/read/CBMidkFVX3lxTFBaRXUwOU5uSWRRcnZoaF9tMTVfdXZDM0FMbVdOcjR1NWJULTMySEZQak1kMHk0cnlBZVkzNzhtUzVzMWZxRFdyYnlNT2IwdUt0THhucEtCYTc1QXNUVnNneW1IVG5hQm1Sc0J3OXU2YmRJanBnN2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZWVUZsVG1SUWR6VnpVamRSVFJDb0FSaXNBaWdCTWdhSlZJS3VKUWs=-w400-h224-p-df-rw",
+    "source": "Retail Dive",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Costco is so loved",
+    "link": "https://news.google.com/read/CBMid0FVX3lxTFBoamFQdUQzZzlmWERpcjg4ZnloamYxa1FHYXJ2WnlRbWVwN2QwMEFlUElJRV9SUlJoNGlZT3hER3ZoRGoyVDc1RGFncm9YSklnUGM4Z0FoWHlkbFVDeEtjb0ZWdkZYckhtclIwMHpCUzduN2RfMXBj?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDFTbnB6WDNKTlRIaDBkRGh6VFJDb0FSaXNBaWdCTWdhUk1JaHRtUW8=-w400-h224-p-df-rw",
+    "source": "The Economist",
+    "datetime": "2024-02-15T08:00:00.000Z",
+    "time": "Feb 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Costco’s CFO Stayed at the Company for 40 Years",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxQUXR5dk9qeU4yU3Rvc3ZQQXBTZGhYTUJEcktYZXYxSUZpMVdacWphVHVKMWN2OG9xaEhncDdJZ2pfX2NVOEtXQWMxVEhVcW53Y0JZNFlna2FzekhwbVZpVEVvakphNmdCOTRILUpaYU52R0pFS2ZWbjJHRUt4eFRhY1FfRzR1enBXUmlYTGxqZElTdFBuUXJYVU4weDBjYUJfN0ZteWx5YmRjM1gwemloZVNRalMxUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJMWGh4ZVhkYVJWTlBiazlwVFJDM0FSaVRBaWdCTWdZWklxSkxtUW8=-w400-h224-p-df-rw",
+    "source": "Bloomberg",
+    "datetime": "2024-03-12T07:00:00.000Z",
+    "time": "Mar 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco members now have access to $29 online health care visits",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxNNDRvQXVKRjAyOVhBOXlJLXFsWllYdVhpZ2F2NF9La1dIQ2JqTUVxS3c3OUdJV3I2YW5sRjVJZC1XTnlrQTlsR0x5amdvdFpSRFNyaFdSb1ViQlY3NzhkRVE2TEZycWJmNkRXMUZsR1dCZTcyMkcwbEZkdzZOWkRFV3JtWVktdWZnZTdV0gGCAUFVX3lxTFBSeEk1U3VoTTBlU3NsbV9fcmFDQVlfZlhSdkFTUmhJWU5sYnhoSV9ZOGRFSUVIWUNKTVBqemtSTmRMU1dZVklESXRrc3BjVy01M2c4SXJJWENHSVlmNFROM3VSQVZEUndRX2tFUkpfSnNqejVXREtNMk5DblI2MEp3Q1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWljbkJLYWpOSWN6QmFVMGRVVFJDb0FSaXNBaWdCTWdZaE00WXluUWc=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2023-09-25T07:00:00.000Z",
+    "time": "Sep 25, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco Plans to Stop Selling Books Year-Round",
+    "link": "https://news.google.com/read/CBMiakFVX3lxTE5YQTN6b01yVC1raElDTmZOQ1BlakdNaWloUGJxSW4yLUZjTU9FVWE4REdOUUd3eUtZNF9UR2NFMzYwRThRT0pFMWN3UUdQUU1PZ2k3UlFLbjE5WUc3MDRMQ0ExXzZrZjdYZGc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdSM1JsYzFkUGVuVXRSbGhwVFJDM0FSaVRBaWdCTWdZQlVJcHVLUWM=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-06-05T07:00:00.000Z",
+    "time": "Jun 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Surprising Way Costco Slices Up Its Pizza To Uniform Perfection",
+    "link": "https://news.google.com/read/CBMiaEFVX3lxTE1rTlZJRDhtMGZqQ3RvMHRNXzhUbDk5YVJhdS1TRnB2R21TZHZUaWxaTVBJTVhfS1BZSml4bDNrMFZBSVVNTEpuUTJlT2JuOVBpcXZPc0pYU2ZESnNQNzJLbllRSHhjbEYt?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNU1NMWQ1Vld4eU5HeGthRlJDVFJDb0FSaXNBaWdCTWdrSkVaSW9JV2RFQmdN=-w400-h224-p-df-rw",
+    "source": "The Takeout",
+    "datetime": "2024-05-23T07:00:00.000Z",
+    "time": "May 23",
+    "articleType": "regular"
+  },
+  {
+    "title": "33-year-old pays $2,146/month for 556-square-foot studio in California furnished 'almost entirely with Costco': Take a look inside",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxOTHhzRUVueVNKbzNHUGl0TFJ1SW83NzloZUw0TkZsVmRFdTZZOFI2NTZaUktrbDBkcnRSaHFGOWRqdGhfQ0dhWjVuUnZvVVJwdFE5aVdYZXJKTzRHY2s4cHhrS203cU9KeDBqb05Ld3ZzeUNjVUZJMnZTWkF0cFZiLXkwTlNGZURTa0lXSXRqbUx3bGFJ0gGaAUFVX3lxTE9nU01tZW45ZlJIa2tIVnNQejRDYkVGNFhNM0kzTXoxajBWVGtkLWIyazN1cXpNV1Y5SnFpMWFqNWRnY2JNMktaUlZmMnJaXzZMckx3UHNsYUdhbjRIenFpY2ZvTlFPc2dNZVhMdUxWNVNBRzRUM1pvVlc0SDdBNzFwZU85V3BjZGV4b3ZvX3p3eWw1YVZEdHQ2dmc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtaa1ZhYzFsNFZWUldVRGhTVFJDb0FSaXNBaWdCTWdZRjBJcnNRUVU=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-06-30T07:00:00.000Z",
+    "time": "Jun 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Costco is selling gold bars and silver coins",
+    "link": "https://news.google.com/read/CBMieEFVX3lxTE5fNWJKZ2M0Q1ZTR3FQNHhscmk1d25vdkt0bEh0MzN6ZTE2RFRyY2U3YmFJWmxuZHhNMU82QVVrdENwTUIydEh3Nl9la2Yxa1ZMUlNfRlN4TGRra0RzeGlIR1JuOU05WFkxNnZqSE9MVmp3NkJlYmVBY9IBb0FVX3lxTFB3WmdkSE9MQmRFNzBtOE1zSS1jRV9pUzRZUks3NVB6WUtXWjN5OVZUQ2dRaWFfWXROenJraEJOeUFOUS1IbExZcGlIWU9raHNnYUNlTzRoeVFBc3luLTJkaDVYaTZpLU0xQm4wbUo2cw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUtlbkl5Ym5GamJIaENVM3BzVFJDb0FSaXJBaWdCTWdZSlFvb3ZuUWs=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-03-07T08:00:00.000Z",
+    "time": "Mar 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Secret Sauce That Drives Costco’s Customer Loyalty",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxPdGdlVUdNNDkyeDR4UTNsYXNReHVoa1k1akN2SEpmOThjVk9aeFBRQVBodnBxY3N1ZDRndGdpWmw3OXFHaUlkd1A5WmwtMVFQTzlxSHU1TzBZYXdHM3VrNHNvQ2RnN1M1c3o4TkIyajBZZi1qQ2M0UDl6Rkg2dktGYzRheWxxR0hHbk96WG1hcVQyZVFYdmRBNkZ6ZU1ZSTdXQVBVS1A5VHoyZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVNVXAxV1Y4MGVFRjBNMk16VFJDb0FSaXNBaWdCTWdZRllvQktLUWc=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-06-26T07:00:00.000Z",
+    "time": "Jun 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "31-year-old teacher quit her job. Now she works at Costco—and boosted her income by 50%: ‘I’ve never been happier’",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxPRVhhaWxxOEVjNUFjYVZVNU50NmpTS1hYeHdOZEFqcjNkeVpYZzhDV2twWE1xOEdQQmZtRndOXzBZLS1kZ05HWGsteF9uYzFIeGtkbXIzUEljM1A5bEx6V3BpWGRNY0JxbjNWOU5qRE0tN2Y3Q2x0dzltZGpDM0FUcjdac0NMcHVrX1dDMk9lbE1fcDNhOUR4QkZPLUN3LTNDeFBwcDdlUWMwREk0bFZTYlhtdEl6QVlaTklfddIBwgFBVV95cUxOTlI4cHVKMGdfU1hQLWlKdHJFbDZ5WEw5c2ptQWlYdVNzOFJkWjdqNlF4NDY5T1VhaUZZWVNhQ3ZOYkJwU1lmNW1oLXlGU1VNTGRUdnFTdUtiallURzAtSWU4RFU0MkZObjZoS1BfT19WR3YzT1EtVVRidXZlTlVwd3FPNW1OQzB6cUJqQTBVRV90ME1PV2o5MzJ0SWc4MXRTa1VtQ3o2VmxJaDc5VzdWUXpuZ2piZlJ1NzJHQS1BU0F4UQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVOVEEyWW5oMlVsbHRNRTVVVFJDb0FSaXNBaWdCTWdZWkJaYXZJUWc=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2023-09-20T07:00:00.000Z",
+    "time": "Sep 20, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco begins offering Ozempic prescriptions to some members",
+    "link": "https://news.google.com/read/CBMihAFBVV95cUxQbk9FTWNZUFk1c0xCMHZUSnh0V0FHSzBuOEJEX3ZCTGEyOGQwMU5CeElHMTlrcGRoYmJPejgybTdUUE5wVDJqWFVkQmxiSHV1aUN2U0w4NGNQYVhWWGJDRGg3MF9ibjJoWVdLOU1jSWxQRUo0MGhkRjAtSmZpZFJIRUc4MznSAXtBVV95cUxNYktPMVpQSlNEckp6dExyTThzT1dDd0hJcW9SWlB0dERPTTF1cGtfd3hCTlFQWjlOQTExRFc1cDFoYmhHTTEzTHU4MlZNY0RENTAtQVM1X0J2WkFZdTZhbVk1QncwVTNoQWl0OGd5bTVkd1FUWlJLNzdjU3c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdNRmRwZDJsdFRIcE9lVll3VFJDb0FSaXJBaWdCTWdZQmtJNHd0UVU=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Is Costco’s Store-Brand Vodka Actually Grey Goose? Learning the Answer Reshaped How I Think About Vodka Entirely.",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxOTG00bUhod3BRVGRjY29hQnhuWFRqNHg2ejlwUEM3M2VwYkJYNFU5enlFNGVWcUJMdXcxMEdTSXcwcFpPWmpEaHNaMlI5Z1RXZ01UZG5lNll5T04zWEdTNjBxYlNJa1FlWngxQmdvLXJqMGgyVzZIT25DUGV0VFoxQ1ZsLWJ4UUlSUDRrcVdtQWJpcnVpZFc2RktoSFZtMWU2Tmc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRTRWxvYWpSTGRIb3lWV3hPVFJDM0FSaVRBaWdCTWdhdEJZVHZvUVU=-w400-h224-p-df-rw",
+    "source": "Slate",
+    "datetime": "2024-03-31T07:00:00.000Z",
+    "time": "Mar 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "This Is the Most Disappointing Thing About Buying Gas at Costco",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxPUERHNjJ5TmZ1YmNlMEQ2Y3o4S3I3Uk5ybHV5SmR0Vi1NRDczdzlhTWtzeWdCT05XUS1WMl94SWY5aGRnMWpnbkwwR1owbzJEZWZmUnhvR3JLM19ZNVVvRnlNWWZjM21aaFhmVEVJWEVxWk9kSVdyZWlZLTIzUGRzR0VCazNXMFQ0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRZMEpGU1VoclJtTnlUMHhXVFJDM0FSaVRBaWdCTWdhbEE1QndEUXM=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-08-03T07:00:00.000Z",
+    "time": "8 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco history and founding: How the wholesale club redefined retail",
+    "link": "https://news.google.com/read/CBMiakFVX3lxTE1VY2JXamlRWmFNLUN0NVlpaHo5VFBEdEZ1cXFRZGFnMDV5c2txdGVZSkEzM0VUZmE5RGdJMURnZ1Rpdnd2aEdyN0Fac3ZxZmc0UFYzNmZHWHFQLXFNOXlPUDFyVi02WDdWVEHSAW9BVV95cUxQbkRKMXBRWFZuamFoSHAtZ28xQ3VPbGtyMUtiQXNZVVRfblAzb0otaDdCQVZlMDVvLTdaMVI2bFNfWnkxQUprZzNjbWpFQzhXXzZ2Nm5DY2RyamxMbndZd3lKZml6UjZkQm1lN0NoVWc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDVkSFkxUWtjd01uQk5OMGhLVFJEQ0FSaURBaWdCTWdZUkU0eUduZ2s=-w400-h224-p-df-rw",
+    "source": "Business Insider",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "Jul 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "I'm Still Kicking Myself Over This Horrible Costco Fail. Don't Make the Same Mistake",
+    "link": "https://news.google.com/read/CBMi1wFBVV95cUxQMDItYU9DU2JsWWxtNzlwUl9uQWs2MWNEZG45OEtGN1lqQnRQZDVrMFlGeXl6NGtzTXVlWFJDZXRtZUEtOE81QVk4N3FqeFFCYlJZTGF4VUpnbGlkS1gzX1VzNEtmQjRfbzVHb2JmNTZCaTFuc01fZlQwd1FINld5RTlxMzNzTHBxclhTTEl1eFZzRVMwOHNGeW9pQlpzLWN2R2U3c3RpUElENmEtVFl2ZzhDelBKNndjMnhmRDlEOVkyUjdQcTBlbTR5eGFGemxXbHRmUzBpMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWhWelpSYURCV01sSjVialowVFJDb0FSaXNBaWdCTWdtUkJaVE1pV3VpWndJ=-w400-h224-p-df-rw",
+    "source": "The Motley Fool",
+    "datetime": "2024-06-25T07:00:00.000Z",
+    "time": "Jun 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "The Unionization Wave Is Hitting Costco",
+    "link": "https://news.google.com/read/CBMic0FVX3lxTE5FYWl4d1llak0wZUVHX3UzSmpKLVFUaVdDZW1rQUNkeTlFSE9zZHp0ZVhkOGxwNEJuT1ZoMDhBcDVod0pndWxLbEJVNXZ4VEItVjBWSm9FU2xXaUhYOTBqU3Z0SEQydmVnZVZrRl84d01jMU0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXlZMGx1YUZoS1EzSnhkRmh5VFJDM0FSaVRBaWdCTWdZQkZKQ3JKUWM=-w400-h224-p-df-rw",
+    "source": "Jacobin magazine",
+    "datetime": "2024-01-22T08:00:00.000Z",
+    "time": "Jan 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "What’s Up With Gold? Here’s Why Everyone From Costco To Central Banks Is Rushing In.",
+    "link": "https://news.google.com/read/CBMiywFBVV95cUxNZ2liYTV6VklWSTdGTG1vRjU2LWpSZGRVcGxNX2txZzlLcG5CY3c5VWhaLUxjQnlLX2NkZnhOY09pNU8xUHgxUGRaTlFxQUFTZzl6NktjWWQzTWU2UmJGM2hhY3g3ZVJSUUxVbzlCWGJyNDRYejJZeFFwR2huSWJ0cVZfOXQzNHoybEI4NUxZVmRSRkpzMEgzM0ttVXF4YVlEVi02XzBRakxveDFVSXluZVl2SE52c2RjR1hNUjlnWUs0amVGSXpzcHpCUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNMV0pOUmtWTWJHSkdSVTFTVFJDb0FSaXNBaWdCTWdZQkE0cVFGUW8=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-04-10T07:00:00.000Z",
+    "time": "Apr 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco rolls out new membership card entry scanners",
+    "link": "https://news.google.com/read/CBMikwFBVV95cUxQREdMSUlSblJLbnA4ZGRYemNsM1NCVXNwZXJZcFFBS182VWlFMlFYd2lNNkF1emN4TWZsMGRITDFhdVZqTm5HUjRDaVFGS3djZVhONjNQTlZseWMtOE1tR0o5RVJJR0JoMVpkZGc0LS1SSTVMNE04ckpQekxxejVmRjllSEFFQzduVWFGRTV5M1NRSUnSAZgBQVVfeXFMTnFDQ1hiRGpsb0VhWVF5WDF2ZlZ2dk9BMHNqekFmMUR6UGZJYTZzUHVTNHR3cXhEUjhJQTNORWRuanNjZ3YtdlgxVWdKVzJRc0RncldCUHpCSDUwU0g1S1hMZkpXY205NXVkRUF3bjRjZHExTWRPaW1sTXNmQW9SWEtTNGhGOF92N21MQ2MxdWs4cmFCU0xERGE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWxWM2xDVTAwdFlVcFpORlJOVFJDM0FSaVRBaWdCTWdZaGtJYk1zUWM=-w400-h224-p-df-rw",
+    "source": "KTLA Los Angeles",
+    "datetime": "2024-08-06T16:53:07.000Z",
+    "time": "5 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco CEO Ron Vachris reveals his winning strategy for the legacy retail brand: 'We can’t become arrogant'",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxOV0o1NDg1dHRYenRuU0piOThFZm1sWkdQUE1jb1Uxd2Z2Sm1UYVNzNEdmMnB0aDFYVDhtOHAxVHpWc1VPNmoyS0ZuTG1DSDRFVGx1UDNkR0d5OEk5ek1IRjI3Wnl0VG5va0Y1SU1pRGJsdTBralM0RjVMWXh6NmFnN2pLbDhJLUlVeWtoMkxCSkRmRy1VRjZhQlUxbkJTQnM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFjMUZCVkRRM01teGZWMmxwVFJDM0FSaVRBaWdCTWdhOUk1NHlHUW8=-w400-h224-p-df-rw",
+    "source": "Fortune",
+    "datetime": "2024-05-29T07:00:00.000Z",
+    "time": "May 29",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco is building out an ad business using its shoppers’ data",
+    "link": "https://news.google.com/read/CBMiqAFBVV95cUxPR194SlkzY01PaGt6a045SmUtZ3R3bTBiMVI4azJTVGZ1ZzhhSi1HQ1VoSW4weHppTi1ZWWNSZFdYOFRETlR5SDBDcHJZdk9sMTlqRXRfR3hKU3Y3b0VsTERfY1NwaGlNdjIySmVFS1FqT0dIb0ZHTm1nb3BEQlVlMDR6NXJJQThoUldZMG5KUENsZ1pzd3pKajlDMG9iXzJCZUtpS1M2Zzk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXlkV1J3Ym01MGJtdHpRWFl6VFJDakFSaTJBaWdCTWdZbGhKYU5zUWM=-w400-h224-p-df-rw",
+    "source": "Marketing Brew",
+    "datetime": "2024-06-06T07:00:00.000Z",
+    "time": "Jun 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco accused of failing to disclose online markups",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxNeVQ1SFlTNHJmeXVxQTJHUm54LU56bURYLXl1Sklib2lhNVRXYkZGd1FBVnV6ZGRpWlg0N1hHM1pHaWNaM3V2UUpVYVprRWRsdVloNG1BTG9VeTMzLVljd05nQ0ItRFJ3WXBvaGJ0TjJEbkhqNnJRT2l6dk9BNTV1Zk9fbk5jUGZQM09OVTI3cmlucmZDQWc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpUMDB4ZDNZNE5WVm1Ua2MyVFJDM0FSaVRBaWdCTWdZaGtJYk1zUWM=-w400-h224-p-df-rw",
+    "source": "The Seattle Times",
+    "datetime": "2024-06-20T07:00:00.000Z",
+    "time": "Jun 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco May Restrict Book Sales to the Holidays",
+    "link": "https://news.google.com/read/CBMi0gFBVV95cUxNZ200MUlWY25oMHlQZGpfNW9mR2VLTTBjOVVrd1ktVE11SUhqUWxuWk05dFVqNFpqUlFEb1dfTGdqeEVhbnRxaV9odkJTNk15YmtqbktkakN5amkwWG1OVi1QdkkySTZFZ0VkbHZreG9TZnZzdG9XOHQ4T1pBXy02bnJtQ3JVM0tEN1NpTVpBLWVPdFJaYXVDN29UaG9jbEJqeDRBWVdtMEYwdzdtcmJNUmtiZXFBSGZSdWJKa0M3RUQwOUVVajhjdldmLWlHSWp2QVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRVRWd5ZUV4R2JETnZOV016VFJDMUFSaVdBaWdCTWdZTnNvN011UVk=-w400-h224-p-df-rw",
+    "source": "Publishers Weekly",
+    "datetime": "2024-06-06T07:00:00.000Z",
+    "time": "Jun 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "More than half a million portable device chargers sold at Costco recalled after two homes catch fire",
+    "link": "https://news.google.com/read/CBMi6gFBVV95cUxOWDB2Y0tKc3BfR1dLQjM5Vm5pM05aYTJEd1lBUl9KdWpFWGdLa2U3SFZWYkF4YVhJS1VlcWdwN0ZNdFZhMExCVEl1M0t3OU1mQTJaY3RLQUNjdFlsZmJUVFVJdWhjNTZTbnhLZlg3RVVKeXF4WWhDRWZyRF94ZktKWlZWVkJjN3ZTVlVVOThzM3FDRW1TemRIeGpENWZ5SFRaMHVBTGdaRVdHWFh2YUlPSkdGT3hTQUp1djJWcFl3c01uVTl5b204RHlpemVMU2NkRXdjamdfRXdyc3FpaFE4R19Ea0t4VjBmRUHSAfIBQVVfeXFMUDMzQ1ZualZVVnB2YlNHMUQ5eUdiT3dhUjNNR3RadE4yajdxcXNHWVJ4VEZhRWY0ZDNqQkRmS2VuX2s4ci1TMjNOXzNITncwVWJCM2NjU1VRWjJITzNUaW5VYlVQMHRLMUZTUmVDb1hncXNQc2VCYW9VUFdsSG5Oa19pVkp0WGg2WGoyWTI2NklZbWM5cFQ3OEFzYjVfTkE2Q0dDbEswR21WQm5CZHJrblRvNHZiVnJaTGYwT1ViZmpDdWxBSWRnNFAtTWpQTjhfVHp1Y1lqaWlkQXQteDFWUkhCNFVtOTRqU1lkalNBSkUwaXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFiV1UxVmtOblZsZGlkSHB1VFJDb0FSaXNBaWdCTWdZSm9aRG9QQVk=-w400-h224-p-df-rw",
+    "source": "NBC New York",
+    "datetime": "2024-06-21T07:00:00.000Z",
+    "time": "Jun 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Public input meeting on proposed Bel Air Costco scheduled for Thursday",
+    "link": "https://news.google.com/read/CBMipAFBVV95cUxNMFRWSHVZREYxTGhQRUxpNWUtdG5fZlpvQzIzRUFlYVphT2JfXzFNS3VFdDVMY0JpVnVKb29sa0pOTTU1QldHUUVBTkI0V2FVRWJxS0tMUHR6ZDZ5dEN6TnhqWUNuOGhlUUROdHlZSVU1MFFyd1A2U3pBOERkZDN0QjM3X0MtdXByWGdIZ01aQ2dfcnR3ZUNUdHA1VG5uZ2Q3MGRJNw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNVpOMjVtYzNwV1RIZDJPVXQyVFJDb0FSaXNBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "wmar2news.com",
+    "datetime": "2024-07-08T07:00:00.000Z",
+    "time": "Jul 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Neighbors weigh in on Bel Air Costco project, traffic concerns",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxQblpRQlpsWFlzSEs1ekdSS25iQk1qREJWendOc2cwZmxQcEE5VHlRZ0VLVjZQb0dJWWVxcVRYRUh4SnQwbUFtV2JqR2NfUUVHMVNqRnVjNWloOG14MjE0Z0c4X3U3eGdoeDM4SkJhSmprMXk3bjJydUtGcWdTcW9GeE1kUjFKa1c0RFBVRzAzczVlY19nRFFRVg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVSVTE2YnpFeE9EQnBObmh6VFJDb0FSaXNBaWdCTWdZTndZQXF2Z1k=-w400-h224-p-df-rw",
+    "source": "wmar2news.com",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Uber takes on Instacart with expanded Costco partnership",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxPV2dKbVAtQWk0THo5U29wU0tfU1ZZT3B2SjJQOEh4MUphSnNvYUJZd0ZQSHRTZXNrSjN3ZWxHTTlPTEw5UWNZVlhrWVlzUVI4QXA4NkVlSUotQy1ZV2xHamVJclNLZE5CT2dXUmFrUzdZQ3dYMFlzQTd0RU9jd2pwWHF4Z1phSmFvVlJoekJySWN0Ul92VEp5MHVHX0Y3dk00S1E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5aVzkwTFRsd2MxaEdMV0pKVFJDb0FSaXNBaWdCTWdhZFJZd0xzZ1U=-w400-h224-p-df-rw",
+    "source": "Grocery Dive",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Uber Eats rolls out delivery with Costco and a membership is not required",
+    "link": "https://news.google.com/read/CBMic0FVX3lxTE1aeGd5X0FqVklDY0FheExMcE0zclZGdUJBR2hoTkZpZEdmRGdVSmVpcDVaSjYtWHZvY3daNklTWFU5UDBoWGJmN19WWGt3VlZ5aWNrbGZNY2VacXJwaFBMajZYTDhIY3ZYUldreTU4bXdZZk0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdTV2R1ZFVSYWVXWllMVGxRVFJDb0FSaXNBaWdCTWdhTk1ZN1ZuQWs=-w400-h224-p-df-rw",
+    "source": "Axios",
+    "datetime": "2024-05-15T07:00:00.000Z",
+    "time": "May 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "My family tried 16 of Costco's premade meals, and we'd buy almost all of them again",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxPQ3lrLXEtb3c4TF9DOE5taTRacDVudGlfZE9tRFFWT0VKX1E5QTJxVXQycURfNjdsWFRWckZpV2FYblVsMXRyZUZ5V2VLaWo0Y1NIazhtcENLOVBrTWpPZmZRWGhJLU50aE1ORVR5SHV3Y3pXQ3lRT2lleHo0aDNNazdzcmUzcTNQdkdfajR3a18tLXhmNE1NUUZjRW1La0w1VldwN2Nn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNXlSMEp1UkdwRlNsODBSVVUxVFJEQ0FSaURBaWdCTWdzQklKQ2xIR2N0Y3ZsTXlR=-w400-h224-p-df-rw",
+    "source": "Business Insider",
+    "datetime": "2024-08-01T07:00:00.000Z",
+    "time": "10 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Trying all of Costco's desserts and reviewing them to find best ones",
+    "link": "https://news.google.com/read/CBMijAFBVV95cUxOQm1OUFVIem5NdEVTU1hoNFI2bVJWN0JLY3J4NlVKd0pIS0MzOHd0LWcyVTJiMk1MYW55V2NVTW9JTkxtR3dwQlNJNHNWMzlTZmIyc1FpMzgzVE5nYTI2UFd5TTRDRU5faEVId1hYeHY0V0VTbU82R1A1UzU3RjhtRWo2SHotUzFnRWcwd9IBkgFBVV95cUxQYWQ2QWl3ZkVLeXZMQnZUbzlVcll4S3VmcjVoc0dpQ08wWEJMdUFDUlVoOFQtZVlYWjJCMEY3NVpFb0RtWlA2cVVVbnNsNF94MVlVZFFpZ2JxWUZGOExuZngxUzJzaGpCSFpfdzUxN1gwX3R0NzRmNjJBVy1DUFlXTER3ZUM5bm1XRkhmWlA5cmFmQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVhRVlp0VVdkaGRDMWhja0ZSVFJEQ0FSaURBaWdCTWdrQlVZaElSdVJiQ1FJ=-w400-h224-p-df-rw",
+    "source": "Business Insider",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco vows not to hike the price of its $1.50 hot dog combo",
+    "link": "https://news.google.com/read/CBMiZ0FVX3lxTFA1ZnNsaWd0WC1hcUE5bnBQZ3ViWmt6MkM1VXJnMUpMYWhnY2xUVmFXcl9mV3B4MXQ4UjZ5ZGlvcHRYVTF3aE5wb3oyRmJVaGROeVZvYmI0cDlsNFdoVmtzR09BaG45eVXSAWxBVV95cUxOZ2JBZjBSYU5POWNOcWRNSkxXWVJPaFhtQUVtQ1c3VFU2RTBiRjRuQkRCNTNuTDkxbmtzUWlQRzZ5dVMybkRET0NiNUR6dUFHVUdnTTFYRklPc0ljeDRXbGU2T2kzSGkyLVFrdU8?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWpaVkZvWlhSVWEyUkdibmhKVFJDakFSaTJBaWdCTWdZQkFJSk4wUUk=-w400-h224-p-df-rw",
+    "source": "CBS News",
+    "datetime": "2024-05-31T07:00:00.000Z",
+    "time": "May 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco CEO says this is the most important item the store sells",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxNNjlWQ0k1SmM0Nll2MnRSMTRvemtXZFRVT2lja3hINTc2ZHNyMFRjYnIzQkVUaUpHQktBb2lNRlVzMmU2YmMyMjN0d3dJcHRvX0E1MVBFakV4LUZuUWNEOFlYR0hVbUpFTEZOaENvTm9CNU1VcFZiY0tDYWhqUVNUMzhfWHh3V0hPV2tKQkd4ZjZsV0w0VHVUemEybF9MMjhPZzU40gGoAUFVX3lxTFBpcG1Qby1hX0N4NlBjQ3VwOEFhYno2aWJEQU5GZU0tSDZHNjduVW9LUWw0VU5DQmFmNkR0T2Y1Rmp4a0d5SldjcTEtM3BUVlFLeTNicDdKYTRhMVZXcDlGM0JHWE9VVWJ1bWxFb2VJUDZldEU0TEZaYXlKeXRkWFNnRnd3Z2ZTa2NOVy1mMHVocnJUaEY4QmFYd2hZUXFMMW1nM2N1NjEwdQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1UbWRTUnpBNWNHOVVjbE5yVFJDb0FSaXNBaWdCTWdhQlVveHFJUWs=-w400-h224-p-df-rw",
+    "source": "KTLA Los Angeles",
+    "datetime": "2024-07-01T07:00:00.000Z",
+    "time": "Jul 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "What China’s central bank and Costco shoppers have in common",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxQWndmbDRsNEdveUd2OHNDZ3IyUGVXcDV3TjlPVXZ2ODVXVWNrOGpVVjNvTm9OVWNNd0YtU0FxQ1M3T09wd0s2aUhIQXpqLWJyRm83UEtTeDl3X3ZFWUhpNjF5d0Jmd0JQYWVIdEdRd3IxM2J6WUg3RXFrOEFvRVhpV21FRHVSRFRzUFdWYlpxM3dmcVZGQ3VxQTE0OGVNbmljTFQ0cTBtT0pYRkgzY0h2WVNYcDJZUmhteXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhZME5WV1dkWmNFZFhSRlEyVFJDb0FSaXNBaWdCTWdZbFJZek5wUVk=-w400-h224-p-df-rw",
+    "source": "The Economist",
+    "datetime": "2024-04-11T07:00:00.000Z",
+    "time": "Apr 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Why Costco’s hot dog is still $1.50 when everything has gotten so expensive",
+    "link": "https://news.google.com/read/CBMif0FVX3lxTE1oUWgtMnFNaHlrMTNVWnZTZjdONWxuUUNRNW5mQ0F2OXZldk9Wa2pMLXlVTGVTWHZxWTl0bEtiSS0tQW40X09QNV9PTVNCNlAwdERfV2V5ekRoQ3Vwdlg5OXhYczFfdTJPcVhsR1RmQ2s2NnlTaGlCbVdoU2NIdXPSAXZBVV95cUxNdmxianZGWFVNSHNkbGltM2x6azJIQTNhUTMxQkpYOWt6Z0ZGN1dDN09wcGk2ZjVxc3lZdTNhdVRLT053c01CaHNfOFVwV3lKRm9naGhxQ3JIQ0p5N0hIUFpZbW1xU080ZmJjaFdyQ3ZiUldtd2xn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVZjWE4yVG1GeU5FRkZVRmRLVFJDb0FSaXJBaWdCTWdhQkVJenlPQVU=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-03-27T07:00:00.000Z",
+    "time": "Mar 27",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco to raise membership fees and rewards starting September",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxPMGx3dG8xN08yNnBNV2lfWVUxZ01yTEFKVU5XNlVNT2hnc01HLVdnTmZBSHBLVlRhVVZzcWdKWjVnQzRuU2FpVTN5Q3pKaTUwLU50QzF1ZXNfeDNqODNiRVhBblpMbWxHUUlEMjJWVTBTejNuV0lXUUQ1X0VWaWM0QlV3RFJiVDFaUXM0S0duc0h3cDBTWUNwMzliNkE1UDFfUXEw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVka3RaWDFscFVFMUpOWFpFVFJDekFSaWFBaWdCTWdhWkpZanBsUW8=-w400-h224-p-df-rw",
+    "source": "The Seattle Times",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco raising membership fees for first time in seven years. Here's how much",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxNQVlhSDRWT2ppOHluSkdSbkxYOXNQZkdudjdWTW1DVWRLa2xielVRckU4ZFBzbmE1MEZ3TnQyZXZGeTdPOUY2aHk4R0czWE45Tm9yWmxYaGZrYW1yckd1dHBYaDhDa3VJQzl6NUVDc3BCN2FYOHh3TkVvTUNJb19GY09NbVcxRVByY1YwUXhTcXN5dXNZTGJTZi1WRTYxR1dKSXUybU44VktfdTMw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBibVJzY2paTVFtUTFhMGhuVFJDb0FSaXNBaWdCTWdZRkVJaHJHUXc=-w400-h224-p-df-rw",
+    "source": "NorthJersey.com",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "myCharge Recalls POWER HUB All-In-One Portable Chargers Due to Fire and Burn Hazards; Sold Exclusively at Costco | CPSC.gov",
+    "link": "https://news.google.com/read/CBMi3gFBVV95cUxQSFJxVTJJYmp3NVRURm9kd3p4WC1xUjZsLVM4OTUzX1hLWndQT1cyNW1CenZyUEJYS0prNVF5ZGsyd0ZKUjlYUU1FX1hPRGxRdXc4cGgzZDhKNXJzWFZfODlpbDJhRHUzZFAwcDZuMXhKaVJ0cVRMX0pLano3XzE1dlZack9RcnJRemx3T29PZ3l0R0VTU2RaVEZUaTBEemhPRXVkTndmUC11dmY1M0hwOGpyMXc2ZTVISTBYUlFpMnJfTUxXQUprU2FLUXh3STh1NHVTQjhvVzVkTGwtR3c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUZXbE5qU2tSc1V6TTJXbkZTVFJDZEFSakNBaWdCTWdhSkE0eXVNUWc=-w400-h224-p-df-rw",
+    "source": "Consumer Product Safety Commission",
+    "datetime": "2024-06-20T13:01:02.000Z",
+    "time": "Jun 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Opinion | Costco is the hero America needs right now",
+    "link": "https://news.google.com/read/CBMijAFBVV95cUxNRWpDUTd5R3pldndvSHpyYlFUV1hwbkVfNmNCN1VfSGdOaDhxU0N1bVZVOUFxeXlsRkpxQUoxdWplNEdPRnR4RnVaUk1NaTBfbVRBbDVncjlzZlJOR2hyNENWQWlKd21lWnRQdW5veGtRcXo1SU1MM0FHX2pEQlFsbHFVSTluY3BlcEpFcw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNNMGhhV21ka04zUnNkVWRPVFJDM0FSaVRBaWdCTWdhVlFwd3FIUWs=-w400-h224-p-df-rw",
+    "source": "The Washington Post",
+    "datetime": "2024-06-04T07:00:00.000Z",
+    "time": "Jun 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco is testing out a new system for entering stores",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxPZG8yRmpCNFZYS1lTT09La1pqaVFRamNmMXoxWHk0dmNGNGlFdS1CUUpfYWdKeHJreWVLekdyOWpqeFlKbnhwUDM4R0dRbnRaaU1RSkFsR1I3Wnh1UThybW1mUGdzaTEwMlp3cHAyVkZrcnVFdE1HSW9DSUliNnpHUDhnMGhUTGll0gF_QVVfeXFMTkJIeU1ZSjdWaWVMYXRvRTB4VXdHY1FqSWZkVW81a0QyWTNCWXhqX3lQa2c1aDFDNHpFVDNEZUc3YXc2a2IyZlBpZTFuVkJRSEc3UWtQU0RMczBLd1FLZkhKTHFObGZtalFUM3NNSl9jUWkxOVFCOGZXZm4tcmpLOA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNSRGRVZFVJemFtSTVZekJ6VFJDb0FSaXNBaWdCTWdhWmNvb3JMUVE=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-01-16T08:00:00.000Z",
+    "time": "Jan 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco membership scanners coming to clubs in sharing crackdown",
+    "link": "https://news.google.com/read/CBMiigFBVV95cUxNeWtPZDl5Q3I2cnRfc09RclVRS284aTdDQVNfOXU1Y1dHZnVqQVNGYldpWERjOEJ6b2ZuSERuQnMtM0VFUDlaczFTSDd5ZmVROHlJcGxTSURuRHVSQ3NuZU16dVJvdlJPOXlVZ2JkQVdIU0VrVDhBN1AyX0FJbzlCWU9nMmI0Yk1waHc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW9NV3c1ZUhseVpHdFFkRUoxVFJDb0FSaXNBaWdCTWdhTkpZWUltZ28=-w400-h224-p-df-rw",
+    "source": "Axios",
+    "datetime": "2024-08-07T23:37:30.000Z",
+    "time": "3 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco development plan divides Penfield. Details to be outlined at Town Planning Board meeting",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxNYk1zS1l0S2VvUEJtaVNOc1lSbWdUclM4bG93Nk5xckY3c1BOR2VxbGhmZS1aS3JoNTFEVWU2RWJDU0hkVkZ0VVl5UUxFUDRraWJyUWZnOEdLVGNSVEE3eXJ6blp1ZGdzWXNpNWVJRFZWR1VaNmltSDMyV3Y1enRLXzhQN3BWeGhDUUZDSUZTS0dMaWcxa2ZCRk1OR0JKWFJweXBCRGlR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhPUzA1VTE4d1ZUSlRlRkJ5VFJDM0FSaVVBaWdCTWdhVk1JZ3BtZ2c=-w400-h224-p-df-rw",
+    "source": "Democrat & Chronicle",
+    "datetime": "2024-08-07T22:48:19.000Z",
+    "time": "3 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco will offer weight loss program to members through medical partner",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxPNlpHZHJsZUgyVXRFT0trdEJlUWZzaFJqVWdaNGVLWnNwSEl5bDM5UVlEUlV0UGU1S0t4MjRlZUg2RWZrRHF0N0xJN2tJMVJXS1lGRm5PYWkyNjRvRUhoOFlEVXlzZE5OdlFkSlBXUTRIY0hfMXI1U2tnZ0N4OEswbWt1RmlTZFBpMFlJczhxWlZIa29SdEE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpWVzVUWlVwdVUwZE9abXBPVFJDb0FSaXNBaWdCTWdhZFlvd3FKZ2c=-w400-h224-p-df-rw",
+    "source": "USA TODAY",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "This Bay Area Costco is selling one of the best wines in the world",
+    "link": "https://news.google.com/read/CBMikAFBVV95cUxON3pHYUJCVDYwWDM0STRnelZjd1ROQVFlNTRDbW9yYTZpRjBEaldfUDlySjZZaWNsOGtJbXhienRDMmx5ZU1DZEhLSy1fVlowXzZQSmV6d0ppdFNQWlM3YjA5OEZFaEFKVUdwYWMyNktVTFlJclpGa1F2aEFVNk5MREVFdHM3QTNHeXdQcDAxenE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNVZUM0JDYW5sbFNtZ3hTM2QyVFJDM0FSaVRBaWdCTWd1SkVJRExHQ2lxeGJvYzBR=-w400-h224-p-df-rw",
+    "source": "SFGATE",
+    "datetime": "2024-06-20T07:00:00.000Z",
+    "time": "Jun 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco's Viral Hot Dog Pizza 'Hack' Isn't Even Worth The $3.85 I Spent",
+    "link": "https://news.google.com/read/CBMibEFVX3lxTE1MTEdXNWlHZ3lLakhZRS1YR28wYlNQSXhVT2owbjVXWWlRbWhUR1VOWEc5LThfTllHZTJJZUk0UXkyejdoZzZvd2JSUXRtMnZsaHpUZmZHNFdMdXhFMmpjRjBXZ0doZmtlSFZfZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhValZKWVU1NFFYRnpiRzFmVFJDb0FSaXNBaWdCTWdhQkJKQ050UVU=-w400-h224-p-df-rw",
+    "source": "The Takeout",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "New Omaha Costco changing sales tax after 6 News finds discrepancy on opening day",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxORFhQamFIc0pqQVpNS1Y2dnhCdXRmcjJIMlpUQndtZW14MjU3Tm1ia19OSEs5NGM0OFl4YU1pcFZFbnVLMU1DU3A0VnptajhLcHlUUVBKakZUZVQtaVE4U1lRM19LbUVlY0x5akJ1RnkwT3FHSGZ0dERjcmhmVUVLWUZPUlFGeTEyQU5NMW0yNHV5bWth?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRVblYzTlc1VU9XcDRjVkJIVFJEQ0FSaURBaWdCTWdZQmNJNm9NQWc=-w400-h224-p-df-rw",
+    "source": "WOWT",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco raises annual membership fees for the 1st time since 2017, boosting them $5 to $10",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxOZ2lYNFlkQXpsai1yNHhVWFlKbld3QzRzNnZCcVJfVE91M1gxc1RYbUJuQk5PM2dqWmFZeUlYUjRYenZISXJtUTRMVG1zS2JsWm1JbUJ2cnJzNGllV2hpbngtS2Y4YXozNzlVR0xNck52ZW5SMzcyWFA4Uk12b0xCUGxUM2pjNW9mZWFkQVl1bC1UNFloaUV2Y1lNQmk5bDVFWVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWpWRVJFTlRFMWF6WjNXVWQwVFJDM0FSaVRBaWdCTWdZZGtJYk1zUWM=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco Recalls Ubio Labs Power Banks Due to Fire Hazard; Caught Fire on Commercial Flight (Recall Alert)",
+    "link": "https://news.google.com/read/CBMi0AFBVV95cUxOVWNSSDFFZGJrNnZmcWNsbTFUQ2p0T2NrQlF6cDhjRzJKZUFFX2JUU1ZPVTBvcG9jeVJwSlpubzVtWmd0SGNUc3dnZE9QR0VOeGNtb3gwQXpWZ0FubTNRMmZBTlZsY2owVC1jMTRKT1EyeXJyWmdQc0lqVG1iSlg5QU5mVkJvSE5PTDN2NmJ4Mm1wZndOcEtBVVBXTGxraUZhNVVsRTVua1dnUGpTLTZBcng1RmZCMWF1OVdnZWlYTEZRNDhQbGt6R3BXZXVUZWg4?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVhRWh2U1V0cVRVVm9VbVEyVFJDV0FSalFBaWdCTWdZQk1KQzFyQVk=-w400-h224-p-df-rw",
+    "source": "Consumer Product Safety Commission",
+    "datetime": "2023-08-17T07:00:00.000Z",
+    "time": "Aug 17, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Hot dogs and chickens by the millions: Just how big was Costco’s 2023?",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxOamNveXFJU0p6MkJOYXNmaGpkdm9ybFhjRzRBRVVzd2pjWnVpS1l2SmxhNnUwMWZpenlhWTZPVkFPSHY3cXFUdTd3VVM2bnI1M3cxZVJPUHZDeHpVUWRnUHFpV3o1SkFsYnlobzBjRkREdV9nYk9ZX3dlQVplTnczbmJPbXJ5QkR2YTZHRmdTRFgtUk1BWjFqYW94S2JaUUJIa0NaaHRVOUZLQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdZbDkwVVd3d2JHcG5SWEV5VFJDekFSaWFBaWdCTWdZWkpZZ0psZ28=-w400-h224-p-df-rw",
+    "source": "The Seattle Times",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "It's true, Costco will scan membership cards at the door. Here's what Californians need to know",
+    "link": "https://news.google.com/read/CBMi0wFBVV95cUxPZl9aeFAyY2Z6S2NCT3lnS09PS0dIQUZTZVlsNGdMNW9vdGZqX0ZsMWNWTGNDbXZWRDFabDdtV2NoSndWOHNUY2JuY3gxc3FBYnpNVmtpYkVIRm12UHlfX3piX0VUdEliZ2dFVEZTd2FfeHpwMVp2RDVSdzBSOFViVTJVZjJ4cDZxbG5iczRHVkstQU9QRGotZ0dFa1FVTnJNSnRyekp1WEtIQm8yLU5jb1ZBXzV3TWYyOTJ6MTZMTkZTblNQYkdBdGxtTnlhWlk0VEQw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURia2hQTUZOTVdFbDRha1ZpVFJDb0FSaXNBaWdCTWdZcFFKelBIQWs=-w400-h224-p-df-rw",
+    "source": "Desert Sun",
+    "datetime": "2024-08-08T16:14:56.000Z",
+    "time": "3 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "ID, please: Costco testing scanners at entrances to keep non-members out",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxPbnZGRWgyX3dvcHJ6bVVSckN3bmhwMXBkQWlfY2ZaYWRfaUdaTGRIZzVmQzBlTlhhT1d6ZHppYzdycVFjWld6aDJqQmdjU28yYzBTdjE2SGs1WWNDbV9nYU8zLTFNRWo1ZEdnSTI4bXJCelA1LUVjR0RaRHNlWlhSR3paSXI3c3BTMTl6Tkt2alJ1Qkc4bzM5WVI2NHA3OXFmSEJV?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5NakpZUlhCd05FTTBMVVZwVFJEQ0FSaURBaWdCTWdZQlVJcmpKZ2s=-w400-h224-p-df-rw",
+    "source": "USA TODAY",
+    "datetime": "2024-01-16T08:00:00.000Z",
+    "time": "Jan 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco Wholesale to hike annual membership fees after seven years",
+    "link": "https://news.google.com/read/CBMiwAFBVV95cUxPeWdJem9uc2p6czNrZ2ZyeTlRVVlRd004WU5tRHphTDd6djZaeVFsWjhaYkp3bE4zRG45cmdOdWZ5Wm1BcXpCUEZGSno3YktFcDBZbF96QktuQS1jbXZFTXBkMlRSVG5EVS1nVGtQSFdoYnZEQzdBQnc5UzRBcE9rMnJXdlRkZUE5T2FqNzJwWTNGOEE5VUNDMXkzTzRrWmVneDMybG5Pa2NiQlJpNHpDQmFXbUp5N0VNWkcxN3dBWjE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURXaTFCZDNrek9TMTJNV1pZVFJDMUFSaVhBaWdCTWdhZGs1S05zUWM=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Here’s how much Costco’s membership fee has gone up since the 1980s",
+    "link": "https://news.google.com/read/CBMi3AFBVV95cUxNOGhPTWs0WWNvQVdFRGpZdWh3V2xFeEZqVDh2dlhsRHJ5cTR3SE1RWnNVV0pWbzBLamJOMFFtQm5hOTBhandORzJiSE5fVVVhcDVwellLUUJWSmxjekVzc0ZhUzhFempGZFBaUHhPZFFRWjRRSGhxcVdyVUZEdkhtQ2R6S1ZHV1Fwa0pIYzVJb2ZTbmZWQk11UHJkUmV2X25HVTBfYkg2R0MtaXZLa254NFMzVGQ4ZmtpbGNDR2lSU25HclQ3WTdDRjl3cnhUTE9qOHVOXzN3eFFsajk10gHiAUFVX3lxTE5qclFOMEpOVElMT2xuRHIyTGUwMnRGaDYwMTYyZkNWZG5JQmwzc0RDbEF5VElRZXU0akI3VEt5S1BlZkVka2FWLVF0OXlzZkhQUmNJQ0ZmcFNvUTFRQXZuMGRYUC1oc3hoZkZMVUZfRHBrdFNwMlRrbl90ckw2cWdGamlKUE5jRS1SbkFHcS1aY2hDOVlKSGgzUExvYUxobThBQ0xaU3hTRXlhcHVDOVpiM1VhSGxyLUFCTFVFNklHd1BjYy1YMU5mMy1Rb050ZG5KMjlYWmI3aXcwTmptMnU1SlE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNW9iVjlOTm1WbFRsTnlOMjEwVFJEaEFSamhBU2dCTWdNQm9CUQ=-w400-h224-p-df-rw",
+    "source": "MarketWatch",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco plans to open new upstate NY store. Here's where",
+    "link": "https://news.google.com/read/CBMiwgFBVV95cUxQQWxseEJXd2dhVXFHRkhRUUc1bmdkZFpVZktIci1FamVZdUJOWTg4d0pmWENaeDhFWDlNd2E4Q3pLQ0ZzV21keS1KREJkcG96TDhkd3BHbm5DMUV4UWxVS2ExbkZkakpRMVdBSVJPZ2VoVXJ1RkVfbFljRVM5aGtJQWU0c0dvMTY1SnNVel9WdldfM052YTgtTjJfeWZtaHhyb3Jfa0NkY1c4cUI3VWM4MzR4bGFqTHNTaWJHR3RUdXpwQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iI0NnNTRiR1F6VW01T1MwOW9WRFZVVFJDb0FSaXNBaWdCTWdB=-w400-h224-p-df-rw",
+    "source": "Democrat & Chronicle",
+    "datetime": "2024-07-02T07:00:00.000Z",
+    "time": "Jul 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "TaylorMade suing Costco over iron technology dispute",
+    "link": "https://news.google.com/read/CBMifEFVX3lxTE1zRks2cEkzeE1KMFEzRl8wWFdHNkdrSFE1U0RIRGgzdzY3VEpCc25ObHdpVVp6dEQ5cWpSa0Z2TjdKeTFGbmlWRzZpQkJBWDY0eDB5cVBDM29xR1dxYjBRdE41REFJaXZFYWJDaHFhX1FycFlZOTJXRk9UYnfSAXxBVV95cUxNc0ZLNnBJM3hNSjBRM0ZfMFhXRzZHa0hRNVNESERoM3c2N1RKQnNuTmx3aVVaenREOXFqUmtGdk43SnkxRm5pVkc2aUJCQVg2NHgweXFQQzNvcUdXcWIwUXRONURBSWl2RWFiQ2hxYV9RcnBZWTkyV0ZPVGJ3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXpkbkZKU21kZmRIZFlZakZTVFJDb0FSaXNBaWdCTWdNTlFnZw=-w400-h224-p-df-rw",
+    "source": "GOLF.com",
+    "datetime": "2024-02-01T08:00:00.000Z",
+    "time": "Feb 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco accused of sharing users’ health data with Meta",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxPVDRtRE5LbHVrWUVWUkNfckdaMmt0ZHF6ODc4aXk4Rm1wM1NZUWlRM3p0NTE2QkZJb0lJZ3pOWXdoUXdlTHM2Y3UxeEJaZ1ZhVWdacEYzMlE2b3Y4dTZmWEpzSHlqQjlLOVVHY2dMZFlEblhOR3FYQ01LcGhzMVIzVHpNWXZqaC14NnEwWHJuSEUtTDZU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVRiVEpRVjJWYWNsRndiR2Q0VFJDM0FSaVRBaWdCTWdrQlFJUVlSQ1BBMWdB=-w400-h224-p-df-rw",
+    "source": "The Seattle Times",
+    "datetime": "2023-10-09T07:00:00.000Z",
+    "time": "Oct 9, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco CFO ‘voice’ looks back on 40 years, $1.50 hot dogs and leadership",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxPalgxb25Jb1diZ3lrcmlGeEd4YWdfMDJuZ0UxRFl4LVZJRXVMNmR2MmF1aVpWMkdIRVF3bnpmV19Id2xiVjJ2T21VM25iN2R0TGVzbFZ1Z3JqRmQ5LWRTeDhEMEdZdndBNVZFazJMSjcteUVzYWNLbWhsWjl6NUhvS1Z3a0t5bFYzbmlkZnhyNVpyaVBWeXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRiMGhRVDJOTU5uRnBSSE5aVFJDb0FSaXNBaWdCTWdZVmRvaUhxZ2M=-w400-h224-p-df-rw",
+    "source": "CFO Dive",
+    "datetime": "2024-03-07T08:00:00.000Z",
+    "time": "Mar 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco Q3 earnings beat all key metrics after the stock closed at an all-time high",
+    "link": "https://news.google.com/read/CBMixwFBVV95cUxQWEVKRkRVM0tWOFFXTFhkeEYzYkZONVF1dVN5Um1HOHNkWGVGSHZtdXE0bklaM2lMTk1mdUp4QVg4b0Y0U24waVhNREFVLUc0OEZ0bWxOZFo1MnpyWlJHY0Z1dU9YMDdCdnZwajB5YWN3akZSVUhLRHZTNFRscUM4Y09JY3JYUGVHOGpmZGlwWHgtR09POGNRa1gyT2Q5R0NxRWNQWEpNT01DcmdrellSUHN6dl84YlJXQlUzSFpTOVV1ZzM2cWJz?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU1NR1JHVVRORlJtRnBUbmRKVFJDM0FSaVRBaWdCTWdZRk1JYk9HUXM=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-05-31T07:00:00.000Z",
+    "time": "May 31",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco is raising its annual membership fees for the first time in 7 years",
+    "link": "https://news.google.com/read/CBMicEFVX3lxTE9VR1lWaUVNN1QxUkNDX0VBRHJTZ3E4N2Q1WFAycDBmeUxDeVUxV1pEZkMzMThtakU3U3pxVmk4RENaSmdkU2drMGQ4MDV0aV90dWlSX1otMktjeld0SUxhMHZwRFVpYnVxN1drYjdyX3nSAXZBVV95cUxNQXVBekVHM2QycFhoNUx0ZlZ1d29QbXhNUEQ1NE1nSE1aS1JiSTR5X1pvX1doZ1dUSEFTT285emxNX2gtTkx3TVhlYzNzUDJqTzdUX3IxMFZVSTA0WVE1RTZlTXkxZmNFbjlUN3VDeWRGUk5rSEF3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTZZMnBDUTFWcWJITjBURE01VFJDakFSaTJBaWdCTWdtSndZcm5SQ1ExN3dF=-w400-h224-p-df-rw",
+    "source": "CBS News",
+    "datetime": "2024-07-10T07:00:00.000Z",
+    "time": "Jul 10",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco to raise annual membership fee in September",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxNZ1JzNkZsNlZWcDVSYXNiN1ZNVFVTd2I2cWZick5BRzYzcy1GWmM5SlJfR1NZdldmS3NiYm9CZEVjTDQ3bDZpaG5ub0c3VjNhdGZyNWJ0eko5Z0U5NVhxX1B4cHdZbGVsUzYyVFRVVDNyTHhnRGNmbGJld3BQdHc1WEJ0bngxTnBsbndxRVlSMnBhLUM4RVc3QVZ3?hl=en-US&gl=US&ceid=US%3Aen",
+    "source": "Produce Blue Book",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco is selling apocalypse-ready meal buckets with food that can last 25 years",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxQTm5QZ29PYnpSN29nWDJGTzdGYUhEa1pXUkF3M3pYa0JVZUxITE5YQ1VEbjlRWC1YR3R1a3hmTzJSTGZzWmNRanVZUHN6MF81VFFfVzhzREFUU0FkVG4zcnFEem15bVRyQW1hRHRzYlpkMUFWVXBQa0dSVEFDQjJVcGdPeDVEclZEY2NaeWVvb1VNZ0NjNEl1Q1RoX1ZjZlJuVWhUbjhqZl9iSmtVdWpQSGFaRQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVibEJvUWxSMmFVaENSRXBvVFJDb0FSaXNBaWdCTWdZdGxZck9PUVU=-w400-h224-p-df-rw",
+    "source": "KKTV",
+    "datetime": "2024-07-19T07:00:00.000Z",
+    "time": "Jul 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco membership raised by $10",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxQdWhfa2pRQTBkS2xtLVY2M0VmVFdWckV5RWt3eFdqYjhQYXpQUkNxWEotbFZ6Z3l4NzJFUGhzNlRhZ21tR1I4ZkNoMzdKQXRZRnRPbU4yZV9Uano2RmJaS3JSY24wWENhR1JCZjRSMmZ3NVRsNUZ4N0c2WUxfQUFlN05R?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVVM1owWm1WRFNqZEtYM1JSVFJDaUFSaTRBaWdCTWdZSllaREhyQVk=-w400-h224-p-df-rw",
+    "source": "Supermarket News",
+    "datetime": "2024-07-15T07:00:00.000Z",
+    "time": "Jul 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco doubles down on membership card sharing crackdown with scanner test",
+    "link": "https://news.google.com/read/CBMijwFBVV95cUxQSDFtSVl6bjhkVUxlV01Kel84LUptb0o4RFZ1NDY3bmxSQzRFaThndTV6OEJJWG5OSkRoZ2E3TlM0NXgxZ0lLLW9nX3drMWtjV0xQUzY5REE3ZmU0b2ZmazdwNTk5TmY2YVZxc2ZqZ3JvdDkxclhPTUVmZFlPX0cwSWZZLVJkYk1XQ1JXbW0zdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXZZblpITTBWRU0xYzJXamxPVFJDb0FSaXNBaWdCTWdrQkJKS0pEU3ZnS2dJ=-w400-h224-p-df-rw",
+    "source": "Axios",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco stock reverses down after membership-fee rally. Analysts say it’s normal.",
+    "link": "https://news.google.com/read/CBMi3AFBVV95cUxOZHk3cHMtOFNPOGNfZlZuNmxiSXpNNU4ySGp5TjRUTV94TGFVYmJWZzZXMV9wY1UzMUxCZGZlSDBSSHFOd2V4R2JxYlBCRUtTWEstOC1kQ1Z2T2xlTjdGdEE3cHQ3QUI3Q3ktd08yZk80cEVBb0FNYnJJTi1MZmU0UWw0SVY0Y21LaHN2dG11R2xqaHdxWV9oM1BrRjBLZDdOSEVOQ2dCNlhkZ3NCZFlpdEhhbzJlZ3BhVmtiOE1lNmQ0TFYwNkhiNFphcFlQcTQ2cnFXaTB4Rl9iYm9J0gHiAUFVX3lxTFBLWGROR1B3QXNVUlVwQU4xeHRCNG55cVZiME9RaUx4OFlmMklpUmNERnNpTm12eEp3YWJGSTRETGtkSXV5OXExU01fbWRCYzk5RmRwa2c4ZWY5MmxGTU5fMDBvQmNIc2RpS1dWX2FGZTZhRWNOcDBVTHVvOEJQajdaQXFiVmVfc0l2UWdaXzVmUmg0TTNpQXB3TnNHNzlrTVVxcU1rd0hZaWJCdlpEQlctbzJtcHlIbWlHMDUzbTRCMklzZk5qOXlSVkhBbFpzcjExaUZpZk03SjVZRkJwejdBcXc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZiRVJYYWpKVlowOU9XVzlMVFJEaEFSamhBU2dCTWdhSlFaUm5NUWM=-w400-h224-p-df-rw",
+    "source": "MarketWatch",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Could a Costco with apartments help California's affordable housing crisis?",
+    "link": "https://news.google.com/read/CBMiywFBVV95cUxQN05lYWhGTDQxTWJoTkZZSndsSVQ3U1hJZFJDN0UwdV9KZ2FYeUM1TzBNQnZGSXVNaU1SVFI4cEtUa0hDRF8zNEhmWm9pX3FnN0JEUWQ2SGZxY0Z4Y0dQcFE4aFRpOTRVRzVTV1N0SjdvdWYybTJmdkdhaTVBT2VCN0xZT0ZMLW5KeUQ1NWpUYk9sbmZJNUg4ZzNjVmRXdTFNb0lpYTFTVUhHalJ4VENyeDM4MktLTWxfNmhqa3FTT1pPTHE4SWNNdTk4RQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWtVV2xLT1V4b09IWTFURFpGVFJDb0FSaXNBaWdCTWdNVlVRQQ=-w400-h224-p-df-rw",
+    "source": "Desert Sun",
+    "datetime": "2024-07-05T07:00:00.000Z",
+    "time": "Jul 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco Auto is offering thousands off new EVs from Volvo, Chevy, Polestar, and more",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxQVHRmalN5RUhNSDVOd19oMEQ3YTFhdTdwWGF3Q0IwVzAtbVE4Q0JlV0NCWENWeEhkLVdKOENvVVVDbW16Z05lUS1ZbmIzLXVIZ3lrZ1NGRHV6ZC1KT3ppTzl2V0gtNk1jbm5XaXMxQ0ZBdEJHd3BVdlpvQXdORmJfellGTTh3RFZDZHBrdllHOVY4cENUWGJKaGFUbmRaTHdIeG5ac216UQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFkRWhCVjBoVU9FMDBUVGc1VFJDZkFSaS1BaWdCTWdZbEJJNk5EUXM=-w400-h224-p-df-rw",
+    "source": "Electrek.co",
+    "datetime": "2024-05-01T07:00:00.000Z",
+    "time": "May 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco membership fees to increase by $5 starting Sept. 1",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxPc0VsT3h2MUZzRFZGSmVDQjgtcnMyYlNtSUdXd2lqaU9FOE9uX3J3M1hEWXV5c29MVXhBaU0xUW1sUTQ4cE9DRGdPMEVXb3RabzJKTkljWThGLUtjSTF4bm9qSE0wRXBmOEhTdTRjc0xpTTZEN3ZvT2VXX0Q3MGFfZ2l6bkRKZjFCWVZnd3NTWU9IdUVxYWgyV3lUdDkxUDBac3BVQ0Nn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVhkMWhIWWt0clJWRlhjREJDVFJDb0FSaXNBaWdCTWdrcFVvQlNJU2xqbHdB=-w400-h224-p-df-rw",
+    "source": "Detroit Free Press",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco stock falls despite membership fee increase, strong sales report",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxQMklQYmZsMEpuenVVeXB6emZPQkh2U1NkZGxNc05BQnpqNEJHQ1kyVEhZMzBlaHRVaXZlazNpYzNjVFZORnhreWpEaVNoTVRvWldfMlAxOWlONzd5NDdjeFQxajJ2aUE3Y0FLQXl2ZTZGSWJoUHljdG05TGdRWHl4TVI5TlN1S2Z4R0czdDFzVUluZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZNbTV3ZDFweFdWVnBUSFpGVFJDNkFSaVBBaWdCTWdZZFlZTFdKQWc=-w400-h224-p-df-rw",
+    "source": "Fortune",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco makes hundreds of millions on 24-karat gold bar sales",
+    "link": "https://news.google.com/read/CBMiowFBVV95cUxPdUVCVUNSS3FSVUdqQUlaZS1vWkk3MzZSSlZCN3dad0V1Qjh5RGdfcWotdlJUMkFCZWk2OEdjYUFwRXFyTEFhNFFVcG56b1BxS3NDelhERW5wTFNXQUdyNWdqeDRlVVB2ZjNIdEZxS0NhcDBIRjVDaVY5eUswbXNKOFVYbG90TzZ6ZnIyMmZfb3N0aUJ2cld2ZDFoSEdwMHV4MWRF0gGoAUFVX3lxTE9uRm4wT0lZM3JoWjg2SXpfdUU1cTl4UGpWd3R0blVkaS0zdnBiUVZod2NjOTcwUXNpWXNudm90ZE13eEVpd3BzbDBEdWExV2RtUzNWVktlSElmVW9LVEI5WTZ1WlRmQUM5d19oWFZndFJrY1V1Vk9ZQXI0X1NXUVJacXFfVnlWdjhfdFBJY3dTM1gwRFdnUzJKZGx5WlRaMU9uTTlwbmNQcA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlXVGszVVhOSU56bFRXVlJGVFJDb0FSaXNBaWdCTWdZdFJZVE9vUU0=-w400-h224-p-df-rw",
+    "source": "ABC News",
+    "datetime": "2024-04-11T07:00:00.000Z",
+    "time": "Apr 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco is raising membership fees. Don’t worry, hot dogs cost the same.",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxObkJOX3U5RkNnQm42UHZkQTZMNk5Cd0NKdmxxTWItcWRCajlFX1RPaUtmOEZFWC1vYlFhVkV0WVFkYXVyYmVlaDRzVnBWUC05ems1RFBPM0V1Q1M3djNRX0tLak5TRnZSU3g3U2FmVkJpMkxuRUlfYTROc2hKQkJRMHlpeVhHNzhmdk1PZ3Q0MnNpQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRlSGhMT1ZwTlVFZExjVXhVVFJDM0FSaVRBaWdCTWdhaFFvZ3RyUVE=-w400-h224-p-df-rw",
+    "source": "The Washington Post",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Here’s how much Costco is raising membership fees and when the price increases",
+    "link": "https://news.google.com/read/CBMiywFBVV95cUxNeWRjbE14MzNpemdHQkx3MUFYeGN1VF9adG54bDJZWUtuY3Uza21Da0hWeVo4d09xbHpObjBQOVRJWmdLZk1rMFVEZjZualdjdV9yUXg4YTZLcldKbXR1WWhkRGJjRVpWRGxNdjNTS1JBUkFLaHhxT01ETXNVQmRWN0hIN1I1cmdveDNieDVZZ0lsSzcxaHZOckVkU0Y5TjJBaFdRVzFZLVRnZGk3cTBiNGUwcGlyREJFZVdVamhrVWxNRjBjODNxNGtGTQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW9jMFpYU1VWaVMzaFFUbFF5VFJDb0FSaXNBaWdCTWdZWmM1WXRLUWc=-w400-h224-p-df-rw",
+    "source": "WDIV ClickOnDetroit",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco makes change to self-checkout as part of crack down on membership sharing",
+    "link": "https://news.google.com/read/CBMivAFBVV95cUxORkd0Y1RGTkhtRWJvSDBZdXYzS0pnSGJUajVFdWRKd3pTWFpPVTM0WDBKQ29UVzRHUHpFZER4SnppX1ViSEtfWmc4NHBVVWtQaG9oQk9GV203V2EzcE5MaHpKb19EdDdoaWVCSDNscW0zbnNSZ0FMel9NcUZNZkVTVGYtR2ZGTWtyNkg3WXVOeFotcnZiQTc1T253MU44ZW1RYWo2bGNhUVo4Y3dYUlN4UV9iRE1tNlRjUG1nY9IB0AFBVV95cUxQZkhxRndNczc0Si1jdTJYVXg0cnhJZXRRQTlZZkZ0TlBtaTJQcU45MGNIWkV3ekg4VEZReE14Y0l2WF9wZmtiU1pTVkdJTEFONDZueWw4LUhoQlhaX0pFaDNCVVJPWmRRaXFHZFJzTUlpNFNySDRTX3Q5RWFOdi1GQ256TmVBN2RxN2NMbXRZUVJ3Y3IxX2FWU3lGOUNiYTN1dmdOSW52aHdnT0NzTVUzWTk0aHBlaHVHYklqdmtxQ3hHQkNEcjNRcFFLQVZFcmVY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJRMGRGVVVVeFMwNW5XQzFNVFJEQ0FSaUVBaWdCTWdZdFlvd3ZxUWc=-w400-h224-p-df-rw",
+    "source": "MLive.com",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco is switching up how it sells books. What it means for shoppers.",
+    "link": "https://news.google.com/read/CBMinwFBVV95cUxQVzZwVFNwMDBDeF9xVkZQTzJQd2FEaWxCZkVjQU8zdWxsc2FuU1MwelJZcm8wdHMxQy1aYV92RHhEVy1GOHNuaEdDX2l5SmxXYkZWVUVpZlVBLVc3WGF1MUoxbW5TSnJrNmU0dXRxdVQ5TmdpeEdxR0xnaElGWDFCZUxOYkFjenRvT0hndmQwdTV6OWtlR1RidkQzZWJkYUk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRRVWx4YzJreE5td3dYMXBvVFJDb0FSaXNBaWdCTWdZQkVKckVrZ28=-w400-h224-p-df-rw",
+    "source": "USA TODAY",
+    "datetime": "2024-06-07T07:00:00.000Z",
+    "time": "Jun 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco’s surprising response to workers’ union win: It’s not you, it’s us",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxOV29WMFR2LTYyNExDWm9JNExwQ0VaNUstcG5CazRnRENJM1R5QlBpQWxpaGMzdGJPenJja2VqWEZqTWFOVEpRMENId1Rncy1JRFFnMVVVNGtBVGFhTXozZkVaY1FFZXBHWUZySVZ6cnBiZHkyU3BFYzdma05pbGNDQXFzaU9zMkRfb0Nj0gGCAUFVX3lxTE42TE8tRDl4bXZSa2VxTmd4R2Z3ajlyQkNkcDgzdE5wNzNtRDhfR2ZuUlU0X3BiQ0cxZ2ZhcHNZMHpPeTJtQUEwM3BSTG8wTm5weEFYRms4dnJ5YzdPQV9FcGRXTmJxcEZNbFNBREJfZ1RBT3NhVjhFTTBBT1RfUC11clE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVBhM3BKTkRRNFZYSlBYMUZXVFJDb0FSaXJBaWdCTWdrQk1JUkhvYU10REFJ=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-01-04T08:00:00.000Z",
+    "time": "Jan 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco Announces They Will Launch A Retail Media Network",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxNaEpOTlBtaTRyLUt6UUtWZThmbnlPNDcxRmNBWGoyb1ZrV2lyNGI3eDE5WjFiOG9EME1oNXY5UHVudDhfejZuNzM1blBmRHNhZTF4T2d2czlpNmdZenJ0NXUyd1ZYa3JuUzg1VmlFTHYtd2hhTUNGLU1UTGdOUWduQmFVTXVJd3UyVVF3dGYwZDdpOWRzSmJTYWJ5S0ZoR0EtOEotMkJB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNU5aR1pmWTJkclZWUmhaVXhHVFJDM0FSaVRBaWdCTWdrQkFZamtFQ3FoVFFJ=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-06-13T07:00:00.000Z",
+    "time": "Jun 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco to pay pharmacist $2M for wrongful termination based on age",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxNMlZJM2x5aU5INHVJV3BXeUpHR2RBS2hoMXYwaTkzazNSa2Z0RGduaGhULV9LQnpGZWZCS3UzTV9wZXZNREM4RlBFMnlkT29FdEhLeGdRdFZCekZoRFhxcWNMUGtGbkdrTVAwVjFmRTRzRE9wdUFGVmFiRFNhQmZZUS1CR2xBcjk2MVE3b0dWOUJoZHJKUmxtX1RHSjBfZUVvdVZtbU13cUstQdIBvgFBVV95cUxOY21fT3lqTEJ1b1pkc0VKT0wxaEg1N0I4dURTa0NOWjFDZjEzdXdGbEpBMEMyZTEwRTB3c0RpQUMybC0zcXl4ZVl6eFQyeDMzcWx4Vl85SWxzZXVFY2NPWkZPOVpHZVcwRHV0X0VHT28weTJEWWF3X19IZWRFU1lKLTR6UUZWMjc4UGdMMXpGLXZ6dENvTDVXOGp3Rk1hU2lHcTRqWWFJbFF0djlvRE9SWEpKNnZxNEtZSlVRekVn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWpWMWRJT0dRMFFsSnBaSFp6VFJDM0FSaVRBaWdCTWdrSmNZaEhzcWRFTXdF=-w400-h224-p-df-rw",
+    "source": "NJ.com",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "Jul 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Police swarm shops near Sandy Springs Costco, Home Depot",
+    "link": "https://news.google.com/read/CBMiigFBVV95cUxQXzZkX1FqTlRLV3dyOXE2X1Z6dlFXR3ZNSG1wczgwTlBwTGo1aFpkUUdlNHloQUNiVGtNTGhHb0lpM3dxMVRMcElOQ3psYnctSkVRR0VyZWtKSVhGbTFNNUdkNkI5cjBTbkpheTFSRkliZnlrVWd5aTg1TmFxY3NQcThicE9UbXg2LUHSAY8BQVVfeXFMTi14VENsdk91SWV5dFNTVFY5OXBab2g0WnI0Y3p3cGdYQk1leTVsR18xMXNvYkdsV0w2QWFfLVpXYmlNYzJnZW92MmgtWFNnOFRpTmpINmladVpDWjJqUlBhNkdXVW5Ybk13R0p6YVpkTXNPMDF3NXVFemxET1N0TWFVSm5PcEpFcXo3SHRxXzA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXpZM0Y0VUhJMGNGbEJibVl4VFJER0FSai1BU2dCTWdtQkVZb09OZVdoaHdJ=-w400-h224-p-df-rw",
+    "source": "FOX 5 Atlanta",
+    "datetime": "2024-06-24T07:00:00.000Z",
+    "time": "Jun 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco tests new scanners to crack down on membership sharing",
+    "link": "https://news.google.com/read/CBMidEFVX3lxTE5ZZGF3SkFnWFFPOGJBWHk4TUpoQ2EtNGFHajJpOG5mWUlKVzJUVzN5U2VuV1IyZ25iTVdfWVZNRk9NVkRxb3JTbDJ5aERfUHJYMWVhSXlqWDU1emJCY3hJMDVpREVhTHdyTG96dURHeGxGSGRQ0gF6QVVfeXFMTld0UUVVcjlXMEs3T1pfSzNuRVl5blVBWVl0Mjl4OTE0ZnhYOVlGeWt4ZkNrN1pMVjN4aFBjaWtkX0ZTNVdKc2pfYmZ4UnNKb1lmbVM0N3lJTDJ5dGhYOC1QUzRmSFlGMmFPZ3NRLXFGbWhQUDR6ZnFxM0E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpTbkpTZERkUVkwNXNUR3h2VFJDakFSaTJBaWdCTWdZVk1hQ0xIUW8=-w400-h224-p-df-rw",
+    "source": "CBS News",
+    "datetime": "2024-01-17T08:00:00.000Z",
+    "time": "Jan 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco selling apocalypse-ready food buckets: 150 servings with 25-year shelf life",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxPVWpGVXQ0T0hXanplcWdRdGQ0LUxnYTg2NXdUSGhtQV9PVWJzakkwWS1VbFVreHYzQ3ZjUW5IZkIwQkw2T3hGenhxYVNfRWZKYkpYRGpLR2x0ME5DcERobmFLTXo0UXhTaG5uNUVKbUFzMTlzcHlNSzYwZl9CLXAyUDBLOWU3bjQxT19JR1lTRTdpZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXpNVTl4YlUxT2JrTkxZbFJEVFJDb0FSaXJBaWdCTWdhdGhZek9OUVU=-w400-h224-p-df-rw",
+    "source": "KABC-TV",
+    "datetime": "2024-07-17T07:00:00.000Z",
+    "time": "Jul 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Cream cheese recall expanded as Tillamook recalls cheese slices sold at Costco",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxOZmhsQzhBc05JZnp5UVF0YUdoQ1pvUXVrOVVSTW9VT3RfOTMyVzc3NUhwYzltRE1FYzdGTERhNW9jUjNTRTQtRWYzR0t1TGlXbUd6UVFyN3RMSkVialZIanRGdDRmZTBMUmtDNE1uQkhhY2syOWZEbHlkM1BCQTRqUEtlM3d1b2dvRjVRVUQ5R1ZVRTAzTTc2dnlNWjdRMkNJYllFQVB5dVVtREpWYWpQSNIBtgFBVV95cUxNYVlxdVkzT2FWSTNhUERQVlhMbW81RFBBU241TVNnanB4OVFxX1RTcE9FakJkbGlvSEZUNHMzSEI5cXpDYnU4WmNpc296alk4VTNzamRIdDZpNk4xTTQ5bVpWWUh2SHB2ZWdOb3REb1QxNmNzUDk2OTFEQTAtTV9VR1RkM3Q1Q0FnN05OQW9fQUtYQzlOYUNqZThyTXc5dVhRRmMzVmNFUHA1eEhxbnN2aFZnRUpwQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDRUazFYUzNaRVNIZHRURlpZVFJDb0FSaXNBaWdCTWdrQkFJYU5FYWlDVUFF=-w400-h224-p-df-rw",
+    "source": "ABC News",
+    "datetime": "2024-06-07T07:00:00.000Z",
+    "time": "Jun 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco Employees Just Voted to Unionize. The Company's Response Is Remarkable",
+    "link": "https://news.google.com/read/CBMingFBVV95cUxQN0U2dG0tRTVsRm45NTZqVnE5U0V2alhFZmJlTDZSOUpLN0dvdWstYXpHVmJXVDRxTUJ5TXlQbzdJb3pOaDJfV1hieC1LOU5sa0pjRG9QQVZBVFRwSGJyR2tBeUE5Y2ZrUzlHekNsVVRTVjYzaVVtYmZTU1NOenZPbnV5RGExNmpwME9VVDRGN21RVDFtSWctM3M3OWRGZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXRTa1ZvVWpGMGNXNVpiQzFPVFJDb0FSaXJBaWdCTWdrQk1KQ1RuS25JaHdJ=-w400-h224-p-df-rw",
+    "source": "Inc.",
+    "datetime": "2024-01-04T08:00:00.000Z",
+    "time": "Jan 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "What Costco’s Membership Fee Hike Could Mean for Its Stock",
+    "link": "https://news.google.com/read/CBMimAFBVV95cUxQel82d1RybkV4R0dhT0ZXZ0FBelZsVy1JdFJJYVR6d2EzN01UMWl0bmhJREtucXFqcWNuSVQ1TU0xWml1UlhCTGJoZVdBeHo5ZVg5aldXM1lnS0NCaWlYTmJBTFlOV3pUYVp5VkhYdGtqanNwVzExVnBoNC1YT0tISW43Si1KMHZLbngzMnlRaG1XZ0tYVXRLYQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhhM0YyZWpneldsbFBUVnAyVFJDM0FSaVRBaWdCTWdZQlk0UnVKUWs=-w400-h224-p-df-rw",
+    "source": "Investopedia",
+    "datetime": "2024-07-11T07:00:00.000Z",
+    "time": "Jul 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "GM has a secret to help sell its new EVs. It's Costco",
+    "link": "https://news.google.com/read/CBMicEFVX3lxTE5pMGg5dTI1djBSczQ4dUZwMF9GREdFZFpBT2F0ZlMwNURhT1YwbFp4NHlfT3QtZGdscnNpNEN3RWZDeXA3M0lwSndQZnM5QTdvUXgxTUVxWmVlTVpNalVKN3F5c3lRV3pzWW9PTXFnOFjSAXZBVV95cUxPTE1USGZGVGZDUU8yekdJTnBSTEZ6MklPenhOemlmV1ZoRXQ2N2dkWFNNYmI4SE1jUUhJaW80TlBpNkVzYWV4cWZnTC1NaEprZGw0bXR1Z3IwNmRnc2tIbjV4eHMzQlFDWWE0bnoxUFpfQ0JCSVZn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXhZMWhYUVhJd2JITkhTbnBuVFJDb0FSaXNBaWdCTWdhQkVvVHdrQXM=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2024-06-07T07:00:00.000Z",
+    "time": "Jun 7",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco is getting into the ad business to keep up with Walmart and Target",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxNSDhiZUtTbFl4N01jRUh1eUJwaFpTQTdSd3BldXptdzVhVGZIc1U5aVczUnZYQ216TjZZclVNaUY2UlVfY1Y3XzNNM2NRNWF3X2lOOTJVTzRDRHhERXZFWkNhaXZFbzZEQWQzWEhKdmtHV2VUMzRJQ2pJb0VHNjFNQ0NB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlNSEp4VG1sTVQzRm1WbDlTVFJDM0FSaVRBaWdCTWdhSndZd0lSUVU=-w400-h224-p-df-rw",
+    "source": "Quartz",
+    "datetime": "2024-06-06T07:00:00.000Z",
+    "time": "Jun 6",
+    "articleType": "regular"
+  },
+  {
+    "title": "Costco’s $1.50 hot dog price is ‘safe’",
+    "link": "https://news.google.com/read/CBMidkFVX3lxTFBYeVpPNlkyRkE1LTA5ZUVtdm85cmVhNlJOZnZmR3NjSTBMc05EUlFueTJLRVoxQmNjR2t0MzFMVE1Uak10c0tVR2I2NkVuMmRCSWVTc3ROeElMVGVxaFpUNGo5V3IxQ3ZrdDRuOXlCaDBnc0VSQmfSAWxBVV95cUxQa3Z4M1BxSk9OVThvV2lhVnRiWk9mak5SdUp3UHp2eUdkcmlfMGU3NS0tM1pFLW5Rd29Vb19ua2VieXlPN2dQeDdseWJXbWFVWVI4TTZUQ1FIaElpMGhrNFh0ak9yXzB6cFk4Slo?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNTVSMkoyY2pGVmFFNTBPVVpPVFJDb0FSaXJBaWdCTWd1QlFJanlRT1NSaUZwTm1n=-w400-h224-p-df-rw",
+    "source": "CNN",
+    "datetime": "2024-05-31T07:00:00.000Z",
+    "time": "May 31",
+    "articleType": "regular"
+  }
+]

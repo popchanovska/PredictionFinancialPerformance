@@ -1,0 +1,866 @@
+[
+  {
+    "title": "Intel finally announces a solution for CPU crashing and instability problems — claims elevated voltages are the root cause; patch coming by mid-August [Updated]",
+    "link": "https://news.google.com/read/CBMihgJBVV95cUxPZmFHdHhSclRnOVR5d0tnbGdzeVNFZ2xpRFhyM1JoRldkbWV4N1hGTGhpNkpLR1hBVWl5TklNSDBzV1BTOHRKaUp4SnhYSlRzNERsU3dHajFXU0FLSnJvME9qQ1ZsMXFqQmQ3bjBUR29DcWc2VkxvSHBYdEVEOE1VUXBMQ0xQY2hOSFdNZXpKSXVRQ3lOX3hXYVdRc3REUzM2TFJtdThJYi1tT2dmeTB2Vmh3czU2NG1Day1EOVFsZTJJaE5ZaG1ROGx2X1cxeGMwWEo1X09fUzJnU3dGYjlzMkVrdURVREU0TlBDbWsxb3MyV20xUHBGV01Oc2ZESlgzc095M0Rn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxZemxPY2t4UldUbG1OR3RvVFJDaUFSaTNBaWdCTWdZSmdvNG5zUVk=-w400-h224-p-df-rw",
+    "source": "Tom's Hardware",
+    "datetime": "2024-07-22T07:00:00.000Z",
+    "time": "Jul 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Accelerates AI Everywhere with Launch of Powerful Next-Gen Products",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxNN3lJUjBUSGVRNzI1RFJnOFlTRUt3RXltejQ1dTNUc240Z2FOVnJ3R3lWZUsyVndHeWtUTTdyc2c2M0hDMUNDT01McFp4UUR5Si0wTE1JZ0FDUDhKU3FpVE9zc0hjSTRyZWZIaTk1YldZbUROSXhLbFAzT3liYTRISDRxNms2NUExdXcyTmQzZl9vRG5CZDNoeTB0QTBWWlNVVFVMcGdXY1BXTENKZTZrakFlVlN2dw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVpaMjk1TkRWa1VuZENXVWR5VFJDM0FSaVRBaWdCTWdraEZZcXRsU2lETWdF=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2023-12-14T08:00:00.000Z",
+    "time": "Dec 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel says it has found the issue causing 13th and 14th Gen CPUs to crash",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxPOXNFU0Z0VWtfOEdDU0tVRzdnaHE5ZGIwVkd4a3Q3TVd0c3NXTnJFeVpwNTJVeG1LMVB4dHZ0U0tvM3FhaXNhcGR0MzBsODlIU0hhTnlORGxmWkw5dG1xTjV4MVN2UlVrM05Uc25xbnR5NkV5OVFMNTFfX2lmNlB5U2lUMEtnc2JaSERsS255S3NYZk5wYVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlWMXBvT0ZGcWEySmZPR0ZxVFJEQ0FSaURBaWdCTWdZQlJKQ3Z2UWM=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-07-22T07:00:00.000Z",
+    "time": "Jul 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel’s Humbling",
+    "link": "https://news.google.com/read/CBMiWEFVX3lxTFA4ZldYYld4Z3UxZ3lta243TGt0Mk5BSWtsd1J5Z2Fxc015M1ZhNEZWZ2dEaWZ4OUxKX21IZjRQdWtqTGxXeVluZEV0UUhkVWdrQ1dzVFZMSzc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNDJNQzA0VFZGRGFWSm1RVlJNVFJDY0FSakRBaWdCTWdNUnNCSQ=-w400-h224-p-df-rw",
+    "source": "Stratechery by Ben Thompson",
+    "datetime": "2024-01-30T08:00:00.000Z",
+    "time": "Jan 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "VMware Collaborates with Intel to Unlock Private AI Everywhere",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxNQzdGUHlPcUlwR0dLQWZsRWZaRVYxZXJncGdhVkFKVmpKS3ZoZk83NDdEMU0wZGZ6MURHeG9PeldoY25NRGdwX3pGQl9JS0pGRXpqVVJCSnRsc1JSZElYWWIyQy15Z2lnSEs0RmF5c0swRG9oU2ZCYkJ1bnZmTjRKVU41Mk5oZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpSalE0YVUxNFRGcG5kRXhzVFJDZkFSaS1BaWdCTWdZbE5JeXNwUVk=-w400-h224-p-df-rw",
+    "source": "VMware News",
+    "datetime": "2023-11-07T08:00:00.000Z",
+    "time": "Nov 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel unveils new AI chip to compete with Nvidia and AMD",
+    "link": "https://news.google.com/read/CBMinAFBVV95cUxQOEl6UG9JSzllb0xwVGdUTnZzM3d3ZE54WmxxaXAybFh3S0FVRE5SaFNUcWJtOTlDSVRZRGxmbndwcWN0SkhqUWZyY0pZRGE5UGxKZXZDSlBQS25EWVZ1SVhIMjNSZDdMc3Jpdi12WmRuSHREcDRrYmdYTnJlbHlxV1daV0tLc3hjbllOVUlYWDZCU25TeF9ndHpWUnrSAaIBQVVfeXFMTm9TQ0I4UDloWngwazZESVBkYUdadVdJbEpuTmNKRXFsNDNfSVlfTXN6Vzd6cGxwcUw1Z24zTjRMMnE0RjF0RWNnVTBvbFpiMm5jX2hNZU9Tb0ZNVHBPdThYNjBYX3NRdEFZakRLY0dRTmh4SlZFTm1fWnd3dXotNXM0cktiYS12NEdLV1pZQmllY1A2RnhzSTRFV1VnX0JMWjdB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJPVUZuY1VSS1FXRk1XRVZxVFJDb0FSaXNBaWdCTWdZVkk0Q3RuUWc=-w400-h224-p-df-rw",
+    "source": "CNBC",
+    "datetime": "2023-12-14T08:00:00.000Z",
+    "time": "Dec 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel and UMC Announce New Foundry Collaboration",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxOMnp5Y0dobmt3SHlVajZOQ2xLU2M0S29IMjBOellZdFlVVkppSDNkRWgtcmFKWkVsZmFucTBOR09QYjJhSkxIV3ZGXzFWTjJkdlRzMkZDODc3MFJ5aEJoa3drS0lBWFNpejlpRVlJOHU5eGZKemprRGpKdTFKUHpKYXgxQVBaX2VVajRmUy1td2ZWTjBoWUQ5dUc4V1F3dFFqcnYtaEhnLWFRdmVy?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdSRVJKYlVvM1IzWktjbDg1VFJDb0FSaXNBaWdCTWdZVmNJcklyQWM=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-01-25T08:00:00.000Z",
+    "time": "Jan 25",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel’s Core Ultra CPUs are here — and they all come with silicon dedicated to AI",
+    "link": "https://news.google.com/read/CBMijAFBVV95cUxOVXJXTUJWTEJ1U0RwWGJqX2FpcVVUR0NHRzF5c0poR1dGUG1HZ05pcXJoQk80Ny1IRzFGaGlZS3E2eU1LTWt0MXZnblpfSllMNWNQZHJVTEtvaEExTG8tMEVaYm1LaDZqaF9TdXhBcWVqRUI1M2lZWmg3eFp5aHBzdE5uaUtmSF9JTzh1WA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9OMVowUjFFNWMwVjFhRWRMVFJDM0FSaVRBaWdCTWdZVlk0NXNLUVk=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2023-12-14T08:00:00.000Z",
+    "time": "Dec 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Launches World’s First Systems Foundry Designed for the AI Era",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxQSUJfMFdNdW9oZElIakd5cUZQbDJwQmpaZDQ1Uk9uYTVIMVAyb256UmlzWWRhZlNTOS1uaU9JSTVtWXVjU2hPcnlLZkR5aTdqNmtxU3RndzYzN1RPWGVfUFJ3bWxkYUpobmh2VkZlV3hfWUQ0YTVhdHEwS0lZM0liWHNwd2U3SHpXYXRvNVdTc0dHeDg3alNlNnNvSzhUc2VRdnM2bkxDRG9MRzlzVEd6cHVvWXYxQ0U?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHhZbkZyVTJ0R2RuWlVhVTF3VFJDM0FSaVRBaWdCTWdZQkFveElEUVk=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-02-21T08:00:00.000Z",
+    "time": "Feb 21",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Unleashes Enterprise AI with Gaudi 3, AI Open Systems Strategy and New Customer Wins",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxQQ3llWElQc19sTVlfUHgySUZGSmcxV0JpdVNiWnBneS10Q3puVFVuTHQ2ZHBWZHZWbWp0Mkt5ZDJQTUZaaWxKNlR5T19UdHNndC1ZcHJCTExaRmxJWk03QzVVaFpBR2k3cjVKZkhqUVFQdnRoZUNOS201dUlyWGI5WVhlOGpQcFNLbXFMdmhTNTdMN2JBOS1SLTNWLTRNRU1jeU5TbkVrODFwVUZMNm9xODhFX0txRGpmT3c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXJXVEZ0VjJveE0xRlNhVXQxVFJDMEFSaVhBaWdCTWdhbFpJak5yUVU=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-04-09T07:00:00.000Z",
+    "time": "Apr 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Innovation 2023: Empowering Developers to Bring AI Everywhere",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxPbDVpVWg1dm9zYjJMT21YaW8weFhGQzRubU1DVzlWMmp3Zy01REI0SHFVS1dYM05ScmREd2NzaTVXWDllN3F2VTFLQUNSZE1VWWVFdGM2X2puWTFaTUhLd3FIMXUzbEhNQ2h1ZC1ORjVRVF9meXBVcGVmbnFGOXNMaW5LdDA5aFlKcFF6dENncHZBelZRN3hCd0p4dTNuVHAzMFVIVWtIQmVCOG5NVm1PaXdkNGg3dw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9PR2xVZWtWdVlYcENUV2Q2VFJDb0FSaXNBaWdCTWdZaGRKQ3JxUWM=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel to Sell Minority Stake in IMS Nanofabrication Business to TSMC",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxNWFl4bzZNcU9TLV9HRm8zWDRXZFJmVmdQVEVTYlVVS2c5SXVJSWQ2Yk5fWm5HTGN2WHZvLVoyeWxseHZDVHRXWE9jcUQySHlBQS1FaDhVMmJraW1zTkhTNHppRm5UUG1pb0xaT1dnbnZfVUIzamJYQ0lRMjZSeVFFT2xPVW5XclFqS19scmhYaXRNdnRmSFVtQlVLYlIyc2tjRHhXZTJCOEpkT2xJWFJkOA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRkelZCTm1GUWFFNU5VVkozVFJDM0FSaVRBaWdCTWdZUk00SXhHUWs=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2023-09-12T07:00:00.000Z",
+    "time": "Sep 12, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Drives ‘AI Everywhere’ into Automotive Market at CES",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxPY0ZXS2Q2ek9hSDBwbmNzeDNhVnlHS090N1EyUW1lcEtSdTAydTZUeXZaVU5vN0kxeXZyc3kxejRHaEN6LXlKNEEyUXBoRkxYMU9qZGVwclhnTmoyNjFValhZSEFybkNKdWIwaXMybDNXX2JlZzVQeTIxZGxJT3FIX1F1UnYzMUVqblVUMFhuWEo0anoyeDRIMkdOSEZpTU10c09VLU9PSGV5WlBDSktPTXRR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNSa2RrUW5wVGJ6SnNWakp4VFJDb0FSaXNBaWdCTWdhZFE1aU5vUWc=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Kevin O’Buckley to Lead Foundry Services at Intel",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxQUS04enA3SzFLZ05PUllRdXh0M1p0SnAtemVTdi10bGRsRG5Bb3NwVjViRFhEejc5MXI1clFSZ0tzbDRGVWlRWlllazVnSy1jODN6UloxLVZZd25aMHk2RE8zZkN4LXJaWlZSd2ZRa25CUU5qWFl2TVl4WVZkcmk2NWtUXzlsY3ZXZFdBN1lmQTJqalRkc2FZQ1kzUmdEUE42ZWxDRGR1LTZQclVF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhSMEZST0U1Qk1EbHhXblpCVFJDM0FSaVRBaWdCTWdhbFJwWU1vZ2c=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-05-13T07:00:00.000Z",
+    "time": "May 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Accelerates AI Everywhere at Computex 2024; Redefines Compute Power, Performance and Affordability with new Xeon 6, Gaudi Accelerators and Lunar Lake Architecture to Grow AI PC Leadership",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxQeFFkbXFHcGc5a0JMQ21fVWNlZ1EycGNILTJpNlJiMmpoQ29zQWxiX3pRVnBUTl8xWm1ldVF5Ym1LLUlTSExkVDlKTW1aamM0blBNR3VGM0NZNGhIQVp3LUhaVkJyX1VLM0o4aWtKSnp5anllTTl0MTFjVkl1UkdHVDRXcnFqSWtfWWxvZXhLQnMwRk9fQW8xUFlzSmtpaGZNNVgzbnhsOEdkdEdZLTVha3ZCcVVjdmR2ZkE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlXREV3VFVKME1qaHNURUpoVFJDcUFSaW9BaWdCTWdZWmxKUm90Z1k=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Media Alert: Intel to Provide Updates on Foundry Business and Process Roadmap at IFS Direct Connect",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxQcy13SHQwaVZmZ2JJNDdoa1JyYkZFeHN6SXNzRUJYTjVsLUp5dXlwbHRYenoyMkI1RmdfRmFZY04yYzU5b0tsbFp5SG84ZGU0UVRudE1KNWExcXJuWXo3UzBjVjlnWHhOQ2JxOEs0WHJqYlJ2MGt3TFkzYlZXdTdCbms2cG55VVVWX2VMandmRjd0TlVpOVBRTGVRaERLNjl3MVgxbWFESDNrN3BzcEVqNThtTGZYNVk?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTNaRlZ6V2taUGMySnVWRkpoVFJDb0FSaXNBaWdCTWdtQko1VENNcWZZaGdJ=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-02-14T08:00:00.000Z",
+    "time": "Feb 14",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Releases Continuous Profiler to Increase CPU Performance",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxPYzF1N2thaktaUzlDWktLXzd4ZEJ3a3ZXVGtJbWdsUEJMY0VfUUMzM2IzdlVtUDlrejhYZS1PZHdsQlJvMjhHb0s5bWN6TWwzYzAzc1BMcHJwZWs3akFnQVUzZy13YXdtYmdrbk9GOTJGb0ZOYjlqUFZlSEZXT0xSdTFYRGw2OE1ZVGhtWnluTkxCRnJPQ3E3ZDNUMzVJRUl6WXZpTlhtOWxOS01oMklF?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWtSbE4wYTJKaWNrMVZXbVpoVFJDcEFSaXFBaWdCTWdPSlFSSQ=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-03-11T07:00:00.000Z",
+    "time": "Mar 11",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Takes Next Step Toward Building Scalable Silicon-Based Quantum Processors",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxQSWdkSEp5dmREYWd3MmNDcHJxdkdQbmYxc3lvWWExZGh6WHpRZlJiT3NIb3pVWlBOR0xhOEJVZHlSVjUydzl2cklwdUFOUjdVVE8tNllHMTBfRjJzRnhYS2tFUzNNdHpxNWNTOW11X2kxMjJ5aTBJX3Blcnk0ZkFKZzFGUGJxend0RGZiU1pxXy13QXZWV2NPVjhRSUtSS19pVTJKdmlrMmZEZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTFjSGRrUzNscVJsWkxkbUV5VFJDM0FSaVRBaWdCTWdZZFpJeXNyUVk=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-05-01T07:00:00.000Z",
+    "time": "May 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Justin Hotard to Lead Intel’s Data Center and AI Group",
+    "link": "https://news.google.com/read/CBMiswFBVV95cUxQVVk3ZzRScDE0V1pEbmk3QUFEUzRUNWNVV012Vnc1TlIxQ3M0dlpMeHUyZ1kzX1ZaZGJVQUFucmNjNzNuZU1kY05ITVExM214dkE5aXJDU21UNVFLaTBKS0hkTUdPQjJheXNoUUZZX0xUc1ctMnlJdU5IOWh2M1JMQVF6bkM2OVpnSWxzc29sNEpHUndDTElQdUp0TUZGUjFnNld2bnlCd3ctVnpUMjVlc0wxYw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRMVU15UVY5TWRUaHdRa1Z1VFJDM0FSaVRBaWdCTWdhcFZaRE9wUWM=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-01-03T08:00:00.000Z",
+    "time": "Jan 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "How chip giant Intel spurned OpenAI and fell behind the times",
+    "link": "https://news.google.com/read/CBMiwgFBVV95cUxQVGt4NVFXZ0Y1bHNPZzlWRGlfaEpEd0RySkVESnFodHN2YjJCa2dyejZIci15OWlRTVZDTmwycWlUSDhaSjV3aFctTEZsUUhNQmk0RS1FaHlvY3hMYzlwdHBIaURyUVVHWDFuNmhHZzduVFhLLXh1RElCVEFPLWh1aVVmQi1INjI5TDVYdDB4MU1SR2NTeHhQZnZYNFNDRENfX3d6dFdXTUNiOUNDd0RPZUxQVlZ4T0JrRU9nSzByYUxNdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDJUVEJFVDFST1oyMTZkRU55VFJDMkFSaVdBaWdCTWdtQmtvNFNzV2U1Y0FF=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-08-07T19:23:00.000Z",
+    "time": "4 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel says new 'Sierra Forest' chip to more than double power efficiency",
+    "link": "https://news.google.com/read/CBMitAFBVV95cUxPM3YyU2pzWTA2LVE1QnpTLWJBU2RQVGN6WlVObHVtRWFsdERmcHhRbzdzNlh5UkE0NmlxWXpQR3RzMkJaSDMzYkxkT1ZDWTNkZlh2SWlGVC1EbFh0UlZ2ZV8tOTJKRS1senF2dlY4Ni11RlJVR0ttblVIX2s2NFUtUzhOSnUtdUdDcnNsbGRIVVRycnFfWGZRQlF1UXRWdl9PQnlVYU5icnQzZDlDNU9VS3EybVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW5OVEZ2UTB4aGVWOXBObWxEVFJDOEFSaU1BaWdCTWdZWjRvaE14UU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-08-28T07:00:00.000Z",
+    "time": "Aug 28, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Demonstrates First Fully Integrated Optical I/O Chiplet",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxQMFg1dlpuZHF2UlRsWVhfVHdKTEhYaUZFRUtla2ZLU3RhbS1xZTFsMDNXLUppWFl4OG5rNFFrREEzQ19zTnhOMU5JWm1GcnFaTjdiaXBLUXFvVU5TOGxtcU4yaWREWThmVW5UUmo2d1ZVTGVUVGxkcWJXUHkwVTZsZVZXbGJFYWxWN1NnTFZYUWZvd1piY3JHNlpHbmlfS0VIWG40NTRWWGZaRENqeV9LUGxR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNWhlVEp2ZEdkeFEzcHBPRWRPVFJDb0FSaXNBaWdCTWdtQlFJd0RvZWU0VVFF=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-06-26T07:00:00.000Z",
+    "time": "Jun 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel shelves planned chip operation expansion in Vietnam - source",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxNQUhwQkhMREJEVF9OVDNwandxeUZhMXQxbzJCMkhBeGRqN29DT2hMODlMT2tJQ3Nzdl92TWNqX1RTdWJ5NDkyN2JZMFJKd0dSbDl0SXRybHZzZHZnLVJaVDEtNFpyUW5iZGYyUjZXU1hVbnZnODBONnYxUEUzNXZyS3M1TXdvc3Y5ZEE4UFhtZnNtVlc0enlhZ0ZZaGVvWkE0dEFwLU5oLVFVS2V1?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURTbWR1Wm5OelNsRjNjVzAxVFJDNEFSaVNBaWdCTWdhQm9wQVFPUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-11-07T08:00:00.000Z",
+    "time": "Nov 7, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "What's Going On With Intel Stock On Friday?",
+    "link": "https://news.google.com/read/CBMiggFBVV95cUxOSDVCNUI1UjVRMlhBWGZ2R3Iwa24xaHctczVNLW1RSGNpdGw4ZWlpdF81bjFaTGNyMzRMZEZ6Q05lN0VCYVgtMFhOQWxuTkV5MlFiUHh0eUN5VmROaUwzajMwMWQtdW9zaFZyUERDOENmSW5pR0paR2QybnpDMk80OVp3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1ZMkZFTkRBMWJVeEdkV1JIVFJDb0FSaXNBaWdCTWdZZGhKQ01OUVk=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-07-19T07:00:00.000Z",
+    "time": "Jul 19",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Granulate Optimizes Databricks' Data Management Operations",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxNalRnbm5tUGNNLW5vSU0zUVZXSVNONU5YRmNyWDVYeUYtTEt0MWJjZWFlUFY4eVYzUlJMR0JDcHE3VFZZN0w2OFBLVFltOEhGNFV2WWdKdzZxcnZyUGQtbWcyT3Azd3EzeHVXSnh6OUs3TjdKZW5rM09TUVg3dk12M2xEdUtJMWE5RUYyOFBwdG1HRndDLXlvaklmYTRFcXpxRGZRZ254bm1rUVhzWS1GQVh3?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURUa3BmUkdwNWNtUkJheTFtVFJDREFSaUNBeWdCTWdZQmNJeFNQUWM=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2023-11-27T08:00:00.000Z",
+    "time": "Nov 27, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel pitches the 'AI PC' at software developer event",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxOQU1ZSDk3ZC1NZV9QNlFKb0J0LUpLSzZwelZQb3ZTR1llaHBjamxKNzFSeHRoNUJpUFA1YXYzVHhDVUxZRUxjQWdYZ1hKUGdXX3pmZHRzNVJ6b1YzQmlQOFktQ2N5NUxPZFJTdDNRaHdCZUN6R0ZKUFhzXzRmd1A5UW55V1M3ODh1YkxIWkQ0OHRHdFdwMm5RTXRmZWRRbzA5bEZmTmxOSTZMT2h4U2xOSHFR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUtRM0JrZHpOSGFYcHJOMGhDVFJEN0FSakpBU2dCTWdNUmd4WQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel reveals details of new AI chip to fight Nvidia dominance",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxPUEtYN0FTY0JOUUtrUGZxQzA1ZXIzOVNXRTRyQjFTVTVaNWJCZTR4OWJ4djhXNndGQjdBeV9Mc2IwR1pCSlM2SWFrc2pvTThYNlZDQkdjRlJFVmdOQTBtWDBMYnBqbVNaOG9vVXdDZGg1cW82SXN2TnB1SVNsNjBkS0g2eVdHYnh6aE5qblV0RnMzcUhRZmRyWHg3N1BkZXN2cE56VnJn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRUMGN4ZWt4d1YxaGFaMkkwVFJDM0FSaVRBaWdCTWdhaFlZTDEyQUk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-09T07:00:00.000Z",
+    "time": "Apr 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Builds World’s Largest Neuromorphic System to Enable More Sustainable AI",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxQazBCM2I1bDItOXJRSnJKUWQwU3JZNk9RVG5DRk9aRzNCMmxlRzN2TkZ1N0RWa01ycXh3VFV6Y3ZEaTF2MGVOcWtIRjhrZThJQ3M1MU9EM1hOVWJiZ2o3RFpXZ244NTFDczVqOVI1X0s4WEJXLXBPaGd3aFpJY3NRX0hUeVZ1MExqU3NhN2VCdFdfQlhCMGxGZVJ2YVBkbG5ZaU9ScmF1STNtMmQwUTFj?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWhVR1o2ZUZaNloyVTFaVGxTVFJDb0FSaXNBaWdCTWdZWms0eEx0UVU=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-04-17T07:00:00.000Z",
+    "time": "Apr 17",
+    "articleType": "regular"
+  },
+  {
+    "title": "Read Intel’s biggest statement yet on how it’s addressing Raptor Lake CPU woes",
+    "link": "https://news.google.com/read/CBMijAFBVV95cUxPZjFSaFVGbXZ6ZTR4YjFlOGRVdk43WUxfLUxXQk9XU1B4V2VLS09JanlVb2hwb054OXR3MmtPOG9hZlRtUWNxaXdWSm0taDJNWUpsOHNfdXRaaTcxdzJHemc4MWJhMDhXRzRMTnQwQTVKWllxd0QzaGJIb1lLWkdhT29RVG1WUFJydjBWSw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVpNSFZYV1dkcGJrSm9URFp1VFJDb0FSaXJBaWdCTWdZZEpaRE5wUVk=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-08-09T17:09:08.000Z",
+    "time": "2 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel and Biden-Harris Administration Announce Preliminary Terms for up to $8.5 Billion in Direct Funding Under CHIPS and Science Act",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxPeUdWYkRwSUtjT3FSMnFrakhnd3VmdHFvYUdyRVZTSk9RMnM4NkRDVDRTdlpEVmhoSmhwNVY4cVJFOTJXSWhhcmpyZ3I3Mlc3NFgwcXViOWZ1T3h0bHV1bWR3Qk1JUWVXWWxMMWdvTk56N2VKajdvWXJkdmtrSjhLakJNNWFoUmNpUWwxdC1oTmhvemMyaEh4ZFJoWDJ5MDg4b0g2RnFqU0pqU1Q5Vlh6SURFY1hnMmVrZFE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdMV0pHTkdNM2R6VlRZalF3VFJDM0FSaVRBaWdCTWdZQmtJNkNPQVk=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "A Complete Guide to Intel CPU Generations in 2024",
+    "link": "https://news.google.com/read/CBMib0FVX3lxTE1tMHc2TXpWbFZEckxnSEdLMEhUWjVhbnZXS3Q4RE5qRVU0bGo0RHZpLWR6akFYdXE5a3NjQXFkeXZnRmFQMnBLRFFvNmppb2hsTjcySkw5S0x4a2VqU0xwc0xaWDA3UUkyLVBxNGg4MA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9ObVEzU1dGc2QxSkhVMmRyVFJDV0FSalBBaWdCTWdZTk1wQnNKUWM=-w400-h224-p-df-rw",
+    "source": "HP.com",
+    "datetime": "2024-08-02T07:00:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "From Athletes to GenAI Developers: Intel Tackles Real-World Challenges with AI Systems",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxPVDZTZUNZMi03TnYxN2xrR3ZJWHRyenVLN2Y4ay1xSkRTYXRHbTdmVVlZZG1kZGp4NEhjR3VhejJQR1YzSHRfY3VzRXgxdXdDREc1X1lpTmJFWDNKQ24tbGJ2emFKR21seWt2Qmc2R2RnZmRFNlBGZWJNa00yQUtreUsya29aUUdZc2c0ZlEwVzdBSTI0SWJlZzUwQkZOWFdxa21YcDlyYkt4bG1IbklLdWNVVEpuN01FWmc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDJjRkpXYW5ZNVpISTRZblZuVFJDb0FSaXNBaWdCTWdZQkVZaFJwUWc=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-07-18T07:00:00.000Z",
+    "time": "Jul 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel bets new device debuting in Hillsboro will cement company’s place as industry leader",
+    "link": "https://news.google.com/read/CBMikgFBVV95cUxOQS1ZdWJLVXlNaEVCZ1RtQlh0dVdiLTVqMTJKUC1sSE1qeElLTUdIX055eE15WnNlZVVsZTlPS2haU3U3RTZTT2RtYVI4MFhTTURnTG9yNzM3OWxQeVRQQ0g1cmlsck9nQmdFbERIbEFJR0EtbmNTc0dON1ZlY3laWk9JUU1MSmI1enNua1pNSVZWd9IBpgFBVV95cUxPcDVuQnh1SXVMay1qallNQlNVUml0V3JfcW1jdkJTWWNnQV94ZUpxR0hsTXJ5eHBfTVVhMnlvRDR5cjJlcFlFVkhYSGctem5RclY0eDUtd0ZCQmZ4RVMxU0VBYVROc0ZUV0ZNNG1UUXFxNV9jZm1TTzMtRGRqcXJYT1NoM3lFclRFU0gxMnpfVVJrV3Q2V2ExcXIwcnlobjRKVVdZb0RB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTVlV3R0VDNJd1ZFcGxXakExVFJDb0FSaXNBaWdCTWdrQllJYkd2Q1dwTlFF=-w400-h224-p-df-rw",
+    "source": "Oregon Public Broadcasting",
+    "datetime": "2024-04-18T07:00:00.000Z",
+    "time": "Apr 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Media Alert: Intel Launches Flagship Foundry Event",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxQXzdacGtpZS1hZk5MYnpFTVdBakthTTdDV2stbmR6bnU4UzdLQ182T3E4dm9QYkc1UExkd3h0MTJhSWtvTEw3UUwwblJpNzdITDAzRTJWSWZmTy1BbG5mUG0zYUFveUdORk1RQ3cwNy1KYjE4c3d5NmJ3djhZWGw4TnhwUUowUEkxM0hhQXp5UUpWSGhLZVM4MThkbGtwZ01Ub0tVNzB5bkMxdVQ0Z2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTNaRlZ6V2taUGMySnVWRkpoVFJDb0FSaXNBaWdCTWdtQko1VENNcWZZaGdJ=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "More than 500 AI Models Run Optimized on Intel Core Ultra Processors",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxPdGVka0ZNNjR5ZzhvWEtZOTdIc0Q5TEVEbTVoVFVMUEZncU5vVEVHS3hwSF9QRGZLY3ItUjVWR29BUHh1QjcwS09feWFaV1FPSVNfZEFET2prV0NfUl9RdUtIUG9KdzY2MkxpWWJJYlh1SWJ2RmtxdTkzMW9vNkdXTE14VTdsWDMteWhIT1RHbEJzR1FSMVlydzFLSnU5Q2h3WUJLYmQwYUR1eWJRcVo0SUFXd2F2VkR0?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdZUzFNUVdKV2VqbGZlSFJKVFJDb0FSaXNBaWdCTWdhTk00cVBxUVU=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-05-01T07:00:00.000Z",
+    "time": "May 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel 14th-generation CPUs: Everything you need to know about new Core and Core Ultra chips",
+    "link": "https://news.google.com/read/CBMipwFBVV95cUxOUFoxR0VlaFZPbm9ac3FsRzBNRXd3V2JGano5TEFXNVhuZnM5RWg5eTFFSGpkZU13aWRHRXZ5NldPWGJsMHU5Qk9LV2p3VXRzZEtkTDJIY0RXbllVeEZSbjU2ektodEx0LTZHTDlWY1c2cWFBbXlDQUlwazFjN2dPd3doZDJmS0xXbEloYTFLaDFsWHZoTzZwSE5LbUxmV29iMm92LVVJQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUxWamxpTlRkTFEyUlFTekY1VFJDZkFSaS1BaWdCTWdtSmdaVEZxbWM5emdF=-w400-h224-p-df-rw",
+    "source": "Business Insider",
+    "datetime": "2024-01-18T08:00:00.000Z",
+    "time": "Jan 18",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel details new Lunar Lake CPUs that will go up against AMD, Qualcomm, and Apple",
+    "link": "https://news.google.com/read/CBMiugFBVV95cUxONzFIenF0b3NzTFh4US1LYlJyWnQ4YUZuR0MwTllmb05aVG9yME0yWjFFcmxRVjBpUzJhSW1xRFBmcWlYakw4MWlEOEgzSVE2aVh2NFpKWEFCTVZyYmRqWmdRQkNmSExraURxeVpKeVNuZkE2MlVLb2ttMXdLbklPUUNacUN4dVp2YzBfdjE0VkYtUEFUaHRPMV83NTZKQzRkc1RSU3AtLWNUbmJUVFJWSUN4OEx6WFN0cEE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNUViVGRPTVVsSFpHWnZXVGx2VFJDb0FSaXNBaWdCTWdtQk1aakRscW8xS3dJ=-w400-h224-p-df-rw",
+    "source": "Ars Technica",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Opens Fab 9 in New Mexico",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxNSW51bWxQM3ZSeVB4amJjX0w3TjR0eXBkR2dHb0JvaERLSS01aFVQSVZESU5wZ0xUMEZwel9QOXhYMmI4dmNlUnQ5bUdnX1BDN3kyeHhjUTBWN3RfQXlzM1NlYm5BTXMwVWk4UjJ5UVZCV3ZDelVZMzBkQjhlT3hycnBUZFE5dS1EdGIyNW1oVU1sS1ZrbWc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUdjVVU0TnpkbFRGTndkbGRZVFJDb0FSaXNBaWdCTWdNQmNBUQ=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-01-24T08:00:00.000Z",
+    "time": "Jan 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel announces $36B Hillsboro investment following federal funding commitments",
+    "link": "https://news.google.com/read/CBMihgFBVV95cUxOX2tBMUREQzQ4RDhwZGhHRkc3WUJjT1p5R3pQZWRVM1hnM0FKNlM2WXJGTHFKbUdybFBpZmJZYXNZYjd6UW9pUHIwVEc1TU4wc2VNNFYyb19pSm5taGlxekJCSHMzSE9kQlFVSG9RLVpvMTB1eUNsVEpCY19sSFlGMFp0VzZhd9IBmgFBVV95cUxPaC1iOUt6WTl3bTlNMG5iWFlSVkV3OFRtMHNGbTNub00xbmZfcklBX1U2d29yYXBsX1ZpUEJxeUN1WWpqQlViM2tTb0JTRG0tN05CYWwwY2xsUWJyVXVnMnl2SG95bmphSmUyS3RwUVY4blNUX2ZtQzJacU9GUGYzY29VZnFQNkRVNkFwY19yYURNZEtsbTdZOElB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRRMVJPTnpKQ2QzRXhURE0yVFJDb0FSaXNBaWdCTWdZVk5JWXFzZ1k=-w400-h224-p-df-rw",
+    "source": "Oregon Public Broadcasting",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel, White House announce new subsidies for now $28 billion New Albany chip plants",
+    "link": "https://news.google.com/read/CBMi2AFBVV95cUxPSHNodi1wMElDMkRYRkVKOGRSVU91dk1IX3VMakpYT2RaNENXSlRqWFJpMEhac1FwUWdfdzBBMFAzMVdWb2p0MXZqVERpX1FRQmpoMzdtM21yUXkzU1V6eGNjdkJDTE5zWmk3UmNld1V0M3FzYi1tV0lLNWtPUVBfckRTLXNpYWs0MEd3a01qWW9hQ3p4a3RtZmlDNVFwNW9JMlVEOTNlUGxjT1JhNmJvTGRKRUIyZ2VjWjRCMDZMSWtjNHNKRHZPdU9nVkpVX2lVSzMzZGRSMHc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHlhRGxaUTI5blRERkZhbVpXVFJDM0FSaVRBaWdCTWdNQjhBQQ=-w400-h224-p-df-rw",
+    "source": "The Columbus Dispatch",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Biden to announce $20 billion in funding for Intel chip factories",
+    "link": "https://news.google.com/read/CBMiakFVX3lxTE1RaEpQV2Z1ckNjT2RiclpPUlR6U1ZxVElxczNuWFVIei0tbmdPSVNBejlMZXRjWlJjck0yRndMRUMtRWpzV1MxNkJaVDdtZmVVc0otR3dRSTA2U0hLM1FCamlsTTg1RnVXVVE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhSVzF3WW14Zk1HdHJXVGxzVFJDb0FSaXNBaWdCTWdZQlE1UkdxUWc=-w400-h224-p-df-rw",
+    "source": "Axios",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "What layoffs at 2 major Oregon employers could mean for the state’s economic future",
+    "link": "https://news.google.com/read/CBMifkFVX3lxTFB3WEt6OHdzTUE1RllGWU9hMmlfS1RjaGdWNWdSWmd3MWVCZE0zQWZEM0JzX2ZzY3g2TXVtR2lUZ25NMU5YV2hwVTMzWDZCbkRNMDhVTVR0djRYZ1pnQnl2ZFpKRkdKaUtmWGFOa3VvQ013cEVrWlRwNU5tUUN4UdIBkgFBVV95cUxNSTltWDdMdERYa1NDck9zMTRva3hMTkRkY0FLUGZ1c01kOERjZlVHakpDZXdFUWdULU56Y1dfVVZRcHFSc2d4Zkg1dDRHbmtGdGRVZkxSbWZzU0ExczQtb0RfQTQ0MWpyOWgxTGU0WTBWOUQ5TTJWcy1yWHZXUjlpZmw0TFA5c3NzZXRqWGMzcnJvUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFNbHBSVDNab1NrUjJTMWsxVFJDb0FSaXNBaWdCTWdZbEZZcXVGUXM=-w400-h224-p-df-rw",
+    "source": "Oregon Public Broadcasting",
+    "datetime": "2024-08-08T13:02:43.000Z",
+    "time": "3 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Intel Core Ultra Processors with AI Unleash Incredible Power in HP Laptops",
+    "link": "https://news.google.com/read/CBMid0FVX3lxTE1WNmZMQjFHa0d4UUtNaWxCaTdtYk9RZkFYSFJPb1VYejM4c2dtalhOSWxDSFRmVml2WFhTOUpNUDhWcmZCU0RvSDczS3pYcnhVUGhmNVlERG9kREpheEZmaFlWLTV4bVFIdjBIemZkWVliYk1VRkNB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNW1MVEZhWWt4c2MxOVFOV2xGVFJDUkFSamJBaWdCTWdZQlk0cHdwUWM=-w400-h224-p-df-rw",
+    "source": "HP.com",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Will PC makers replace your crashing Intel chip? We asked 15 of them",
+    "link": "https://news.google.com/read/CBMiwwFBVV95cUxOMW9lNjYxTHcyak1FM3VfUFRmMFVmUS0zSXc4NTU4RjU0WnRfVWN2cGdhQTYyMUVubmZDOVJreDUxT29RUVZ4MlJ0SGJtZmVHRVVRLVMyQWU0aWNvOEt5NG0yRmd0eExaWHY3Ym5yOXZSTTBVdjhKU0tBTDk0eFNsa3Y3T3pWa1RDR3hpa1BkX0tzZDkzWTA4Xzd6SzFyQzY4UnNycHotT1FfZHktNVlzU1dqVHZNODdrLXo4VEtsN3ZRcGc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdkVXhHVVhkcGQwRndOMWxxVFJEaEFSamhBU2dCTWdhVlU1UndMUWM=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-08-07T19:39:47.000Z",
+    "time": "4 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Can Intel’s new chips compete with Nvidia in the AI universe?",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxNNjdwRXdUU0Vyc2dlbHJiNlE1RFZzSEcza1M4MW5WM1hEdWpteV91VllUQWNsSmhnZ1BmWnFnQ3MzQlU5XzlOWk9uMEUzeVB0VDNzXzFWNnJoLU0yNDdkQjhkRDhIeW1sbjJ4dHJCbURGZUU4VjJILWZpVHNLVElUTk9lRFNlRmNkcHlVaU5WWE9KSVZNZ0d6bVBkb2xIbHJocVFwMmN3VEQ1dlAtdFVZ0gG2AUFVX3lxTE95SnJnUDByTXVIM1VEVEx5c0RLem1wOFoxWEpMb2VJUmhTY0NQZUVWRkcyNXRTWDk1dzVpR2U4Szk1V1BNV1NXNEpVTVNCTFNOSFdqQkQwUU9iZ2lZaElRVkxaSzhINy1VUnVqUXphSktOODBLWWZEUktSWHFwc3ZsRGxiUlp5ZXQ5N20zUDlySHljQk9KUERuZE5EaF9WbGYtQ2FGX3Z2U1RyRlJOSFVJWVh5RS1B?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNURTR2RFUkZsTGMxVldURnBwVFJDM0FSaVRBaWdCTWdZdFZaQ3VxUWM=-w400-h224-p-df-rw",
+    "source": "Computerworld",
+    "datetime": "2024-06-05T07:00:00.000Z",
+    "time": "Jun 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "\"A cascade of opportunity\": Intel's $20 billion semiconductor project is reshaping Columbus",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxPQlJLaGRjM0FVTXhsRU9XbmY5Q3BTaGhfSkhVbWhPQmZrMC1uQ2lfT2N2eGt5NzFpd0QyaHZyQjZxTDN5VGFpVmp1Z1FHRHVzcGh3VTFjenBIa0c3YlpueU9IOVl6WFBUbVF1RmdvTnVCdlVvY2JrczYwYW5MckgwRU1DMG1SUjhvUWl0eDhwQ1lvamNZaGc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZRbTFtU0dwbVpGVkhhekZ6VFJDb0FSaXNBaWdCTWdhbFpKRE5yUVk=-w400-h224-p-df-rw",
+    "source": "Axios",
+    "datetime": "2024-01-22T08:00:00.000Z",
+    "time": "Jan 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "This is Lunar Lake — Intel’s utterly overhauled AI laptop chip that ditches memory sticks",
+    "link": "https://news.google.com/read/CBMinAFBVV95cUxPZkdYX3QzaFRpbXQzbHRaLUQyOEd0dHNrNXlhOTQ2ZHJrTTBPY1FKUlUxdzVlVTJWYkwzTUg4TXRKWi1LV0pJaE5XNjhuUEk0YnJVa0x1TUp2S0t5M0JqTHk3M1V6eDZEV25aVTdCUkV2cEFEU1FHMWVxUWRxWW54RzFYUkduWkFaT2FoQXItZ1YwaVh0cGVNM19YR1Q?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHdSbnBNZUZsT1RWVkxXRXBqVFJDaUFSaTNBaWdCTWdhcGRJcXVPUVU=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-06-03T07:00:00.000Z",
+    "time": "Jun 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel scraps $5.4 bln Tower deal after China review delay",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxOUzR4Q0lvaUdpWXBWR3hpeU1oSFpNOTA1LXZkbzJlcEtqWXJscTA5TWpIQVAzT3dqQlQ5bmhPemhIekJlX09mUnFobmVEY2JKcWt6c1lxVVZCNC1iOWY3eGEtRTlERGVUNjFMTC1zdXZkM1NrLXh5RnZlSkJVblVUUFFDMmNxZWNzWG5hY29Yb1h0RktkSVdOS3haVThiNF84NDZoVHdzT2V0ZUxzS2c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9Oa1ZVVm5KbWFIbDFhRmxmVFJDeUFSaWNBaWdCTWdhbDQ0Wk55UU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-08-16T07:00:00.000Z",
+    "time": "Aug 16, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Addresses Desktop Raptor Lake Instability Issues: Faults Excessive Voltage from Microcode, Fix Coming in August",
+    "link": "https://news.google.com/read/CBMiqAFBVV95cUxOSjF4WGh5a0RvRzIzQmhBQXFnNTBJUlg2clNJT1JfbjBNVzJ1aVR0ZDNTN25rZ2Y1clhGcTU5MnN0czFicW1IYXJmaDFBbWE3c1FwamFINVBsQXNsb3VGYzJ6c1QteWVDVFVEdW1lOHNzRzJuekxfRVpDcVJTTXlZQ3dnTlZldTI0QkNzUTlXU2tjYXhqZjFQbUNGb2pIOE9QQjh6WFYxTWY?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDViWE5PZVhWVGRVdDRVVEZIVFJDc0FSaW1BaWdCTWdZSmdaTG11QWM=-w400-h224-p-df-rw",
+    "source": "AnandTech",
+    "datetime": "2024-07-22T07:00:00.000Z",
+    "time": "Jul 22",
+    "articleType": "regular"
+  },
+  {
+    "title": "There is no fix for Intel’s crashing 13th and 14th Gen CPUs — any damage is permanent",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxOcGtOZ3UzWk9ib1A4TGxDT3FPSXlEdU1QeW1ESVRlMjZFUlVTYmk0YWEyVkNUdXNrMDRFSUNnVDlzTFM5M2tLUDZnQ1BfOE9BODJnSm5YMERsU18wb1kyZnBkam44ODAwRUFOZlNxbFZ4VzBrd21TcU1hU0xCV0tiR2FMbktGdnE1TFFhZi1jYmh3M2NWLThPNXVFY1R5U3pOTnc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNHpWVTlPU1dONmR6TkdTa0ozVFJEaEFSamhBU2dCTWdhQlZaVHNMUWM=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-07-26T07:00:00.000Z",
+    "time": "Jul 26",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Appoints Stacy Smith to Board of Directors",
+    "link": "https://news.google.com/read/CBMirAFBVV95cUxNVnZWOWZYYTlVVEJULW5XeVRPZjkxazFSUGZhWGw1YkUzd0h4ZHlEWlI4YXNMeHVYNUMtaUhfa1dtYl9SRHRYTjZxeC13Z2JjUV8xVGFpemhUWGhtTnM5VjV6REZ0S2k3T1Q1M3BFY3RWTGxFQTJpU2JucFZWWFliTndKOTlXVVVtN2ZCTVYwQWg4TkU1aTFUQzI2dHpoNU9qZ2k1SHR5MkNYZHB1?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTZkek5yU1VoMWJXVXpTWEV0VFJDVEFoaTNBU2dCTWdhcFZKaXRwUWc=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-03-13T07:00:00.000Z",
+    "time": "Mar 13",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel will launch Meteor Lake on December 14th — this is Intel’s Core Ultra",
+    "link": "https://news.google.com/read/CBMinAFBVV95cUxOV0x6eWVkSzMwSzdIREhCYVp3cG9PUkNub3JBM3pNcEVNS1NfZ1BweGpwUVgyZERSZE5WdXh1bXpvNDNadV9MVHZMbktkZ0pDLUNwZ1hUNzRPYTlWMXhZVDZHT3lRejlkaXpxLWJsRzBhVzNkcjVwMGRseVpscnBTM3hsRTVsOU1fWDFTRVhGV05nempIVGFQZ0RxS0g?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUxSVjk2VGpkcU0xcHdTVVZJVFJEaEFSamhBU2dCTWdhQmNZcE1PUVk=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Receives $8.5 Billion in Grants to Build Chip Plants",
+    "link": "https://news.google.com/read/CBMifkFVX3lxTE1zVlRaN21BNFByMVlraGhCMTNZQXRDUmJONnJUWDg2SmxUUzRrdXdTUndKRmhqU2NKeGQzNkpjdkliVVF5YXREVFczVUFtSzk1anR4TEFvS0doZEZ3dkhkc2tDSFZqT0diZVVkeXhIa29KYThyeUg0cXBGV1kwUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNHRibFJyUVZWNVZHWjRZM000VFJDM0FSaVRBaWdCTWdNQlVBWQ=-w400-h224-p-df-rw",
+    "source": "The New York Times",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel shareholders sue chipmaker after job, dividend cuts cause stock plunge",
+    "link": "https://news.google.com/read/CBMingFBVV95cUxNTmdSTF9DSTl6eUlJSWhNVkg5eXBxbS10RHZtajhNVWVKZ05ZUlRSMFNHUndBLVhUZzV1SFhGa21BczV2NVpqMmxMYWh5NFhtVlBiUUhicTdlTVBoZmRMQlBwcWJuX2hNb0lFTHBGM1R3dFJzOUNVcVFDSldPX0lIYTE1RVVCaDdXNll4c01qUklKMUhzRDVoLU0xN2k4dw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXZSa3R3ZEVJMGFHbzRlVnBEVFJEN0FSakpBU2dCTWdZQmtJNXd1QVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-08-07T20:40:17.000Z",
+    "time": "4 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel survived bid to halt millions in sales to China's Huawei, sources say",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxOVDMyR1BDMllrb0JrNWRyaWRWeXluTzFNaG9NZzU5cXJuTXlGam85RmdRUUdRY1ZqancwY2pndHJ4X19JV29oYUNJWnV6SHo5VmJTNTNjZ2dSM1ZuXzNYR2hFSEYtV2pKRmdqRzJsbk5TTnZkYnJhcUw1c09TZmZNVXNhTUlOdlVxVkJqMERZV1hxR251b3hjV0FQT2pEdTQwa1huSVZMOXBMcDJlbk9kRA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNXpWazV6YmtadlJHTnBVREEzVFJDdUFSaWhBaWdCTWdNUllBWQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-12T07:00:00.000Z",
+    "time": "Mar 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Israel grants Intel $3.2 billion for new $25 billion chip plant",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxOc092WmplcXhMODRFS3VwbC1PMnlzWVI1TmRLQ0pIdHpmMF9fYmxBYWR3Q2RkcEwyS1VNOHI3anZ0S2RZYW1iSkpBU0ZwTnQzTHdwSW5SNXo4cTl3REc1TUZBakV6RzJQYlhQVjJ2elQ0dzFkZzhCaUxqYUFBeFZTTUlER0NMOWJ1Z0FPckpTS0xvTmpDNm5BRUVtb0VKTmZzdVZGSjBUNWRHQ2hvWVZGeTQ1WU01Y18z?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUNRVWh5YlVaM05ETkhSblYzVFJDaUFSaTJBaWdCTWdhZGtveE5OUVU=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2023-12-26T08:00:00.000Z",
+    "time": "Dec 26, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel sued for copyright infringement over AI software",
+    "link": "https://news.google.com/read/CBMipgFBVV95cUxNY2VHanNVNEZyRFRSaVdnNjkxWmxmQ3hRcEF5WHc0VWdFalZUNXhHaXlBQ09iV1Y0cXZBemZoUVFEaVJwM0ZCZFYzVEcxMlRIbjk4ZGRrNGN6WUx4VjNNUGJUV2pQakMzY0x0T3ExOVpPLWJTLTRsZUtDTy1IdzE2Z1BSNFRGSjk3OVB0YXBvM3d5RlFVN0FXRXlkQUZpcjJyQ2RtRHBn?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTRkbkZLTUVSWlltVnZjME4xVFJDNEFSaVNBaWdCTWdhQm9wQVBPUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-08-09T16:15:00.000Z",
+    "time": "2 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel's Core Ultra Processors Accelerate AI Tasks While Saving You Battery Life",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxPR21QV1RkdGpXYXJoem52YW9nT2JxNEJPTlY4N3E5eVAxYkJEVjdnNEF0aWhOa20xTnlNY3hhUmwzYy1mZVczeDFlTkRtM2dfeUlNMFNmYTFWRFMzVHY5NzFuclVOUGJDNUxnV0FsYUd0YktPT0twMzBUZFd1Q1lpcHlrQWJydERWUEpQUVgwS2hkTWZObmJuVzBodi1xc2ZqU0tkY0RzZTZvb29NcGxDYWJpUUhKUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJibEZPT0dGemIxUlhaRlY1VFJDb0FSaXNBaWdCTWdhaFJJcXNwUVk=-w400-h224-p-df-rw",
+    "source": "CNET",
+    "datetime": "2023-12-15T08:00:00.000Z",
+    "time": "Dec 15, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel is laying off over 15,000 employees and will stop ‘non-essential work’",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxOOG85UGNXUjhhT09iYWhJdFJyZ1dFNjRBdDF2THFTMjAyZHljWnB5UVM0N3Roa29LbG1mSFAyX3RTTXE3dWYzLU5qVkNZYzVqWGxrSDZLbzVnMjlzaDZBTUQxdkpVUFlZeE5JS3JQM2lpYjc1Qnd1ekFWb0dJVlgzc2lSWmhkckZHbEVMY2YtaWM3N0FHcjhER3BxRE1LLWlJQXB2My14VENqTjgyOUVVTXRZcjhCQ1U?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhWRVF3ZFhGVWVXeHhabVV6VFJEaEFSamhBU2dCTWdZZGxKU01OUWM=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-08-01T07:00:00.000Z",
+    "time": "10 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Ohio union leader frustrated as Intel delays $20 billion project",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxObE9HYlBjQ01JS2VuMjhsd1pJbVlrQ2dVYm5KSDNBRzBhV0RScUxlVXB4WXM2dWgyMll6TmZqcEFGcHJyLTgxU3FRNmVXbzJlTnNOTWFRR2VNMlJUeWRyeGRGaFBwcXNvcmNadDM0bnN0ODNsT2R4dndyYzZkQlZnZnRhekVzdjAzaDl4TWI3MW1WLVpiWG1CSFBMTldxa1pyd2Zlem1Ub2hFUQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJRbFZEU0hKZlprWTFTVmhTVFJDM0FSaVRBaWdCTWdZQmNKaDRzQWc=-w400-h224-p-df-rw",
+    "source": "Ohio Capital Journal",
+    "datetime": "2024-02-05T08:00:00.000Z",
+    "time": "Feb 5",
+    "articleType": "regular"
+  },
+  {
+    "title": "Electric build up for Intel will cost $95 million, all of AEP Ohio's customers could be on the hook",
+    "link": "https://news.google.com/read/CBMi4gFBVV95cUxObmRBYnFicUkwV2gwQVk4QXJ4WWxreWV4SXNrSWpXVHBhN3lDdmZvWFNEY0xWUHVOb0RpZUVfa0VzcnRMT05TR3Q5Q1lpbVhVRDlOZHFsSlBOUE9CcGk4ZUN3X1JZTl9fdTVkQUJSMmFzZktTT0VsaDRUeUlEZHdWdUNRSGhobjV0RkVHdDNWbU1sRHVMSlZUU3MxMXFQRFRHLTdIdnd1bTUyOFlVWk05RmZiTG1pbFMybnMxNGtfUmJfSE4zNDAxeEc2MFpPN3p0UzJyY0VnQUowaWw1bC1TY1pB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTVUREppU1ZWelJHSm5aRE50VFJDNEFSaVJBaWdCTWdZQkVJZ0lwUVU=-w400-h224-p-df-rw",
+    "source": "WOSU Public Media",
+    "datetime": "2024-08-02T20:42:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel prepares for $100 billion spending spree across four US states",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxOYVNhVTdvQWs2a3JnVVlLbndCM3F5LVpTV1dGQTVlb1hCWnB1MjF3TndjSEhKM2JoLXpjbVhMbDlGUjVWNnlORVJsbnlWbWFYUlh6bWZjVlJueWJJNTFkdHcyd1d5MEhCR2Q2b2RvQUZnaEVmYW43NDdPTkJ0VjFhRW5WUFUxTGttZm1wS2NiWlBKWXJWR3EyR0h5M0VITFpoV0syR3d3eW1Zdw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5hVVV5WjJGNlp5MHhjRk5IVFJDNEFSaVNBaWdCTWdhQm9wQVFPUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Chipmaker Intel to cut 15,000 jobs as tries to revive its business and compete with rivals",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxOMzF5aklJX2hDLWlBYlAxUXlVLTZnZ3RKYUJJelUwYlU4TVU3X1FoVkFia2syMmFRNlRRRkpjUjZRNGdINS1lYUdqNjQyQjBOajhZSlJKSFhJbGFYc3g1OEhGM0cwLVBmR0pObHJkaFcxMTQ0dTFnR0hRcU5zbHB1NXpZSUlSX2ZyN2UyOFFMQTBLS2JGVmo0U09NMA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXNWVmgzYkhoRVJHUklORUZpVFJDM0FSaVRBaWdCTWdZbFJZaXZKUW8=-w400-h224-p-df-rw",
+    "source": "The Associated Press",
+    "datetime": "2024-08-01T07:00:00.000Z",
+    "time": "10 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "What is going wrong for Intel?",
+    "link": "https://news.google.com/read/CBMigAFBVV95cUxNLWo5T1dsRWhBcjFBQ2hCTXlFOXo3UkRpSnRDYmpkQ2pzZ2s1eUgzOGQ5RU9seG9PQUt1SXVVZlFiVTk0SzNITEkxSDA2ZEFkODVBbDF2QzIxMXAtQVQ4OHFxNHlldWNGMHlPYmRFZ1hYVHhMX2lnSkx0X0RVTWVkWg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVZMlpvVmpkcU56RXlRME5EVFJDb0FSaXNBaWdCTWdheFVvRHpXQUk=-w400-h224-p-df-rw",
+    "source": "The Economist",
+    "datetime": "2024-08-02T07:00:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "I’ve used Intel CPUs for years. Here’s why I’m finally switching to AMD",
+    "link": "https://news.google.com/read/CBMieEFVX3lxTE5pemJxUWlQQ0JmcVlKQ0FrR09ranlCYnVRVGhqVnNJZnpUSFpORXZJcEJKLUdRZHNHblVWazg3dHcxVWVPcGhkQkVjTlNUVUp1R0ZReWtHUjh3engtME83RTRDdU1VLUh3YktoeUVmVXlfbHpoUUJ5SNIBfkFVX3lxTFBMUGhkNXdDWDhlT0haM1EtN1pSOFFhVlBBb0k5a29OOXliSDVQclBhemQtU2FxYkdJY0JPOGxOSFlEbElBZ2RtWk5qRFY1c05CRHVuaHJUZDJYb3F3LTNrdEkxdDdoM0Y2N1BJcnFLVGhyVWhFRi15LUg1emFFQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUVOMUoyZEc1MlNuVlVVMnBmVFJDM0FSaVRBaWdCTWdZcGRKS3VMUWM=-w400-h224-p-df-rw",
+    "source": "Digital Trends",
+    "datetime": "2024-04-28T07:00:00.000Z",
+    "time": "Apr 28",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel on track for cumulative software sales of $1 billion by end 2027, executive says",
+    "link": "https://news.google.com/read/CBMitwFBVV95cUxNS3pTVkIxZXZ4QVltY2ZqbXNIOEhyZEwxd0xZT09tV2VxQWpNMHNsdmNHZ0taaDdVZG1MRlFDclJGRlpDWGFzVUhTMVU1SUdoN09kNy1GZEZrVWFjOG1YeGN5b2dPNU9sZHdNb1VTbDFHalBGVVQxUDFLeXFnaU11c29WdWJmcUFLdDM4WVZJYm1pc2dnWlJ2N2lZU0dNWmVUQ0RkZXVfU1VKM3JPNFRuVXJaRll1d3c?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNWFhblF5YURWWlQwdFpUM1ZOVFJDM0FSaVRBaWdCTWdZbE5KenNHUW8=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-07-12T07:00:00.000Z",
+    "time": "Jul 12",
+    "articleType": "regular"
+  },
+  {
+    "title": "Three Future Generations of Intel Processors Will Outclass Apple, CEO Says",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxQV1ZpWUcwX1RhQV9mc0dDYzdEU1JDaXpQTXZYTldCS0toUmhBeGFFdEIydkVtdE1BRjQtdm9EZ2tVS2lfMFhleVdPdEgyUzZHR0NlWGVybno0eE1iMTdLVmROSG1xX0lvRlZOY09NRzdBNklmeldBaG5RclZqVnlzSmxVbFhiYTFXaFRGR21RRmZqelYySWpGVlhEN25faVNDZXRmajJUS3B4d0owWTQw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNW9hVEZuWDFoUU5WTTFabVoyVFJDb0FSaXNBaWdCTWdPWk5BZw=-w400-h224-p-df-rw",
+    "source": "CNET",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Opinion: How Intel is Refining Its Approach to Responsible AI",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxPam1vdWdBYWp4dFlTRnVzYVNSMVZyZFFYX1BLVWN0U3k3QmRrcFk5UFU0Mjl0cG9CZTNrblVOay1PS3I4ZDhCYTRRM3JpM0JFOVVJWW8zME1IMG94LXpyOFNjcUVER2pqV3BHQ2NPcWgtM0RTTExac21FZUJ5X0REUXNfV0NCaDZ5SHBwMjEzQzFMRUtJQjlCaU5JbDhxeUVKOGhseUtTRzRaalhnY2FKMW1DLXZJbjFs?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDNWVEprTm1wd00xQTFRakJSVFJDb0FSaXNBaWdCTWdhbFk0cVBxUWM=-w400-h224-p-df-rw",
+    "source": "Investor Relations :: Intel Corporation (INTC)",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel battles AMD with new data center chips",
+    "link": "https://news.google.com/read/CBMilgFBVV95cUxNU20tRWlVSXpxZHBVeWZhbHlPWTFVcklLQUdLY2JfNGRWOXY4N2ZNVFF6NEFxY1Z0SGxtVmR6X3lodDlJV3V2cXFPdGVjX2Y4RXlVX3E1NU02c3l0QWMzakx0TzdJN0Vza2lyX3U2VXo2YUFndmFKYmlSMldzWnVUUy1WdklzU0wzSmJsekpyd3J6Y3BGalE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVlVVzVUZURWR2JtOUhlVjk0VFJDaUFSaTJBaWdCTWdiRkFvWVVRUVE=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-06-04T07:00:00.000Z",
+    "time": "Jun 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Amid Layoffs and CPU Controversy, Intel Postpones Innovation Event",
+    "link": "https://news.google.com/read/CBMilwFBVV95cUxPLVc2WUoyX19MOUtGQ2l5ZU5zcm42eXhYbnN2T2RfMTVFTlhhOUhLeUJUeHdUQ1RRQ21rWGpBZTlZZ3lmTFdaN05NOEpOdDdOdkdjMXRaQ29RWV8wWUx6MEtkSzJDZm81ZWRCcC1oODZINUcxVkg1QTBNQnBFdTZTOG1GM2FnSUJaNjc4cmJ0VHdLX1F3OXlB?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU9Zemw0ZWxWS2EzSklWM0pGVFJDb0FSaXJBaWdCTWdZTm9ZWXNRUVE=-w400-h224-p-df-rw",
+    "source": "PCMag",
+    "datetime": "2024-08-08T19:41:37.000Z",
+    "time": "3 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel’s CEO on Turning Skeptics Into Believers",
+    "link": "https://news.google.com/read/CBMiRkFVX3lxTE1jd2hldl9FWU55UlVfZUlKVzhkazhTNmZ2a1pOYW4tcEZhRGQ3THRIeElJRG9jWnZRMmpGdTh1c3laMHhHdEE?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTJVVUZxVlRnM01DMXRjWEo2VFJEUUFSanlBU2dCTWdhbEpaVHNGUW8=-w400-h224-p-df-rw",
+    "source": "TIME",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Unveils Meteor Lake Architecture: Intel 4 Heralds the Disaggregated Future of Mobile CPUs",
+    "link": "https://news.google.com/read/CBMiywFBVV95cUxOTkphQk5VVVNLWGY1ZlptTXJyc3VMNUV3T2std29oTUJOM19IM2Z5ZEtUdU1rMWxNRElTOGlRTXFLTzA3V1dTLXY5andLUVVaaElTZGprTld5V2k0REh5UmZUZEVTZWt1cktxb3lva1ZGUmJsNXdsUXJLV3BSOVBBZGdiQkc2blNUanFucEdvRTNEZjU4YW52a0k3WjNDTmtpRXhOTGlyU1Fsa3J5UUd3ZGRmcUF1QlItNno0VmVnN2d5VklVZWJWVmJRWQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNXdhekZJVEhweWVFbEZNell6VFJDb0FSaXNBaWdCTWdhZGc0cHVPUVU=-w400-h224-p-df-rw",
+    "source": "AnandTech",
+    "datetime": "2023-09-19T07:00:00.000Z",
+    "time": "Sep 19, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel shares sink with 15% of workforce getting axed, suspends dividend",
+    "link": "https://news.google.com/read/CBMingFBVV95cUxOa0VMYzRHY2kxTlNjTVRPY1FWSG9YZndSd1RVOFFoWE51d0huS0ZWOGpPWk5vZmpTeHpQMFpyV2tjUTRZeXlhMlpmbUstU0lDUWhwcl8tMXhhZ21rQWhLaVp6Nkp2bkxCaWZ5ZjB4MTJMdC04ekJfdVJyekotclNsTWViYXBRblFJTVJmSndXZGZoQ3dyc0R4cUtGbmJ0Z9IBowFBVV95cUxNSW82TEhtcEVuMWlqd2QwUWx1aEFfUzFaeTYyTDllWFhrOWJUS1QtelhKWW5yT0NHSWotc2RxcGFKbzJDcGVlSl9HRlR1T3VNdGhYR05LWW9MUWRmZEN3TkJ1NllWS0VVdTJDNWFFUGJBeGlqNWM3QnN5bjYxOHRWRUdXLUtlbjNxbWJ3SE95ZWg5bVJvN3NJampfZU1hYXowcnEw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVVSVWRTTVhwb1ptZDVWbTQzVFJDb0FSaXNBaWdCTWdhSllZNHNMUVk=-w400-h224-p-df-rw",
+    "source": "Fox Business",
+    "datetime": "2024-08-02T07:00:00.000Z",
+    "time": "9 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel: “We are bringing the AI PC to the car”",
+    "link": "https://news.google.com/read/CBMiiAFBVV95cUxPS243Qk9rRjhMNlJVOFB2cl8tYjNJSEFJMFloMEdPMi0zdHZUUTZ1TDFxZ0FQU3FTZmx2al9uMi1JVzZzYmd5LWkzbW1BaVdBVGQzU0x2US1SMlMzNzJWQXhBNVA4NW1QWldLX0tfTEl5TFFBYnh2RVVpUGhzMTljaHNVU01KX1pV?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUhOelZxWmxoMlFreEpWWFZvVFJDM0FSaVRBaWdCTWdZUllaQ3J0UVk=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-01-09T08:00:00.000Z",
+    "time": "Jan 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel’s CPU branding was already confusing, and today’s new CPUs made it worse",
+    "link": "https://news.google.com/read/CBMiuAFBVV95cUxOckJZLWJuS0RzVngzR1ZtanE2VWhuTzNvSnhESmo1TGNiQUY5bktlaWprRGV1WHJyWDZ0YW1RQnpvSVdyZi1lSzZoV291bGU3OHZuZ1Yzbmw5V0l1U3FrbE5ORUROdW9iNGdvYlkzRE9mMVA3NUxndmFCTjMwRkswbHdSaEpHXzlkT2pRd1JfcTZ1VTBnUDZFWnR0Wk1POG40Rkh0cTRGam5iTlV3UVRpTzluQmJQU1I1?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNTRTRTFDWWtka1JXOVpSVU15VFJDb0FSaXNBaWdCTWdtQllaTGpKaWcxamdF=-w400-h224-p-df-rw",
+    "source": "Ars Technica",
+    "datetime": "2024-01-08T08:00:00.000Z",
+    "time": "Jan 8",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel intros first Meteor Lake chips with faster GPUs and worse single-core speed",
+    "link": "https://news.google.com/read/CBMivwFBVV95cUxQZkRLV3BuZm1UYm1uSUVqMjh0eElVRXVNS01PUVBSbXg4Qnd3UTlrYldZdlRfdWVMejhpSmJZaGxuWGhkencxMFRxcklGamkxTGNrcWFPbTdKZmpPUW1JT1VwbER4VDVYNU9DUGl1TDdzWXdDREUxTmRnTmVndmt4bXMzMERObzhRVHBGTUNyVUlFRzZXeEFmeEMtZHhlTFMwQWc1aml0NGlsZzJtRzV3QlEyaHJ6eWNzVktyRHFNVQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNTBaa2hQZVdNM1NXSlBZbGxHVFJDb0FSaXNBaWdCTWdZZGRKQ01yUVk=-w400-h224-p-df-rw",
+    "source": "Ars Technica",
+    "datetime": "2023-12-14T08:00:00.000Z",
+    "time": "Dec 14, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel discloses $7 billion operating loss for chip-making unit",
+    "link": "https://news.google.com/read/CBMilAFBVV95cUxPRXpscTFkWUNrOERZMUtTRHNwb1lzUW1lbGZuZzBRdGNOT3BDOGNHeEhxMDdRQzNUeDlnWjAwVjFVUzZaeXJZMnhET3pTRmwxOXo1RVNzTk41eEFyVDdUaGRDYmlvNERyUlRfbHJtQ3EtbDdHem1WX05hTm9QTks2X29ISk5welBTQW5HZms2SU82ZDRh?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVRUMGN4ZWt4d1YxaGFaMkkwVFJDM0FSaVRBaWdCTWdhaFlZTDEyQUk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-04-02T07:00:00.000Z",
+    "time": "Apr 2",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel clinches nearly $20 billion in awards from Biden to boost US chip output",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxPWm1jX3BoOW1BdTR0VlJrOE9SaDA0cXdobmlhMkpxYl9VUkhON3MtN2hkOUlhdVdJLThBS1BpUzRfYUxVV1J2REVWMnoxZWtlMUxaYmZtaXVqQzFhREdZY0YxWFIxTUZYWTNfMk5xQ3poU0RKRVpHRzZudGdDalVMb0J0bWx1bldLQTlfeE5jV1FHWXg0LXhiNk50R2syNW1LTzRiMDloRXdwVE5Gcmc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDBkWE4xWVZOaVprVlZURFpJVFJDM0FSaVRBaWdCTWdhQlFZaWpwQWs=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "China blocks use of Intel and AMD chips in government computers, FT reports",
+    "link": "https://news.google.com/read/CBMisgFBVV95cUxPQzRnSF9DdFNMZWFPS2tMeU1DLVBYeVJhM3ljcXgyV3FIWjFaUWFQQjRIckd1bjNUMU1kYWl4cF9nSWZNY1dYZXNwWnNMWTJoOXFZVUhLSDBPNjdyTUQ1RC0xVXVqLUNmX0NvUHZmVUtyMEUzZ1BHY0Q3X0JrN25FeS1KQ1c5VkhCd3h3MjNrRjNBSktyUjc2M1YwaktvTFpmRjNINkJTUEVYTXhQTVdVQVVR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhRVVJwVlZVMU0yWTFZVXR6VFJDM0FSaVRBaWdCTWdZQk1JUVJzUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-03-24T07:00:00.000Z",
+    "time": "Mar 24",
+    "articleType": "regular"
+  },
+  {
+    "title": "US considering more than $10 billion in subsidies for Intel, Bloomberg reports",
+    "link": "https://news.google.com/read/CBMirgFBVV95cUxQR0FUZUl1UFBZbEZkcUVsNjEwLVk2bjJWRUV5a0g5bWhKNFBOcE5nczJHeGpLUU1OSEZuWXRraVFjQ045a0w3c3J0UXBXUFF2U1NyUUx4aDBENUpOY2JFd2dBdHpnY2tQSWpmcmhqX2tQSjI4SDZsNWtHV3p6REFUalBRS0pobkRXb2FlcmdYZ2FpRnJkalFUNFV3QVVEUVJxZkFnajRkWWltU0RoM0E?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNU5hVVV5WjJGNlp5MHhjRk5IVFJDNEFSaVNBaWdCTWdhQm9wQVFPUVk=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-02-16T08:00:00.000Z",
+    "time": "Feb 16",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel's legal troubles mount after plunging stock sparks yet another court battle",
+    "link": "https://news.google.com/read/CBMidEFVX3lxTFA3anU5NE84bUZxMzJsRE5ObjZSSVRYY0ZxSGJoamZuWWc1Y29LWDJqN2tpYzRiSzJzMGpISFJWRmVwU2o0UTh6UnppNmJCVlhDckVhNExmRU1MU1pSbFBuNmxaLWtOWlpzZGtJNVhsQVNIT0tF0gF6QVVfeXFMT195WW5DdHZ2WTZLMmZDeVJ6b2wwQ2dSLXA1cnRUbFYxN1hVcjlRa2UwZEhzbW1iYkJvdWNnZ1B0OFpXa19OT1FVQVdNei1kQVVHWXJfcHRZeHUzaWRIeUh0VmUyaEhfajRULUtYTzJkeFlCYk5fY1R0Qnc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNDJWRzVrV1ZwMFNXcExVV2wwVFJDVUFSalZBaWdCTWdrTkVKQUxtQ2RUY1FF=-w400-h224-p-df-rw",
+    "source": "The Register",
+    "datetime": "2024-08-08T21:36:00.000Z",
+    "time": "3 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Postpones Innovation 2024 Event, Cites Poor Finances",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxOZ2NLOFZOblpUcTl2bXc5WVFYLVp6OXJJZEFobmRmOUlCZzQ4OFV5eHlFd3huaXI2enVZSzk4a2JwSUdlQVpXMTJNQnlIbnNlTUhMM2pNVnNFaUZDS25UQUozR1F3enJPN2c2YTB4Zk4wVjNhbTFPQWY1cU5ZZmJ2ZUo1VDhiQUlEdVk2a201VVlmY19odW5TazJR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRSQzFVZGtSRVQxSmpUVmhxVFJDb0FSaXNBaWdCTWdZQm9aUkV1Z1k=-w400-h224-p-df-rw",
+    "source": "AnandTech",
+    "datetime": "2024-08-09T00:15:00.000Z",
+    "time": "2 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel’s crashing 13th and 14th Gen CPUs get two additional years of warranty coverage",
+    "link": "https://news.google.com/read/CBMiogFBVV95cUxPSlJXbW9qTUhMMzR6TnJaQzd1Sm5ya2Vpb0FYek5EeFo3MVNMelJiOG1LU25TSW9mTldDME5KZ0dibDdzX3oySF8zdVB4cUs3U3lwbEMtMWJqSWxLSGhBWWdKNGgteFhYc1Y4M2l6SVBudjVNR1YtbjBNMU0yTm1qNGhjVm01LXVLZDFwQ3FxZjF4cGZIakpReUV3dzkydDJzQnc?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUlWMXBvT0ZGcWEySmZPR0ZxVFJEQ0FSaURBaWdCTWdZQlJKQ3Z2UWM=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-08-01T07:00:00.000Z",
+    "time": "10 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Teases Lunar Lake CPU Ahead of Computex: Most Power Efficient x86 Chip Yet",
+    "link": "https://news.google.com/read/CBMirwFBVV95cUxPdUo0cFB3T2hKbGlqRVZ4MFhPdWdqM1AtVmJ2bjlsYXAyNUlVUGUzUnlLRF9uZXVISDN5c3JvWTJoMncya0pCcHVzSEdkNzNHbUVmcjhLYy02N3pEOHVRMW1ZUzFWVnhNQ00zN3pXZkRKNWZkRU9ZcnBZZ1BWaXpnVl9VQ3BjOTFJejZkRHFrZVNPYlpILUtiSEpwS0gtX3NrYTdoUk44MkxQNVUwZzZV?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUdaVjlZTm5SeFNXcHpNbGhSVFJDM0FSaVRBaWdCTWdZbHBJcU92UVE=-w400-h224-p-df-rw",
+    "source": "AnandTech",
+    "datetime": "2024-05-20T07:00:00.000Z",
+    "time": "May 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "$19.5 Billion CHIPS Act Package For Intel Is A Diversified Bet",
+    "link": "https://news.google.com/read/CBMisAFBVV95cUxNZFZiYlBsR1BHeS00ZVpNSEZUSG0zc3lWN1JHaEc2ZjBhaFdnTXhnNDFUemZiY2ktYThlTEVxOXh1cUYybkMwMy1sblZSbGFuRGdlVGlGRS1HR0FzNzdIcjJsajJkMmZPTVY0a1h2SzhRZUVLN1NuVDJTdU9lVGd6YkpuWHhDRXUxQXZuZkhzVTEzdE9lSWJ1MFgxWU9zTmtwYXV4NXdRaUZjUmRvdmZCQg?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNXZOamxNZEdWR05IZDZSRXhWVFJDM0FSaVRBaWdCTWdrQllKYnlwR2pRREFJ=-w400-h224-p-df-rw",
+    "source": "Forbes",
+    "datetime": "2024-03-20T07:00:00.000Z",
+    "time": "Mar 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel’s Server and PC Chip Development Will Blur After 2025",
+    "link": "https://news.google.com/read/CBMimgFBVV95cUxOc2tGajVUYTlZQ1lkdG90UHVpcW12Y2t4d3lCRVJOaGNkYnJyX3BPN3ZKQ1htSUN4QmVRSlZXYjhMQTRFSUNRQ2YtaHk1UGNHbWo0d2I0TjAwQWxaNDVBN1AzV19KT2t4MGFIcWdMV3RqcW4xdkQzMHVlcjBGem1qUWFZd0hIMVFHSWhxb1l4YkF5YmxYT1ZHTXNR?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNWhaMFJuVVZOUmNHNXBXWGhVVFJDb0FSaXJBaWdCTWdNQkJnTQ=-w400-h224-p-df-rw",
+    "source": "HPCwire",
+    "datetime": "2024-01-15T08:00:00.000Z",
+    "time": "Jan 15",
+    "articleType": "regular"
+  },
+  {
+    "title": "Nearly 20,000 Intel Employees Are Heading For The Exits: How Salaries Stack Up Against Nvidia, OpenAI, Microsoft And More",
+    "link": "https://news.google.com/read/CBMigAFBVV95cUxPWjRKQXZIckJxdFpjdW1Lb0RhSEdzT1dNRWwyanBRYjZ1Y3BlZGxjaExlQ3F6QTV5YUZWczBZMmdWRUxzNnc3SlB4OTBTM09QUmdlUzRqbUxuMzNvTjNPRlBOaXBqVXNHQUZOMFlFaHlUdlVQU3dNb0ROQ3BtNlNiZQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUZaMHMzYlMxRmRHdFJZbGx6VFJDb0FSaXNBaWdCTWdZQk5KYVBKUWc=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-08-10T13:00:16.000Z",
+    "time": "22 hours ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel delays $20 billion Ohio project, citing slow chip market, Wall Street Journal reports",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxOdUd0UmEtbFVxdUtvZkpLemVfU29RQjUwUHpYSnJMRHVMYTQ1bkJQc3lfTEY4dXZfMDhIdXRvV014SmRtbWNISWFhaTQ1R1JHVEF4VktNU0k1WFlMWDg2NG05OTJORDV2Y0pkaVZQdG1kLWZRUW9mVUFYaUl2YkxqMFA4dWkwM1VxcHYxY3ROV01XQXdKN0pSRlNscS1DZmJIUE13SUxXMUgtWkU?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iJ0NnNUNURlpYV1RCb1pHRkZiSHAzVFJDMEFSaVhBaWdCTWdNQmdBQQ=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-02-01T08:00:00.000Z",
+    "time": "Feb 1",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel’s crashing 13th and 14th Gen Raptor Lake CPUs: all the news and updates",
+    "link": "https://news.google.com/read/CBMitgFBVV95cUxQTGJqbTd5VHZSdThUb1ZGNVpqV0RmU3hUUGpFdGNCODd2d3NDbGVDTXg2SHhLcmVlbHdGX2tsTUJPdEZaaUFrX1VUWGFrZVdsYS0waW9PcW5OTVo2aE5rakxzQkp6SDY4NnBlT2tMNjJrMk9lWTM2bV9OQW9VTzFSekxEalRUWDFIX0s5WHVDNXJZdENiVVdQYWZ2cTFMUU5aSzhZNEpmTjFxMTZaUFoySWt4UG1qZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVhPV1ZLZFZkT1JrbzNRMWh0VFJEaEFSamhBU2dCTWdZaFJKVE5wUWM=-w400-h224-p-df-rw",
+    "source": "The Verge",
+    "datetime": "2024-08-09T21:57:31.000Z",
+    "time": "2 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "Moody's downgrades Intel's senior unsecured rating",
+    "link": "https://news.google.com/read/CBMikAFBVV95cUxNQlVtcVRIYlE5X3ZvcGNvQkFzTGN2SmpOOU4zS2RtWnBlcVpwNDV0dlRrR09mSndEQVRSNENYanZpOGpBa0pkZXl6RDBOdEZ3eWJIajNRVVFOa1RGYXpKU2w0QmtmRUUySE5HdUFVS1hlcUpYd2l1T0FORU4ycUhnUXhWUEc3QVdWSkRhOHhER0I?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iL0NnNVRRell6ZVVobVREbFFNVGt3VFJDMkFSaVdBaWdCTWdtQmtvNFNzV2U1Y0FF=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-08-08T22:37:46.000Z",
+    "time": "2 days ago",
+    "articleType": "regular"
+  },
+  {
+    "title": "In 2024, Intel Hopes to Leapfrog Its Chipmaking Competitors",
+    "link": "https://news.google.com/read/CBMiS0FVX3lxTE5NakFsMzh0WlppRGpjbEpsNlNmdmVLMU9ZMFRoaDlDWGVDbkg3cHgzcURHYUpwYnlnY1QxYmRxcVBfTHVFT095andqWdIBX0FVX3lxTE0wVE13WWg1ZHZuYVQ0bDFzRHR2UjJoNU9BX29xNDV0UkRMdk5pbDFhOWZEU3pNRGtjdVlTSDY5NG9SYWg5NVg0dl9NV3gxalVCX1pDc21rT3pDeVViTWJJ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNDFjVmxIWkc4dE4waEJXbmxpVFJEQ0FSaURBaWdCTWdzQkFJd09FS2lScFdvSlpB=-w400-h224-p-df-rw",
+    "source": "IEEE Spectrum",
+    "datetime": "2023-12-18T08:00:00.000Z",
+    "time": "Dec 18, 2023",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel shelves French, Italian chip investments",
+    "link": "https://news.google.com/read/CBMiqwFBVV95cUxNcjROM0RBV1MzcW55c1NEejkySThjX0d0Q1hKT0hGX1dJNjA2Nk1sTDZJeWZldnFvZjlpQk04RmRubnV0QktrSV9fQkFIcXBzRk5jbm5tbHh2TzFGc3RRMU01WmxVRU1tX0xINjdJeW9lcGpoemQ4aEk0YzRBejY2ZEtIdzhwQjlVUkJYNHJ3cXo4Tm10V05fbTJlYnNoNUY2SXVHQmtfM3pnWXM?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iMkNnNVlORXhsYldOb09UWTNNbW95VFJDM0FSaVRBaWdCTWdzQllJZ0FMeWRGTFJrWlRR=-w400-h224-p-df-rw",
+    "source": "POLITICO Europe",
+    "datetime": "2024-07-04T07:00:00.000Z",
+    "time": "Jul 4",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel spins out AI software firm with backing from DigitalBridge",
+    "link": "https://news.google.com/read/CBMiqgFBVV95cUxNYzBDdHl0b252SkxoWVg0dHFVZnBRYnlVaFFoU0k3UUZmRGZ2QnQwUUQxQjdRSENUSzhfLWVYMFdRRGNWMXdiSlNlNWhabGdRNVp5c19GWkNicDdjWmRpY19SbzFJMjc5WGRISXYyNFJRVDNYcUhNWXNkeUFPUmxsSjR0WmhKczdSTUtoaHdXNVRiZUM2SkxxWFdjZnBqdGhUUEN6ZUdoay1GZw?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVBUMWxXU2s4NFRsTjNaVWw1VFJDOEFSaU1BaWdCTWdZWjRvaE14UU0=-w400-h224-p-df-rw",
+    "source": "Reuters",
+    "datetime": "2024-01-03T08:00:00.000Z",
+    "time": "Jan 3",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel trims more jobs amid ongoing cost cuts",
+    "link": "https://news.google.com/read/CBMingFBVV95cUxQWlJ3WEVvSjg5eXdxZUpnT2xjRklfN1RQRXQtLVBFanloZm81TnRvVzBEVi1LeXZlcG5KZFlOVEtsdmlaY1dpVERlci1TM1c3d3NJRXZwTEU5TWRRalRsaXpXaWk1Q18wYndOTjZXQXlSd0swWjlpb29tZUdweGJwTkxHNk9iMk10YWowdDhxZ2pETTBqRklGOUxxNmhQQQ?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNDRZbGR2WkZkaU1YWXhOa0poVFJEQ0FSaURBaWdCTWdZMWNwWVJyUWM=-w400-h224-p-df-rw",
+    "source": "OregonLive",
+    "datetime": "2024-06-20T07:00:00.000Z",
+    "time": "Jun 20",
+    "articleType": "regular"
+  },
+  {
+    "title": "Intel Is Getting Closer To Staging Its Comeback",
+    "link": "https://news.google.com/read/CBMiiwFBVV95cUxPZzhqWGJ2a3VFMV8yM2ozUUxCQWcxM0NFREtXR3g2aXRQWWdYT1RaSTYyOEdvR2Z2alhPSENnb1NZOUFHSFRjV1RjLXBOWjBWejJpZEs0SDlLblpGb2N3aUNjY3VyY0hENHctRk5fc2Y3UGxXT1VHLXVud1Z3dGt6cDhzQlA0Wmd0UDRr?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNVFkVGxETUdkeVUwSTFjSGRrVFJDb0FSaXNBaWdCTWdZZFVJNnN1UVU=-w400-h224-p-df-rw",
+    "source": "Yahoo Finance",
+    "datetime": "2024-07-09T07:00:00.000Z",
+    "time": "Jul 9",
+    "articleType": "regular"
+  },
+  {
+    "title": "How Intel and IBM are helping enterprises accelerate innovation",
+    "link": "https://news.google.com/read/CBMimwFBVV95cUxPNnIyVVJnWG1PdUtva1BnYlB0NVlPcmhlemlHWl96Z2RFWXdKWnQyZk9YdFY2UThROGZDOFU4Z1RtUk42UjNwNlk0dEZfMlBoWjl6XzBLWDRxdGhPZ3VpS0tVb1lCWWZlQnBaQlJWQlRlTWNFVmZTWkVTWTg5SDdkaU1Gc0x1dXlPQVA4dnJ2R1hiSFFhVFhQQXIxOA?hl=en-US&gl=US&ceid=US%3Aen",
+    "image": "https://news.google.com/api/attachments/CC8iK0NnNUJRV0ZYWVhoNmRuVlBSWHBaVFJDSkFSanZBaWdCTWdZdEFvWlJEUW8=-w400-h224-p-df-rw",
+    "source": "IBM Newsroom",
+    "datetime": "2024-05-30T07:00:00.000Z",
+    "time": "May 30",
+    "articleType": "regular"
+  }
+]
